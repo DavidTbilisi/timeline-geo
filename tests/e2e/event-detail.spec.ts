@@ -92,14 +92,13 @@ test.describe('Event Detail Panel', () => {
     await page.locator('.tl-event').first().click()
     await expect(page.locator('.detail-overlay')).toBeVisible()
 
-    const favBtn = page.locator('.detail-overlay button').nth(1) // star button
-    const initialClass = await favBtn.getAttribute('class')
+    const favBtn = page.locator('[data-testid="favorite-button"]')
+    const initialPressed = await favBtn.getAttribute('aria-pressed')
 
     await favBtn.click()
-    await page.waitForTimeout(200)
-
-    const newClass = await favBtn.getAttribute('class')
-    expect(newClass).not.toEqual(initialClass)
+    // Wait for aria-pressed to flip rather than relying on a fixed timeout
+    const expected = initialPressed === 'true' ? 'false' : 'true'
+    await expect(favBtn).toHaveAttribute('aria-pressed', expected, { timeout: 3000 })
   })
 
   test('favorited event appears in favorites menu', async ({ page }) => {
@@ -109,12 +108,20 @@ test.describe('Event Detail Panel', () => {
     // Get event title from the detail overlay h1
     const title = await page.locator('.detail-overlay h1').textContent()
 
-    // Add to favorites via the star button (second button in header)
-    const favBtn = page.locator('.detail-overlay button').nth(1)
+    // Add to favorites via the data-testid button (deterministic, no .nth() fragility)
+    const favBtn = page.locator('[data-testid="favorite-button"]')
     await favBtn.click()
-    await page.waitForTimeout(200)
 
-    // Close detail via back button (first button)
+    // Wait for the button to reflect the favorited state before proceeding
+    await expect(favBtn).toHaveAttribute('aria-pressed', 'true', { timeout: 3000 })
+
+    // Wait for the favorites store to flush the slug into localStorage
+    await page.waitForFunction(
+      () => (JSON.parse(localStorage.getItem('tl-geo-favorites') ?? '[]') as string[]).length > 0,
+      { timeout: 3000 }
+    )
+
+    // Close detail via back button (first button in overlay header)
     await page.locator('.detail-overlay button').first().click()
     await expect(page.locator('.detail-overlay')).not.toBeVisible({ timeout: 3000 })
 
@@ -124,6 +131,6 @@ test.describe('Event Detail Panel', () => {
     // The favorited event should appear as a button in the favorites dropdown
     // Use getByRole('button') to avoid matching event tiles on the stage (which are divs)
     const trimmedTitle = title?.trim() ?? ''
-    await expect(page.getByRole('button', { name: trimmedTitle })).toBeVisible({ timeout: 3000 })
+    await expect(page.getByRole('button', { name: trimmedTitle })).toBeVisible({ timeout: 5000 })
   })
 })
