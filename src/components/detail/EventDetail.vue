@@ -106,8 +106,10 @@ function toggleFav() {
 
       <!-- Favorite star button -->
       <button
+        data-testid="favorite-button"
         class="flex-shrink-0 flex items-center justify-center w-8 h-8 rounded-full transition-all"
         :class="isFav ? 'bg-white/25 text-yellow-300' : 'bg-black/20 text-white/50 hover:text-white/80 hover:bg-black/30'"
+        :aria-pressed="isFav ? 'true' : 'false'"
         :title="isFav ? t('detail.removeFavorite') : t('detail.addFavorite')"
         @click="toggleFav"
       >
