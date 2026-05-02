@@ -39,13 +39,14 @@ test.describe('Keyboard navigation', () => {
         return m.m41
       })
 
-    // First scroll right so we have room to go left
+    // First scroll right so we have room to go left. Wait long enough for the
+    // scroll animation (driven by useScroller) to settle before reading position.
     await page.keyboard.press('ArrowRight')
-    await page.waitForTimeout(50)
+    await page.waitForTimeout(500)
     const mid = await getTranslateX()
 
     await page.keyboard.press('ArrowLeft')
-    await page.waitForTimeout(50)
+    await page.waitForTimeout(500)
     const after = await getTranslateX()
 
     // After ArrowLeft translateX should increase (move right)
