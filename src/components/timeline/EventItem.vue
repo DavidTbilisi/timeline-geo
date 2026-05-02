@@ -64,6 +64,7 @@ function onImageError() {
       class="absolute inset-0 w-full h-full object-cover pointer-events-none"
       style="opacity: 0.08;"
       aria-hidden="true"
+      loading="lazy"
     />
 
     <!-- Event-specific thumbnail overlaid on top of period artwork -->
@@ -72,6 +73,7 @@ function onImageError() {
       :src="imageUrl"
       class="absolute inset-0 w-full h-full object-cover opacity-40 pointer-events-none"
       :alt="title"
+      loading="lazy"
       @error="onImageError"
     />
 
