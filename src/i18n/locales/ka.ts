@@ -30,6 +30,8 @@ export default {
       article: 'სტატია',
       scriptures: 'წმინდა წერილი',
       related: 'მსგავსი',
+      images: 'სურათები',
+      video: 'ვიდეო',
     },
     addFavorite: 'რჩეულებში დამატება',
     removeFavorite: 'წაშლა რჩეულებიდან',

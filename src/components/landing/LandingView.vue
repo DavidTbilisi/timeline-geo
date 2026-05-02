@@ -1,99 +1,135 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-import { PERIODS, ERAS } from '@/data/periods'
+import { PERIODS } from '@/data/periods'
 import { useI18n } from 'vue-i18n'
 import PeriodCard from './PeriodCard.vue'
+import EraArch from './EraArch.vue'
 import WelcomePanel from './WelcomePanel.vue'
 import AmazingFacts from './AmazingFacts.vue'
+import PeriodColorBar from '@/components/timeline/PeriodColorBar.vue'
 
 const { t } = useI18n()
-const containerRef = ref<HTMLElement | null>(null)
 
-let dragging = false
-let startX = 0
-let scrollStart = 0
+/** Tracks whether the amazing-facts panel is expanded (drives .active on .landing-footer) */
+const factsExpanded = ref(false)
 
-function onMouseDown(e: MouseEvent) {
-  dragging = true
-  startX = e.clientX
-  scrollStart = containerRef.value?.scrollLeft ?? 0
+function toggleFacts() {
+  factsExpanded.value = !factsExpanded.value
 }
-function onMouseMove(e: MouseEvent) {
-  if (!dragging || !containerRef.value) return
-  containerRef.value.scrollLeft = scrollStart - (e.clientX - startX)
-  e.preventDefault()
-}
-function onMouseUp() { dragging = false }
-
-// Group periods by era for the arch labels
-const eraPeriods = ERAS.map(era => ({
-  era,
-  periods: PERIODS.filter(p => p.era === era.id),
-}))
 </script>
 
 <template>
-  <div
-    class="absolute inset-0 flex flex-col"
-    style="padding-top: 50px; background: linear-gradient(180deg, #0f0f0f 0%, #1a1206 100%);"
-  >
-    <!-- Header -->
-    <div class="text-center py-6 flex-shrink-0">
-      <h1 class="text-3xl font-bold text-white tracking-tight mb-1">
-        {{ t('landing.title') }}
-      </h1>
-      <p class="text-white/50 text-sm">{{ t('landing.subtitle') }}</p>
+  <!--
+    .landing fills the full viewport (minus the app menu offset).
+    We keep `position: absolute` so the reference CSS rules for .landing apply,
+    but add flex layout so the footer sticks to the bottom.
+  -->
+  <div class="landing lv-root" data-testid="landing-view">
+
+    <!-- Scrollable stage area -->
+    <div class="landing-container lv-stage-area">
+
+      <!-- Decorative backgrounds -->
+      <div class="landing-paper" />
+      <div class="landing-grid" />
+
+      <!-- The centered stage: era arches + period cards -->
+      <div class="landing-stage zoom-2" data-testid="landing-stage">
+        <EraArch />
+        <div class="landing-periods" data-testid="landing-periods">
+          <PeriodCard
+            v-for="period in PERIODS"
+            :key="period.id"
+            :period="period"
+          />
+        </div>
+      </div>
+
     </div>
 
-    <!-- Era label strip with descriptions -->
-    <div class="flex-shrink-0 px-6 mb-3">
-      <div class="flex gap-2">
-        <div
-          v-for="group in eraPeriods"
-          :key="group.era.id"
-          class="border-t border-white/20 pt-1 px-1"
-          :style="{ flex: group.periods.length }"
-        >
-          <span class="block text-[10px] font-semibold uppercase tracking-widest text-white/40">
-            {{ t(`eras.${group.era.id}`) }}
-          </span>
-          <span class="block text-[10px] text-white/30 leading-snug mt-0.5 line-clamp-2">
-            {{ t(`eras.descriptions.${group.era.id}`) }}
-          </span>
-        </div>
+    <!-- Footer pinned to bottom of viewport -->
+    <div :class="['landing-footer', 'lv-footer', factsExpanded ? 'active' : '']" data-testid="landing-footer">
+      <WelcomePanel />
+      <AmazingFacts @toggle="toggleFacts" />
+      <!-- 13-segment period color bar reused from timeline -->
+      <div class="lv-color-bar">
+        <PeriodColorBar />
       </div>
     </div>
 
-    <!-- Period cards scroll row -->
-    <div
-      ref="containerRef"
-      class="flex gap-2 overflow-x-auto px-6 pb-4 cursor-grab active:cursor-grabbing select-none flex-shrink-0"
-      style="scrollbar-width: none; -webkit-overflow-scrolling: touch; align-items: flex-start;"
-      @mousedown="onMouseDown"
-      @mousemove="onMouseMove"
-      @mouseup="onMouseUp"
-      @mouseleave="onMouseUp"
-    >
-      <PeriodCard
-        v-for="period in PERIODS"
-        :key="period.id"
-        :period="period"
-      />
-    </div>
-
-    <!-- Footer: Welcome + Amazing Facts -->
-    <div class="flex-1 px-6 pb-6 flex flex-wrap gap-6 items-end content-end overflow-y-auto">
-      <WelcomePanel />
-      <AmazingFacts />
-    </div>
   </div>
 </template>
 
 <style scoped>
-.line-clamp-2 {
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+/*
+  Override the reference absolute positioning so the landing works in
+  our single-page app layout (LandingPage.vue is position:relative/overflow:hidden).
+  The reference CSS sets:
+    .landing            { position: absolute; top: 0; left: 0; height: 100%; width: 100%; }
+    .landing-container  { position: absolute; overflow: hidden; }
+    .landing-footer     { position: absolute; bottom: 0; }
+  We keep those rules from the imported CSS but add a flex wrapper so the
+  footer is always at the bottom without the stage overflowing it.
+*/
+
+/* Root: fill the area below the app-menu (50px top padding applied in parent) */
+.lv-root {
+  position: absolute;
+  inset: 0;
+  padding-top: 50px;           /* same offset as LandingPage menu bar */
+  display: flex;
+  flex-direction: column;
+  /* prevent the reference z-index:500 from hiding menu items */
+  z-index: 5 !important;
+}
+
+/* Stage area takes all remaining vertical space */
+.lv-stage-area {
+  flex: 1;
+  min-height: 0;
+  position: relative !important; /* override the reference absolute */
+}
+
+/*
+  Footer: override the reference `position: absolute; bottom: 0` with a
+  flex-shrink:0 relative element so the footer doesn't overlap the stage.
+  We keep enough height for the welcome panel + bar + color bar.
+*/
+.lv-footer {
+  position: relative !important;
+  flex-shrink: 0;
+  /* Height accounts for: welcome (84px) + its -13px overhang = ~118px,
+     plus bar (41px) stacked = all handled by ref CSS absolute children.
+     We give an explicit min-height so the container doesn't collapse. */
+  min-height: 132px;
+}
+
+/* Color bar below the amazing-facts bar */
+.lv-color-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 320;
+}
+
+/*
+  Shift bar and info up by the color-bar height (28px) so the color bar
+  doesn't overlap the amazing-facts bar.
+*/
+.lv-footer :deep(.bar) {
+  bottom: 28px !important;
+}
+.lv-footer.active :deep(.bar) {
+  bottom: calc(76px + 28px) !important;
+}
+.lv-footer :deep(.info) {
+  bottom: calc(-78px + 28px) !important;
+}
+.lv-footer.active :deep(.info) {
+  bottom: 28px !important;
+}
+.lv-footer :deep(.welcome) {
+  bottom: calc(34px + 28px) !important;
 }
 </style>

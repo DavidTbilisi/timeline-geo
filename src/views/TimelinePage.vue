@@ -7,10 +7,12 @@ import EventDetail from '@/components/detail/EventDetail.vue'
 import { useTimelineStore } from '@/stores/timeline'
 import { useEventsStore } from '@/stores/events'
 import { PERIOD_BY_SLUG } from '@/data/periods'
+import { useKeyboard } from '@/composables/useKeyboard'
 
 const route = useRoute()
 const tlStore = useTimelineStore()
 const eventsStore = useEventsStore()
+useKeyboard()
 
 async function handleRoute() {
   const slug = route.params.slug as string
