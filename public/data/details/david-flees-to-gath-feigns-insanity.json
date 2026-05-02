@@ -4,13 +4,59 @@
   "period": 6,
   "titleEn": "David Flees to Gath, Feigns Insanity",
   "titleKa": null,
-  "datesEn": "1019 BC",
+  "datesEn": "1019 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "As David continues to hide from Saul, he goes to the Philistines, King Achish of Gath, probably looking to be a mercenary. But he becomes afraid when they discover who he is, and David pretends to be mad and then escapes.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "King Achish, to whom David fled when pursued by Saul, is called Abimelech in the title of Ps. 34, Achish being a Philistine name, and Abimelech, Semitic. This psalm was written by David when he feigned madness before the men of Philistia. As an outlaw David could not find help in Israel. It was quite a common occurrence for the outlaws of a nation to be given shelter by the enemies of that nation. <BR /><BR />Gath was not far away, perhaps less than 30 mi. from Nob. Saul would hardly think of looking for him there. David was well acquainted with the country where he had obtained the dowry for his wife Michal. If he should confide in Achish, he was sure Saul would not be permitted to take him. In times of great personal temptation and trial, when enemies are exalted and friends are debased, when no matter which way one moves he is deprived of the counsel and help he needs, it is well to review the narrative of David&#39;s escape from Saul, his contact with Ahimelech and Doeg at Nob, and his flight to the enemies of Israel at Gath, and then to read his inspired song of thanksgiving (Ps. 34) thought to have been composed at that time.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Samuel 21:10-15",
+      "verses": [
+        {
+          "number": 10,
+          "line": "And David arose, and fled that day for fear of Saul, and went to Achish the king of Gath."
+        },
+        {
+          "number": 11,
+          "line": "And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying, Saul hath slain his thousands, and David his ten thousands?"
+        },
+        {
+          "number": 12,
+          "line": "And David laid up these words in his heart, and was sore afraid of Achish the king of Gath."
+        },
+        {
+          "number": 13,
+          "line": "And he changed his behaviour before them, and feigned himself mad in their hands, and scrabbled on the doors of the gate, and let his spittle fall down upon his beard."
+        },
+        {
+          "number": 14,
+          "line": "Then said Achish unto his servants, Lo, ye see the man is mad: wherefore then have ye brought him to me?"
+        },
+        {
+          "number": 15,
+          "line": "Have I need of mad men, that ye have brought this fellow to play the mad man in my presence? shall this fellow come into my house?"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Moresheth Gath from Maresha, tb022201287_5-1-2013 3-17-03 PM.jpg",
+      "caption": "Moresheth Gath from Maresha"
+    },
+    {
+      "file": "Givat Shapira Iron Age fortress, possible Nob, tb042707002_5-1-2013 3-17-03 PM.jpg",
+      "caption": "Givat Shapira Iron Age fortress, possible Nob"
+    }
+  ],
+  "videos": []
 }

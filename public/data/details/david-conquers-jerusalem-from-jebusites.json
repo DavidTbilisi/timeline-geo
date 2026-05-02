@@ -4,18 +4,63 @@
   "period": 6,
   "titleEn": "David Conquers Jerusalem from Jebusites",
   "titleKa": null,
-  "datesEn": "1003 BC",
+  "datesEn": "1003 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Jerusalem is held by the Jebusites who mock David&#39;s army, saying their blind and lame could hold them off. David&#39;s army fights and captures Jerusalem and he makes it the new capital for the nation. David has a house built in the new city called Zion.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "As soon as David was anointed king over all Israel, he saw the need of a better site than Hebron for his capital. Hebron was in the extreme south of the territory occupied by the Hebrews. He evidently preferred to retain his capital in Judah, and Jerusalem offered an ideal site (see Joshua 15:63 Judges 1:21). Joshua had slain and defeated the king of Jerusalem (Joshua 10:23&#8212;26 12:10), and later the city had been taken and destroyed by Judah (see Judges 1:7). But the Jebusites, who occupied Jerusalem, were not completely conquered, and either continued to hold at least a part of the city or retook it after being driven out (Joshua 15:63 Judges 1:21 19:11, 12). The dislodging of the Jebusites from this important stronghold was an important victory for David at the beginning of his reign over all Israel.<BR /><BR />The inhabitants of Jebus had confidence in the strength of their city, and taunted David about his inability to take their fortress, telling him that the blind and the lame would be sufficient to hold the city against the forces of Israel. The Jebusite stronghold was on Mt. Zion, south of Mt. Moriah, the elevation on which the Temple was later built. The mountain was flanked on two sides by deep valleys, and was admirably suited for defense. To its defenders, Jebus seemed impregnable. It had held out against the Israelites for many years. Less than 4 mi. (6.4 km.) from Saul&#39;s capital, Gibeah, the city still maintained its independence at the close of the reign of Saul. Nevertheless the capital of the Jebusites was not able to withstand the prowess of David and his able commander.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Samuel 5:6-12",
+      "verses": [
+        {
+          "number": 6,
+          "line": "And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither."
+        },
+        {
+          "number": 7,
+          "line": "Nevertheless David took the strong hold of Zion: the same is the city of David."
+        },
+        {
+          "number": 8,
+          "line": "And David said on that day, Whosoever getteth up to the gutter, and smiteth the Jebusites, and the lame and the blind, that are hated of David's soul, he shall be chief and captain. Wherefore they said, The blind and the lame shall not come into the house."
+        },
+        {
+          "number": 9,
+          "line": "So David dwelt in the fort, and called it the city of David. And David built round about from Millo and inward."
+        },
+        {
+          "number": 10,
+          "line": "And David went on, and grew great, and the LORD God of hosts was with him."
+        },
+        {
+          "number": 11,
+          "line": "And Hiram king of Tyre sent messengers to David, and cedar trees, and carpenters, and masons: and they built David an house."
+        },
+        {
+          "number": 12,
+          "line": "And David perceived that the LORD had established him king over Israel, and that he had exalted his kingdom for his people Israel's sake."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas2122_8-5-2013 4-49-03 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas2122_8-5-2013 4-49-03 PM.jpg",
+      "caption": "The conquest of Jerusalem from the Jebusites."
+    },
+    {
+      "file": "City of David and Kidron Valley from north, tb042306047_5-1-2013 12-42-34 PM.jpg",
+      "caption": "City of David and Kidron Valley"
     }
-  ]
+  ],
+  "videos": []
 }

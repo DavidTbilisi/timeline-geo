@@ -4,13 +4,34 @@
   "period": 7,
   "titleEn": "Ashurbanipal",
   "titleKa": null,
-  "datesEn": "690–633 BC",
+  "datesEn": "690&ndash;633 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The son of Esarhaddon, a great ruler of the kingdom of Assyria in its last glory years, best known for his great library of thousands of clay tablets in Nineveh which gives the best information on Assyrian history. They are now in the British Museum.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "esarhaddon",
+      "titleEn": "Esarhaddon",
+      "titleKa": null
+    },
+    {
+      "slug": "ashurbanipal-defeats-elam",
+      "titleEn": "Ashurbanipal Defeats Elam",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "435px-The_famous_library_of_king_Ashur_bani_pal_at_nineveh_8-27-2013 3-06-48 PM.jpg",
+      "caption": "The famous library of Ashurbanipal in Nineveh"
+    },
+    {
+      "file": "Kinadshburn_8-27-2013 3-06-48 PM.JPG",
+      "caption": "Ashurbanipal on a chariot during a lion hunt. Neo-Assyrian relief depicting a lion hunt (British Museum), Artaxiad"
+    }
+  ],
+  "videos": []
 }

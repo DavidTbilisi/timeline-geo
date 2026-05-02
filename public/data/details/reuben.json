@@ -4,13 +4,40 @@
   "period": 3,
   "titleEn": "Reuben",
   "titleKa": null,
-  "datesEn": "1701–1611 BC",
+  "datesEn": "1701&ndash;1611 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;behold a son.&#34; He is the eldest son of Jacob and Leah. Reuben commits adultery with Bilhah, Jacob&#39;s concubine, and loses the blessing of the first&#8212;born. He is not a partner in his brothers&#39; plot to sell Joseph, but saves him from murder.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The eldest son of Jacob and Leah (Gen 29:31, 32 Gen 35:23 Gen 46:8 1 Chr 2:1 1 Chr 5:1). As to his life history, he is mentioned first as finding mandrakes in the field, which Rachel desired (Gen 30:14) next for his immorality with Bilhah (ch 35:22) for which he later lost his father&#39;s blessings that would have been due him as the first&#8212;born (ch 49:3, 4) third, for his attempt to save Joseph from his murderous brothers by inducing them to throw him into a cistern instead (ch 37:21&#8212;29). <BR /><BR />Although he did not betray his brothers to their father, he was not a partner in their plot against Joseph (ch 42:22). Later, when Jacob feared to send Benjamin to Egypt, Reuben offered 2 of his own sons as guarantees for Benjamin&#39;s safety (v 37). On his deathbed Jacob expressed the disappointment that his first&#8212;born son&#39;s conduct had caused him, and described his character as being unstable as water (ch 49:3, 4). Reuben&#39;s sons were Hanoch, Pallu, Hezron, and Carmi (Gen 46:8, 9 Ex 6:14 1 Chr 5:3).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 29:32",
+      "verses": [
+        {
+          "number": 32,
+          "line": "And Leah conceived, and bare a son, and she called his name Reuben: for she said, Surely the LORD hath looked upon my affliction; now therefore my husband will love me."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    },
+    {
+      "slug": "reuben-lays-with-bilhah",
+      "titleEn": "Reuben Lays with Bilhah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Ruben_8-6-2013 8-34-32 AM.JPG",
+      "caption": "Symbol for the tribe of Reuben"
+    }
+  ],
+  "videos": []
 }

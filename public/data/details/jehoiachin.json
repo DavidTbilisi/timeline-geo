@@ -4,13 +4,35 @@
   "period": 8,
   "titleEn": "Jehoiachin",
   "titleKa": null,
-  "datesEn": "616–597 BC",
+  "datesEn": "616&ndash;597 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh establishes.&#34; He is the 19th ruler of the southern kingdom of Judah and follows his father Jehoiakim. He rules for 3 months and 10 days and is then taken captive to Babylon by Nebuchadnezzar where he dies.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jehoiachin, name means &#34;Yahweh establishes&#34;. The 19th ruler of the southern kingdom of Judah, who reigned only 3 months and 10 days (598&#8212;597 b.c.). He was the son and successor of Jehoiakim, and came to the throne at the age of 18 years (2 Ki 24:8). In 2 Chr 36:9 his age is given as 8 years, with the Syriac and LXX versions, however, reading &#34;18.&#34; That 18 is correct is shown by the fact that he was old enough to have &#34;wives&#34; (2 Ki 24:15) when he was taken captive to Babylon at the close of his brief reign. According to cuneiform tablets in Babylonia he was the father of 5 sons only 5 years later. Thus he must have been 18, not 8, years old when he became king.<BR /><BR />The Babylonian Chronicle published in 1956 dealing with the 7th Babylonian year of Nebuchadnezzar&#39;s reign (598/97 b.c.) describes the capture of Jerusalem in 597 b.c. and Jehoiachin&#39;s captivity as well as his uncle&#39;s accession to the throne in the following brief sentences: Nebuchadnezzar &#34;encamped against the city of Judah and on the 2d day of the month of Adar he seized the city and captured the king. He appointed there a king of his own choice (lit. &#34;heart&#34;), received its heavy tribute and sent (them) to Babylon.&#34; This text gives an exact date for the beginning of Jehoiachin&#39;s captivity, which, in terms of our calendar, was approximately March 16, 597 b.c.. The young king surrendered to Nebuchadnezzar and was subsequently carried away captive to Babylon, along with his mother, his wives, his courtiers, and some 10,000 other captives, among whom was the prophet Ezekiel (2 Ki 24:10&#8212;16 2 Chr 36:9, 10 Eze 1:1&#8212;3 33:21). Jehoiachin&#39;s uncle, Zedekiah (2 Ki 24:17), was placed on the throne in his stead.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 24:6",
+      "verses": [
+        {
+          "number": 6,
+          "line": "So Jehoiakim slept with his fathers: and Jehoiachin his son reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jehoiakim",
+      "titleEn": "Jehoiakim",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "220px-Jehoiachin-Jeconiah_8-28-2013 10-01-19 AM.jpg",
+      "caption": "Jehoiachin, Guillaume Rouille, &#34;Promptuarii Iconum Insigniorum&#34;, 1553"
+    }
+  ],
+  "videos": []
 }

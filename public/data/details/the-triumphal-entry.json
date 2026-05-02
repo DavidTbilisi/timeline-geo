@@ -4,13 +4,234 @@
   "period": 9,
   "titleEn": "The Triumphal Entry",
   "titleKa": null,
-  "datesEn": "31 AD",
+  "datesEn": "31 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "As Jesus comes to Jerusalem, He sends two disciples ahead to secure a donkey and its colt. They are brought to Jesus and He rides the colt into Jerusalem as the rightful King. It angers the leaders who reject Him and later crucify Christ.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The triumphal entry of Christ into Jerusalem took place on Sunday before the Passover, which fell on Friday in A.D. 31 Jesus had arrived in Bethany, about 2 mi. from Jerusalem, the preceding Friday, and had rested there over the Sabbath. All four gospel writers record the Triumphal Entry. The account of the Triumphal Entry is given in its simplest form in John, and is related at greatest length by Luke. The details given by the four evangelists vary from writer to writer, indicating separate accounts, yet the accounts are not contradictory but rather complementary.<BR /><BR />Preparations for the Triumphal Entry began, apparently, late in the morning, for it was about the time of the evening sacrifice, approximately 3:00 P.M., that Jesus reached the brow of Olivet overlooking Jerusalem and that events reached a climax. It was much later than that when He finally reached the Temple. Whereas in the past Jesus has taken every precaution against any popular demonstration acknowledging Him as the Messiah, He now not only encourages this very thing but takes the initiative in bringing it about. <BR /><BR />To be sure, the disciples and many of the people no doubt expected Jesus to set up His kingdom at this paschal season. Any surprise the disciples may have experienced arose from the fact that Jesus now apparently reversed His former attitude toward publicity. This changed attitude must have filled the disciples with unwarranted enthusiasm and hope. They failed to understand the true significance of the event until after the resurrection.<BR /><BR />Jesus was following the custom of a royal entry into the city, as in the days of old. His hour had come, and for the first time He presented Himself to Israel as her rightful King, the One who was to sit upon the throne of David. Jesus later acknowledged the title &#34;King of the Jews&#34; (Luke 23:3 John 18:33, 34, 37), but hastened to add, &#34;My kingdom is not of this world&#34; (John 18:36). But the Jewish leaders refused to accept Him as their King. <BR /><BR />Jesus was not now appearing in His role as King of the kingdom of glory (see Matt. 25:31), but as King of the spiritual kingdom of divine grace. Jesus knew that this episode in His life mission would inevitably lead to the cross, yet went through with it steadfastly and purposefully. It was necessary that the eyes of all men be turned toward Him in the closing days of His life, that all might understand, if they would, the significance of His mission to earth.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 21:1-11",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,"
+        },
+        {
+          "number": 2,
+          "line": "Saying unto them, Go into the village over against you, and straightway ye shall find an ass tied, and a colt with her: loose them, and bring them unto me."
+        },
+        {
+          "number": 3,
+          "line": "And if any man say ought unto you, ye shall say, The Lord hath need of them; and straightway he will send them."
+        },
+        {
+          "number": 4,
+          "line": "All this was done, that it might be fulfilled which was spoken by the prophet, saying,"
+        },
+        {
+          "number": 5,
+          "line": "Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass."
+        },
+        {
+          "number": 6,
+          "line": "And the disciples went, and did as Jesus commanded them,"
+        },
+        {
+          "number": 7,
+          "line": "And brought the ass, and the colt, and put on them their clothes, and they set him thereon."
+        },
+        {
+          "number": 8,
+          "line": "And a very great multitude spread their garments in the way; others cut down branches from the trees, and strawed them in the way."
+        },
+        {
+          "number": 9,
+          "line": "And the multitudes that went before, and that followed, cried, saying, Hosanna to the son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest."
+        },
+        {
+          "number": 10,
+          "line": "And when he was come into Jerusalem, all the city was moved, saying, Who is this?"
+        },
+        {
+          "number": 11,
+          "line": "And the multitude said, This is Jesus the prophet of Nazareth of Galilee."
+        }
+      ]
+    },
+    {
+      "reference": "Mark 11:1-11",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And when they came nigh to Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth forth two of his disciples,"
+        },
+        {
+          "number": 2,
+          "line": "And saith unto them, Go your way into the village over against you: and as soon as ye be entered into it, ye shall find a colt tied, whereon never man sat; loose him, and bring him."
+        },
+        {
+          "number": 3,
+          "line": "And if any man say unto you, Why do ye this? say ye that the Lord hath need of him; and straightway he will send him hither."
+        },
+        {
+          "number": 4,
+          "line": "And they went their way, and found the colt tied by the door without in a place where two ways met; and they loose him."
+        },
+        {
+          "number": 5,
+          "line": "And certain of them that stood there said unto them, What do ye, loosing the colt?"
+        },
+        {
+          "number": 6,
+          "line": "And they said unto them even as Jesus had commanded: and they let them go."
+        },
+        {
+          "number": 7,
+          "line": "And they brought the colt to Jesus, and cast their garments on him; and he sat upon him."
+        },
+        {
+          "number": 8,
+          "line": "And many spread their garments in the way: and others cut down branches off the trees, and strawed them in the way."
+        },
+        {
+          "number": 9,
+          "line": "And they that went before, and they that followed, cried, saying, Hosanna; Blessed is he that cometh in the name of the Lord:"
+        },
+        {
+          "number": 10,
+          "line": "Blessed be the kingdom of our father David, that cometh in the name of the Lord: Hosanna in the highest."
+        },
+        {
+          "number": 11,
+          "line": "And Jesus entered into Jerusalem, and into the temple: and when he had looked round about upon all things, and now the eventide was come, he went out unto Bethany with the twelve."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 19:29-44",
+      "verses": [
+        {
+          "number": 29,
+          "line": "And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called the mount of Olives, he sent two of his disciples,"
+        },
+        {
+          "number": 30,
+          "line": "Saying, Go ye into the village over against you; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring him hither."
+        },
+        {
+          "number": 31,
+          "line": "And if any man ask you, Why do ye loose him? thus shall ye say unto him, Because the Lord hath need of him."
+        },
+        {
+          "number": 32,
+          "line": "And they that were sent went their way, and found even as he had said unto them."
+        },
+        {
+          "number": 33,
+          "line": "And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt?"
+        },
+        {
+          "number": 34,
+          "line": "And they said, The Lord hath need of him."
+        },
+        {
+          "number": 35,
+          "line": "And they brought him to Jesus: and they cast their garments upon the colt, and they set Jesus thereon."
+        },
+        {
+          "number": 36,
+          "line": "And as he went, they spread their clothes in the way."
+        },
+        {
+          "number": 37,
+          "line": "And when he was come nigh, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen;"
+        },
+        {
+          "number": 38,
+          "line": "Saying, Blessed be the King that cometh in the name of the Lord: peace in heaven, and glory in the highest."
+        },
+        {
+          "number": 39,
+          "line": "And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples."
+        },
+        {
+          "number": 40,
+          "line": "And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out."
+        },
+        {
+          "number": 41,
+          "line": "And when he was come near, he beheld the city, and wept over it,"
+        },
+        {
+          "number": 42,
+          "line": "Saying, If thou hadst known, even thou, at least in this thy day, the things which belong unto thy peace! but now they are hid from thine eyes."
+        },
+        {
+          "number": 43,
+          "line": "For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,"
+        },
+        {
+          "number": 44,
+          "line": "And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation."
+        }
+      ]
+    },
+    {
+      "reference": "John 12:12-19",
+      "verses": [
+        {
+          "number": 12,
+          "line": "On the next day much people that were come to the feast, when they heard that Jesus was coming to Jerusalem,"
+        },
+        {
+          "number": 13,
+          "line": "Took branches of palm trees, and went forth to meet him, and cried, Hosanna: Blessed is the King of Israel that cometh in the name of the Lord."
+        },
+        {
+          "number": 14,
+          "line": "And Jesus, when he had found a young ass, sat thereon; as it is written,"
+        },
+        {
+          "number": 15,
+          "line": "Fear not, daughter of Sion: behold, thy King cometh, sitting on an ass's colt."
+        },
+        {
+          "number": 16,
+          "line": "These things understood not his disciples at the first: but when Jesus was glorified, then remembered they that these things were written of him, and that they had done these things unto him."
+        },
+        {
+          "number": 17,
+          "line": "The people therefore that was with him when he called Lazarus out of his grave, and raised him from the dead, bare record."
+        },
+        {
+          "number": 18,
+          "line": "For this cause the people also met him, for that they heard that he had done this miracle."
+        },
+        {
+          "number": 19,
+          "line": "The Pharisees therefore said among themselves, Perceive ye how ye prevail nothing? behold, the world is gone after him."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "passion-week",
+      "titleEn": "Passion Week",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas2556_8-28-2013 4-05-22 PM.jpg",
+      "caption": "The triumphal entry"
+    },
+    {
+      "file": "GoodSalt-prcas0143_8-28-2013 4-05-22 PM.jpg",
+      "caption": "The triumphal entry"
+    }
+  ],
+  "videos": []
 }

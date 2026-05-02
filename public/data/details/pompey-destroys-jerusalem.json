@@ -4,13 +4,19 @@
   "period": 9,
   "titleEn": "Pompey Destroys Jerusalem",
   "titleKa": null,
-  "datesEn": "64 BC",
+  "datesEn": "64 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "In 64 B.C. Pompey campaigned in Syria, ended the Seleucid monarchy, and turned southward into Palestine. He took Jerusalem and broke the power of the Hasmonaeans. By 63 Syria and Judea were added to the Roman territory",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In 64 B.C. Pompey campaigned in Syria, ended the Seleucid monarchy, and turned southward into Palestine. He took Jerusalem and broke the power of the Hasmonaeans. By 63 Syria and Judea were added to the Roman territory.",
   "articleKa": null,
   "scriptures": [],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "Pompey in the Temple of Jerusalem_3-20-2013 4-16-29 PM.jpg",
+      "caption": "Pompey in the Temple of Jerusalem painting by Jean Fouquet in 1470."
+    }
+  ],
+  "videos": []
 }

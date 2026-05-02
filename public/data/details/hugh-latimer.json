@@ -2,15 +2,39 @@
   "slug": "hugh-latimer",
   "id": 1325,
   "period": 11,
-  "titleEn": "Hugh Latimer",
+  "titleEn": "Hugh Latimer ",
   "titleKa": null,
-  "datesEn": "1485–1555 AD",
+  "datesEn": "1485&ndash;1555 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Part of the English Reformation, he was burned at the stake in October 1555.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Hugh Latimer was born around 1485 and began studying Latin at the age of four. He later attended Cambridge University and in 1510 became associated with Clare College. In his early life, Latimer was opposed to the Protestant Reformation and, while in college, devoted his time to refuting reformation theology. Eventually, a man named Thomas Bilney came into Latimer&#39;s life and things began to change. Bilney helped to convert Latimer, and the two men began preaching against papal tyranny.<BR /><BR />In 1539 Latimer spoke out against King Henry VIII&#39;s Six Articles, which resulted in his imprisonment in the Tower of London. When Edward VI came to power, Latimer was released from prison and began to preach again. However, Edward VI&#39;s reign was short, and when &#34;Bloody&#34; Mary I came to power, Latimer was again imprisoned and put on trial. His trial began on April 14, 1554, but he resisted papal accusers by placing his faith in the Bible and the Bible only.<BR /><BR />Eventually, as papist rulers grew tired of Latimer&#39;s resistance, he was tied to a stake outside of Balliol College in Oxford and burned alive in October 1555.<BR /><BR />Latimer is remembered for rejecting the Catholic idea of transubstantiation (that the elements of the Lord&#39;s supper change literally into the body and blood of Christ) and the meritorious nature of the Mass.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "121235094_2-27-2013 2-21-47 PM.jpg",
+      "caption": "Portrait of Hugh Latimer."
+    },
+    {
+      "file": "137837525_2-27-2013 2-21-47 PM.jpg",
+      "caption": "A view of Cambridge University (King&#39;s College), Cambridgeshire, England."
+    },
+    {
+      "file": "iStock_000008869749Medium_2-27-2013 2-21-47 PM.jpg",
+      "caption": "Vintage engraving of King Edward the Sixth. Engraving from 1854 photo and color work by D Walker."
+    },
+    {
+      "file": "90960955_2-27-2013 2-21-47 PM.jpg",
+      "caption": "Oxford University&#39;s Balliol College was said to have been founded in 1263 and is the oldest college of the university of Oxford"
+    }
+  ],
+  "videos": []
 }

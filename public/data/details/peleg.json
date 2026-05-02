@@ -4,13 +4,40 @@
   "period": 2,
   "titleEn": "Peleg",
   "titleKa": null,
-  "datesEn": "2197–1958 BC",
+  "datesEn": "2197&ndash;1958 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;division.&#34; He is one of two sons of Eber, and &#34;in his days the earth was divided&#34; (Gen. 10:25) which either means people spread out after the flood or the confusion of language at Babel led to division. He was an ancestor of Abraham.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A son of Eber and an ancestor of Abraham (Gen 11:16&#8212;26). His name had reference to the fact of that in his time the earth was divided (ch 10:25). The division referred to is either the general scattering of the descendants of Noah over the earth or the scattering resulting from the confusion of tongues (ch 11:7&#8212;9). A city at the mouth of the Khabur in Upper Mesopotamia was called Paliga, probably in honor of Peleg, in the same way as other cities in that area commemorated patriarchal names, such as Serug, Terah, and Nahor.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 10:25",
+      "verses": [
+        {
+          "number": 25,
+          "line": "And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother's name was Joktan."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "eber",
+      "titleEn": "Eber",
+      "titleKa": null
+    },
+    {
+      "slug": "reu",
+      "titleEn": "Reu",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Paleg.jpg",
+      "caption": "Illustration of Peleg in 1553 published by Guillaume Rouille"
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,23 @@
   "period": 8,
   "titleEn": "Cyrus II Unites Persia",
   "titleKa": null,
-  "datesEn": "559 BC",
+  "datesEn": "559 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After c. 559 b.c. Cyrus united the various Persian tribes into one nation, and between 553 and 550 b.c. defeated his grandfather Astyages and took over the Median Empire with its capital, Ecbatana.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "<BR />",
   "articleKa": null,
   "scriptures": [],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "Cyrus_portrait_8-28-2013 11-39-04 AM.jpg",
+      "caption": "Image of an old Iranian painting depicting a portrait of Cyrus II the Great, founder of the Persian Empire, Charles F. Horne, ed., The Sacred Books and Early Literature of the East, (New York: Parke, Austin, & Lipscomb, 1917), Vol. I: Babylonia and Assyria, pp. 460-462; The Bible (Douai-Rheims Version), (Baltimore: John Murphy Co., 1914)"
+    },
+    {
+      "file": "Cyrus_II_rex_8-28-2013 11-39-04 AM.jpg",
+      "caption": "Cyrus II, Guillaume Rouille, &#34;Promptuarii Iconum Insigniorum&#34;, 1553"
+    }
+  ],
+  "videos": []
 }

@@ -2,15 +2,31 @@
   "slug": "thomas-more",
   "id": 1357,
   "period": 11,
-  "titleEn": "Thomas More",
+  "titleEn": "Thomas More ",
   "titleKa": null,
-  "datesEn": "1478–1535 AD",
+  "datesEn": "1478&ndash;1535 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "An English lawyer and counselor to Henry VIII who opposed the Protestant Reformation.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Thomas More was a lawyer and, for a time, chancellor to King Henry VIII. More was ardently against the Protestant Reformation and took special offense to both Martin Luther and William Tyndale. Near the end of More&#39;s life, King Henry VIII began to change the laws of the Church of England. More began to oppose the king and his radical changes. The final break between the two men came when Henry VIII declared himself to be the head of the Church of England in the Act of Supremacy. Anyone who disagreed with the king&#39;s new decree was pronounced a heretic. As a result, More was imprisoned and eventually executed in the Tower of London in 1535.<BR /><BR />In 1516, More published the popular book Utopia. In 1935, Thomas More was canonized as a saint in the Roman Catholic Church for his reactions to Henry VIII and Protestantism in general.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "iStock_000013748528Medium_2-26-2013 2-55-02 PM.jpg",
+      "caption": "Vintage engraving from 1835 showing Sir Thomas More also known as Saint Thomas More."
+    },
+    {
+      "file": "Isola_di_Utopia_Moro_2-26-2013 2-55-02 PM.jpg",
+      "caption": "Illustration for the 1516 first edition of Utopia."
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,49 @@
   "period": 2,
   "titleEn": "Haran",
   "titleKa": null,
-  "datesEn": "1949–1879 BC",
+  "datesEn": "1949&ndash;1879 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;sanctuary.&#34; He was one of three sons of Terah, a brother to Abraham. He died before his father Terah back in Ur. Haran had a son named Lot and two daughters, Milcah and Iscah, who went to the land of Haran with Abraham and Terah.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A son of Terah, and brother of Abraham and Nahor. He died in his native city of Ur of the Chaldees, leaving a son, Lot, and two daughters, Milcah and Iscah (Gen 11:26&#8212;31). It is uncertain whether the city of Haran (Heb. Charan) is named after him, since the Hebrew spelling of the names is different.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 11:26",
+      "verses": [
+        {
+          "number": 26,
+          "line": "And Terah lived seventy years, and begat Abram, Nahor, and Haran."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 11:28",
+      "verses": [
+        {
+          "number": 28,
+          "line": "And Haran died before his father Terah in the land of his nativity, in Ur of the Chaldees."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "terah",
+      "titleEn": "Terah",
+      "titleKa": null
+    },
+    {
+      "slug": "lot",
+      "titleEn": "Lot",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Abram and Lot_5-20-2013 3-40-06 PM.jpg",
+      "caption": "So Abram departed, as the LORD had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran. (Genesis 12:4)Woodcut after a drawing by Julius Schnorr von Carolsfeld (German painter, 1794 - 1872)"
+    }
+  ],
+  "videos": []
 }

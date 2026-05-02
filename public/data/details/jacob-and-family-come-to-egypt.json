@@ -4,18 +4,141 @@
   "period": 3,
   "titleEn": "Jacob and Family Come to Egypt",
   "titleKa": null,
-  "datesEn": "1656 BC",
+  "datesEn": "1656 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After Jacob&#39;s sons come to Egypt seeking grain during a widespread famine, Joseph tests them and eventually reveals his identity. Jacob&#39;s family then moves to Egypt and lives in Goshen since Egyptians of this time do not like shepherds.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "God spoke to Jacob. This was apparently the first vision accorded Jacob for many years. Several of the previous revelations had come during the night, mostly in the form of dreams (chs. 28:12 31:11 32:30). This one is not called a dream, which would have come during sleep, but a vision. The Lord told him not to be afraid. This divine admonition reveals the fact that Jacob had feared he might be doing wrong in going to Egypt. <BR /><BR />He yearned to see Joseph, his long&#8212;lost son but he also remembered the evil consequences of Abraham&#39;s journey to Egypt (ch. 12:14&#8212;20), and that God had once forbidden Isaac to go there during a famine (ch. 26:2). Whether his journey would meet God&#39;s approval may have been a serious question in the patriarch&#39;s mind. Now God expressed approval of the journey and gave him reassuring promises. <BR /><BR />As formerly, when setting out for Padan&#8212;aram, so now in departing for Egypt, Jacob received the assurance that God would go with him, that the divine promise concerning his posterity was still valid, and that the move into Egypt would not mean the permanent abandonment of the Land of Promise.",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 46:1-27",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Israel took his journey with all that he had, and came to Beersheba, and offered sacrifices unto the God of his father Isaac."
+        },
+        {
+          "number": 2,
+          "line": "And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here am I."
+        },
+        {
+          "number": 3,
+          "line": "And he said, I am God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation:"
+        },
+        {
+          "number": 4,
+          "line": "I will go down with thee into Egypt; and I will also surely bring thee up again: and Joseph shall put his hand upon thine eyes."
+        },
+        {
+          "number": 5,
+          "line": "And Jacob rose up from Beersheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him."
+        },
+        {
+          "number": 6,
+          "line": "And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him:"
+        },
+        {
+          "number": 7,
+          "line": "His sons, and his sons' sons with him, his daughters, and his sons' daughters, and all his seed brought he with him into Egypt."
+        },
+        {
+          "number": 8,
+          "line": "And these are the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob's firstborn."
+        },
+        {
+          "number": 9,
+          "line": "And the sons of Reuben; Hanoch, and Phallu, and Hezron, and Carmi."
+        },
+        {
+          "number": 10,
+          "line": "And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman."
+        },
+        {
+          "number": 11,
+          "line": "And the sons of Levi; Gershon, Kohath, and Merari."
+        },
+        {
+          "number": 12,
+          "line": "And the sons of Judah; Er, and Onan, and Shelah, and Pharez, and Zarah: but Er and Onan died in the land of Canaan. And the sons of Pharez were Hezron and Hamul."
+        },
+        {
+          "number": 13,
+          "line": "And the sons of Issachar; Tola, and Phuvah, and Job, and Shimron."
+        },
+        {
+          "number": 14,
+          "line": "And the sons of Zebulun; Sered, and Elon, and Jahleel."
+        },
+        {
+          "number": 15,
+          "line": "These be the sons of Leah, which she bare unto Jacob in Padanaram, with his daughter Dinah: all the souls of his sons and his daughters were thirty and three."
+        },
+        {
+          "number": 16,
+          "line": "And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli."
+        },
+        {
+          "number": 17,
+          "line": "And the sons of Asher; Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel."
+        },
+        {
+          "number": 18,
+          "line": "These are the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bare unto Jacob, even sixteen souls."
+        },
+        {
+          "number": 19,
+          "line": "The sons of Rachel Jacob's wife; Joseph, and Benjamin."
+        },
+        {
+          "number": 20,
+          "line": "And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Potipherah priest of On bare unto him."
+        },
+        {
+          "number": 21,
+          "line": "And the sons of Benjamin were Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard."
+        },
+        {
+          "number": 22,
+          "line": "These are the sons of Rachel, which were born to Jacob: all the souls were fourteen."
+        },
+        {
+          "number": 23,
+          "line": "And the sons of Dan; Hushim."
+        },
+        {
+          "number": 24,
+          "line": "And the sons of Naphtali; Jahzeel, and Guni, and Jezer, and Shillem."
+        },
+        {
+          "number": 25,
+          "line": "These are the sons of Bilhah, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls were seven."
+        },
+        {
+          "number": 26,
+          "line": "All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob's sons' wives, all the souls were threescore and six;"
+        },
+        {
+          "number": 27,
+          "line": "And the sons of Joseph, which were born him in Egypt, were two souls: all the souls of the house of Jacob, which came into Egypt, were threescore and ten."
+        }
+      ]
+    }
+  ],
   "related": [],
   "images": [
     {
-      "file": "media/images/t/735px-Rembrandt_-_Jacob_Blessing_the_Children_of_Joseph_-_WGA19117_8-8-2013 10-44-05 AM.jpg",
-      "caption": ""
+      "file": "735px-Rembrandt_-_Jacob_Blessing_the_Children_of_Joseph_-_WGA19117_8-8-2013 10-44-05 AM.jpg",
+      "caption": "Jacob blessing the sons of Joseph, Rembrandt, 1656 "
+    },
+    {
+      "file": "GoodSalt-Jacob to Egypt_8-5-2013 4-06-47 PM.jpg",
+      "caption": "And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here am I. And he said, I am God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation: (Genesis 46:2-3)"
+    },
+    {
+      "file": "Jacobs_funeral_procession_8-8-2013 10-55-18 AM.jpg",
+      "caption": "Jacob&#39;s funeral procession, Owen Jones1869, "
     }
-  ]
+  ],
+  "videos": []
 }

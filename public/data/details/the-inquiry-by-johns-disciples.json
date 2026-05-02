@@ -4,13 +4,80 @@
   "period": 9,
   "titleEn": "The Inquiry by John's Disciples",
   "titleKa": null,
-  "datesEn": "29 AD",
+  "datesEn": "29 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "From prison, John the Baptist hears about Christ&#39;s works. He sends two disciples to question Christ. John&#39;s faith wavers, but Jesus encourages him to look at the signs of His ministry. Christ affirms John&#39;s role and work.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A question regarding the Messiahship of Jesus originated with John&#39;s disciples, not with John himself and John was disturbed that these men should cherish unbelief with respect to John&#39;s own testimony that Jesus was indeed the Promised One. If the Baptist&#39;s own disciples doubted his message, how could others be expected to believe? There were some things John did not understand&#8212;such as the true nature of the Messianic kingdom, and why Jesus did nothing to effect his release from prison. But despite the doubts that troubled him, he did not surrender his faith that Jesus was indeed the Christ. Disappointment and anxiety troubled the soul of the lonely prisoner, but he refrained from discussing these perplexities of his own mind with his disciples.<BR /><BR />In the hope that a personal interview with Jesus would confirm their faith, that they would bring back a faith&#8212;strengthening message for his other disciples, and that he might receive a personal message to clarify his own thinking, John sent the two men to Jesus. God permits hours of perplexity to come even to the most worthy and trusted of His servants, in order to strengthen their faith and trust in Him. At times, when it is necessary for their own character development or for the good of God&#39;s cause on earth, He permits them to go through experiences that seem to suggest that He has forgotten them. In view of this, it can be easily understood that the experience of John in prison for a period of about one year was, in the merciful providence of God, permitted by way of encouragement to countless thousands of others who, in later years, must suffer martyrdom. Knowing that John&#39;s faith would not fail (see 1 Cor. 10:13), God strengthened the prophet to endure. Steadfast to the end, John, even in prison and in death, stands forth as &#34;a burning and a shining light&#34; (John 5:35), his fortitude and patience illuminating the dark pathway of life for martyrs of Jesus down through the centuries.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 11:2-6",
+      "verses": [
+        {
+          "number": 2,
+          "line": "Now when John had heard in the prison the works of Christ, he sent two of his disciples,"
+        },
+        {
+          "number": 3,
+          "line": "And said unto him, Art thou he that should come, or do we look for another?"
+        },
+        {
+          "number": 4,
+          "line": "Jesus answered and said unto them, Go and shew John again those things which ye do hear and see:"
+        },
+        {
+          "number": 5,
+          "line": "The blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor have the gospel preached to them."
+        },
+        {
+          "number": 6,
+          "line": "And blessed is he, whosoever shall not be offended in me."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 7:18-23",
+      "verses": [
+        {
+          "number": 18,
+          "line": "And the disciples of John shewed him of all these things."
+        },
+        {
+          "number": 19,
+          "line": "And John calling unto him two of his disciples sent them to Jesus, saying, Art thou he that should come? or look we for another?"
+        },
+        {
+          "number": 20,
+          "line": "When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?"
+        },
+        {
+          "number": 21,
+          "line": "And in that same hour he cured many of their infirmities and plagues, and of evil spirits; and unto many that were blind he gave sight."
+        },
+        {
+          "number": 22,
+          "line": "Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached."
+        },
+        {
+          "number": 23,
+          "line": "And blessed is he, whosoever shall not be offended in me."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "galilean-ministry",
+      "titleEn": "Galilean Ministry",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "John the Baptist 1039-27_8-1-2013 1-57-32 PM.jpg",
+      "caption": "John the Baptist James Tissot"
+    }
+  ],
+  "videos": []
 }

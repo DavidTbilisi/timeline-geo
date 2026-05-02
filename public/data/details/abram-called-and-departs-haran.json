@@ -4,13 +4,47 @@
   "period": 3,
   "titleEn": "Abram Called and Departs Haran",
   "titleKa": null,
-  "datesEn": "1871 BC",
+  "datesEn": "1871 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "God calls Abram, later Abraham, to leave his country and father&#39;s house to a land where He will make him into a great nation. Genesis 12:4 says that at this time Abram was 75 years old. Lot went with them, along with all their possessions.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Get thee out. Henceforward Abram is the hero of the Genesis narrative. This is the first recorded divine revelation to Abram, although it is known from Acts 7:2 that God had appeared to him at least once previously. The word of Jehovah begins with a command, continues with a promise, and ends with a blessing. These three significant aspects characterize every manifestation of God to man. The promises of God are fulfilled and His blessings received only as His commands are obeyed. Men are usually desirous of sharing God&#39;s blessings and realizing His promises without cooperating with His requirements.<BR /><BR />The Lord&#39;s call required Abram to make a complete break with the past. He not only had to leave the land of the two rivers, Mesopotamia, in which Ur as well as Haran was situated, but also had to give up family ties and even his father&#39;s house, never to return to those of his own blood and race. It was a severe test. Haran and Ur shared the same civilization and standards of living. All this would change immediately when he should leave the land of the two rivers and cross over to Syria and Palestine. Instead of fertile grazing lands he would find a heavily wooded and mountainous country. Instead of living among related and highly civilized peoples, he would be sojourning among tribes of a materially lower culture and an especially degraded religion.<BR /><BR />A land that I will shew thee. Genesis 11:31 indicates that Abram&#39;s original destination had been Canaan. Obviously, God must have specified Canaan as the land toward which he should direct his steps. Upon this occasion (ch. 12:1) Canaan is not mentioned, but it is clear that Abram knew Canaan to be the place where God wanted him to go. He set out with Canaan in mind (v. 5). Paul&#39;s statement in Heb. 11:8 that Abram &#34;went out, not knowing whither he went&#34; apparently refers to the fact that henceforth he would have no certain dwelling place, but was to be a pilgrim and a stranger (see Heb. 11:9). Henceforth God would guide him day by day, and he would never know long in advance what the future might bring.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 12:1-3",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee:"
+        },
+        {
+          "number": 2,
+          "line": "And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:"
+        },
+        {
+          "number": 3,
+          "line": "And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "abraham",
+      "titleEn": "Abraham",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-Abram_8-5-2013 4-01-46 PM.jpg",
+      "caption": "Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father&#39;s house, unto a land that I will shew thee: (Genesis 12:1)"
+    },
+    {
+      "file": "journey-to-canaan_8-8-2013 10-20-48 AM.jpg",
+      "caption": "Abraham travelling to Canaan, Gustave Dore&#39;s &#39;The Holy Bible&#39;, engraved by Pisan, 1866"
+    }
+  ],
+  "videos": []
 }

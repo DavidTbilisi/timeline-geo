@@ -4,18 +4,58 @@
   "period": 13,
   "titleEn": "The Deadly Wound",
   "titleKa": null,
-  "datesEn": "1798–1929 AD",
+  "datesEn": "1798&ndash;1929 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The Revelation 13:3 prophecy that the beast&#39;s head would appear to be &#34;mortally wounded&#34; saw its fulfillment in 1798, when the French army entered Rome and took Pope Pius VI captive. It was subsequently healed with the reestablishment of the papacy i",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In Revelation 13:3, the Bible predicts that the beast, the papacy, would appear to lose its power completely and then, subsequently, would regain that power so that all the world would wonder after it. Napoleon&#39;s French army, led by Louis&#8212;Alexandre Berthier, entered Rome and ended the papacy&#39;s 1,260&#8212;year political reign by taking Pope Pius VI, the &#34;head&#34; of the church of Rome, as a prisoner to France in February 1798. <BR /><BR />However, that wound was healed in the year 1929 when Mussolini executed the Concordat of 1929 with Pope Pius XI, restoring the properties and powers that had been taken away from the church in 1798. At that time, Vatican City was set up as a sovereign political power. Today, the restoration and influence of the papacy, with more than a billion followers, in world affairs is attested to by the fact that most of the countries of the world have political representatives at Vatican City.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Revelation 13:3",
+      "verses": [
+        {
+          "number": 3,
+          "line": "And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "prophecies-of-the-end-of-time",
+      "titleEn": "Prophecies of the End of Time",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Berthier_2-27-2013 5-16-26 PM.jpg",
-      "caption": ""
+      "file": "Berthier_2-27-2013 5-16-26 PM.jpg",
+      "caption": "Marshal Louis-Alexandre Berthier painting by Jacques Augustin Catherine Pajou in 1808."
+    },
+    {
+      "file": "510px-Jacques-Louis_David_007_8-5-2013 11-24-45 AM.jpg",
+      "caption": "Napoleon Bonaparte, Jacques-Louis David, 1800"
+    },
+    {
+      "file": "Benito_Mussolini_in_1937_8-5-2013 11-24-45 AM.jpg",
+      "caption": "Benito Mussolini, Muzej Revolucije Narodnosti Jugoslavije"
+    },
+    {
+      "file": "402px-La_Domenica_del_Corriere_1929_february_24_8-5-2013 11-24-45 AM.jpg",
+      "caption": "Signing of the Lateran Treaty in 1929, Achille Beltrame"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Bride of Anti-Christ, Pt. 1",
+      "caption": "Who is the antichrist? This sermon delves into Revelation 12, 13, and 17 along with Daniel 7. The animals spoken of represent nations and kingdoms and powers. A beast power will arise that has and will persecute the people of God. The power combines religious and political powers at the end of time.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp32.mp4"
+    },
+    {
+      "title": "The Bride of Anti-Christ, Pt. 2",
+      "caption": "Who is the antichrist? This sermon delves into Revelation 12, 13, and 17 along with Daniel 7. The animals spoken of represent nations and kingdoms and powers. A beast power will arise that has and will persecute the people of God. The power combines religious and political powers at the end of time.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp33.mp4"
     }
   ]
 }

@@ -4,18 +4,281 @@
   "period": 6,
   "titleEn": "David",
   "titleKa": null,
-  "datesEn": "1040–970 BC (70)",
+  "datesEn": "1040&ndash;970 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;beloved.&#34; He is the youngest son of Jesse of Bethlehem and the greatest of Israel&#39;s kings. He reigns for 40 years (7 in Hebron and 33 in Jerusalem). David was a poet and musician. Most of the book of Psalms is attributed to him.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "David. The son of Jesse, a Bethlehemite, second king of Israel (reigning from c. 1011 to 971 b.c.), and an ancestor of Christ. David&#39;s youth. David, the youngest son of Jesse (1 Sa 16:10&#8212;13 17:12&#8212;14), is described as a ruddy, handsome boy with beautiful eyes (ch 16:12, RSV). Like many other Palestinian boys, he was early placed in charge of the family&#39;s few sheep (ch 17:28). As shepherd boy he showed unusual bravery by killing a bear and a lion single&#8212;handed (vs 34&#8212;36). After Saul&#39;s rejection as king, God directed Samuel to anoint David king. This ceremony was carried out in secrecy (ch 16:1&#8212;13), and its true significance may not have been understood even by the members of David&#39;s family.<BR /><BR />As Saul&#39;s courtier. Saul, plagued by fits of melancholy after the departure of God&#39;s Spirit from him, was counseled to seek relaxation in music. David, a skillful lyre player, was chosen to soothe Saul&#39;s troubled mind. Saul liked the boy and made him also an armor bearer and kept him at the court much of the time, though not continuously (1 Sa 16:14&#8212;23 1 Sa 17:15). This must have been of great educational value for the shepherd boy who was destined to become the future king of Israel. In a war with the Philistines about this time, the eldest three sons of Jesse followed Saul&#39;s call to arms and left for the battlefield, about 15 mi. (c. 24 km.) west of Bethlehem. <BR /><BR />Here a Philistine champion, Goliath, challenged the Hebrews to appoint an opponent, but the challenge remained unanswered and for about 6 weeks the two hostile armies faced each other without being involved in actual fighting (1 Sa 17:1&#8212;16). At the end of this period David, who had been at home, was sent to take some provisions to his soldier brothers. Arriving in the Hebrew camp, he heard Goliath utter his challenging call. He was surprised that none of Saul&#39;s soldiers dared to fight the Philistine warrior and offered to do so himself (vs 17&#8212;27). His eldest brother considered David&#39;s offer an unwarranted insolence, but the king assented and allowed the youth to accept the Philistine&#39;s challenge. <BR /><BR />David, laying aside the heavy armor that Saul offered him, went out to meet the Philistine giant with the equipment of a shepherd&#8212;a sling and a stick. Skillful in handling the sling, from a distance David shot a stone that struck Goliath on his unprotected forehead. He fell, stunned, and David ran and struck off the giant&#39;s head with Goliath&#39;s own sword. Having lost their champion, the Philistines lost heart and fled in panic. Saul no longer allowed David to leave him (1 Sa 18:2), but his attachment to the young man turned to jealousy and hatred when he saw that David was acclaimed as a greater hero than himself.<BR /><BR />As a fugitive. With a few faithful followers David left the capital and hid from Saul who almost continually pursued David with the intent of killing him. Eventually, Saul and his sons were killed in a battle. Upon hearing the news of Israel&#39;s defeat, and of the death of Saul and Jonathan, he mourned their death in beautiful poetry (2 Sa 1).<BR /><BR />As king of Judah. Abner, Saul&#39;s commander in chief, immediately placed Saul&#39;s son Ish&#8212;bosheth on the throne at Mahanaim, east of the Jordan, but the tribe of Judah seceded from Israel and crowned David king at Hebron (2 Sa 2:1&#8212;10). This division, with constant wars between the 2 factions, lasted for about 7 1/2 years, until first Abner and then Ishbosheth were assassinated. At this, the tribes left without a king invited David to assume the kingship over the whole nation (chs 2:11 3:6 to 5:5). David was now about 37 years of age and had several wives and sons (chs 5:4, 5 3:2&#8212;5).<BR /><BR />As king over Israel and Judah. David&#39;s first act as king over all 12 tribes was to conquer Jerusalem from the Jebusites. He made that city the capital of the kingdom and called it the &#34;city of David&#34; (2 Sa 5:6&#8212;10). Since Jerusalem lay between Judah and the southernmost of the northern tribes, yet had belonged to neither, the choice of this stronghold as the nation&#39;s capital aroused no tribal jealousies. In several battles with the Philistines, David succeeded in defeating them so completely that they ceased to be a menace to Israel (2 Sa 5:17&#8212;25 8:1 21:15&#8212;22 1 Chr 14:8&#8212;17 18:1 20:4&#8212;8). He also waged war against the Moabites, the Aramaeans of Zobah and Damascus, the Ammonites, the Edomites, and the Amalekites (2 Sa 8 10 12:26&#8212;31). Victorious in every war, he was able to extend his territories into surrounding areas, and thus increased the nation&#39;s revenues and his personal fame.<BR /><BR />Although David did not live a spotless life, and even loaded his soul with heavy guilt (see 1 Ki 15:5), he knew how to repent, and to accept the results of his transgressions without rebellion (2 Sa 12:13 16:10 Ps 51). He was an illustrious king, the founder of a Hebrew dynasty that lasted for about 425 years, a great religious leader, a true servant of God, and an ancestor of the Messiah, who was at once David&#39;s Son and Lord (Mt 22:41&#8212;45).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Ruth 4:22",
+      "verses": [
+        {
+          "number": 22,
+          "line": "And Obed begat Jesse, and Jesse begat David."
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 2:10-11",
+      "verses": [
+        {
+          "number": 10,
+          "line": "So David slept with his fathers, and was buried in the city of David."
+        },
+        {
+          "number": 11,
+          "line": "And the days that David reigned over Israel were forty years: seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jesse",
+      "titleEn": "Jesse",
+      "titleKa": null
+    },
+    {
+      "slug": "david-a-shepherd-boy",
+      "titleEn": "David a Shepherd Boy",
+      "titleKa": null
+    },
+    {
+      "slug": "david-anointed-by-samuel",
+      "titleEn": "David Anointed by Samuel",
+      "titleKa": null
+    },
+    {
+      "slug": "david-slays-his-lions",
+      "titleEn": "David Slays His Lions",
+      "titleKa": null
+    },
+    {
+      "slug": "david-plays-for-saul",
+      "titleEn": "David Plays for Saul",
+      "titleKa": null
+    },
+    {
+      "slug": "david-and-goliath",
+      "titleEn": "David and Goliath",
+      "titleKa": null
+    },
+    {
+      "slug": "david-jonathan-become-brothers",
+      "titleEn": "David & Jonathan Become Brothers",
+      "titleKa": null
+    },
+    {
+      "slug": "david-escapes-to-samuel",
+      "titleEn": "David Escapes to Samuel",
+      "titleKa": null
+    },
+    {
+      "slug": "david-goes-to-ahimelech-priest-at-nob",
+      "titleEn": "David Goes to Ahimelech, Priest at Nob",
+      "titleKa": null
+    },
+    {
+      "slug": "david-flees-to-gath-feigns-insanity",
+      "titleEn": "David Flees to Gath, Feigns Insanity",
+      "titleKa": null
+    },
+    {
+      "slug": "david-in-cave-at-adullam",
+      "titleEn": "David in Cave at Adullam",
+      "titleKa": null
+    },
+    {
+      "slug": "david-gathers-band-of-400",
+      "titleEn": "David Gathers Band of 400",
+      "titleKa": null
+    },
+    {
+      "slug": "david-consults-ephod-flees-to-wilderness-of-ziph",
+      "titleEn": "David Consults Ephod, Flees to Wilderness of Ziph",
+      "titleKa": null
+    },
+    {
+      "slug": "philistine-invasion-while-saul-seeks-david",
+      "titleEn": "Philistine Invasion While Saul Seeks David",
+      "titleKa": null
+    },
+    {
+      "slug": "david-flees-to-en-gedi-clips-sauls-garment",
+      "titleEn": "David Flees to En Gedi, Clips Saul's garment",
+      "titleKa": null
+    },
+    {
+      "slug": "david-flees-to-wilderness-of-paran",
+      "titleEn": "David Flees to Wilderness of Paran",
+      "titleKa": null
+    },
+    {
+      "slug": "david-marries-abigail",
+      "titleEn": "David Marries Abigail",
+      "titleKa": null
+    },
+    {
+      "slug": "david-spares-sauls-life-a-2nd-time",
+      "titleEn": "David Spares Saul's Life a 2nd Time",
+      "titleKa": null
+    },
+    {
+      "slug": "david-received-ziklag-from-king-achish",
+      "titleEn": "David Received Ziklag from King Achish",
+      "titleKa": null
+    },
+    {
+      "slug": "amnon",
+      "titleEn": "Amnon",
+      "titleKa": null
+    },
+    {
+      "slug": "absalom",
+      "titleEn": "Absalom",
+      "titleKa": null
+    },
+    {
+      "slug": "david-king-over-united-israel",
+      "titleEn": "David King over United Israel",
+      "titleKa": null
+    },
+    {
+      "slug": "david-conquers-jerusalem-from-jebusites",
+      "titleEn": "David Conquers Jerusalem from Jebusites",
+      "titleKa": null
+    },
+    {
+      "slug": "david-defeats-enemies-extends-territory",
+      "titleEn": "David Defeats Enemies, Extends Territory",
+      "titleKa": null
+    },
+    {
+      "slug": "david-lays-plans-for-the-temple",
+      "titleEn": "David Lays Plans for the Temple",
+      "titleKa": null
+    },
+    {
+      "slug": "david-shows-kindness-to-mephibosheth",
+      "titleEn": "David Shows Kindness to Mephibosheth",
+      "titleKa": null
+    },
+    {
+      "slug": "davids-adultery-with-bathsheba",
+      "titleEn": "David's Adultery with Bathsheba",
+      "titleKa": null
+    },
+    {
+      "slug": "david-rebuked-by-nathan",
+      "titleEn": "David Rebuked by Nathan",
+      "titleKa": null
+    },
+    {
+      "slug": "davids-child-from-adultery-dies-1st-judgment",
+      "titleEn": "David's Child from Adultery Dies, 1st Judgment",
+      "titleKa": null
+    },
+    {
+      "slug": "david-wrote-psalm-32",
+      "titleEn": "David Wrote Psalm 32",
+      "titleKa": null
+    },
+    {
+      "slug": "solomon",
+      "titleEn": "Solomon",
+      "titleKa": null
+    },
+    {
+      "slug": "david-flees-jerusalem",
+      "titleEn": "David Flees Jerusalem",
+      "titleKa": null
+    },
+    {
+      "slug": "david-numbers-israel",
+      "titleEn": "David Numbers Israel",
+      "titleKa": null
+    },
+    {
+      "slug": "rebellion-of-adonijah-4th-judgment",
+      "titleEn": "Rebellion of Adonijah, 4th Judgment",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/DavidStones 1141-10_7-24-2013 12-08-23 PM.jpg",
-      "caption": ""
+      "file": "DavidStones 1141-10_7-24-2013 12-08-23 PM.jpg",
+      "caption": "David gathering stones for Goliath."
+    },
+    {
+      "file": "GoodSalt-pppas0081_8-7-2013 2-02-57 PM.jpg",
+      "caption": "David the Shepherd"
+    },
+    {
+      "file": "David_Plays_the_Harp_For_King_Saul_003_8-8-2013 12-03-53 PM.jpg",
+      "caption": "David playing the harp for Saul, Providence Lithograph Company, 1902"
+    },
+    {
+      "file": "GoodSalt-stdas0216_8-7-2013 2-02-57 PM.jpg",
+      "caption": "David and Nathan."
+    }
+  ],
+  "videos": [
+    {
+      "title": "David, Part 1: From the Pasture to the Palace",
+      "caption": "This is the first in a series on the life of David. It begins by looking at Saul who turned from God and David is anointed. As we look at his amazing life we see him spoken of throughout the Bible. David is a type of Christ and was Jesus&#39; ancestor.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8047.mp4"
+    },
+    {
+      "title": "David, Part 2: Fearless Faith",
+      "caption": "This is the 2nd in a multi-part series on the life of King David. This sermon focuses on 1 Samuel 17 and the story of David and Goliath. This story of a conflict is an allegory of the great war between Christ and Satan.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8057.mp4"
+    },
+    {
+      "title": "David, Part 5: Overcoming Evil with Good",
+      "caption": "asdf",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8087.mp4"
+    },
+    {
+      "title": "David, Part 7: From Ziklag to Jerusalem",
+      "caption": "The seventh in a series on the life of King David. This sermon focuses on 1 Samuel 22 and one of the lowest points in David&#39;s life when he was being pursued by King Saul. Some are like Saul who are sincerely wrong and fight against the Lord. Though Saul could not get to David, yet Saul&#39;s son could find and be a friend to David. Also covered are 1 Samuel 23, 24, 25 and 26.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8097.mp4"
+    },
+    {
+      "title": "David, Part 8: Personal Priorities",
+      "caption": "This is part 8 in a series on the life of King David, the greatest king of Israel. This sermon covers the story of the ark of the covenant coming back to the house of God in Jerusalem. It also covers God&#39;s covenant with David regarding the building of a temple, and kindness extended to Mephibosheth.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8107.mp4"
+    },
+    {
+      "title": "David, Part 9: The Great Transgression",
+      "caption": "This is the 9th in a series on the life of David. This sermon focuses on 2 Samuel 11 and David&#39;s great sin. King David is at the zenith of his career and life when he was vulnerable. A lingering look led to sin and then eventually to murder. Uriah the Hittite, an innocent man, died to cover David&#39;s sin. He is a type of Christ who died and truly covered our sin.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8147.mp4"
+    },
+    {
+      "title": "David, Part 10: Great Repentance, Forgiveness, & Consequences",
+      "caption": "In this continued series on the life of David, we look at his great repentance and confession. The prophet Nathan confronts the king through a story that catches David off guard and convicts him. He repents and confesses. Yet judgments came against David. Though God forgave him, David suffered for his sins.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8157.mp4"
+    },
+    {
+      "title": "David, Part 11: Absalom, My Son",
+      "caption": "This is a series on the life of David. It focuses on the failures of David as a father and stories about terrible things that happened with his children. He began to lose the respect of the people. The story of Absalom and David is the story of the rebellion of a prince in heaven who turned against the Heavenly Father.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8167.mp4"
+    },
+    {
+      "title": "David, Part 12: For The Good of Many",
+      "caption": "This is a continuing series on the life of David, the shepherd boy who became one of the greatest king&#39;s of Israel. This sermon covers 2 Samuel 20 and 21 including the rebellion of Shema and the avenging of the Gibeonites. The theme in this section is on preserving the kingdom.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8207.mp4"
+    },
+    {
+      "title": "David, Part 13: Pride, Punishment, Provision",
+      "caption": "In this continued series on the life of David we will look at the story of him taking a census of Israel, something expressly forbidden by the Lord. Pastor Batchelor deals with a couple of discrepancies in 2 Samuel and 1 Chronicles. The lesson we learn is that pride is a poor substitute for relying upon the Lord. In love God chastises us in order that we may learn to follow truth.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8217.mp4"
+    },
+    {
+      "title": "David, Part 14: Setting the House in Order",
+      "caption": "This is the last message in a series on the life of David and deals with final events in his life. As he ages, Adonijah seeks to be king, but David indicated his Solomon would be king. Because David had been a man of war and shed innocent blood, he was not permitted to build a temple for God",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8237.mp4"
     }
   ]
 }

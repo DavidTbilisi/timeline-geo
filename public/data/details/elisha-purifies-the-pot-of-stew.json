@@ -4,13 +4,47 @@
   "period": 7,
   "titleEn": "Elisha Purifies the Pot of Stew",
   "titleKa": null,
-  "datesEn": "848 BC",
+  "datesEn": "848 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Elisha is teaching the sons of the prophets at Gilgal. When a stew is made, someone accidentally gathers a poisonous plant. When the men complain &#34;there is death in the pot,&#34; Elisha throws in some flour and the stew is made good.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Elijah had done much in building up the work of the Lord by the interest he displayed in these important centers of training where young men could receive a preparation for a life of ministry to their fellow men. Elisha continued his interest in these schools. Often he visited them to give necessary encouragement and counsel. He once visited Gilgal during a famine. Elijah came to visit and was sitting and talking with the sons of the prophets. The occasion was probably one of spiritual instruction. As Mary sat at the feet of Jesus, so these young men sat before Elisha and learned from him lessons of God. These would be regarded as precious hours, and the Holy Spirit would be present, bringing to the minds of the youth lessons of faith and confidence in God. They learned to appreciate the things of the Spirit more than their daily food.<BR /><BR />At some point Elisha instructed a pot be readied for food. Spiritual food is important, but the body also needs to be fed. Elisha was probably touched as he saw in the lean forms of the students the effects of the famine that was wasting the land. Interested in their spiritual welfare, he also took an interest in their temporal needs. Orders were given that the great pot should be set, so that all might be fed. The schools of the prophets were probably all situated in rural communities, where the students would have the opportunity to raise their own food and to receive a training in agricultural pursuits. Because of the scarcity of food, the students in the prophetic schools were evidently forced to go out in the fields to forage. <BR /><BR />One man found a wild vine with a gourd. The exact type of plant here mentioned has not been positively identified. Some have taken it to refer to a kind of wild cucumber or gourd, having the form of an egg and possessing a bitter taste. When eaten it causes pain and violent purging. The young men may have taken these wild cucumbers for ordinary ones, which were highly prized as food (Num. 11:5). The fact that a man is a prophet does not give him all knowledge, nor excuse him from exercising every care and precaution. This young man, not knowing the nature of the herbs before him, gathered poison and endangered the lives of all who partook of the fruits of his labors.<BR /><BR />While the stew was cooking, someone exclaimed, &#34;There is death in the pot!&#34; Probably the bitter taste immediately revealed the fact that the food was poisonous. It may have been mixed in the pot with other herbs that were perfectly wholesome, but the gourds spread their poison through the entire pot. Sin is the poison of death. Its influence spreads. Elisha asks for some meal. Whether the meal was a natural antidote for the poisonous herbs is not revealed. It may have had the same significance as had the salt that was thrown into the defiled waters of Jericho (ch. 2:20&#8212;22) The meal was wholesome, a source of life and health to those who partook of it. <BR /><BR />In the hand of the prophet it became a symbol of life which counteracted the evil effects of the seeds of death. Here is a spiritual lesson. The gospel of Christ is the bread of life to those under the condemnation of death. No matter how long or how much the sinner has partaken of the evil fruit of death, there is power in the gospel to heal and restore. All the evil that sin has wrought the Holy Spirit has power to undo. God has the antidote to every form of evil. Christ is the source of life eternal for every man who has the will to live (John 6:27, 33, 35).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 4:38-41",
+      "verses": [
+        {
+          "number": 38,
+          "line": "And Elisha came again to Gilgal: and there was a dearth in the land; and the sons of the prophets were sitting before him: and he said unto his servant, Set on the great pot, and seethe pottage for the sons of the prophets."
+        },
+        {
+          "number": 39,
+          "line": "And one went out into the field to gather herbs, and found a wild vine, and gathered thereof wild gourds his lap full, and came and shred them into the pot of pottage: for they knew them not."
+        },
+        {
+          "number": 40,
+          "line": "So they poured out for the men to eat. And it came to pass, as they were eating of the pottage, that they cried out, and said, O thou man of God, there is death in the pot. And they could not eat thereof."
+        },
+        {
+          "number": 41,
+          "line": "But he said, Then bring meal. And he cast it into the pot; and he said, Pour out for the people, that they may eat. And there was no harm in the pot."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "elisha",
+      "titleEn": "Elisha",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "the-prophet-elisha_8-6-2013 2-56-22 PM.jpg",
+      "caption": "&#34;The Prophet Elisha&#34; by Giorgio Vasari, c. 1566"
+    }
+  ],
+  "videos": []
 }

@@ -2,15 +2,31 @@
   "slug": "peace-of-augsburg",
   "id": 1372,
   "period": 12,
-  "titleEn": "Peace of Augsburg",
+  "titleEn": "Peace of Augsburg ",
   "titleKa": null,
-  "datesEn": "1555 AD",
+  "datesEn": "1555 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "An agreement that guaranteed Protestants and Catholics equal security in the divided Hapsburg Empire.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "As a result of the Protestant Reformation, Europe was literally being ripped apart. Disunity and chaos seemed to abound, and order and authority were severely lacking. In April 1546 Emperor Charles V (loyal to Catholicism) attacked the German princes (loyal to Protestantism). Because the princes had been divided in leadership, they were not prepared to retaliate sufficiently. Two years later Charles V won a decisive victory at the Battle of M&#252;hlberg. As a result, he reinstated Catholicism in Germany&#8212;known as the Augsburg Interim.<BR /><BR />However, the Augsburg Interim could not be enforced because the people on the continent demanded religious liberty. Charles V continued to try to fight and regain control of his Empire, but lost much of his support. He eventually gave up, largely due to health problems, and lived the rest of his days in a Spanish monastery. After his retirement, the Hapsburg Empire was divided. The Emperor&#39;s son, Philip, took control of Spain, Burgundy, and parts of Italy, and Charles V&#39;s brother, Ferdinand, took Germany and the eastern regions.<BR /><BR />In order to establish peace, religious concessions were necessary. The Peace of Augsburg was created in 1555 to fulfill that purpose. As a result, Protestants that accepted the Augsburg Confession were promised equal security and rights with the Catholics in those regions.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Peace-of-augsburg_1555_8-7-2013 9-06-10 AM.jpg",
+      "caption": "The Augsburg Conference, 16th century"
+    },
+    {
+      "file": "358px-Druck_Augsburger_Reichsfrieden_8-7-2013 9-06-10 AM.jpg",
+      "caption": "The front page of the treaty"
+    }
+  ],
+  "videos": []
 }

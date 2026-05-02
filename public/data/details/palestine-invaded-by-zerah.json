@@ -4,13 +4,68 @@
   "period": 7,
   "titleEn": "Palestine Invaded by Zerah",
   "titleKa": null,
-  "datesEn": "900 BC",
+  "datesEn": "900 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;shining.&#34; He is an &#34;Ethiopian&#34; and commander of Egypt&#39;s Nubian forces who attempts to plunder Jerusalem like Shishak with a great host, but is defeated in the battle at Mareshah.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Zerah the Ethiopian. As yet we have not been able to identify Zerah from contemporary records. Since there were Cushites in western Arabia and eastern Africa bordering on the Red Sea (see Gen. 10:6), Zerah may have been from that region. He may have had Libyan auxiliary forces in his army, from Egypt, where a Libyan dynasty ruled. Asa had done what he could to build up the national defenses and train an army (2 Chron. 14:6&#8212;8). So when Zerah struck, Judah was ready.<BR /><BR />Asa had prepared cities of defense and he had a large and well&#8212;equipped army. But his trust was not alone in arms or men, but in God. As he faced the enemy, he did so in the name of the Lord and as a representative of God. Facing Zerah in the name of the Lord, Asa felt that his own defeat would be a defeat for the Lord. The Lord enabled Asa to gain an amazing victory. Judah had powerful enemies, both to the north and to the south. <BR /><BR />Left to herself she would quickly have succumbed before the superior might of the forces arrayed against her. But with God&#39;s help she was invincible. The attack of Zerah was the last serious threat that Judah was to meet from the south. Henceforth her enemies were from the north&#8212;first, Assyria under Sennacherib, and then Babylon under Nebuchadnezzar, who brought the nation down in ruin.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Chronicles 14:9-15",
+      "verses": [
+        {
+          "number": 9,
+          "line": "And there came out against them Zerah the Ethiopian with an host of a thousand thousand, and three hundred chariots; and came unto Mareshah."
+        },
+        {
+          "number": 10,
+          "line": "Then Asa went out against him, and they set the battle in array in the valley of Zephathah at Mareshah."
+        },
+        {
+          "number": 11,
+          "line": "And Asa cried unto the LORD his God, and said, LORD, it is nothing with thee to help, whether with many, or with them that have no power: help us, O LORD our God; for we rest on thee, and in thy name we go against this multitude. O LORD, thou art our God; let not man prevail against thee."
+        },
+        {
+          "number": 12,
+          "line": "So the LORD smote the Ethiopians before Asa, and before Judah; and the Ethiopians fled."
+        },
+        {
+          "number": 13,
+          "line": "And Asa and the people that were with him pursued them unto Gerar: and the Ethiopians were overthrown, that they could not recover themselves; for they were destroyed before the LORD, and before his host; and they carried away very much spoil."
+        },
+        {
+          "number": 14,
+          "line": "And they smote all the cities round about Gerar; for the fear of the LORD came upon them: and they spoiled all the cities; for there was exceeding much spoil in them."
+        },
+        {
+          "number": 15,
+          "line": "They smote also the tents of cattle, and carried away sheep and camels in abundance, and returned to Jerusalem."
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 16:8",
+      "verses": [
+        {
+          "number": 8,
+          "line": "Were not the Ethiopians and the Lubims a huge host, with very many chariots and horsemen? yet, because thou didst rely on the LORD, he delivered them into thine hand."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "asa",
+      "titleEn": "Asa",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas1040_8-6-2013 12-10-11 PM.jpg",
+      "caption": "Invading army."
+    }
+  ],
+  "videos": []
 }

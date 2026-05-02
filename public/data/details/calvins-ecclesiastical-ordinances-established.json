@@ -2,15 +2,27 @@
   "slug": "calvins-ecclesiastical-ordinances-established",
   "id": 1365,
   "period": 12,
-  "titleEn": "Calvin's Ecclesiastical Ordinances Established",
+  "titleEn": "Calvin's Ecclesiastical Ordinances Established ",
   "titleKa": null,
-  "datesEn": "1541 AD",
+  "datesEn": "1541 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Consisted of four ordinances: pastors to preach, doctors to instruct believers, elders to discipline, and deacons to care for the poor.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "John Calvin was welcomed back to Geneva, Switzerland, in 1541. In less than two months time, he managed to enact his Ecclesiastical Ordinances. These ordinances were essentially designed to bring about &#34;pure discipline.&#34; In this sense, Geneva was to be considered the true Christian city. Within this new discipline, there were four positions to be held in the church. The first office held the highest authority, which was the pastor. Next came the elder, then the deacon, and finally the doctor (or teacher). The pastor and elder were responsible for maintaining church discipline, while the deacon and the doctor served the church in other various capacities.<BR /><BR />The Ecclesiastical Ordinances were incredibly strict. The pastors and elders met weekly (every Thursday) to administer church discipline. This group, known as the Consistory, had the power to excommunicate and hand the rejected person(s) over to the secular authorities to be punished.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "John_Calvin_07_8-7-2013 8-57-57 AM.jpg",
+      "caption": "John Calvin, EugÃ¨ne Delacroix von Adolphe Wacquez, 1866"
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,30 @@
   "period": 7,
   "titleEn": "Jose",
   "titleKa": null,
-  "datesEn": "712–627 BC",
+  "datesEn": "712&ndash;627 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh is salvation.&#34; He is a Judahite, the son of Eliezer, listed in Luke&#39;s genealogy of Jesus Christ. Jose is also spelled &#34;Jesus&#34; or &#34;Joshua.&#34;",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "eliezer",
+      "titleEn": "Eliezer",
+      "titleKa": null
+    },
+    {
+      "slug": "er",
+      "titleEn": "Er",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "AncestorOfJesusColor.jpg",
+      "caption": "Ancestor of Jesus"
+    }
+  ],
+  "videos": []
 }

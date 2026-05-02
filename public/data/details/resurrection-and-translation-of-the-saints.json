@@ -6,11 +6,72 @@
   "titleKa": null,
   "datesEn": "Future",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "When Christ returns for the second time to this earth, the righteous dead will be resurrected and, along with the righteous living, will be translated to heaven. The Bible teaches the wicked living at that time will be destroyed.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The New Testament presents the Second Advent as accompanied by the resurrection of the just (Luke 14:14 John 5:28, 29 6:40, 44 11:24 Acts 24:14, 15 1 Cor. 15:22, 23 1 Thess. 4:15&#8212;18), and this resurrection to life and immortality (Luke 20:35, 36 1 Cor. 15:52, 53) is the beginning of the millennium (Rev. 19 20).<BR /><BR />The Second Advent will mark the end of the present world order, and is therefore spoken of as the &#34;end of the world&#34; (Matt. 13:39, 40, 49 24:3 28:20). The phrase translated &#34;end of the world&#34; might better be rendered &#34;completion of the age&#34; or &#34;consummation of the age.&#34; The New Testament views time as a succession of ages. Eternity past is referred to literally as &#34;from the ages&#34; (Eph. 3:9 Col. 1:26 1 Cor. 2:7). <BR /><BR />Eternity future is described by expressions meaning literally &#34;into the ages&#34; (translated &#34;for ever&#34; Luke 1:33 Rom. 1:25 2 Cor. 11:31 Jude 25 etc.), &#34;into the ages of the ages&#34; (rendered &#34;for ever and ever&#34; etc. Gal. 1:5 1 Peter 4:11 Rev. 1:18 etc.), or simply &#34;ages to come&#34; (Eph. 2:7). Human existence is thought of as divided into the present age and the age to come (Matt. 12:32 Eph. 1:21). The present is an evil age (Gal. 1:4 cf. Luke 20:34) in which men die. This age will continue until the Parousia and the judgment, when the age to come will begin. The earth will remain, but will later be renovated to remove all traces of sin and death.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Thessalonians 4:16-17",
+      "verses": [
+        {
+          "number": 16,
+          "line": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:"
+        },
+        {
+          "number": 17,
+          "line": "Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord."
+        }
+      ]
+    },
+    {
+      "reference": "John 5:28-29",
+      "verses": [
+        {
+          "number": 28,
+          "line": "Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,"
+        },
+        {
+          "number": 29,
+          "line": "And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation."
+        }
+      ]
+    },
+    {
+      "reference": "Daniel 12:2",
+      "verses": [
+        {
+          "number": 2,
+          "line": "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt."
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 22:12",
+      "verses": [
+        {
+          "number": 12,
+          "line": "And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "christs-everlasting-kingdom",
+      "titleEn": "Christ's Everlasting Kingdom",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-chuas0017_8-7-2013 10-34-29 AM.jpg",
+      "caption": "Empty graves after the resurrection"
+    },
+    {
+      "file": "Second_Coming_2-27-2013 4-05-47 PM.jpg",
+      "caption": "The second coming of Christ when He returns &#34;to give to everyone according to his work (Revelation 22:12)"
+    }
+  ],
+  "videos": []
 }

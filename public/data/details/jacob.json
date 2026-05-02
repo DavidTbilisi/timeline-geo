@@ -4,18 +4,178 @@
   "period": 3,
   "titleEn": "Jacob",
   "titleKa": null,
-  "datesEn": "1786–1639 BC (147)",
+  "datesEn": "1786&ndash;1639 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;supplanter.&#34; He is the second of twin sons born to Isaac and Rebekah. He becomes a shepherd and deceives his father to obtain the birthright from Esau. He flees to Haran, marries Leah and Rachel, and becomes progenitor of the 12 tribes.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jacob. Isaac&#39;s 2nd son, twin of Esau, father of the 12 patriarchs, and a progenitor of the Hebrew people. Rebekah, Isaac&#39;s wife, bore Esau and Jacob 20 years after her marriage to Isaac. She had been childless, and Isaac had interceded with the Lord on her behalf when he was about 60 years old (Gen 25:21, 22). Prior to the birth of the twins the Lord told Rebekah that the elder should serve the younger, thus indicating that Jacob was to become inheritor of the birthright (v 23). <BR /><BR />The name Jacob commemorates the fact that Jacob was born grasping Esau&#39;s heel, an incident the parents noted and later seem to have taken as an omen of the destined relationship between the two brothers (Gen 25:26 27:36 Hos 12:3). While Esau took to the adventuresome life of the hunter, at which he excelled, Jacob grew up to be a &#34;quiet man&#34; who preferred the domestic, pastoral routine of the encampment (Gen 25:27, RSV). <BR /><BR />Rivalry developed between the two brothers because Isaac favored Esau, his first&#8212;born, while Rebekah was partial to Jacob. Isaac seems never to have been wholly reconciled to the idea that Jacob should become his heir, as implied by the prenatal communication from the Lord to Rebekah (Gen 25:23), but apparently preferred Esau because he admired his bold, adventuresome, masculine traits. Rebekah, on the other hand, remained loyal to the prenatal admonition, doubtless also appreciating Jacob&#39;s practical, industrious disposition (v 28).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 25:21-26",
+      "verses": [
+        {
+          "number": 21,
+          "line": "And Isaac intreated the LORD for his wife, because she was barren: and the LORD was intreated of him, and Rebekah his wife conceived."
+        },
+        {
+          "number": 22,
+          "line": "And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the LORD."
+        },
+        {
+          "number": 23,
+          "line": "And the LORD said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger."
+        },
+        {
+          "number": 24,
+          "line": "And when her days to be delivered were fulfilled, behold, there were twins in her womb."
+        },
+        {
+          "number": 25,
+          "line": "And the first came out red, all over like an hairy garment; and they called his name Esau."
+        },
+        {
+          "number": 26,
+          "line": "And after that came his brother out, and his hand took hold on Esau's heel; and his name was called Jacob: and Isaac was threescore years old when she bare them."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 49:33",
+      "verses": [
+        {
+          "number": 33,
+          "line": "And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "isaac",
+      "titleEn": "Isaac",
+      "titleKa": null
+    },
+    {
+      "slug": "jacob-fled-canaan-jacobs-ladder",
+      "titleEn": "Jacob Fled Canaan, Jacob's Ladder",
+      "titleKa": null
+    },
+    {
+      "slug": "jacob-finishes-first-7-years-for-laban",
+      "titleEn": "Jacob Finishes First 7 Years for Laban",
+      "titleKa": null
+    },
+    {
+      "slug": "jacob-marries-leah-and-rachel",
+      "titleEn": "Jacob Marries Leah and Rachel",
+      "titleKa": null
+    },
+    {
+      "slug": "reuben",
+      "titleEn": "Reuben",
+      "titleKa": null
+    },
+    {
+      "slug": "simeon",
+      "titleEn": "Simeon",
+      "titleKa": null
+    },
+    {
+      "slug": "levi",
+      "titleEn": "Levi",
+      "titleKa": null
+    },
+    {
+      "slug": "dan",
+      "titleEn": "Dan ",
+      "titleKa": null
+    },
+    {
+      "slug": "gad",
+      "titleEn": "Gad",
+      "titleKa": null
+    },
+    {
+      "slug": "naphtali",
+      "titleEn": "Naphtali",
+      "titleKa": null
+    },
+    {
+      "slug": "asher",
+      "titleEn": "Asher",
+      "titleKa": null
+    },
+    {
+      "slug": "judah",
+      "titleEn": "Judah",
+      "titleKa": null
+    },
+    {
+      "slug": "issachar",
+      "titleEn": "Issachar",
+      "titleKa": null
+    },
+    {
+      "slug": "zebulun",
+      "titleEn": "Zebulun",
+      "titleKa": null
+    },
+    {
+      "slug": "jacob-finishes-next-7-years-for-laban",
+      "titleEn": "Jacob Finishes Next 7 Years for Laban",
+      "titleKa": null
+    },
+    {
+      "slug": "dinah",
+      "titleEn": "Dinah",
+      "titleKa": null
+    },
+    {
+      "slug": "joseph",
+      "titleEn": "Joseph",
+      "titleKa": null
+    },
+    {
+      "slug": "jacob-leaves-haran",
+      "titleEn": "Jacob Leaves Haran",
+      "titleKa": null
+    },
+    {
+      "slug": "jacob-wrestles-angel",
+      "titleEn": "Jacob Wrestles Angel",
+      "titleKa": null
+    },
+    {
+      "slug": "benjamin",
+      "titleEn": "Benjamin",
+      "titleKa": null
+    },
+    {
+      "slug": "jacob-comes-to-hebron",
+      "titleEn": "Jacob Comes to Hebron",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-Jacob_8-5-2013 4-05-57 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-Jacob_8-5-2013 4-05-57 PM.jpg",
+      "caption": "Jacob wrestling the angel"
+    },
+    {
+      "file": "Jacobs Ladder_5-13-2013 4-41-12 PM.jpg",
+      "caption": "The 699 steps of Jacobs Ladder full length up the valley from Jamestown in St. Helena to top of Ladder Hill"
+    },
+    {
+      "file": "GoodSalt-prcas0129_8-7-2013 1-37-03 PM.jpg",
+      "caption": "Jacob&#39;s dream of the ladder"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Birthright and Bad Bargains",
+      "caption": "This sermon looks at the story of Isaac who intended to bless his eldest son Esau, but is tricked and blesses his younger son Jacob. The dynamics of Isaac blessing Jacob speak to us about Christ&#39;s sacrifice and blessing on God&#39;s people.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg7277.mp4"
     }
   ]
 }

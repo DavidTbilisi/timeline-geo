@@ -4,13 +4,39 @@
   "period": 8,
   "titleEn": "2nd Invasion of Jerusalem by Babylon",
   "titleKa": null,
-  "datesEn": "597 BC",
+  "datesEn": "597 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Nebuchadnezzar besieges Jerusalem and takes Jehoiachin captive. At that time he takes all the treasures from the house of the Lord. He also takes many talented captives leaving only the poorest in the land.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Nebuchadnezzar began his next campaign against Judah in the month of Kislev (Dec. 598&#8212;Jan. 597 b.c.), according to the Babylonian Chronicle. This was Nebuchadnezzar&#39;s second attack on Jerusalem. The first was in 605 b.c., the third year of Jehoiakim (Dan. 1:1). In despair Jehoiachin surrendered. The date according to the Babylonian Chronicle was Adar 2, year 7 of Nebuchadnezzar&#39;s reign in the Babylonian calendar (approximately March 16, 597 b.c.). The reference to the 8th year is the eighth year of Nebuchadnezzar, following Jewish reckoning, according to which it had begun in the autumn of 598 b.c. It was still the 7th year according to Babylonian reckoning.<BR /><BR />Some of the vessels of the Temple had already been taken to Babylon in 605, in Nebuchadnezzar&#39;s first attack on Jerusalem (Dan. 1:2 2 Chron. 36:7). No doubt the most valuable vessels that remained after the initial looting were now carried away. Some vessels were still allowed to remain (2 Kings 25:13&#8212;16 Jer. 27:18&#8212;20). Concerning the number of vessels taken to Babylon see Ezra 1:7&#8212;11. Isaiah had made such a prediction at the time of the visit of the Babylonian envoys to Hezekiah (2 Kings 20:17 Isa. 39:6). When speaking of those who were carried away (all Jerusalem) it speaks of the upper classes. By &#34;good figs&#34; (Jer. 24:1&#8212;7) Jeremiah symbolizes those who were carried away at this time. <BR /><BR />The prophet Ezekiel was among those carried away into Babylon. The years of his book are counted from the time of Jehoiachin&#39;s captivity (Eze. 1:1&#8212;3), 597 b.c. Taking away from Jerusalem its skilled workers would deprive the conquered city of that class of citizens who would be of most service in war, and would provide the conqueror with valuable helpers for his own extensive building enterprises.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 24:10",
+      "verses": [
+        {
+          "number": 10,
+          "line": "At that time the servants of Nebuchadnezzar king of Babylon came up against Jerusalem, and the city was besieged."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "nebuchadnezzar-ii",
+      "titleEn": "Nebuchadnezzar II",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas4205_8-28-2013 10-34-57 AM.jpg",
+      "caption": "Captives being taken"
+    },
+    {
+      "file": "Ezekiel_4-1-2013 5-02-52 PM.jpg",
+      "caption": "This impression is a reproduction of the prophet Ezekiel, originally painted by Michaelangelo between 1508 and 1512 for the ceiling of the Sistine Chapel."
+    }
+  ],
+  "videos": []
 }

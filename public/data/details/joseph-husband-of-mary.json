@@ -4,18 +4,53 @@
   "period": 9,
   "titleEn": "Joseph",
   "titleKa": null,
-  "datesEn": "30 BC–20 AD (~50)",
+  "datesEn": "30 <span>BC</span>&ndash;20 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;may he add.&#34; He is the husband of Mary and considered by his contemporaries the father of Jesus. When he discovers Mary is pregnant, he plans to divorce her, but is told by an angel she is with Child by the Holy Spirit. He is a carpenter.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Joseph. The husband of Mary (Mt 1:16 Lk 3:23), considered by his contemporaries to be the father of Jesus. He seems earlier to have been widowed and apparently had children by a former marriage (see Brethren of the Lord). While engaged to Mary he discovered that she was to have a child and decided to put her away without exposing her but after he was informed in a dream that the child had been miraculously conceived, he married her and brought her child up as his own son (Mt 1:18&#8212;25). <BR /><BR />The birth took place at Bethlehem because Joseph had taken Mary with him from Nazareth, their home town, to Bethlehem in compliance with a census decree that required every individual to register in the town of his ancestors. Since Joseph (as well as Mary) was a member of the tribe of Judah and a descendant of the house of David, he had to fulfill their registration duties at David&#39;s birthplace, Bethlehem (Lk 2:1&#8212;16). Joseph was also with Mary when the child Jesus was taken to the Temple for the customary presentation, and heard there the predictions of Simeon and Anna (vs 22&#8212;38). <BR /><BR />Before Herod could carry out his cruel murder of the infants at Bethlehem, Joseph was directed in a dream to go to Egypt hence he took Mary and Jesus to Egypt, returning to Palestine to settle in Nazareth after the death of Herod (Mt 2:13&#8212;23). As a faithful Jew he probably went regularly to Jerusalem every year for the great feasts. When Jesus was 12 years old He was taken on the annual pilgrimage to the Passover. It was on this occasion that His parents lost Him, and after a search of 3 days discovered Him in the Temple (Lk 2:41&#8212;50). Joseph, a carpenter (Mt 13:55), apparently taught his trade to Jesus (Mk 6:3). <BR /><BR />Joseph seems to have died before Jesus began His ministry, as seems evident from the fact that it was His mother and brothers who visited Him (Mt 12:46), and His brothers who attempted to advise Him (Jn 7:3&#8212;5) also Jesus&#39; request that the disciple John take care of His mother would hardly have been made if her husband had still been alive (ch 19:26, 27).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Matthew 1:16",
+      "verses": [
+        {
+          "number": 16,
+          "line": "And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 3:23",
+      "verses": [
+        {
+          "number": 23,
+          "line": "And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was the son of Heli,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "heli",
+      "titleEn": "Heli",
+      "titleKa": null
+    },
+    {
+      "slug": "jesus",
+      "titleEn": "Jesus",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-pppas0119_8-28-2013 2-33-30 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-pppas0119_8-28-2013 2-33-30 PM.jpg",
+      "caption": "Joseph, is the husband of Mary"
+    },
+    {
+      "file": "GoodSalt-lmlas0007_8-28-2013 2-33-30 PM.jpg",
+      "caption": "Joseph and Jesus in the carpenters shop"
     }
-  ]
+  ],
+  "videos": []
 }

@@ -4,13 +4,119 @@
   "period": 3,
   "titleEn": "God's Covenant with Abram / Smoking Furnace",
   "titleKa": null,
-  "datesEn": "1865 BC",
+  "datesEn": "1865 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "God appears to Abram in a vision to make a covenant that he would be the father of a great nation. God tells him to count the stars. Abram believes. Then God instructs him to cut five animals in half and appears in smoke and fire with a promise.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "God revealed Himself to Abram in a vision. Abram was still concerned about not having a heir. So God condescended to enter into a solemn covenant with Abram, in a form customary among the ancients. The expression &#34;to conclude&#34; or &#34;to make&#34; a covenant (v. 18), literally, &#34;to cut&#34; a covenant, was derived from the practice here described. The animals Abram was directed to use were precisely those later prescribed as sacrificial beasts by Moses (see Ex. 29:15 Num. 15:27 19:2 Deut. 21:3 Lev. 1:14). The requirement that the quadrupeds were to be &#34;three years old&#34; specifies mature animals.<BR /><BR />Each of the three animals was slaughtered and divided, and the two halves placed one against the other, with a space between. The birds were killed, but not divided. One was probably laid on one side, and the other opposite it. Those entering into the covenant were to walk between the divided pieces, symbolically vowing perpetual obedience to the provisions thus solemnly agreed upon. The lives of the animals pledged the lives of those participating in the covenant. This practice remained in force for many centuries, for we find it practiced in Jeremiah&#39;s time (Jer. 34:18, 19).<BR /><BR />Abram&#39;s faith and childlike trust in God did not make him &#34;righteous&#34; rather, the Lord, &#34;counted it to him for righteousness.&#34; For the first time these important concepts, faith and justification, are brought together. It is obvious that Abram had no &#34;righteousness&#34; until it was credited to him by God. And if he had none, no man has ever had. Abram was a sinner and needed redemption, as does every other human being but when righteousness was imputed to him, mercy and grace were also extended, effecting the pardon of his sin and bringing the rewards of righteousness. Here for the first time the full importance of faith is brought to view. Here also, for the first time, imputed righteousness is mentioned.<BR /><BR />The final phase of the divine revelation was designed to impress Abram with the surety of God&#39;s promises. A &#34;smoking furnace&#34; or &#34;burning lamp,&#34; symbols of the divine presence, passed between the severed carcasses, as Abram himself had done earlier, by daylight. That this was not merely a vision is evident from the fact that the animals were totally consumed. By this visible token God confirmed His covenant with Abram, who thus for the first time beheld the sacred symbol of the divine presence.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 15:1-21",
+      "verses": [
+        {
+          "number": 1,
+          "line": "After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I am thy shield, and thy exceeding great reward."
+        },
+        {
+          "number": 2,
+          "line": "And Abram said, LORD God, what wilt thou give me, seeing I go childless, and the steward of my house is this Eliezer of Damascus?"
+        },
+        {
+          "number": 3,
+          "line": "And Abram said, Behold, to me thou hast given no seed: and, lo, one born in my house is mine heir."
+        },
+        {
+          "number": 4,
+          "line": "And, behold, the word of the LORD came unto him, saying, This shall not be thine heir; but he that shall come forth out of thine own bowels shall be thine heir."
+        },
+        {
+          "number": 5,
+          "line": "And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be."
+        },
+        {
+          "number": 6,
+          "line": "And he believed in the LORD; and he counted it to him for righteousness."
+        },
+        {
+          "number": 7,
+          "line": "And he said unto him, I am the LORD that brought thee out of Ur of the Chaldees, to give thee this land to inherit it."
+        },
+        {
+          "number": 8,
+          "line": "And he said, LORD God, whereby shall I know that I shall inherit it?"
+        },
+        {
+          "number": 9,
+          "line": "And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon."
+        },
+        {
+          "number": 10,
+          "line": "And he took unto him all these, and divided them in the midst, and laid each piece one against another: but the birds divided he not."
+        },
+        {
+          "number": 11,
+          "line": "And when the fowls came down upon the carcases, Abram drove them away."
+        },
+        {
+          "number": 12,
+          "line": "And when the sun was going down, a deep sleep fell upon Abram; and, lo, an horror of great darkness fell upon him."
+        },
+        {
+          "number": 13,
+          "line": "And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years;"
+        },
+        {
+          "number": 14,
+          "line": "And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance."
+        },
+        {
+          "number": 15,
+          "line": "And thou shalt go to thy fathers in peace; thou shalt be buried in a good old age."
+        },
+        {
+          "number": 16,
+          "line": "But in the fourth generation they shall come hither again: for the iniquity of the Amorites is not yet full."
+        },
+        {
+          "number": 17,
+          "line": "And it came to pass, that, when the sun went down, and it was dark, behold a smoking furnace, and a burning lamp that passed between those pieces."
+        },
+        {
+          "number": 18,
+          "line": "In the same day the LORD made a covenant with Abram, saying, Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates:"
+        },
+        {
+          "number": 19,
+          "line": "The Kenites, and the Kenizzites, and the Kadmonites,"
+        },
+        {
+          "number": 20,
+          "line": "And the Hittites, and the Perizzites, and the Rephaims,"
+        },
+        {
+          "number": 21,
+          "line": "And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "abraham",
+      "titleEn": "Abraham",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Stars_5-15-2013 3-58-46 PM.jpg",
+      "caption": "God appears to Abram in a vision to make a covenant that he would be the father of a great nation and God tells him to count the stars."
+    },
+    {
+      "file": "tissot-Abram_Guarding_His_Sacrifice_001_7-31-2013 2-14-29 PM.jpg",
+      "caption": "Abram guarding his sacrifice. Artist:  James Joseph Jacques Tissot, c. 1896-1902"
+    }
+  ],
+  "videos": []
 }

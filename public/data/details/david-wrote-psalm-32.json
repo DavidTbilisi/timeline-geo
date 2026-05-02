@@ -4,13 +4,75 @@
   "period": 6,
   "titleEn": "David Wrote Psalm 32",
   "titleKa": null,
-  "datesEn": "991 BC",
+  "datesEn": "991 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "David writes Psalm 32 after his grievous sin with Bathsheba. It is a psalm of deep confession, repentance, and restoration.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Psalm 32 is a penitential psalm. It unites personal penitence with instruction to others. The psalm has the profound purpose of showing the blessedness of the forgiveness of sin. It was composed after David committed his grievous sin with Bath&#8212;sheba and is a record of his confession and the forgiveness he obtained (see 2 Sam. 11 12). Verses 1&#8212;5 deal with David&#39;s personal experience vs. 6&#8212;11 give counsel. The psalm is reported to have been a favorite of Augustine&#39;s to the moment of death. The theologian had the psalm written on the wall, that he might see it from his sickbed.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Psalms 32:1-11",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Blessed is he whose transgression is forgiven, whose sin is covered."
+        },
+        {
+          "number": 2,
+          "line": "Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile."
+        },
+        {
+          "number": 3,
+          "line": "When I kept silence, my bones waxed old through my roaring all the day long."
+        },
+        {
+          "number": 4,
+          "line": "For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah."
+        },
+        {
+          "number": 5,
+          "line": "I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and thou forgavest the iniquity of my sin. Selah."
+        },
+        {
+          "number": 6,
+          "line": "For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him."
+        },
+        {
+          "number": 7,
+          "line": "Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah."
+        },
+        {
+          "number": 8,
+          "line": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye."
+        },
+        {
+          "number": 9,
+          "line": "Be ye not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee."
+        },
+        {
+          "number": 10,
+          "line": "Many sorrows shall be to the wicked: but he that trusteth in the LORD, mercy shall compass him about."
+        },
+        {
+          "number": 11,
+          "line": "Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "390px-Saint_Augustine_-_by_Sandro_Botticelli_050_8-22-2013 2-23-53 PM.jpg",
+      "caption": "Augustine, Sandro Botticelli, c. 1480 ... Psalm 32 was a favorite of Augustine&#39;s."
+    }
+  ],
+  "videos": []
 }

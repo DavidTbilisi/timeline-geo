@@ -4,13 +4,38 @@
   "period": 7,
   "titleEn": "Shalmaneser V",
   "titleKa": null,
-  "datesEn": "772–722 BC",
+  "datesEn": "772&ndash;722 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;the god Shulman is superior.&#34; The son and successor of Tiglath&#8212;Pileser III. When King Hosea of Israel turns to Egypt, Shalmaneser marches to Samaria and begins a 3&#8212;year siege which ends with the fall of Samaria just before he dies.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Shalmaneser V (727&#8212;722 b.c.), son and successor of Tiglath&#8212;pileser III. Hardly any contemporary records of this king have survived, and our knowledge of the events of his brief reign depends mainly on the Bible (2 Ki 17:3 2 Ki 18:9) and Josephus (Ant. ix. 14). Early in his reign he carried out a campaign against the Phoenicians. At this time King Hosea of Israel assured Shalmaneser of his loyalty, but later, trusting in Egypt, rebelled against his Assyrian overlord. Shalmaneser marched into Israel and began the 3&#8212;year siege of Samaria which ended with the destruction of the city, the deportation of its population, and the cessation of the kingdom of Israel (2 Ki 17:3&#8212;6). Although Sargon II, the successor of Shalmaneser, claimed later to have conquered Samaria in his 1st regnal year, the chronological data of the Bible seem to indicate that Samaria fell shortly before Shalmaneser&#39;s death, in 723/22 b.c..",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 17:3",
+      "verses": [
+        {
+          "number": 3,
+          "line": "Against him came up Shalmaneser king of Assyria; and Hoshea became his servant, and gave him presents."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 18:9",
+      "verses": [
+        {
+          "number": 9,
+          "line": "And it came to pass in the fourth year of king Hezekiah, which was the seventh year of Hoshea son of Elah king of Israel, that Shalmaneser king of Assyria came up against Samaria, and besieged it."
+        }
+      ]
+    }
+  ],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "Shalmaneser_V.jpg",
+      "caption": "Illustration of Shalmaneser V in 1553 published by Guillaume Rouille"
+    }
+  ],
+  "videos": []
 }

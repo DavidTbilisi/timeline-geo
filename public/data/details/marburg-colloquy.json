@@ -2,15 +2,35 @@
   "slug": "marburg-colloquy",
   "id": 1353,
   "period": 12,
-  "titleEn": "Marburg Colloquy",
+  "titleEn": "Marburg Colloquy ",
   "titleKa": null,
-  "datesEn": "1529 AD",
+  "datesEn": "1529 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A meeting held at Marburg Castle, Germany, to resolve a disagreement between Luther and Zwingli over the presence of Christ in the Lord&#39;s Supper.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Marburg Colloquy (a colloquy is a formal gathering of theologians who assemble to discuss various theological issue) dealt with the issue of the Lord&#39;s Supper. The main question essentially asked if the presence of Christ was literally in the bread and wine or if it was simply symbolic. The debates took place between a Swiss party and the Wittenberg party and met between October 1 and 4, 1529. <BR /><BR />The Swiss group included Ulrich Zwingli, Johannes Oecolamadius, Martin Bucer, Wolfgang Capito, and Kasper Sturm. The Wittenberg group included Martin Luther, Philip Melanchthon, Friedrich Myconius, Justus Jonas, Justus Menius, Caspar Creuziger, and George Roerer.<BR /><BR />Although the two groups did not come to an agreement at Marburg, they all did sign the Marburg Articles. In the Articles, the two groups found agreement on 14 of 15 points. However, the Swiss continued to believe that the real presence of Christ was not in the bread and wine, and the Wittenberg party believed that it was.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Marburger-Religionsgesprach_2-26-2013 3-13-29 PM.jpg",
+      "caption": "Anonymous wood carving, 1557"
+    },
+    {
+      "file": "92831905_2-26-2013 3-13-29 PM.jpg",
+      "caption": "Portrait of Martin Luther by Lucas Cranach the Elder."
+    },
+    {
+      "file": "Ulrich-Zwingli-1_2-26-2013 3-13-29 PM.jpg",
+      "caption": "Huldrych Zwingli as depicted by Hans Asper in an oil portrait from 1531 located at the The Winterthur Museum of Art."
+    }
+  ],
+  "videos": []
 }

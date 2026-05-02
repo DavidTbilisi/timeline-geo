@@ -4,18 +4,64 @@
   "period": 6,
   "titleEn": "Jonathan",
   "titleKa": null,
-  "datesEn": "1062–1010 BC (~52)",
+  "datesEn": "1062&ndash;1010 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;God has given.&#34; Eldest son of King Saul and commander of the army. Jonathan makes a surprise attack on the Philistines and brings great victory. His father almost kills him. He is David&#39;s best friend. He dies with his father in Gilboa.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jonathan. The eldest son of King Saul (1 Sa 14:49), and commander of an army corps (ch 13:2). He smote a Philistine garrison stationed at Geba, and as a result, precipitated war between Israel and the Philistines. He then made a surprise attack on the Philistines at Michmash, which created such confusion in their camp that Saul won an easy victory. In the ensuing pursuit Jonathan ate some wild honey, and thus unknowingly broke a prohibition of his father that no one, under penalty of death, should eat anything during the pursuit of the enemy. <BR /><BR />This nearly cost Jonathan&#39;s life, but the people intervened and prevented Saul from killing his son (chs 13:3&#8212;7 14:1&#8212;46). When David slew Goliath, Jonathan became a friend of the valiant shepherd boy from Bethlehem (ch 18:1&#8212;4). Their friendship grew deeper as the years went by, in spite of the enmity of Saul against David. This unselfish friendship almost cost Jonathan his life when Saul in a fit of anger threw a javelin at him for defending David, who he knew would become the future king of Israel (1 Sa 19:1&#8212;7 20:1&#8212;42). Later, when David lived in southern Judah as a fugitive from Saul&#39;s wrath, the two friends had their last recorded meeting (ch 23:16&#8212;18). Jonathan perished with his father and two brothers in the battle of Gilboa, in which the Israelites were defeated by the Philistines (1 Sa 31:1, 2 1 Chr 10:1, 2). <BR /><BR />His body, with those of other members of the royal family, was fastened to the wall of Beth&#8212;shean. But the men of Jabesh&#8212;gilead, in gratitude for having been saved by Saul on an earlier occasion, crossed the Jordan, rescued the bodies, and gave them an honorable burial (1 Sa 31:10&#8212;13 1 Chr 10:8&#8212;12). David was deeply moved by Jonathan&#39;s death and mourned for him, composing the beautiful elegy recorded in 2 Sa 1:17&#8212;27. Jonathan left one lame son, Mephibosheth (or Merib&#8212;baal), to whom David showed kindness for Jonathan&#39;s sake (chs 4:4 9:1&#8212;13 19:24&#8212;30). Jonathan&#39;s descendants of several generations are listed in the Bible record (1 Chr 8:34&#8212;40 1 Chr 9:40&#8212;44).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Samuel 14:49",
+      "verses": [
+        {
+          "number": 49,
+          "line": "Now the sons of Saul were Jonathan, and Ishui, and Melchishua: and the names of his two daughters were these; the name of the firstborn Merab, and the name of the younger Michal:"
+        }
+      ]
+    },
+    {
+      "reference": "1 Samuel 31:6",
+      "verses": [
+        {
+          "number": 6,
+          "line": "So Saul died, and his three sons, and his armourbearer, and all his men, that same day together."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "saul",
+      "titleEn": "Saul",
+      "titleKa": null
+    },
+    {
+      "slug": "jonathan-and-his-armorbearer-attack-philistines",
+      "titleEn": "Jonathan and Armorbearer Attack",
+      "titleKa": null
+    },
+    {
+      "slug": "mephibosheth",
+      "titleEn": "Mephibosheth",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas0406_8-6-2013 4-56-49 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas0406_8-6-2013 4-56-49 PM.jpg",
+      "caption": "Jonathan said to David, &#34;Go in peace, for the two of us have sworn together in the name of the Lord saying, &#39;The Lord will be between me and you and between my descendants and your descendants forever.&#39;&#34; (1 Samuel 20:42)"
+    },
+    {
+      "file": "GoodSalt-prcas0681_8-13-2013 3-59-49 PM.jpg",
+      "caption": "David and Jonathan"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Jonathan",
+      "caption": "This sermon looks at the Bible character of Jonathan and lessons we can learn from his life for our own Christian living. Jonathan was a man of action. He didn&#39;t just talk about right, he took action. He was also a humble man and didn&#39;t need to be first.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg6097.mp4"
     }
   ]
 }

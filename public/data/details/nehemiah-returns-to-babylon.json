@@ -4,13 +4,39 @@
   "period": 8,
   "titleEn": "Nehemiah Returns to Babylon",
   "titleKa": null,
-  "datesEn": "432 BC",
+  "datesEn": "432 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After having served as governor of Judah for 12 years, Nehemiah goes back to Susa Shushan in Persia. He then returns to serve as governor again. During his absence the people fall into spiritual apathy and need reformation.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Nehemiah returned to Persia for a period of time. The stay of Nehemiah at the court of Persia must have continued longer than a year, for it seems unlikely that so many illegal acts on the part of the Jewish community as Nehemiah discovered upon his return could have occurred in so short a time. At some point he returned to Jerusalem. It is from Nehemiah 13:6 only that we know of Nehemiah&#39;s two terms as governor. His first term was for 12 years (ch. 5:14), but no indication is given of the length of his second term. It must have ended before 407 b.c., when, we know from an Elephantine letter, the governor of Judea was Bigvai (see on ch. 12:11).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Nehemiah 13:6-7",
+      "verses": [
+        {
+          "number": 6,
+          "line": "But in all this time was not I at Jerusalem: for in the two and thirtieth year of Artaxerxes king of Babylon came I unto the king, and after certain days obtained I leave of the king:"
+        },
+        {
+          "number": 7,
+          "line": "And I came to Jerusalem, and understood of the evil that Eliashib did for Tobiah, in preparing him a chamber in the courts of the house of God."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "nehemiah",
+      "titleEn": "Nehemiah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas1626_8-7-2013 1-58-49 PM.jpg",
+      "caption": "Nehemiah"
+    }
+  ],
+  "videos": []
 }

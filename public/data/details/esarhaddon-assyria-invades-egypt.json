@@ -4,13 +4,25 @@
   "period": 7,
   "titleEn": "Esarhaddon Assyria Invades Egypt",
   "titleKa": null,
-  "datesEn": "675 BC",
+  "datesEn": "675 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Esarhaddon was the first Assyrian king to conquer Egypt. He organized into the vast Assyrian empire of the 8th century BC.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "An Assyrian king, the son and successor of Sennacherib he reigned 681&#8212;669 b.c. Upon his accession Esarhaddon began to rebuild Babylon, which his father had destroyed. Since his mother was a Babylonian princess, he was more favorably disposed to the Babylonians than was his father. Esarhaddon is especially known for his conquest of Egypt, which he organized into an Assyrian province. He also waged successful wars against Phoenician and Syrian kings. He had himself depicted on monuments as holding in his right hand ropes attached to rings in the lips of the Egyptian king Taharka Biblical Tirhakah and the king of Tyre, one of whom kneels and the other stands shackled before him.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "esarhaddon",
+      "titleEn": "Esarhaddon",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "446px-Louvre_042005_10_8-27-2013 3-25-24 PM.jpg",
+      "caption": "Taharka, Photographer: Neithsabes"
+    }
+  ],
+  "videos": []
 }

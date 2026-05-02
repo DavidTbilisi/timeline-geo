@@ -4,13 +4,63 @@
   "period": 7,
   "titleEn": "Jehoshaphat Sends Levites Out to Teach the Law",
   "titleKa": null,
-  "datesEn": "869 BC",
+  "datesEn": "869 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "In the third year of his reign, Jehoshaphat, the 4th king of the southern kingdom of Judah, sends princes, Levites, and priests throughout the land to teach the law of God. God greatly blesses him at this time.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "King Jehoshaphat sent to the princes in various parts of the land and directed them to arrange for the instruction of the people, presumably by the Levites and priests. They themselves did not do the actual preaching. Moses had given important instruction which, if heeded, would mean much to the nation. Jehoshaphat understood that the prosperity of his nation depended upon obedience to the commands of the Lord. <BR /><BR />He therefore did all that was in his power to see that the people became acquainted with the divine requirements, that they might put away sin and walk fully in the ways of the Lord. The king sent these spiritual leaders throughout all the cities. Jehoshaphat&#39;s measures were not halfhearted. Throughout the country the priests were sent with the commission to instruct the people in the law of the Lord and the ways of righteousness. A spiritual awakening in all parts of the nation was the result of the king&#39;s earnest efforts for his people. He became Judah&#39;s first great reforming king.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Chronicles 17:7-12",
+      "verses": [
+        {
+          "number": 7,
+          "line": "Also in the third year of his reign he sent to his princes, even to Benhail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah."
+        },
+        {
+          "number": 8,
+          "line": "And with them he sent Levites, even Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tobadonijah, Levites; and with them Elishama and Jehoram, priests."
+        },
+        {
+          "number": 9,
+          "line": "And they taught in Judah, and had the book of the law of the LORD with them, and went about throughout all the cities of Judah, and taught the people."
+        },
+        {
+          "number": 10,
+          "line": "And the fear of the LORD fell upon all the kingdoms of the lands that were round about Judah, so that they made no war against Jehoshaphat."
+        },
+        {
+          "number": 11,
+          "line": "Also some of the Philistines brought Jehoshaphat presents, and tribute silver; and the Arabians brought him flocks, seven thousand and seven hundred rams, and seven thousand and seven hundred he goats."
+        },
+        {
+          "number": 12,
+          "line": "And Jehoshaphat waxed great exceedingly; and he built in Judah castles, and cities of store."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jehoshaphat",
+      "titleEn": "Jehoshaphat",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas2686_8-6-2013 1-59-43 PM.jpg",
+      "caption": "Jehoshaphat sends Levites out to teach the Law."
+    },
+    {
+      "file": "Tomb of Jehoshaphat pediment, tb012603234 copy_4-17-2013 12-16-10 PM.jpg",
+      "caption": "Tomb of Jehoshaphat pediment in Jerusalem"
+    },
+    {
+      "file": "Jehoshaphat Allies with Ahab_4-17-2013 12-16-10 PM.jpg",
+      "caption": "Jehoshaphat and Ahab ask the Prophets (2 Chronicles, Chapter 18). Woodcut after a drawing by Julius Schnorr von Carolsfeld (German painter, 1794 - 1872)"
+    }
+  ],
+  "videos": []
 }

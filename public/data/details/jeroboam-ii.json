@@ -4,18 +4,53 @@
   "period": 7,
   "titleEn": "Jeroboam II",
   "titleKa": null,
-  "datesEn": "820–753 BC (~67)",
+  "datesEn": "820&ndash;753 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;may the people multiply.&#34; He is the son of Joash, the 14th king of Israel and referred to as Jeroboam II to distinguish him from Jeroboam I. He is one of the strongest kings of Israel and rules for 41 years. Amos and Hosea live then.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jeroboam II. The 14th king of Israel (if Tibni is included in the count), son of Joash (or Jehoash), sometimes called Jeroboam II to distinguish him from Jeroboam, 1. His reign lasted 41 years (c. 793&#8212;c. 753 b.c., including an 11&#8212;year coregency with his father c. 793&#8212;c. 782 b.c., as seems to be indicated from chronological synchronisms. see Chronology, V, 2). Either prior to the reign of Jeroboam or during the early years of his rule, the prophet *Jonah predicted that the new king would recover the territories in the north and east that in former times had belonged to Israel (2 Ki 14:25). Jeroboam fulfilled this prophecy. He became the strongest king of the dynasty of Jehu, if not of all the kings who occupied the throne of the northern kingdom. The Biblical record about his reign is extremely brief, consisting of only 7 verses (vs 23&#8212;29), yet the brief account of his military successes shows clearly that no ruler of the northern kingdom either before or after him could point to greater achievements than Jeroboam II. He conquered Damascus and Hamath on the Orontes, and recovered most of the territory of Syria and Transjordan down to the Dead Sea, so that his territory included all that David and Solomon had held, with the exception of Judah. It was fortunate for him that Assyria was experiencing a period of weakness during his reign, and could therefore not interfere with his expansionist activities.<BR /><BR />While the kingdom of Israel enjoyed political prestige and economic prosperity, the moral and religious state was extremely low. The gloomy picture painted by the prophets Amos and Hosea of the conditions prevailing under Jeroboam shows that in spite of extravagant sacrifices and the celebration of religious feasts, the country was morally corrupt (Amos 5:21, 22 2:6&#8212;8 Hos 6:6&#8212;10). Only 6 months after Jeroboam&#39;s death his dynasty met its end by the assassination of his son Zechariah (2 Ki 15:8&#8212;11). It is amazing that in spite of the gross wickedness prevailing, a certain measure of religious tolerance was exercised. When Amos, a citizen of the southern kingdom, uttered his prophecies of woe against the house of Jeroboam in the sanctuary city of Bethel, the priest of Bethel reported the matter to the king, yet nothing was done to Amos except that he was bidden to leave the territory of the northern kingdom (Amos 7:10&#8212;17).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 14:23",
+      "verses": [
+        {
+          "number": 23,
+          "line": "In the fifteenth year of Amaziah the son of Joash king of Judah Jeroboam the son of Joash king of Israel began to reign in Samaria, and reigned forty and one years."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 14:29",
+      "verses": [
+        {
+          "number": 29,
+          "line": "And Jeroboam slept with his fathers, even with the kings of Israel; and Zachariah his son reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "joash-or-jehoash",
+      "titleEn": "Joash (or Jehoash)",
+      "titleKa": null
+    },
+    {
+      "slug": "zechariah",
+      "titleEn": "Zechariah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-Jeroboam_8-1-2013 5-29-02 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-Jeroboam_8-1-2013 5-29-02 PM.jpg",
+      "caption": "Jeroboam bowing before an idol."
+    },
+    {
+      "file": "Jeroboam_II.jpg",
+      "caption": "Illustration of Jeroboam in 1553 published by Guillaume Rouille"
     }
-  ]
+  ],
+  "videos": []
 }

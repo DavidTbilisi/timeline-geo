@@ -4,13 +4,51 @@
   "period": 8,
   "titleEn": "Ezekiel's Wife",
   "titleKa": null,
-  "datesEn": "620–588 BC",
+  "datesEn": "620&ndash;588 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "While in captivity in Babylon, Ezekiel learns that his wife will die. The Lord instructs him not to mourn in the usual fashion. The people inquire of the prophet&#8212;priest the strange meaning of his actions. The sanctuary will be destroyed.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Ezekiel is informed that his wife, whom he deeply loves, is about to die. We need not infer from the language used here that her death was the result of a direct stroke by God. His wife may have been ill for some time, and God may have warned him of her approaching death. By figure God is frequently said to do that which He permits or does not prevent (see 2 Chron. 18:18). It is Satan who is the author of sin, suffering, and death. However, God delights to take that which the enemy brings upon us to annoy, and make it serve some good end (see Rom. 8:28). Here the loss of the desire of Ezekiel&#39;s eyes was used to impress vividly upon the minds of the people the divine message.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Ezekiel 24:15-18",
+      "verses": [
+        {
+          "number": 15,
+          "line": "Also the word of the LORD came unto me, saying,"
+        },
+        {
+          "number": 16,
+          "line": "Son of man, behold, I take away from thee the desire of thine eyes with a stroke: yet neither shalt thou mourn nor weep, neither shall thy tears run down."
+        },
+        {
+          "number": 17,
+          "line": "Forbear to cry, make no mourning for the dead, bind the tire of thine head upon thee, and put on thy shoes upon thy feet, and cover not thy lips, and eat not the bread of men."
+        },
+        {
+          "number": 18,
+          "line": "So I spake unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ezekiel",
+      "titleEn": "Ezekiel",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Death of Ezekiel's wife IB-760_7-31-2013 4-21-18 PM.jpg",
+      "caption": "Death of Ezekiel&#39;s wife"
+    },
+    {
+      "file": "GoodSalt-EzekielsWife_8-6-2013 11-09-11 AM.jpg",
+      "caption": "Ezekiel&#39;s Wife"
+    }
+  ],
+  "videos": []
 }

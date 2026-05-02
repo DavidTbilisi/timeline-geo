@@ -4,13 +4,40 @@
   "period": 7,
   "titleEn": "Juda",
   "titleKa": null,
-  "datesEn": "827–747 BC",
+  "datesEn": "827&ndash;747 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;let God be praised.&#34; There are many similar names and different spellings for &#34;Juda&#34;: Judah, Judas, etc. This &#34;Juda&#34; KJV is found in the genealogy of Jesus in Luke as the son of Joseph. He was from Judah before the exile to Babylon.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:30",
+      "verses": [
+        {
+          "number": 30,
+          "line": "Which was the son of Simeon, which was the son of Juda, which was the son of Joseph, which was the son of Jonan, which was the son of Eliakim,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "joseph-son-of-jonan",
+      "titleEn": "Joseph",
+      "titleKa": null
+    },
+    {
+      "slug": "simeon-son-of-juda",
+      "titleEn": "Simeon",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-wjpas0408_8-21-2013 2-44-59 PM.jpg",
+      "caption": "Ancestor of Jesus"
+    }
+  ],
+  "videos": []
 }

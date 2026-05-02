@@ -4,18 +4,47 @@
   "period": 6,
   "titleEn": "David a Shepherd Boy",
   "titleKa": null,
-  "datesEn": "1029 BC",
+  "datesEn": "1029 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "When Samuel is instructed to anoint a new king to replace Saul, he goes to Jesse in Bethlehem. None of the sons presented are right, so he asks if there are any more. Jesse says, &#34;There remains yet the youngest ... he is keeping the sheep.&#34;",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Why does God choose certain men to be His representatives, passing others by? What difference was there in His choice of Saul and His choice of David? Being omniscient, God knew precisely the course Saul would take, yet anointed him and promised to be with him (ch. 10:7). Contrary to their own best interests and to His will for them, God answered the demand of the people for a king. It is clear that Saul was popular with the people&#8212;a king after their heart, but not God&#39;s. They were not thinking of spiritual leadership but of national strength. When chosen, Saul had serious handicaps. God recognized these, yet forewarned him of the dangers he would meet, and gave him definite counsel on how to meet them.<BR /><BR />With David the case was different. There is no evidence that the people had become dissatisfied with Saul in fact they were entirely satisfied with the results of the Amalekite campaign. David was the youngest in his father&#39;s house, and in the Orient age carried with it respect and priority (Gen. 29:25, 26). He was a stripling, with no claim to recognition even from the members of his own household (1 Sam. 17:28). He did not have the lofty stature of Saul, nor the physique of Samson. Saul was called from the plow in response to the urgent pleas of the elders for a king. He had little time for training. David was called from tending sheep, while yet a lad, and had more than a decade in which to prepare for his arduous tasks as leader of the twelve tribes.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Samuel 16:11",
+      "verses": [
+        {
+          "number": 11,
+          "line": "And Samuel said unto Jesse, Are here all thy children? And he said, There remaineth yet the youngest, and, behold, he keepeth the sheep. And Samuel said unto Jesse, Send and fetch him: for we will not sit down till he come hither."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-stdas0448_8-6-2013 5-24-40 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-stdas0448_8-6-2013 5-24-40 PM.jpg",
+      "caption": "David as a young shepherd boy playing his harp while watching sheep"
+    },
+    {
+      "file": "David Annointed_5-2-2013 12-28-26 PM.jpg",
+      "caption": "Bible story from the book of 2 Samuel 2:4. David at Hebron is anointed king over the house of Judah. From an original woodcut published in 1860 by George Wigland, Leipzig."
+    },
+    {
+      "file": "GoodSalt-prcas1260_8-6-2013 5-24-40 PM.jpg",
+      "caption": "David and Goliath"
+    },
+    {
+      "file": "GoodSalt-prcas6060_8-6-2013 5-24-40 PM.jpg",
+      "caption": "David the shepherd boy"
     }
-  ]
+  ],
+  "videos": []
 }

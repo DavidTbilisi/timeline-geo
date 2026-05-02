@@ -4,13 +4,63 @@
   "period": 8,
   "titleEn": "Cyrus II First Decree, Resettlement Begins",
   "titleKa": null,
-  "datesEn": "537 BC",
+  "datesEn": "537 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "In the first year of Cyrus&#39; rule as king of Persia he proclaims that the Jews may return to Jerusalem and rebuild the Temple. The articles from the Temple are also returned. Isaiah prophesied about Cyrus by name.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The city of Babylon fell to Persian arms on Tishri 16 (Oct. 12), 539 b.c. (see p. 55), and Cyrus himself entered the city on Marcheshvan 3 (Oct. 29) of the same year. However, it was not until the next New Year&#39;s Day, Nisan 1 (March 24), 538 b.c., that the first Babylonian regnal year began. All documents previous to this day were dated in his &#34;accession year&#34;. The Jews, on the other hand, counted the regnal years of Persian rulers according to their own calendar. By the Jewish civil calendar the first full year from the fall of Babylon extended from the autumn of 538 to the autumn of 537 b.c.<BR /><BR />The edict of Cyrus for the return of the Jews seems to have been issued in the former capital city of the Medes, Ecbatana (Achmetha), which became one of the summer residences of the Persian kings. A copy of the decree found in the archives of Ecbatana some years later (Ezra 6:2) implies that Cyrus was there sometime during his first year. Evidence from the contemporary archives of the banking firm of &#34;Egibi & Sons&#34; in the city of Babylon indicates that Cyrus was in Ecbatana in or preceding the month of September, 537 b.c., which fell toward the close of the first full Jewish calendar year after the fall of Babylon.<BR /><BR />Cyrus felt that he was an appointee of heaven, and that as such he had a divine commission to fulfill. In the famous inscription on the clay barrel of Cyrus, now in the British Museum, the king says, &#34;He [the Babylonian god Marduk] scanned and looked [through] all the countries, searching for a righteous ruler willing to lead him [in the annual procession]. He pronounced the name of Cyrus, king of Anshan, declaring him to be the ruler of all the world.&#34; These words, written for the Babylonians, are so similar to those used in the proclamation on behalf of the Jews that they, in combination with the other typical official terms used, constitute strong proof of the authenticity of the decree. The only difference consists in the names of the gods. In Babylonian proclamations the name of the Babylonian god Marduk was naturally used, while in one written for the Jews the name of their God was employed.<BR /><BR />Permission was granted the Jews to collect financial contributions from their heathen friends for the Temple to be built in Jerusalem. It is noteworthy that the public pronouncement of Cyrus&#39; decree contains this appeal to the citizens of the empire without mentioning the fact that Cyrus had made provision for the rebuilding of the Temple from public funds, as is stated in the copy of the decree deposited in the government archives at Ecbatana (see on ch. 6:2). The reason is obvious. Had the proclamation mentioned the royal subsidy, few people would have felt impressed to give to the enterprise themselves. Without knowing that the government was paying part of the cost, many heathen who were friendly disposed toward the Jews may have been more willing to make private contributions.",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "2 Chronicles 36:22-23",
+      "verses": [
+        {
+          "number": 22,
+          "line": "Now in the first year of Cyrus king of Persia, that the word of the LORD spoken by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,"
+        },
+        {
+          "number": 23,
+          "line": "Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? The LORD his God be with him, and let him go up."
+        }
+      ]
+    },
+    {
+      "reference": "Ezra 1:1-4",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,"
+        },
+        {
+          "number": 2,
+          "line": "Thus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah."
+        },
+        {
+          "number": 3,
+          "line": "Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD God of Israel, (he is the God,) which is in Jerusalem."
+        },
+        {
+          "number": 4,
+          "line": "And whosoever remaineth in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that is in Jerusalem."
+        }
+      ]
+    },
+    {
+      "reference": "Isaiah 44:28",
+      "verses": [
+        {
+          "number": 28,
+          "line": "That saith of Cyrus, He is my shepherd, and shall perform all my pleasure: even saying to Jerusalem, Thou shalt be built; and to the temple, Thy foundation shall be laid."
+        }
+      ]
+    }
+  ],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "GoodSalt-prcas0503_8-28-2013 11-58-23 AM.jpg",
+      "caption": "Rebuilding the temple"
+    }
+  ],
+  "videos": []
 }

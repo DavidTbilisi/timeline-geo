@@ -4,13 +4,97 @@
   "period": 9,
   "titleEn": "The First Leper Healed",
   "titleKa": null,
-  "datesEn": "29 AD",
+  "datesEn": "29 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After presenting the Sermon on the Mount, Jesus descends and multitudes follow Him. A leper approaches Him and says, &#34;Lord, if You are willing, You can make me clean.&#34; Jesus touches Him and says, &#34;I am willing be cleansed.&#34; The leper is healed.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In healing a leper, Jesus broke down prejudices against those with this disease. The Jews popularly regarded leprosy as a divine judgment on sin (to which also they attributed being born blind see John 9:2). They had imbibed an old pagan idea (see an Old Babylonian omen text in Archiv f&#252;r Orientforshung 18:62 naming certain symptoms, apparently of leprosy, as meaning abandonment by God and man). Hence they made no efforts toward alleviation or cure indeed, they knew no remedy for true leprosy&#8212;only isolation.<BR /><BR />The leper probably hesitated to approached Jesus. Three great obstacles probably presented themselves to the mind of this afflicted man, any one of which might have been sufficient to make the prospect of healing seem remote, if not impossible. In the first place, as far as is known, there was no record of such a healing since Naaman&#39;s, some 800 years before. A second obstacle, even more formidable, was the popular belief that he was under the curse of God. Would Jesus be willing to heal him? The third obstacle presented a more practical problem. How could he get near enough to Jesus to present his requests? The ritual law strictly forbade him to approach or mingle with others, and wherever Jesus went the people thronged about Him. This effectively barred the suffering man from Jesus&#39; immediate presence.<BR /><BR />When the man asked Jesus to heal him, Jesus touched the leper. He knew that touching a leprous man meant uncleanness nevertheless, He did so boldly. Since no human being could then cure leprosy, the fact that Jesus did implied that He had divine power. This gave the people faith that He was able also to cleanse the soul from sin. Jesus had come to the earth for the specific purpose of cleansing sinners, whose spiritual illness was more deadly than leprosy.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 8:2-4",
+      "verses": [
+        {
+          "number": 2,
+          "line": "And, behold, there came a leper and worshipped him, saying, Lord, if thou wilt, thou canst make me clean."
+        },
+        {
+          "number": 3,
+          "line": "And Jesus put forth his hand, and touched him, saying, I will; be thou clean. And immediately his leprosy was cleansed."
+        },
+        {
+          "number": 4,
+          "line": "And Jesus saith unto him, See thou tell no man; but go thy way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them."
+        }
+      ]
+    },
+    {
+      "reference": "Mark 1:40-45",
+      "verses": [
+        {
+          "number": 40,
+          "line": "And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean."
+        },
+        {
+          "number": 41,
+          "line": "And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean."
+        },
+        {
+          "number": 42,
+          "line": "And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed."
+        },
+        {
+          "number": 43,
+          "line": "And he straitly charged him, and forthwith sent him away;"
+        },
+        {
+          "number": 44,
+          "line": "And saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them."
+        },
+        {
+          "number": 45,
+          "line": "But he went out, and began to publish it much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 5:12-16",
+      "verses": [
+        {
+          "number": 12,
+          "line": "And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on his face, and besought him, saying, Lord, if thou wilt, thou canst make me clean."
+        },
+        {
+          "number": 13,
+          "line": "And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him."
+        },
+        {
+          "number": 14,
+          "line": "And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them."
+        },
+        {
+          "number": 15,
+          "line": "But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities."
+        },
+        {
+          "number": 16,
+          "line": "And he withdrew himself into the wilderness, and prayed."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "galilean-ministry",
+      "titleEn": "Galilean Ministry",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Leprosy2_3-20-2013 10-31-37 AM.jpg",
+      "caption": "Christ healing lepers on streets of Capernaum."
+    }
+  ],
+  "videos": []
 }

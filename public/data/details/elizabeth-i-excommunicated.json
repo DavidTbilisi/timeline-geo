@@ -2,15 +2,31 @@
   "slug": "elizabeth-i-excommunicated",
   "id": 1378,
   "period": 12,
-  "titleEn": "Elizabeth I Excommunicated",
+  "titleEn": "Elizabeth I Excommunicated ",
   "titleKa": null,
-  "datesEn": "1570 AD",
+  "datesEn": "1570 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Pope Pius V excommunicated Elizabeth I in attempt to cause the English people to usurp her power and restore England to the Catholic faith.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "After the reign of Bloody Mary, Elizabeth I ended the fierce persecutions of Protestants. Instead of chastising the queen for her less than ardent Catholic faith, the Vatican hoped to win back England through the art of diplomacy. <BR /><BR />For about 10 years, nothing seemed to be moving forward, so Pope Pius V resorted to more drastic measures. In 1569 a rebellion broke out in the north. In hopes that the queen&#39;s people would overthrow the Crown, the pope excommunicated Elizabeth I. However, the rebellion had already been quelled by the time Regnans in Excelsis, a papal bull, arrived in England.<BR /><BR />As a result, Elizabeth began to hunt down Catholic priests living in England and execute them for treason. During her reign, more than 200 Catholic priests were killed.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "iStock_000008992535Medium_2-26-2013 12-09-58 PM.jpg",
+      "caption": "Vintage engraving of Queen Elizabeth the First of England reigned from 1558 to 1603. She was also known as The Virgin Queen, Gloriana, or Good Queen Bess. This engraving is based on the famous Rainbow portrait of the Queen painted in 1600. Note engraving from 1855 photo and color work by by D Walker."
+    },
+    {
+      "file": "El_Greco_050_2-26-2013 12-04-14 PM.jpg",
+      "caption": "Portrait of Pope Pius V by El Greco (1541-1614)"
+    }
+  ],
+  "videos": []
 }

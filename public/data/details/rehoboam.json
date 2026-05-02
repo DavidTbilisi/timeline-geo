@@ -4,18 +4,69 @@
   "period": 6,
   "titleEn": "Rehoboam",
   "titleKa": null,
-  "datesEn": "972–913 BC (~59)",
+  "datesEn": "972&ndash;913 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;he enlarges the people.&#34; He is the son of Solomon through Naamah, an Ammonite princess. He is 41 when he becomes king and rejects demands for relief from the northern tribes who rebel and split the kingdom. He reigns 18 years.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Rehoboam. The son of Solomon by his Ammonite wife Naamah. He began to reign at the age of 41 as the 1st king of the southern kingdom of Judah, after the division (1 Ki 11:43 14:21), and reigned 17 years (c. 931&#8212;c. 913 b.c.). At his accession representatives of the nation assembled at Shechem, the most centrally located city of the country, to crown the new king. However, led by Jeroboam, they first demanded that the public burdens be alleviated. Rehoboam, promising to give his answer after 3 days, in the meantime sought counsel of both old and young advisers of the realm. <BR /><BR />Finally he rejected the counsel of the old men, who urged him to grant the people&#39;s justified requests, and accepted the advice of younger men, brought up with him, who advised him to refuse the people&#39;s demands. He defied the petitioners by declaring that he would lash them with scorpions instead of with whips as his father had done. The result was that all the northern and eastern tribes of Israel broke with the house of David and made Jeroboam their king. Rehoboam tried to bring the rebellious tribes back by sending Adoniram, the officer over forced labor, to arbitrate. <BR /><BR />This man, however, apparently because of violent hatred, was immediately killed. Rehoboam, now recognizing the seriousness of the situation, returned to Jerusalem and began at once to make military preparations for war against Jeroboam, to bring the rebellious tribes back by force, and desisted only when the prophet Shemaiah in the name of God forbade the proposed assault (1 Ki 11:43 to 12:24 2 Chr 9:31 to 11:4). Nevertheless, there were acts of warfare between the two nations during the later years of Rehoboam&#39;s reign (1 Ki 14:30).<BR /><BR />Rehoboam&#39;s character showed that he had inherited both good and bad traits from his father. He obeyed the prophet Shemaiah by refraining from fighting against Jeroboam (1 Ki 12:24 2 Chr 11:4) he humbled himself before God at the time of Shishak&#39;s invasion (2 Chr 12:6, 12) he received into his kingdom the priests and Levites who were driven out from the northern kingdom by the introduction of Jeroboam&#39;s calf worship at Bethel and Dan (ch 11:11&#8212;17). Yet after he had served God for 3 years (v 17), he &#34;did evil&#34; (ch 12:14) by allowing the building of pagan high places, tolerating the practice of immoral rites, and worshipping foreign gods (1 Ki 14:22&#8212;24). Rehoboam had 18 wives, 60 concubines, 28 sons, and 60 daughters (2 Chr 11:21).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Kings 14:31",
+      "verses": [
+        {
+          "number": 31,
+          "line": "And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother's name was Naamah an Ammonitess. And Abijam his son reigned in his stead."
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 14:21",
+      "verses": [
+        {
+          "number": 21,
+          "line": "And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD did choose out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "solomon",
+      "titleEn": "Solomon",
+      "titleKa": null
+    },
+    {
+      "slug": "rehoboam-forsakes-righteousness",
+      "titleEn": "Rehoboam Forsakes Righteousness",
+      "titleKa": null
+    },
+    {
+      "slug": "solomons-temple-sacked-by-shishak",
+      "titleEn": "Solomon's Temple Sacked by Shishak",
+      "titleKa": null
+    },
+    {
+      "slug": "abijah",
+      "titleEn": "Abijah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-stdas0014_8-22-2013 2-52-06 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-stdas0014_8-22-2013 2-52-06 PM.jpg",
+      "caption": "Rehoboam counseling with his young friends."
+    },
+    {
+      "file": "Ahijahs_and_Jeroboam.jpg",
+      "caption": "Ahijah&#39;s prophecy to Jeroboam in 1728 by Gerard Hoet."
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Voice of Experience",
+      "caption": "In spite of the fact that there are more older people than ever before, there seems to be a contrasting indifference and lack of appreciation for the elderly.  The Bible has a lot to say about respecting and honoring your elders. People who do not honor their elders are cursed. Pastor Batchelor looks at Bible examples of those who did not honor their parents.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg7477.mp4"
     }
   ]
 }

@@ -4,18 +4,158 @@
   "period": 7,
   "titleEn": "Naaman Healed, Gehazi Leprous",
   "titleKa": null,
-  "datesEn": "830 BC",
+  "datesEn": "830 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Naaman, a Syrian leper, seeks healing from &#34;the prophet in Israel&#34; when a captive maiden tells his wife about Elisha. He travels with gifts and is healed after washing in the Jordan. Gehazi, Elisha&#39;s servant, greedily seeks the gifts & gets leprosy.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Syria was often at war with Israel, but this was evidently a period of peace. Only a short time before, Ahab had been slain in battle against Benhadad (1 Kings 22:34&#8212;37). The name of the king of Israel is not given, but the events are believed to have taken place in the reign of Joram, Ahab&#39;s son. The narrative reveals the changing fortunes of the nations, and gives an interesting picture of the international relationships and customs of the times. Naaman was an important personage in Syria. He had gained honor and fame by the victories he had helped Syria achieve, but he had the misfortune of being a leper. However, he retained his position as commander of the Syrian hosts, although he must have been seriously handicapped by the terrible disease with which he was afflicted.<BR /><BR />In the frequent border raids, a captive girl was taken and waited on Naaman&#39;s wife. The captive maid was living the life of a slave, forced to serve in the home of the commander of the armies that had laid Israel low. But she must have been faithful in her service, for otherwise she would not have been employed in the home of an important official. She noticed Naaman&#39;s leprosy and spoke to her Naaman&#39;s wife. Although a captive, the maid did not forget her homeland or her God. Nor did she think thoughts of ill toward those who had taken her captive and forced her into an involuntary servitude. <BR /><BR />Filled with love toward her God, her heart went out in sympathy to her ailing master and his wife. Instead of wishing Naaman ill because of the misfortunes that had been brought upon her, she wished him well and hoped for his recovery from his terrible disease. Remembering the marvelous works of Elisha in her homeland, she had faith that the prophet could heal Naaman of his leprosy. What God had wrought through His servant in Israel, she believed He could also perform toward those of an alien race.<BR /><BR />That is, Naaman went to his lord the king of Syria and related to him the words of the captive maid. Little did the girl understand the import of her words of faith in God. Naaman believed because the girl believed, and he carried her testimony before Syria&#39;s king. Thus was Benhadad to learn that Israel&#39;s God was a God of power and a God of love. He had defeated the armies of Israel in battle, and he might have been led to believe that the gods of Syria were mightier than Jehovah. But he was to learn that the God of Israel could do that which was beyond the power of men and beyond the power of the Syrian gods. The greatest testimony that can be borne in behalf of the God of heaven is the testimony of a person whose life reflects implicit confidence in Him. The young maiden&#39;s testimony led Naaman to seek Elisha in Israel and he was healed.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 5:1-27",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, but he was a leper."
+        },
+        {
+          "number": 2,
+          "line": "And the Syrians had gone out by companies, and had brought away captive out of the land of Israel a little maid; and she waited on Naaman's wife."
+        },
+        {
+          "number": 3,
+          "line": "And she said unto her mistress, Would God my lord were with the prophet that is in Samaria! for he would recover him of his leprosy."
+        },
+        {
+          "number": 4,
+          "line": "And one went in, and told his lord, saying, Thus and thus said the maid that is of the land of Israel."
+        },
+        {
+          "number": 5,
+          "line": "And the king of Syria said, Go to, go, and I will send a letter unto the king of Israel. And he departed, and took with him ten talents of silver, and six thousand pieces of gold, and ten changes of raiment."
+        },
+        {
+          "number": 6,
+          "line": "And he brought the letter to the king of Israel, saying, Now when this letter is come unto thee, behold, I have therewith sent Naaman my servant to thee, that thou mayest recover him of his leprosy."
+        },
+        {
+          "number": 7,
+          "line": "And it came to pass, when the king of Israel had read the letter, that he rent his clothes, and said, Am I God, to kill and to make alive, that this man doth send unto me to recover a man of his leprosy? wherefore consider, I pray you, and see how he seeketh a quarrel against me."
+        },
+        {
+          "number": 8,
+          "line": "And it was so, when Elisha the man of God had heard that the king of Israel had rent his clothes, that he sent to the king, saying, Wherefore hast thou rent thy clothes? let him come now to me, and he shall know that there is a prophet in Israel."
+        },
+        {
+          "number": 9,
+          "line": "So Naaman came with his horses and with his chariot, and stood at the door of the house of Elisha."
+        },
+        {
+          "number": 10,
+          "line": "And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean."
+        },
+        {
+          "number": 11,
+          "line": "But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the LORD his God, and strike his hand over the place, and recover the leper."
+        },
+        {
+          "number": 12,
+          "line": "Are not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel? may I not wash in them, and be clean? So he turned and went away in a rage."
+        },
+        {
+          "number": 13,
+          "line": "And his servants came near, and spake unto him, and said, My father, if the prophet had bid thee do some great thing, wouldest thou not have done it? how much rather then, when he saith to thee, Wash, and be clean?"
+        },
+        {
+          "number": 14,
+          "line": "Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like unto the flesh of a little child, and he was clean."
+        },
+        {
+          "number": 15,
+          "line": "And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Behold, now I know that there is no God in all the earth, but in Israel: now therefore, I pray thee, take a blessing of thy servant."
+        },
+        {
+          "number": 16,
+          "line": "But he said, As the LORD liveth, before whom I stand, I will receive none. And he urged him to take it; but he refused."
+        },
+        {
+          "number": 17,
+          "line": "And Naaman said, Shall there not then, I pray thee, be given to thy servant two mules' burden of earth? for thy servant will henceforth offer neither burnt offering nor sacrifice unto other gods, but unto the LORD."
+        },
+        {
+          "number": 18,
+          "line": "In this thing the LORD pardon thy servant, that when my master goeth into the house of Rimmon to worship there, and he leaneth on my hand, and I bow myself in the house of Rimmon: when I bow down myself in the house of Rimmon, the LORD pardon thy servant in this thing."
+        },
+        {
+          "number": 19,
+          "line": "And he said unto him, Go in peace. So he departed from him a little way."
+        },
+        {
+          "number": 20,
+          "line": "But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, as the LORD liveth, I will run after him, and take somewhat of him."
+        },
+        {
+          "number": 21,
+          "line": "So Gehazi followed after Naaman. And when Naaman saw him running after him, he lighted down from the chariot to meet him, and said, Is all well?"
+        },
+        {
+          "number": 22,
+          "line": "And he said, All is well. My master hath sent me, saying, Behold, even now there be come to me from mount Ephraim two young men of the sons of the prophets: give them, I pray thee, a talent of silver, and two changes of garments."
+        },
+        {
+          "number": 23,
+          "line": "And Naaman said, Be content, take two talents. And he urged him, and bound two talents of silver in two bags, with two changes of garments, and laid them upon two of his servants; and they bare them before him."
+        },
+        {
+          "number": 24,
+          "line": "And when he came to the tower, he took them from their hand, and bestowed them in the house: and he let the men go, and they departed."
+        },
+        {
+          "number": 25,
+          "line": "But he went in, and stood before his master. And Elisha said unto him, Whence comest thou, Gehazi? And he said, Thy servant went no whither."
+        },
+        {
+          "number": 26,
+          "line": "And he said unto him, Went not mine heart with thee, when the man turned again from his chariot to meet thee? Is it a time to receive money, and to receive garments, and oliveyards, and vineyards, and sheep, and oxen, and menservants, and maidservants?"
+        },
+        {
+          "number": 27,
+          "line": "The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed for ever. And he went out from his presence a leper as white as snow."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "elisha",
+      "titleEn": "Elisha",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/_GoodSalt-prcas1640_8-27-2013 12-29-08 PM.jpg",
-      "caption": ""
+      "file": "_GoodSalt-prcas1640_8-27-2013 12-29-08 PM.jpg",
+      "caption": "The little maid"
+    },
+    {
+      "file": "_GoodSalt-prcas0458_8-27-2013 12-29-08 PM.jpg",
+      "caption": "Naaman visits Elisha"
+    },
+    {
+      "file": "GoodSalt-lwjas0178_8-6-2013 3-15-21 PM.jpg",
+      "caption": "Naaman cleansed.  "
+    }
+  ],
+  "videos": [
+    {
+      "title": "Naaman",
+      "caption": "The story of Namaan teaches us that sin, like leprosy, separates us from God. The Jordan River is a symbol for baptism and death. Salvation cannot be paid for with money. God&#39;s grace is freely given.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2505.mp4"
+    },
+    {
+      "title": "A River of Life",
+      "caption": "This program is on getting a new beginning and how to be clean before God. It begins with the story of Naaman, the Syrian leper, who was healed when he washed in the Jordan. We too have the disease of sin and need cleansing. Baptism symbolizes this important step. Christ has given us an example and we ought to follow Him.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp82.mp4"
     }
   ]
 }

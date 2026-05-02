@@ -4,13 +4,99 @@
   "period": 6,
   "titleEn": "David Numbers Israel",
   "titleKa": null,
-  "datesEn": "974 BC",
+  "datesEn": "974 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "David takes a census of Israel and Judah. God had not specifically asked him to do this. An enemy (Satan) incites him according to 1 Chr. 21, but 2 Sam. 24 says the Lord &#34;moved David.&#34; Exodus 30 has guidelines on this. Pride usually is the motive.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Satan instigated the pride and ambition that led Israel&#39;s king to promote procedures to increase the size of his army for the purpose of extending the boundaries of Israel by new military conquests. David decided to take a count of the number of Israel. There is nothing in the narrative to indicate precisely when in the life of David this incident took place. The fact that Joab was engaged in the work for almost ten months (v. 8) shows that it must have been at a time of freedom from war. In the parallel account (1 Chron. 24:21) the narrative is immediately followed by the record of David&#39;s preparations for the building of the Temple. <BR /><BR />In both Samuel and Chronicles these preparations are among the last items to be recorded for David&#39;s reign. All this leads to the conclusion that the military census took place toward the end of David&#39;s reign. Joab was a hardened and unscrupulous general, but even he could see that the taking of such a census was out of keeping with the fundamental principles of the Hebrew monarchy. By a number of questions he endeavored to cause David to recognize the folly of his course. <BR /><BR />As the census was under way, David began to think over the implications of what he had done and to realize that he was making a mistake. It was the Spirit of God that spoke to him and showed him the folly of his course. In deep humility he confessed his mistake before God and asked for forgiveness.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Samuel 24:1-17",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah."
+        },
+        {
+          "number": 2,
+          "line": "For the king said to Joab the captain of the host, which was with him, Go now through all the tribes of Israel, from Dan even to Beersheba, and number ye the people, that I may know the number of the people."
+        },
+        {
+          "number": 3,
+          "line": "And Joab said unto the king, Now the LORD thy God add unto the people, how many soever they be, an hundredfold, and that the eyes of my lord the king may see it: but why doth my lord the king delight in this thing?"
+        },
+        {
+          "number": 4,
+          "line": "Notwithstanding the king's word prevailed against Joab, and against the captains of the host. And Joab and the captains of the host went out from the presence of the king, to number the people of Israel."
+        },
+        {
+          "number": 5,
+          "line": "And they passed over Jordan, and pitched in Aroer, on the right side of the city that lieth in the midst of the river of Gad, and toward Jazer:"
+        },
+        {
+          "number": 6,
+          "line": "Then they came to Gilead, and to the land of Tahtimhodshi; and they came to Danjaan, and about to Zidon,"
+        },
+        {
+          "number": 7,
+          "line": "And came to the strong hold of Tyre, and to all the cities of the Hivites, and of the Canaanites: and they went out to the south of Judah, even to Beersheba."
+        },
+        {
+          "number": 8,
+          "line": "So when they had gone through all the land, they came to Jerusalem at the end of nine months and twenty days."
+        },
+        {
+          "number": 9,
+          "line": "And Joab gave up the sum of the number of the people unto the king: and there were in Israel eight hundred thousand valiant men that drew the sword; and the men of Judah were five hundred thousand men."
+        },
+        {
+          "number": 10,
+          "line": "And David's heart smote him after that he had numbered the people. And David said unto the LORD, I have sinned greatly in that I have done: and now, I beseech thee, O LORD, take away the iniquity of thy servant; for I have done very foolishly."
+        },
+        {
+          "number": 11,
+          "line": "For when David was up in the morning, the word of the LORD came unto the prophet Gad, David's seer, saying,"
+        },
+        {
+          "number": 12,
+          "line": "Go and say unto David, Thus saith the LORD, I offer thee three things; choose thee one of them, that I may do it unto thee."
+        },
+        {
+          "number": 13,
+          "line": "So Gad came to David, and told him, and said unto him, Shall seven years of famine come unto thee in thy land? or wilt thou flee three months before thine enemies, while they pursue thee? or that there be three days' pestilence in thy land? now advise, and see what answer I shall return to him that sent me."
+        },
+        {
+          "number": 14,
+          "line": "And David said unto Gad, I am in a great strait: let us fall now into the hand of the LORD; for his mercies are great: and let me not fall into the hand of man."
+        },
+        {
+          "number": 15,
+          "line": "So the LORD sent a pestilence upon Israel from the morning even to the time appointed: and there died of the people from Dan even to Beersheba seventy thousand men."
+        },
+        {
+          "number": 16,
+          "line": "And when the angel stretched out his hand upon Jerusalem to destroy it, the LORD repented him of the evil, and said to the angel that destroyed the people, It is enough: stay now thine hand. And the angel of the LORD was by the threshingplace of Araunah the Jebusite."
+        },
+        {
+          "number": 17,
+          "line": "And David spake unto the LORD when he saw the angel that smote the people, and said, Lo, I have sinned, and I have done wickedly: but these sheep, what have they done? let thine hand, I pray thee, be against me, and against my father's house."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "447px-Sorrow-of-King-David-001_8-22-2013 2-46-53 PM.jpg",
+      "caption": "David repenting over taking a census, William Brassey Hole"
+    }
+  ],
+  "videos": []
 }

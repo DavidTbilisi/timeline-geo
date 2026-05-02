@@ -4,13 +4,40 @@
   "period": 7,
   "titleEn": "Eliakim",
   "titleKa": null,
-  "datesEn": "887–807 BC",
+  "datesEn": "887&ndash;807 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;whom God will raise up.&#34; He is the son of Melea (Luke 3:30) and probably grandson of Nathan, thus an ancestor of Jesus Christ.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:30",
+      "verses": [
+        {
+          "number": 30,
+          "line": "Which was the son of Simeon, which was the son of Juda, which was the son of Joseph, which was the son of Jonan, which was the son of Eliakim,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "melea",
+      "titleEn": "Melea",
+      "titleKa": null
+    },
+    {
+      "slug": "jonan-or-jonam",
+      "titleEn": "Jonan (or Jonam)",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "AncestorOfJesusColor.jpg",
+      "caption": "Ancestor of Jesus"
+    }
+  ],
+  "videos": []
 }

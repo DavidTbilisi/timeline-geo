@@ -4,13 +4,95 @@
   "period": 3,
   "titleEn": "Jacob Marries Leah and Rachel",
   "titleKa": null,
-  "datesEn": "1702 BC",
+  "datesEn": "1702 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Jacob desires Rachel in marriage and works for Laban for seven years, after which Laban deceives Jacob and gives him Leah, his eldest daughter. Jacob is angry and demands Rachel, whom he receives after agreeing to work another seven years.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "It is an interesting comment on Laban that Jacob found it necessary to remind him of the expiration of the seven years. A great marriage feast, probably lasting an entire week (v. 27), was prepared, according to the usual custom. Laban&#39;s deception of Jacob was possible because of the custom of veiling the bride and bringing her to the bridegroom &#34;in the evening.&#34; <BR /><BR />Although girls usually had little choice in the selection of their husbands, Leah&#39;s consent was necessary to the success of this base proposal. She must herself have loved Jacob, to approve and cooperate in the plan to wrong both her sister and her future husband by marrying one who neither sought nor loved her. Laban&#39;s duplicity resulted in lifelong rivalry between the two sisters (see ch. 30:14&#8212;16).<BR /><BR />Next morning Jacob, the master deceiver, awoke to find himself the victim of deceit. Inexorable justice had repaid him double for his double&#8212;dealing. In self&#8212;defense Laban pleaded an imaginary requirement of local social custom. Had this actually been the custom in Haran, as it was in some other ancient countries, he should have told Jacob of it when the latter proposed working for Rachel. Jacob&#39;s vow to God at Bethel, however, and his longing for Rachel led him to stay by Laban rather than repudiate the marriage as he might have done.<BR /><BR />It is plain that Jacob did not serve another seven years before Rachel became his wife. This occurred at the close of Leah&#39;s festal week. Jacob&#39;s act of bigamy must not be judged by a later provision in the Mosaic law that prohibited marriage with two sisters concurrently (Lev. 18:18). At the same time Jacob&#39;s double marriage cannot be justified on the ground that the blessing of God eventually made it the means of multiplying Jacob&#39;s seed and so fulfilling His promise. God simply overruled the errors of men even these could not thwart His purpose (see Ps. 76:10). <BR /><BR />The bigamy that had been occasioned by Laban&#39;s deception and Jacob&#39;s affection brought friction and regret to the homes of both men. In this school of affliction Jacob learned that &#34;the way of transgressors is hard&#34; (Prov. 13:15). The jealousy and misery attending this marriage are a commentary on Moses&#39; specific injunction against a man&#39;s marrying two sisters concurrently (Lev. 18:18).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 29:15-30",
+      "verses": [
+        {
+          "number": 15,
+          "line": "And Laban said unto Jacob, Because thou art my brother, shouldest thou therefore serve me for nought? tell me, what shall thy wages be?"
+        },
+        {
+          "number": 16,
+          "line": "And Laban had two daughters: the name of the elder was Leah, and the name of the younger was Rachel."
+        },
+        {
+          "number": 17,
+          "line": "Leah was tender eyed; but Rachel was beautiful and well favoured."
+        },
+        {
+          "number": 18,
+          "line": "And Jacob loved Rachel; and said, I will serve thee seven years for Rachel thy younger daughter."
+        },
+        {
+          "number": 19,
+          "line": "And Laban said, It is better that I give her to thee, than that I should give her to another man: abide with me."
+        },
+        {
+          "number": 20,
+          "line": "And Jacob served seven years for Rachel; and they seemed unto him but a few days, for the love he had to her."
+        },
+        {
+          "number": 21,
+          "line": "And Jacob said unto Laban, Give me my wife, for my days are fulfilled, that I may go in unto her."
+        },
+        {
+          "number": 22,
+          "line": "And Laban gathered together all the men of the place, and made a feast."
+        },
+        {
+          "number": 23,
+          "line": "And it came to pass in the evening, that he took Leah his daughter, and brought her to him; and he went in unto her."
+        },
+        {
+          "number": 24,
+          "line": "And Laban gave unto his daughter Leah Zilpah his maid for an handmaid."
+        },
+        {
+          "number": 25,
+          "line": "And it came to pass, that in the morning, behold, it was Leah: and he said to Laban, What is this thou hast done unto me? did not I serve with thee for Rachel? wherefore then hast thou beguiled me?"
+        },
+        {
+          "number": 26,
+          "line": "And Laban said, It must not be so done in our country, to give the younger before the firstborn."
+        },
+        {
+          "number": 27,
+          "line": "Fulfil her week, and we will give thee this also for the service which thou shalt serve with me yet seven other years."
+        },
+        {
+          "number": 28,
+          "line": "And Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also."
+        },
+        {
+          "number": 29,
+          "line": "And Laban gave to Rachel his daughter Bilhah his handmaid to be her maid."
+        },
+        {
+          "number": 30,
+          "line": "And he went in also unto Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "jacob-laban_8-5-2013 5-52-10 PM.jpg",
+      "caption": "The bigamy that had been occasioned by Laban&#39;s deception and Jacob&#39;s affection brought friction and regret to the homes of both men."
+    }
+  ],
+  "videos": []
 }

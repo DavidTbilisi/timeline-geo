@@ -4,13 +4,40 @@
   "period": 7,
   "titleEn": "Er",
   "titleKa": null,
-  "datesEn": "695–607 BC",
+  "datesEn": "695&ndash;607 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;watchful.&#34; He is the son of Jose, a Judahite who appears in Luke&#39;s genealogy of Jesus Christ.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:28",
+      "verses": [
+        {
+          "number": 28,
+          "line": "Which was the son of Melchi, which was the son of Addi, which was the son of Cosam, which was the son of Elmodam, which was the son of Er,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jose",
+      "titleEn": "Jose",
+      "titleKa": null
+    },
+    {
+      "slug": "elmodam-or-elmadam",
+      "titleEn": "Elmodam (or Elmadam)",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "AncestorOfJesusColor.jpg",
+      "caption": "Ancestor of Jesus"
+    }
+  ],
+  "videos": []
 }

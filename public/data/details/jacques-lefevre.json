@@ -2,15 +2,31 @@
   "slug": "jacques-lefevre",
   "id": 1318,
   "period": 11,
-  "titleEn": "Jacques LefÃ¨vre",
+  "titleEn": "Jacques LefÃ¨vre ",
   "titleKa": null,
-  "datesEn": "1455–1536 AD",
+  "datesEn": "1455&ndash;1536 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Also known as Jacob Faber Stapulensis, a French theologian who was a predecessor of the Protestant reformation in France.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jacques LefÃ¨vre was born to humble parents around 1455. A French humanist theologian, he devoted his life to studying the Bible. He produced a number of commentaries and translated the Bible into French. He completed the New Testament in 1523 and the Old Testament in 1528. His translation of the entire Bible was published in 1530. LefÃ¨vre died around 1536.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "FaberStapulensis_2-26-2013 5-20-26 PM.jpg",
+      "caption": "Portrat of LefÃ¨vre d&#39;Ã‰taples."
+    },
+    {
+      "file": "82090076_2-26-2013 5-20-26 PM.jpg",
+      "caption": "Map of France."
+    }
+  ],
+  "videos": []
 }

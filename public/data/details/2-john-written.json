@@ -4,13 +4,35 @@
   "period": 10,
   "titleEn": "2 John Written",
   "titleKa": null,
-  "datesEn": "91 AD",
+  "datesEn": "91 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The style of 2 John (as with 1 John) points to John, the disciple of Jesus, as the author. The date of writing is probably in the early 90s and fits with John&#39;s description of himself (&#34;the elder&#34;). It was written to warn about false teachers.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "It seems probable that this letter was written after the first epistle, and, if John be accepted as the author, soon after the first letter, in view of the apostle&#39;s age. The additional factor brought to light by the second epistle is that false teachers were taking advantage of Christian hospitality to disseminate erroneous doctrine.<BR /><BR /><BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 John 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "john",
+      "titleEn": "John",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "600px-St_John_the_Evangelist_014_8-1-2013 1-56-03 PM.jpg",
+      "caption": "John the Evangelist also known as John the Revelator"
+    }
+  ],
+  "videos": []
 }

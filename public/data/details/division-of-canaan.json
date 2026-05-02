@@ -4,13 +4,194 @@
   "period": 5,
   "titleEn": "Division of Canaan",
   "titleKa": null,
-  "datesEn": "1400 BC",
+  "datesEn": "1400 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "As Joshua and Israel conquer the land, though not totally, it is divided and given to the different tribes of Israel. Joshua 13&#8212;19 gives a full geographical reference to the land of Israel. Leaving a few Canaanites slowly leads Israel into idolatry.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Joshua 14 is a preface to the division of the land among the nine and a half tribes. The time had come for the Israelites to disperse themselves and to take over their new conquests. Canaan would have been subdued in vain, if it was not now inhabited. Centuries had passed since the call of Abram out of Ur of the Chaldees, and since the promise that his seed should inherit the land. God&#39;s promises are sometimes long delayed because of the unfaithfulness of those to whom they are made. It is our privilege to hasten the fulfillment of His promises.",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Joshua 13:8-33",
+      "verses": [
+        {
+          "number": 8,
+          "line": "With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, even as Moses the servant of the LORD gave them;"
+        },
+        {
+          "number": 9,
+          "line": "From Aroer, that is upon the bank of the river Arnon, and the city that is in the midst of the river, and all the plain of Medeba unto Dibon;"
+        },
+        {
+          "number": 10,
+          "line": "And all the cities of Sihon king of the Amorites, which reigned in Heshbon, unto the border of the children of Ammon;"
+        },
+        {
+          "number": 11,
+          "line": "And Gilead, and the border of the Geshurites and Maachathites, and all mount Hermon, and all Bashan unto Salcah;"
+        },
+        {
+          "number": 12,
+          "line": "All the kingdom of Og in Bashan, which reigned in Ashtaroth and in Edrei, who remained of the remnant of the giants: for these did Moses smite, and cast them out."
+        },
+        {
+          "number": 13,
+          "line": "Nevertheless the children of Israel expelled not the Geshurites, nor the Maachathites: but the Geshurites and the Maachathites dwell among the Israelites until this day."
+        },
+        {
+          "number": 14,
+          "line": "Only unto the tribe of Levi he gave none inheritance; the sacrifices of the LORD God of Israel made by fire are their inheritance, as he said unto them."
+        },
+        {
+          "number": 15,
+          "line": "And Moses gave unto the tribe of the children of Reuben inheritance according to their families."
+        },
+        {
+          "number": 16,
+          "line": "And their coast was from Aroer, that is on the bank of the river Arnon, and the city that is in the midst of the river, and all the plain by Medeba;"
+        },
+        {
+          "number": 17,
+          "line": "Heshbon, and all her cities that are in the plain; Dibon, and Bamothbaal, and Bethbaalmeon,"
+        },
+        {
+          "number": 18,
+          "line": "And Jahaza, and Kedemoth, and Mephaath,"
+        },
+        {
+          "number": 19,
+          "line": "And Kirjathaim, and Sibmah, and Zarethshahar in the mount of the valley,"
+        },
+        {
+          "number": 20,
+          "line": "And Bethpeor, and Ashdothpisgah, and Bethjeshimoth,"
+        },
+        {
+          "number": 21,
+          "line": "And all the cities of the plain, and all the kingdom of Sihon king of the Amorites, which reigned in Heshbon, whom Moses smote with the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, which were dukes of Sihon, dwelling in the country."
+        },
+        {
+          "number": 22,
+          "line": "Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword among them that were slain by them."
+        },
+        {
+          "number": 23,
+          "line": "And the border of the children of Reuben was Jordan, and the border thereof. This was the inheritance of the children of Reuben after their families, the cities and the villages thereof."
+        },
+        {
+          "number": 24,
+          "line": "And Moses gave inheritance unto the tribe of Gad, even unto the children of Gad according to their families."
+        },
+        {
+          "number": 25,
+          "line": "And their coast was Jazer, and all the cities of Gilead, and half the land of the children of Ammon, unto Aroer that is before Rabbah;"
+        },
+        {
+          "number": 26,
+          "line": "And from Heshbon unto Ramathmizpeh, and Betonim; and from Mahanaim unto the border of Debir;"
+        },
+        {
+          "number": 27,
+          "line": "And in the valley, Betharam, and Bethnimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, Jordan and his border, even unto the edge of the sea of Chinnereth on the other side Jordan eastward."
+        },
+        {
+          "number": 28,
+          "line": "This is the inheritance of the children of Gad after their families, the cities, and their villages."
+        },
+        {
+          "number": 29,
+          "line": "And Moses gave inheritance unto the half tribe of Manasseh: and this was the possession of the half tribe of the children of Manasseh by their families."
+        },
+        {
+          "number": 30,
+          "line": "And their coast was from Mahanaim, all Bashan, all the kingdom of Og king of Bashan, and all the towns of Jair, which are in Bashan, threescore cities:"
+        },
+        {
+          "number": 31,
+          "line": "And half Gilead, and Ashtaroth, and Edrei, cities of the kingdom of Og in Bashan, were pertaining unto the children of Machir the son of Manasseh, even to the one half of the children of Machir by their families."
+        },
+        {
+          "number": 32,
+          "line": "These are the countries which Moses did distribute for inheritance in the plains of Moab, on the other side Jordan, by Jericho, eastward."
+        },
+        {
+          "number": 33,
+          "line": "But unto the tribe of Levi Moses gave not any inheritance: the LORD God of Israel was their inheritance, as he said unto them."
+        }
+      ]
+    },
+    {
+      "reference": "Joshua 14:1-15",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And these are the countries which the children of Israel inherited in the land of Canaan, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, distributed for inheritance to them."
+        },
+        {
+          "number": 2,
+          "line": "By lot was their inheritance, as the LORD commanded by the hand of Moses, for the nine tribes, and for the half tribe."
+        },
+        {
+          "number": 3,
+          "line": "For Moses had given the inheritance of two tribes and an half tribe on the other side Jordan: but unto the Levites he gave none inheritance among them."
+        },
+        {
+          "number": 4,
+          "line": "For the children of Joseph were two tribes, Manasseh and Ephraim: therefore they gave no part unto the Levites in the land, save cities to dwell in, with their suburbs for their cattle and for their substance."
+        },
+        {
+          "number": 5,
+          "line": "As the LORD commanded Moses, so the children of Israel did, and they divided the land."
+        },
+        {
+          "number": 6,
+          "line": "Then the children of Judah came unto Joshua in Gilgal: and Caleb the son of Jephunneh the Kenezite said unto him, Thou knowest the thing that the LORD said unto Moses the man of God concerning me and thee in Kadeshbarnea."
+        },
+        {
+          "number": 7,
+          "line": "Forty years old was I when Moses the servant of the LORD sent me from Kadeshbarnea to espy out the land; and I brought him word again as it was in mine heart."
+        },
+        {
+          "number": 8,
+          "line": "Nevertheless my brethren that went up with me made the heart of the people melt: but I wholly followed the LORD my God."
+        },
+        {
+          "number": 9,
+          "line": "And Moses sware on that day, saying, Surely the land whereon thy feet have trodden shall be thine inheritance, and thy children's for ever, because thou hast wholly followed the LORD my God."
+        },
+        {
+          "number": 10,
+          "line": "And now, behold, the LORD hath kept me alive, as he said, these forty and five years, even since the LORD spake this word unto Moses, while the children of Israel wandered in the wilderness: and now, lo, I am this day fourscore and five years old."
+        },
+        {
+          "number": 11,
+          "line": "As yet I am as strong this day as I was in the day that Moses sent me: as my strength was then, even so is my strength now, for war, both to go out, and to come in."
+        },
+        {
+          "number": 12,
+          "line": "Now therefore give me this mountain, whereof the LORD spake in that day; for thou heardest in that day how the Anakims were there, and that the cities were great and fenced: if so be the LORD will be with me, then I shall be able to drive them out, as the LORD said."
+        },
+        {
+          "number": 13,
+          "line": "And Joshua blessed him, and gave unto Caleb the son of Jephunneh Hebron for an inheritance."
+        },
+        {
+          "number": 14,
+          "line": "Hebron therefore became the inheritance of Caleb the son of Jephunneh the Kenezite unto this day, because that he wholly followed the LORD God of Israel."
+        },
+        {
+          "number": 15,
+          "line": "And the name of Hebron before was Kirjatharba; which Arba was a great man among the Anakims. And the land had rest from war."
+        }
+      ]
+    }
+  ],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "Canaan Divided_5-7-2013 9-32-59 AM.jpg",
+      "caption": "1759 map of the division of the land among the 12 tribes of Israel, Tobias Lotter"
+    }
+  ],
+  "videos": []
 }

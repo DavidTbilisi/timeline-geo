@@ -4,13 +4,35 @@
   "period": 8,
   "titleEn": "Fall of Jerusalem July 19",
   "titleKa": null,
-  "datesEn": "586 BC",
+  "datesEn": "586 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The book of 2nd Kings says that eventually the Babylonian army broke through the walls of Jerusalem in their siege against the city.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Babylonian army eventually broke through the walls in their siege against Jerusalem. An entrance may have been gained through a breach in the city wall made by battering&#8212;rams. The men of war fled. The flight was probably made down the Tyropoeon Valley, past the pool of Siloam, which was by the king&#39;s garden (Neh. 3:15), near the junction of the Hinnom and Kidron valleys. A second wall had been built to the south and southwest of the old wall for the protection of the pool of Siloam (see 2 Chron. 32:4, 5 Isa. 22:9&#8212;11), and it was probably between this wall and the old wall of Zion that the flight took place. This would lead down to the Kidron Valley and thence toward the Arabah and the Jordan. Nebuchadnezzar&#39;s army overtook the fleeing army. Zedekiah&#39;s capture by the Babylonians had been foretold (Jer. 38:23 Eze. 12:13).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 25:4",
+      "verses": [
+        {
+          "number": 4,
+          "line": "And the city was broken up, and all the men of war fled by night by the way of the gate between two walls, which is by the king's garden: (now the Chaldees were against the city round about:) and the king went the way toward the plain."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "nebuchadnezzar-ii",
+      "titleEn": "Nebuchadnezzar II",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-stdas0726_8-28-2013 10-46-54 AM.jpg",
+      "caption": "Jerusalem destroyed"
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,52 @@
   "period": 10,
   "titleEn": "1 Corinthians Written",
   "titleKa": null,
-  "datesEn": "56 AD",
+  "datesEn": "56 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The Apostle Paul wrote the book of 1 Corinthians toward the end of a three&#8212;year stay in Ephesus, probably in the spring. Some date the writing to A.D. 56 based on Paul&#39;s trial before Gallio in Corinth.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "First Corinthians was written from Ephesus (1 Cor. 16:8). This city was the scene of Paul&#39;s labors for &#34;three years&#34; (Acts 20:31) and the chief center of his activities during his Third Missionary Journey (Acts 19 20:1). He was about to depart for Greece and Macedonia when the letter was written, but hoped to remain at Ephesus &#34;until Pentecost&#34; (1 Cor. 16:5&#8212;8). However, circumstances hastened his departure (Acts 19:21 to 20:3). These observations enable us to date the letter in the spring of A.D. 56.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Corinthians 16:8",
+      "verses": [
+        {
+          "number": 8,
+          "line": "But I will tarry at Ephesus until Pentecost."
+        }
+      ]
+    },
+    {
+      "reference": "Acts 20:31",
+      "verses": [
+        {
+          "number": 31,
+          "line": "Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Saint_Paul_addresses_the_Ephesian_elders_-_Acts_20_-_35_8-1-2013 10-23-44 AM.jpg",
+      "caption": "Paul and the ephesian leaders, Providence Lithograph Company, 1897"
+    },
+    {
+      "file": "Christian_self-restraint_1_Corinthians_9_19_-_27_8-1-2013 10-23-44 AM.jpg",
+      "caption": "Running the Christian race. 1 Corinthians 9: 24 - 27,  Providence Lithograph Company, 1896"
+    },
+    {
+      "file": "The_greatest_of_these_is_charity_1_Corinthians_13_13_8-1-2013 10-23-44 AM.jpg",
+      "caption": "The love chapter, 1 Corinthians 13,  Providence Lithograph Company, 1896"
+    }
+  ],
+  "videos": []
 }

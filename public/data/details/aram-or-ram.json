@@ -4,13 +4,58 @@
   "period": 4,
   "titleEn": "Aram (or Ram)",
   "titleKa": null,
-  "datesEn": "1518–1438 BC",
+  "datesEn": "1518&ndash;1438 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;high&#34; or &#34;exalted.&#34; He is the son of Esrom (or Hezron), a descendent of Judah and thus listed in the geneaologies of Matthew and Luke as an ancestor of David and Jesus Christ. He has a brother whose name is Jerahmeel.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A Judahite, son of Hezron and brother of Jerahmeel. He was an ancestor of King David and of Jesus Christ (Ruth 4:19 1 Chr 2:9). He is called Aram in Mt 1:3 Lk 3:33 KJV, but Arni in Lk 3:33, RSV, on the basis of a different Greek text.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 1:3",
+      "verses": [
+        {
+          "number": 3,
+          "line": "And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;"
+        }
+      ]
+    },
+    {
+      "reference": "Luke 3:33",
+      "verses": [
+        {
+          "number": 33,
+          "line": "Which was the son of Aminadab, which was the son of Aram, which was the son of Esrom, which was the son of Phares, which was the son of Juda,"
+        }
+      ]
+    },
+    {
+      "reference": "Ruth 4:19",
+      "verses": [
+        {
+          "number": 19,
+          "line": "And Hezron begat Ram, and Ram begat Amminadab,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "esrom-or-hezron",
+      "titleEn": "Esrom (or Hezron)",
+      "titleKa": null
+    },
+    {
+      "slug": "aminadab-or-amminidab",
+      "titleEn": "Aminadab (or Amminidab)",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "aram_8-6-2013 12-44-57 PM.jpg",
+      "caption": "Perez, Hezron, Ram on canvas, Michelangelo Buonarroti "
+    }
+  ],
+  "videos": []
 }

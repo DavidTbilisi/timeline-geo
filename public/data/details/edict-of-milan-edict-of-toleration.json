@@ -4,18 +4,29 @@
   "period": 10,
   "titleEn": "Edict of Milan (Edict of Toleration)",
   "titleKa": null,
-  "datesEn": "313 AD",
+  "datesEn": "313 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Constantine and his co&#8212;emperor legalized Christianity across Rome in 313AD.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Roman co&#8212;emperors Constantine and Licinius met in Milan in 313A.D. to secure their alliance through Licinius&#39; marriage to Constantia, Constantine&#39;s half&#8212;sister. It was here that the men crafted the Edict of Milan, sometimes referred to as the Edict of Toleration. This edict granted tolerance to all religions in the Empire, including Christianity, which had been heavily persecuted for the previous decade. The Christian religion was given legal recognition for the first time, and Christians were granted full restoration for the property seized during the persecutions. The edict uses the Latin phrase summa divintas, a general term referring to divinity, rather than specific religious names or terms.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
+  "related": [
+    {
+      "slug": "constantine-the-great",
+      "titleEn": "Constantine the Great",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas2439_8-7-2013 9-46-04 AM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas2439_8-7-2013 9-46-04 AM.jpg",
+      "caption": "Face of the Emperor Constantine in the hall of Capitoline Museum, Rome, Italy. Dated around 313-324 AD."
+    },
+    {
+      "file": "iStock_000004215098XSmall_2-26-2013 6-11-04 PM.jpg",
+      "caption": "Statue of Roman Emperor Constantine the Great (AD 274 - 337) outside York Minster, Yorkshire, England. Proclaimed Roman Emperor in York AD 306."
     }
-  ]
+  ],
+  "videos": []
 }

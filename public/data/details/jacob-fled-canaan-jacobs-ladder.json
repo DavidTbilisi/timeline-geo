@@ -4,13 +4,88 @@
   "period": 3,
   "titleEn": "Jacob Fled Canaan, Jacob's Ladder",
   "titleKa": null,
-  "datesEn": "1709 BC",
+  "datesEn": "1709 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Jacob flees from Esau who intends to kill him for stealing his birthright. Isaac blesses him and then sends him to Padan Aram to find a wife. On the way Jacob has a dream of a ladder reaching to heaven. He wakes up and calls the place Bethel.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jacob steals the blessing and birthright of his brother. Esau&#39;s despair soon changed into mortal hatred for his brother, but out of respect for his father he decided to spare him the sorrow and shame of the intended act of fratricide. Thinking that his father&#39;s illness would end in early death, he postponed his planned act of murder. He could not know, of course, that his father would recover and live 43 years longer. <BR /><BR />When Rebekah was informed of Esau&#39;s intention to murder his brother, she advised Jacob to go into voluntary exile for &#34;some days,&#34; thinking that the vacillating disposition of Esau would bring a change of heart. Assenting to Rebekah&#39;s proposal, Isaac took the initiative in sending Jacob to Padan&#8212;aram (see on ch. 25:20). Whether or not he knew of Esau&#39;s plot, Isaac doubtless realized that it would be wise for Jacob and Esau to be separated until tension at home should lessen. Jacob set out in obedience to his mother&#39;s wish and his father&#39;s command (see Prov. 1:8). Although 77 years of age (see on Gen. 27:1), he still respected his parents and submitted to their authority.<BR /><BR />At the close of the second day of his journey, Jacob reached the vicinity of the city of Luz (v. 19), some 50 mi. to the north of Beersheba. He chose not to spend the night within the city itself for fear of the Canaanites. Jacob took a stone and put it &#34;under his head&#34; or &#34;as a headrest.&#34; A pillow in our sense of the word seems to have been unknown to the ancients. In many Oriental lands people used headrests made of wood, clay, stone, or metal, and still do. The stone is mentioned here in anticipation of the use made of it later on in the narrative (v. 22). <BR /><BR />As Jacob lay there, weary, lonely, and sad, his heart turned in prayer to God. Such was the mental background of his dream. Only after two long days, during which he had opportunity to reflect upon his course of action and to realize his own helplessness, did God appear to him. In the providence of God, delay is often the means used to purify the soul and lead a man to cast himself without reserve upon God&#39;s mercy and grace. The ladder was a visible symbol of the real and uninterrupted fellowship between God in heaven and His people upon earth. The angels ascend to present men&#39;s needs before God, and descend with promises of divine assistance and protection. <BR /><BR />The ladder appeared to rest upon the earth, where Jacob lay, alone, destitute, and forsaken by men. Above, in heaven, stood Jehovah. Proclaiming Himself to Jacob as the God of his fathers, He not only confirmed to him all the promises made to his fathers&#8212;the possession of Canaan, a numerous offspring, and blessing to all men&#8212;but vouchsafed to him protection on his journey and a safe return home. Since the fulfillment of this promise to Jacob was still afar off, God added the firm assurance, &#34;I will not leave thee, until I have done that which I have spoken to thee of.&#34;<BR /><BR />When Jacob awakens, he concludes, &#34;The Lord is in this place.&#34; Jacob&#39;s statement is not evidence, as some commentators suggest, that Jacob conceived of God as appearing only at certain consecrated places, and that he had chanced upon one of these. It is, rather, an expression of his surprise and joy upon finding that whereas he had imagined himself alone, he was in reality in the very company of God. Jacob&#39;s statement was, in a certain sense, a self&#8212;accusation. He admitted that lack of faith had occasioned his thoughts of discouragement. <BR /><BR />It was when he felt most forsaken that he found God nearer and more real to him than ever before. The stone that had been his pillow became a monument to commemorate the revelation he had received from God. He poured oil upon it to consecrate it as a memorial to the mercy there revealed to him (see Ex. 30:26&#8212;30). This &#34;pillar&#34; was in no sense made an object of worship. He then called the place Bethel. By translation, &#34;House of God.&#34;",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 27:41-46",
+      "verses": [
+        {
+          "number": 41,
+          "line": "And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob."
+        },
+        {
+          "number": 42,
+          "line": "And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, purposing to kill thee."
+        },
+        {
+          "number": 43,
+          "line": "Now therefore, my son, obey my voice; and arise, flee thou to Laban my brother to Haran;"
+        },
+        {
+          "number": 44,
+          "line": "And tarry with him a few days, until thy brother's fury turn away;"
+        },
+        {
+          "number": 45,
+          "line": "Until thy brother's anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?"
+        },
+        {
+          "number": 46,
+          "line": "And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life do me?"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 28:1-5",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan."
+        },
+        {
+          "number": 2,
+          "line": "Arise, go to Padanaram, to the house of Bethuel thy mother's father; and take thee a wife from thence of the daughters of Laban thy mother's brother."
+        },
+        {
+          "number": 3,
+          "line": "And God Almighty bless thee, and make thee fruitful, and multiply thee, that thou mayest be a multitude of people;"
+        },
+        {
+          "number": 4,
+          "line": "And give thee the blessing of Abraham, to thee, and to thy seed with thee; that thou mayest inherit the land wherein thou art a stranger, which God gave unto Abraham."
+        },
+        {
+          "number": 5,
+          "line": "And Isaac sent away Jacob: and he went to Padanaram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob's and Esau's mother."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas2856_8-7-2013 2-02-59 PM.jpg",
+      "caption": "Jacob&#39;s Dream"
+    },
+    {
+      "file": "GoodSalt-stdas0111_8-5-2013 5-56-14 PM.jpg",
+      "caption": "Jacob&#39;s dream"
+    },
+    {
+      "file": "Jacobs Ladder_5-13-2013 3-46-48 PM.jpg",
+      "caption": "The 699 steps of Jacobs Ladder full length up the valley from Jamestown on St. Helena to top of Ladder Hill."
+    }
+  ],
+  "videos": []
 }

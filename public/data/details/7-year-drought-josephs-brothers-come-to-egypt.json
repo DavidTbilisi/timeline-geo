@@ -4,13 +4,76 @@
   "period": 3,
   "titleEn": "7 Year Drought, Joseph's Brothers Come to Egypt",
   "titleKa": null,
-  "datesEn": "1658 BC",
+  "datesEn": "1658 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Joseph interprets Pharaoh&#39;s dream that there will be seven years of plenty and seven years of famine in Egypt. The dream comes true and the famine is widespread. Joseph has stored grain for this time of need. Many come to Egypt seeking grain.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "As Joseph had foretold, the seven plentiful years were followed by seven years of famine, which affected not only Egypt but surrounding countries as well. Famine conditions in Egypt are produced when the Nile fails to overflow its banks (see v. 34), and this in turn is due to a lack of rainfall in the highlands of Abyssinia. When the Egyptians had consumed their own stores of food they turned to the king, remembering, no doubt, the special grain levy imposed for seven successive years. He directed them to Joseph, the minister of food, who opened the granaries for native Egyptians and for the foreigners who came to Egypt for food. <BR /><BR />Joseph&#39;s wisdom as an administrator now became apparent to all. If anyone had had doubt as to his policy of hoarding tremendous quantities of grain year after year, none questioned the prudence of the policy now. What would Pharaoh, a foreign ruler, have done with a famishing population? How could he have averted the overthrow of his own dynasty, except for the forethought of Joseph? This young Hebrew, a former house slave, had become the savior of the throne, of all Egypt, and of surrounding nations as well.<BR /><BR />That Joseph did not distribute the stored grain free to the perishing multitudes was not without reason. The people had certainly been warned of the impending calamity, and might by care and economy have saved a little themselves for the days of want. Since the people had to pay for the grain, they were encouraged to exercise frugality and to avoid wasting the precious supply of food, which must be made to last for seven long years. This plan also enabled Joseph to extend relief to the starving populations of other countries. The fact that the grain was sold back to the people makes it clear that the collection had been made as a form of taxation and not as a public service rendered by the king.<BR /><BR />As the drought became more and more severe, and man and beast were both suffering, Jacob made the decision to fetch grain from Egypt to preserve his family from starvation. That he did not, like Abraham (ch. 12:10) and Isaac (ch. 26:2), plan to move his family to Egypt may have been due to the fact that the famine prevailed in Egypt as well as Canaan. Ten sons of Jacob traveled south. That all ten went to Egypt was either for safety or because the grain was distributed to heads of families. Their number would possibly enable them to secure more grain, and would certainly enable them to return with more of it. <BR /><BR />Also, the famine conditions would render plundering of their caravan for its supplies of food a very real possibility. Benjamin was not kept back because of his youth, since he was now more than 20 years of age, but because, as the only remaining child of Rachel, he had taken Joseph&#39;s place as the object of Jacob&#39;s most tender affections.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 41:53-57",
+      "verses": [
+        {
+          "number": 53,
+          "line": "And the seven years of plenteousness, that was in the land of Egypt, were ended."
+        },
+        {
+          "number": 54,
+          "line": "And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread."
+        },
+        {
+          "number": 55,
+          "line": "And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do."
+        },
+        {
+          "number": 56,
+          "line": "And the famine was over all the face of the earth: And Joseph opened all the storehouses, and sold unto the Egyptians; and the famine waxed sore in the land of Egypt."
+        },
+        {
+          "number": 57,
+          "line": "And all countries came into Egypt to Joseph for to buy corn; because that the famine was so sore in all lands."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 42:1-5",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?"
+        },
+        {
+          "number": 2,
+          "line": "And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die."
+        },
+        {
+          "number": 3,
+          "line": "And Joseph's ten brethren went down to buy corn in Egypt."
+        },
+        {
+          "number": 4,
+          "line": "But Benjamin, Joseph's brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him."
+        },
+        {
+          "number": 5,
+          "line": "And the sons of Israel came to buy corn among those that came: for the famine was in the land of Canaan."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "joseph",
+      "titleEn": "Joseph",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas2612_8-6-2013 11-36-57 AM.jpg",
+      "caption": "Joseph has stored grain for this time of need. Many come to Egypt seeking grain."
+    }
+  ],
+  "videos": []
 }

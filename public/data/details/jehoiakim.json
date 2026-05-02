@@ -4,13 +4,53 @@
   "period": 7,
   "titleEn": "Jehoiakim",
   "titleKa": null,
-  "datesEn": "634–598 BC",
+  "datesEn": "634&ndash;598 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh raises up.&#34; He is the 18th ruler of the southern kingdom of Judah and reigns for 11 years. He is the son of Josiah but does not live like his father. He is an evil king and rebels against Nebuchadnezzar. He is captured and dies.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jehoiakim, name means &#34;Yahweh raises up.&#34; The 18th ruler of the southern kingdom of Judah, who reigned for 11 years (609&#8212;598 b.c.) He was the second son of Josiah (1 Chr 3:15), and followed his younger brother, Jehoahaz, on the throne, when Jehoahaz was deposed by Pharaoh Necho and carried captive to Egypt. Jehoiakim&#39;s original name was Eliakim, &#34;God raises up,&#34; but Necho changed it to Jehoiakim, which became his throne name (2 Ki 23:34 2 Chr 36:4). Jehoiakim seems to have belonged to the pro&#8212;Egyptian party, as indicated by the fact that Necho considered him a trustworthy candidate for the kingship in Judah. In order to pay the heavy tribute laid upon him by Necho, Jehoiakim taxed the whole population (2 Ki 23:35). He is described as a wicked king (2 Ki 23:37 2 Chr 36:5), who quickly undid everything his pious father Josiah had achieved in religious reforms. During his reign Jeremiah bade Baruch, his servant, put in writing and read publicly a prophecy predicting Judah&#39;s inevitable doom. When Jehoiakim learned about it he requested that the scroll be read before him. Annoyed at its contents, he destroyed it, and ordered the arrest of Jeremiah and Baruch (Jer 36). Another prophet, Uriah, who proclaimed the same message of doom, was executed (ch 26:20&#8212;23).<BR /><BR />During the first 3 years of his reign Jehoiakim was apparently a vassal of the Egyptian king. However, in 605 b.c. Nebuchadnezzar decisively defeated the Egyptian army at Carchemish and entered Palestine. Jehoiakim surrendered, and Nebuchadnezzar carried away some of the Temple vessels and a group of hostages, among whom were Daniel and his three friends (Dan 1:1&#8212;6). This event must have taken place shortly before the death of Nabopolassar, Nebuchadnezzar&#39;s father, for the news of Nabopolassar&#39;s death reached Nebuchadnezzar while he was on his way to Egypt. Jehoiakim became Nebuchadnezzar&#39;s vassal for 3 years, but rebelled (2 Ki 24:1), apparently at a time of resurgence of Egyptian power, for in 601 b.c. Egypt succeeded in inflicting heavy losses on Nebuchadnezzar&#39;s army, as the Babylonian Chronicle reveals. Nebuchadnezzar then allowed Judah&#39;s neighboring nations and his own garrison stationed near Judah to invade Jehoiakim&#39;s kingdom. The Babylonians captured Jehoiakim, but he seems to have died before he could be transported to Babylon, possibly by accident or possibly as the result of rough treatment from the Babylonian soldiers (2 Ki 24:2 2 Chr 36:6). His death must have occurred in early Dec., 598 b.c., because the date of his son Jehoiachin&#39;s captivity, which occurred after a reign of only 3 months and 10 days (2 Chr 36:9) is, on evidence found in the Babylonian Chronicle, placed at March 16, 597 b.c. The king&#39;s death was not lamented. His body was cast outside the gate of Jerusalem and was finally unceremoniously buried (Jer 22:18, 19 36:30). His son Jehoiachin followed him (2 Chr 36:8).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Chronicles 3:15",
+      "verses": [
+        {
+          "number": 15,
+          "line": "And the sons of Josiah were, the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum."
+        }
+      ]
+    },
+    {
+      "reference": "Jeremiah 22:18-19",
+      "verses": [
+        {
+          "number": 18,
+          "line": "Therefore thus saith the LORD concerning Jehoiakim the son of Josiah king of Judah; They shall not lament for him, saying, Ah my brother! or, Ah sister! they shall not lament for him, saying, Ah lord! or, Ah his glory!"
+        },
+        {
+          "number": 19,
+          "line": "He shall be buried with the burial of an ass, drawn and cast forth beyond the gates of Jerusalem."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "josiah",
+      "titleEn": "Josiah",
+      "titleKa": null
+    },
+    {
+      "slug": "jehoiachin",
+      "titleEn": "Jehoiachin",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Jehoiakim-Eliakim.jpg",
+      "caption": "Illustration of Jehoiakim in 1553 published by Guillaume Rouille"
+    }
+  ],
+  "videos": []
 }

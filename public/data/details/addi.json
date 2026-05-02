@@ -4,13 +4,40 @@
   "period": 7,
   "titleEn": "Addi",
   "titleKa": null,
-  "datesEn": "647–547 BC",
+  "datesEn": "647&ndash;547 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A Judahite, the son of Cosam and the father of Melki, listed in Luke&#39;s genealogy of Jesus Christ.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:28",
+      "verses": [
+        {
+          "number": 28,
+          "line": "Which was the son of Melchi, which was the son of Addi, which was the son of Cosam, which was the son of Elmodam, which was the son of Er,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "cosam",
+      "titleEn": "Cosam",
+      "titleKa": null
+    },
+    {
+      "slug": "melchi",
+      "titleEn": "Melchi",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-Addi_8-6-2013 10-45-39 AM.jpg",
+      "caption": "Which was the son of Melchi, which was the son of <b>Addi</b>, which was the son of Cosam, which was the son of Elmodam, which was the son of Er, (Luke 3:28)"
+    }
+  ],
+  "videos": []
 }

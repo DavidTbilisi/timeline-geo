@@ -4,18 +4,73 @@
   "period": 7,
   "titleEn": "Elisha and the Widow's Oil",
   "titleKa": null,
-  "datesEn": "849 BC",
+  "datesEn": "849 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A woman&#39;s husband dies. He is one of the &#34;sons of the prophets.&#34; She has debts and may lose her two sons. She asks Elisha for help and she miraculously receives oil to pay her debts.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A woman&#39;s husband dies. He is one of the &#34;sons of the prophets.&#34; She has debts and may lose her two sons. She asks Elisha for help and she miraculously receives oil to pay her debts. When he asked, &#34;What shall I do?&#34;, the question revealed the kindly spirit of the prophet. Elisha was a man who was interested in the people, always friendly, always sympathetic, and always ready to help. When called upon by the king, he was ready to supply the wants of the whole army, when called on by a poor and friendless widow, he did not turn her away. <BR /><BR />He asked, &#34;What do you have?&#34; God uses what we have. He is not limited in His resources or His powers, and could easily have supplied the woman&#39;s need without her pot of oil. But He took what she had and placed His blessing upon it. The pot of oil was not much, but in God&#39;s hand and with His blessing it was sufficient to supply all her needs. The pot of oil was the sign of the widow&#39;s utmost poverty, but it was also the means employed by the Lord for the supplying of all her needs.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 4:1-7",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen."
+        },
+        {
+          "number": 2,
+          "line": "And Elisha said unto her, What shall I do for thee? tell me, what hast thou in the house? And she said, Thine handmaid hath not any thing in the house, save a pot of oil."
+        },
+        {
+          "number": 3,
+          "line": "Then he said, Go, borrow thee vessels abroad of all thy neighbours, even empty vessels; borrow not a few."
+        },
+        {
+          "number": 4,
+          "line": "And when thou art come in, thou shalt shut the door upon thee and upon thy sons, and shalt pour out into all those vessels, and thou shalt set aside that which is full."
+        },
+        {
+          "number": 5,
+          "line": "So she went from him, and shut the door upon her and upon her sons, who brought the vessels to her; and she poured out."
+        },
+        {
+          "number": 6,
+          "line": "And it came to pass, when the vessels were full, that she said unto her son, Bring me yet a vessel. And he said unto her, There is not a vessel more. And the oil stayed."
+        },
+        {
+          "number": 7,
+          "line": "Then she came and told the man of God. And he said, Go, sell the oil, and pay thy debt, and live thou and thy children of the rest."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "elisha",
+      "titleEn": "Elisha",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-lwjas0179_8-6-2013 2-49-26 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-lwjas0179_8-6-2013 2-49-26 PM.jpg",
+      "caption": "The widow pouring oil after the miracle."
+    },
+    {
+      "file": "Clay Pots_4-8-2013 3-41-34 PM.jpg",
+      "caption": "Then he said, &#34;Go, borrow vessels from everywhere, from all your neighbors-empty vessels; do not gather just a few. (2 Kings 4:3)"
+    },
+    {
+      "file": "_GoodSalt-stdas0460_8-27-2013 11-34-01 AM.jpg",
+      "caption": "The widow and the oil."
+    }
+  ],
+  "videos": [
+    {
+      "title": "A Jar of Oil",
+      "caption": "A woman who was the wife of one of the sons of the prophets was a widow and her sons were going to be taken by creditors. She cries out to Elisha who instructs her to gather many empty vessels. The miracle of this story teaches us a spiritual lesson about Jesus our Savior.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg5197.mp4"
     }
   ]
 }

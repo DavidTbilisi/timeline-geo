@@ -2,20 +2,35 @@
   "slug": "ulrich-zwingli",
   "id": 1324,
   "period": 11,
-  "titleEn": "Ulrich Zwingli",
+  "titleEn": "Ulrich Zwingli ",
   "titleKa": null,
-  "datesEn": "1484–1531 AD (~47)",
+  "datesEn": "1484&ndash;1531 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A leader of the reformation movement in Switzerland.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Ulrich Zwingli was born January 1, 1484, in Wildhaus, Toggenburg, located in eastern Switzerland. Much of Zwingli&#39;s childhood was spent in his alpine homeland observing nature and reflecting on the Creator.<BR /><BR />Zwingli began his studies in Vienna but finished them in Basle. In 1504 he received his bachelor&#39;s degree and then a master&#39;s degree in 1506. It was also in 1506 that Zwingli met a man named Thomas Wyttenbach, who led Zwingli away from useless philosophical thinking to a pastoral lifestyle. As a result, Zwingli was ordained on September 29, 1506, as the parish priest of Glarus.<BR /><BR />During these early years, Zwingli was a loyal priest devoted to his duties. However, in 1518 Zwingli began preaching from the Bible in a systematic manner. He even preached from entire Bible books, a radical practice at the time. This led Zwingli to begin his reformation writing. His first reformation work was written in 1522. Over the next few years, Zwingli&#39;s reforms were so powerful in Switzerland that by 1525 the Mass was abolished in Zurich.<BR /><BR />The Roman Catholic Church was threatened by Zwingli and war broke out in Switzerland in 1529. During the war Zwingli was working as chaplain and died on the battlefield at Kappel. Because Zwingli was considered a heretic, his body was burned and his ashes disseminated.<BR /><BR />Nevertheless, Zwingli is considered the founder of Swiss Protestantism, and the work he started didn&#39;t end with his death.<BR /><BR />Some of his important works include The Clarity and Certainty of God&#39;s Word and Confession of Faith.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Ulrich-Zwingli-1_8-5-2013 9-17-55 AM.jpg",
-      "caption": ""
+      "file": "Ulrich-Zwingli-1_8-5-2013 9-17-55 AM.jpg",
+      "caption": "Ulrich Zwingli, Winterthur Kunstmuseum, 1531"
+    },
+    {
+      "file": "Zurich City_2-26-2013 5-05-04 PM.jpg",
+      "caption": "City of Zurich were he spent most of his time teaching."
+    },
+    {
+      "file": "Zwingli_2-26-2013 5-05-04 PM.jpg",
+      "caption": "Ulrich Zwingli statue in Zurich"
     }
-  ]
+  ],
+  "videos": []
 }

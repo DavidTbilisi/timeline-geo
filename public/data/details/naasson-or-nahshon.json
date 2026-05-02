@@ -4,13 +4,62 @@
   "period": 4,
   "titleEn": "Naasson (or Nahshon)",
   "titleKa": null,
-  "datesEn": "1383–1273 BC",
+  "datesEn": "1383&ndash;1273 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;serpent.&#34; He is the son of Aminadab and brother to Elisheba who was married to Aaron. Being from the tribe of Judah, he is mentioned in the genealogies of Matthew and Luke as an ancestor of Jesus Christ.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A prince of the tribe of Judah in the early wilderness wandering of Israel (Num 1:7 2:3 7:12, 17 10:14). His sister married Aaron (Ex 6:23). He was the ancestor of Boaz, and thus of King David (Ruth 4:20&#8212;22 1 Chr 2:10&#8212;12). This placed him in the ancestry of Jesus Christ (Mt 1:4 Lk 3:32, 33).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 1:4",
+      "verses": [
+        {
+          "number": 4,
+          "line": "And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;"
+        }
+      ]
+    },
+    {
+      "reference": "Luke 3:32-33",
+      "verses": [
+        {
+          "number": 32,
+          "line": "Which was the son of Jesse, which was the son of Obed, which was the son of Booz, which was the son of Salmon, which was the son of Naasson,"
+        },
+        {
+          "number": 33,
+          "line": "Which was the son of Aminadab, which was the son of Aram, which was the son of Esrom, which was the son of Phares, which was the son of Juda,"
+        }
+      ]
+    },
+    {
+      "reference": "Exodus 6:23",
+      "verses": [
+        {
+          "number": 23,
+          "line": "And Aaron took him Elisheba, daughter of Amminadab, sister of Naashon, to wife; and she bare him Nadab, and Abihu, Eleazar, and Ithamar."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "aminadab-or-amminidab",
+      "titleEn": "Aminadab (or Amminidab)",
+      "titleKa": null
+    },
+    {
+      "slug": "salmon",
+      "titleEn": "Salmon",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Michelangelo_lunetta_Nahshon_01.jpg",
+      "caption": "Lunette depicting Nahshon in the Sistine Chapel, 1511-1512 by Michelangelo Buonarroti."
+    }
+  ],
+  "videos": []
 }

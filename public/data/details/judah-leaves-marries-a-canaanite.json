@@ -4,13 +4,51 @@
   "period": 3,
   "titleEn": "Judah Leaves, Marries a Canaanite",
   "titleKa": null,
-  "datesEn": "1678–1677 BC",
+  "datesEn": "1678&ndash;1677 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Judah leaves his brothers and marries a Canaanite woman named Shua. She bears him three sons, Er, Onan, and Shelah. Judah is moving away from God&#39;s plan to bless the children of Jacob as God&#39;s special people.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Genesis 38 gives the origin of the three leading families of Judah, the future princely tribe of Israel. It shows also that the sons of Jacob, forgetting the sacred vocation of their race, were in danger of perishing in the sins of Canaan. Had not God in mercy interposed to bring about the removal of the whole house of Jacob to Egypt, the chosen race might have succumbed to the corrupting influence of Canaanite customs. Thus, ch. 38 is an integral part of the early history of Israel.<BR /><BR />Being the fourth son of Leah, Judah was certainly not more than 3 years or so older than Joseph, which would make him about 20 years old at the time Joseph was sold (see ch. 37:2 and on ch. 30:24). Between Joseph&#39;s sale as a slave and Jacob&#39;s migration to Egypt lay 22 years (cf. chs. 41:46 45:6), so that Judah was about 42 years old when the family moved to Egypt. At that time he not only had the three sons, mentioned in ch. 38, but was apparently a grandfather as well, as ch. 46:12 seems to imply. <BR /><BR />If this be correct, his sons Er, Onan, and Shelah must have been born before Joseph was sold, since they themselves had already reached marriageable ages when the events involving Tamar occurred, and Tamar&#39;s son Pharez had two sons of his own when the family moved to Egypt. These observations oblige us to conclude that some of Jacob&#39;s sons must have married while very young. Judah could not have been more than 14 years old at the birth of his oldest son, Er, nor Er more than 13 at his marriage to Tamar. <BR /><BR />The birth of Judah&#39;s twin sons by his daughter&#8212;in&#8212;law Tamar must have taken place within two years after Er&#39;s death. Pharez cannot have been more than 14 years old when Hezron and Hamul were born, apparently also as twins, before the departure from Canaan. Such early marriages are by no means uncommon in certain parts of the Orient even today. In the case of Jacob&#39;s family, they may represent Canaanite influence. The considerations make it virtually certain that Judah was a married man and a father at the time of Joseph&#39;s sale, and that part of the narrative of ch. 38 had already taken place.<BR /><BR />For some unknown reason Judah visited Adullam while he was still a youth. Perhaps it was while feeding the flocks of his father in that vicinity that he accidentally made the acquaintance of the Adullamite and remained for a time with him. That Judah did not separate himself permanently from his parental home is clear from the fact that he was with his brothers when Joseph was sold (ch. 37:26), and also when the famine forced them to buy grain in Egypt (ch. 43:3).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 38:1-5",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name was Hirah."
+        },
+        {
+          "number": 2,
+          "line": "And Judah saw there a daughter of a certain Canaanite, whose name was Shuah; and he took her, and went in unto her."
+        },
+        {
+          "number": 3,
+          "line": "And she conceived, and bare a son; and he called his name Er."
+        },
+        {
+          "number": 4,
+          "line": "And she conceived again, and bare a son; and she called his name Onan."
+        },
+        {
+          "number": 5,
+          "line": "And she yet again conceived, and bare a son; and called his name Shelah: and he was at Chezib, when she bare him."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "judah",
+      "titleEn": "Judah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-wjpas0546_8-6-2013 10-52-39 AM.jpg",
+      "caption": "And Judah saw there a daughter of a certain Canaanite, whose name was Shuah; and he took her, and went in unto her. (Genesis 38:2)"
+    }
+  ],
+  "videos": []
 }

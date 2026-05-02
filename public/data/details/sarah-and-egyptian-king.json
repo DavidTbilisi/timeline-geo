@@ -4,13 +4,75 @@
   "period": 3,
   "titleEn": "Sarah and Egyptian King",
   "titleKa": null,
-  "datesEn": "1871 BC",
+  "datesEn": "1871 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Abram takes his family to Egypt because of a severe famine. He is worried he will be killed and his beautiful wife taken from him, so he tells Sarai to say she is his sister. Pharaoh takes Sarai but his household is plagued. He learns Abram has lied.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "This is his wife. Abram was to discover in Egypt that human cunning is worthless and that deliverance from fear and perplexity comes only from the Lord (Ps. 105:14, 15). Approaching Egypt Abram feared for his life on account of the beauty of Sarai, his wife. Since she was his half sister, he felt justified in asking her to pass herself off as his sister (see Gen. 20:12). The conduct of the Canaanites, as seen later in the case of the men of Sodom (ch. 19:4&#8212;11), is evidence that he had reason for his anxiety. His experience in Egypt shows even more clearly that, from a human point of view, his fears were well founded. But the precaution he took did not spring from faith. <BR /><BR />She was very fair. How could Sarai at the age of 65 have been as attractive as this incident suggests? It should be remembered that in Abram&#39;s time the life span was twice what it is now, and Sarai, who died at the age of 127 (ch. 23:1), was therefore in middle age. The Pharaohs are known to have fancied the fairer complexion of foreign women, and to have secured Libyan, Hittite, Mesopotamian, and Palestinian girls for the royal harem.<BR /><BR />The Lord plagued Pharaoh. Man&#39;s extremity is God&#39;s opportunity. Though Abram had failed God, God intervened on his behalf. What the nature of these plagues was cannot be determined, but they were obviously of such a nature as to protect Sarai from dishonor and to convince Pharaoh that he should restore her to Abram. Sarai herself may have revealed her actual marital status, or God may have spoken directly to Pharaoh as He did later to Abimelech (see ch. 20:3).<BR />This experience should have taught Abram to trust in God rather than in his own clever devices. <BR /><BR />Take her, and go. Recognizing that the plagues had come upon him because of God&#39;s displeasure, the monarch did not dare to deal harshly with Abram, but sought, rather, to mitigate the anger of God by providing him a safe&#8212;conduct from the country. The graciousness of Pharaoh and the mercy of God had humbled him, and in silence he acknowledged his guilt. What dishonor comes to the cause of God when His representatives, as the result of ill&#8212;advised and disgraceful courses of action, bring upon themselves well&#8212;earned reproof from men of the world!",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 12:11-20",
+      "verses": [
+        {
+          "number": 11,
+          "line": "And it came to pass, when he was come near to enter into Egypt, that he said unto Sarai his wife, Behold now, I know that thou art a fair woman to look upon:"
+        },
+        {
+          "number": 12,
+          "line": "Therefore it shall come to pass, when the Egyptians shall see thee, that they shall say, This is his wife: and they will kill me, but they will save thee alive."
+        },
+        {
+          "number": 13,
+          "line": "Say, I pray thee, thou art my sister: that it may be well with me for thy sake; and my soul shall live because of thee."
+        },
+        {
+          "number": 14,
+          "line": "And it came to pass, that, when Abram was come into Egypt, the Egyptians beheld the woman that she was very fair."
+        },
+        {
+          "number": 15,
+          "line": "The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh's house."
+        },
+        {
+          "number": 16,
+          "line": "And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels."
+        },
+        {
+          "number": 17,
+          "line": "And the LORD plagued Pharaoh and his house with great plagues because of Sarai Abram's wife."
+        },
+        {
+          "number": 18,
+          "line": "And Pharaoh called Abram, and said, What is this that thou hast done unto me? why didst thou not tell me that she was thy wife?"
+        },
+        {
+          "number": 19,
+          "line": "Why saidst thou, She is my sister? so I might have taken her to me to wife: now therefore behold thy wife, take her, and go thy way."
+        },
+        {
+          "number": 20,
+          "line": "And Pharaoh commanded his men concerning him: and they sent him away, and his wife, and all that he had."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "abraham",
+      "titleEn": "Abraham",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Sarai_Is_Taken_to_Palace_of_Pharaoh_Tissot_7-31-2013 1-21-17 PM.jpg",
+      "caption": "Sarah in Pharoah&#39;s palace. Artist: James Joseph Jacques Tissot, c. between 1896 and 1902 "
+    },
+    {
+      "file": "David_Roberts_Cheops_Chepren_7-31-2013 1-33-51 PM.jpg",
+      "caption": "The Pyramids of Geezeh. Artist: David Roberts, c. 1838"
+    }
+  ],
+  "videos": []
 }

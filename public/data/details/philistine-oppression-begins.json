@@ -4,18 +4,35 @@
   "period": 5,
   "titleEn": "Philistine Oppression",
   "titleKa": null,
-  "datesEn": "1115–1075 BC (40)",
+  "datesEn": "1115&ndash;1075 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The Israelites once more turn away from God and do &#34;evil in the sight of the Lord.&#34; God delivers them into the hands of the Philistines who oppress them for 40 years. God then raises up Samson to deliver them.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Philistines have been briefly mentioned by the author of Judges several times previously (chs. 3:31 10:7&#8212;11). They were, like the Hebrews, invaders and settlers in Palestine. Philistines, in limited numbers, were in the land as early as the time of Abraham (Gen. 21:32). But their major wave of migration into Palestine probably occurred at the beginning of the 12th century b.c. along with that of other non&#8212;Semitic tribes from Asia Minor and the Aegean Islands (see p. 27). <BR /><BR />According to archeological accounts these Peoples of the Sea, as they were called by the Egyptians, were turned back at the gates of Egypt by Ramses III about 1194 b.c. In honor of his success in repelling the invaders, Ramses III built a large temple at Thebes (now called Med&#238;net&#8212;Habu) and covered its walls with pictures of the battle, among them being realistic representations of Philistine warriors. After the defeat of the Peoples of the Sea by the Egyptians part of this migration settled in the maritime plain of Canaan, where they largely adopted the religion, customs, and language of the Canaanites.<BR /><BR />The Hebrews called the Philistines Pelishtim, and their territory, Pelesheth, which word, by the evolution of language, became &#34;Palestine.&#34; The Philistines settled chiefly in the five ancient cities of the plain, Ekron, Gaza, Ashkelon, Ashdod, and Eglon, which became the centers of the Philistine confederacy. From there the Philistines spread out into the Shephelah, and eventually, during the time of Saul, controlled all western Palestine as far north as the plain of Esdraelon and the Sea of Galilee. From the time of Samson they were the main challengers of the Israelites until they were subjugated by David.<BR /><BR />The Bible says they oppressed Israel for 40 years. There has been a question as to whether this period was prior to, or included, the days of Samson and perhaps extended beyond to the battle of Ebenezer in the days of Samuel (1 Sam. 7:13). Samson was born in the early years of the Philistine oppression. According to some authorities, this oppression was contemporaneous with the Ammonite oppression and judgeship of Jephthah.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Judges 13:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And the children of Israel did evil again in the sight of the LORD; and the LORD delivered them into the hand of the Philistines forty years."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "samson",
+      "titleEn": "Samson",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas3460_8-6-2013 4-51-17 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas3460_8-6-2013 4-51-17 PM.jpg",
+      "caption": "The angel appearing to Samson&#39;s parents."
     }
-  ]
+  ],
+  "videos": []
 }

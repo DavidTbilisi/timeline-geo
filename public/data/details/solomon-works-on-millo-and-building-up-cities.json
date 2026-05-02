@@ -4,13 +4,91 @@
   "period": 6,
   "titleEn": "Solomon Fortifies Cities",
   "titleKa": null,
-  "datesEn": "945–931 BC",
+  "datesEn": "945&ndash;931 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Solomon enters a glorious part of his reign when he builds up the fortification of Jerusalem and also many cities. The word &#34;Millo&#34; means filling and may have referred to an area between the hills of Zion and Moriah or it may have been a citadel.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In 1 Kings 9:15&#8212;28 it consists of brief historical and explanatory notes, but it contains some items of great value. The levy here referred to was mentioned in ch. 5:13, 14. This labor draft was first for the building of the Temple and then for the palace and other enterprises. The reference to work on the &#34;Millo&#34; is thought to be a citadel, terrace, or fortification in Jerusalem. Since David dwelt in the &#34;fort,&#34; or &#34;castle,&#34; of the old Jebusite city captured by him, later known as the &#34;city of David&#34; (2 Sam. 5:7, 9, 1 Chron. 11:5, 7), Millo was probably a strong place in the city when it was taken by David. It was probably situated at the northern end of the city. David (2 Sam. 5:9 1 Chron. 11:8) and Solomon (1 Kings 9:24 11:27) added to the early fortification, and later Hezekiah did additional work (2 Chron. 32:5). Others have explained Millo to be the earth filling along the eastern slope south of Moriah.<BR /><BR />David greatly strengthened and extended the walls of the ancient Jebusite city, building &#34;round about from Millo and inward&#34; (2 Sam. 5:9). Solomon made further repairs and additions, closing up certain weak points of defense in the City of David (1 Kings 11:27). Later kings continued to make repairs and additions, till the wall eventually ran near the Valley of Hinnom at the south (Jer. 19:2), including a double wall at the southeast near the king&#39;s garden (2 Kings 25:4), a wall outside the City of David on the east, &#34;on the west side of Gihon, in the valley&#34; and which went &#34;about Ophel&#34; and was raised to &#34;a very great height&#34; (2 Chron. 33:14). <BR /><BR />The gate at the northwest corner was an important gate called the &#34;gate of the corner&#34; (Jer. 31:38). It was a section of this northern wall, &#34;from the gate of Ephraim unto the corner gate, four hundred cubits&#34; (2 Kings 14:13), that was broken down by Jehoash of Israel during the reign of Amaziah. Uzziah repaired and strengthened the wall, building towers at the &#34;the corner gate, and at the valley gate, and at the turning of the wall, and fortified them&#34; (2 Chron. 26:9). The rest of the chapter lists other great accomplishments of Solomon.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 9:15-28",
+      "verses": [
+        {
+          "number": 15,
+          "line": "And this is the reason of the levy which king Solomon raised; for to build the house of the LORD, and his own house, and Millo, and the wall of Jerusalem, and Hazor, and Megiddo, and Gezer."
+        },
+        {
+          "number": 16,
+          "line": "For Pharaoh king of Egypt had gone up, and taken Gezer, and burnt it with fire, and slain the Canaanites that dwelt in the city, and given it for a present unto his daughter, Solomon's wife."
+        },
+        {
+          "number": 17,
+          "line": "And Solomon built Gezer, and Bethhoron the nether,"
+        },
+        {
+          "number": 18,
+          "line": "And Baalath, and Tadmor in the wilderness, in the land,"
+        },
+        {
+          "number": 19,
+          "line": "And all the cities of store that Solomon had, and cities for his chariots, and cities for his horsemen, and that which Solomon desired to build in Jerusalem, and in Lebanon, and in all the land of his dominion."
+        },
+        {
+          "number": 20,
+          "line": "And all the people that were left of the Amorites, Hittites, Perizzites, Hivites, and Jebusites, which were not of the children of Israel,"
+        },
+        {
+          "number": 21,
+          "line": "Their children that were left after them in the land, whom the children of Israel also were not able utterly to destroy, upon those did Solomon levy a tribute of bondservice unto this day."
+        },
+        {
+          "number": 22,
+          "line": "But of the children of Israel did Solomon make no bondmen: but they were men of war, and his servants, and his princes, and his captains, and rulers of his chariots, and his horsemen."
+        },
+        {
+          "number": 23,
+          "line": "These were the chief of the officers that were over Solomon's work, five hundred and fifty, which bare rule over the people that wrought in the work."
+        },
+        {
+          "number": 24,
+          "line": "But Pharaoh's daughter came up out of the city of David unto her house which Solomon had built for her: then did he build Millo."
+        },
+        {
+          "number": 25,
+          "line": "And three times in a year did Solomon offer burnt offerings and peace offerings upon the altar which he built unto the LORD, and he burnt incense upon the altar that was before the LORD. So he finished the house."
+        },
+        {
+          "number": 26,
+          "line": "And king Solomon made a navy of ships in Eziongeber, which is beside Eloth, on the shore of the Red sea, in the land of Edom."
+        },
+        {
+          "number": 27,
+          "line": "And Hiram sent in the navy his servants, shipmen that had knowledge of the sea, with the servants of Solomon."
+        },
+        {
+          "number": 28,
+          "line": "And they came to Ophir, and fetched from thence gold, four hundred and twenty talents, and brought it to king Solomon."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "solomon",
+      "titleEn": "Solomon",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Gezer Solomonic gate from northeast, tb040607306_4-30-2013 11-33-17 AM.jpg",
+      "caption": "Picture of Solomonic gate in Gezer"
+    },
+    {
+      "file": "Gezer Solomonic gate from north, tb040607304_4-30-2013 11-33-17 AM.jpg",
+      "caption": "Picture of Solomonic gate in Gezer view from north"
+    }
+  ],
+  "videos": []
 }

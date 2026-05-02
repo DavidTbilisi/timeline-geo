@@ -4,18 +4,76 @@
   "period": 10,
   "titleEn": "Paul's Escape from Damascus",
   "titleKa": null,
-  "datesEn": "38 AD",
+  "datesEn": "38 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "When the Jewish leaders try to capture and kill Saul, he escapes Damascus and goes to Jerusalem. Here the believers are skeptical of his conversion but come to believe him. When his life is again threatened he is sent to Tarsus for a period.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Following this apparent time of inaction, Paul once again returned to Damascus (Gal 1:17), from which point the narrative continues in Acts 9. Paul, it would seem, resumed his preaching in the synagogues with the same results as before (v 22). Consequently the Jews laid plans to murder him (vs 23, 24). They were supported in their scheme by the governor of the city, who served under the Nabataean king Aretas (2 Cor 11:32, 33). Since Aretas ruled that area probably between A.D. 37 and c. 54, this event must have occurred somewhere within this period. However, the soldiers, who were watching the gates to prevent Paul&#39;s escape from the city, were frustrated in their design, for some of the local believers lowered Paul in a basket from a window of a house built on the city wall, thus enabling him to evade his enemies (Acts 9:25, 2 Cor 11:33).<BR /><BR />With his opportunity for working in Damascus at an end, Paul turned his eyes toward Jerusalem. Three years had now elapsed since his conversion, but up to this time he had had no contact with any of the church leaders (Gal 1:17, 18), which fact he later offered as proof that his gospel had originated, not with the disciples of Christ, but with Christ Himself (Gal 1:10&#8212;12 cf. 1 Cor 15:3&#8212;8). His primary reason for going there was to see Peter (Gal 1:18). On arriving in the city he endeavored to join with Peter and the other believers as a Christian brother, but swiftly discovered that 3 years had not sufficed to dim the memory of his previous persecutions, or to remove their fear and suspicion of him (Acts 9:26). The resulting impasse was broken by the Cypriote, Barnabas, who showed his confidence in Paul&#39;s account of his experience by relating it to the others in Paul&#39;s presence (v 27).<BR /><BR />Paul demonstrated the genuineness of his experience by preaching Jesus in the city of Jerusalem. His incontrovertible logic aroused the ire of certain Hellenistic Jews, who set about to take his life (Acts 9:29). In a later account of his experience (ch 22:17&#8212;21), Paul told how God appeared to him in a vision in the Temple, and over his remonstrances directed him to leave Jerusalem, informing him that the Jews would not receive his message, and that he was to be sent to the Gentiles. His brethren immediately accompanied him to the seaport of Caesarea (ch 9:30), about 53 mi. (c. 85 km.) northwest of Jerusalem. There they probably placed him on board ship to ensure his escape from his enemies.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Galatians 1:18",
+      "verses": [
+        {
+          "number": 18,
+          "line": "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days."
+        }
+      ]
+    },
+    {
+      "reference": "Acts 9:23-30",
+      "verses": [
+        {
+          "number": 23,
+          "line": "And after that many days were fulfilled, the Jews took counsel to kill him:"
+        },
+        {
+          "number": 24,
+          "line": "But their laying await was known of Saul. And they watched the gates day and night to kill him."
+        },
+        {
+          "number": 25,
+          "line": "Then the disciples took him by night, and let him down by the wall in a basket."
+        },
+        {
+          "number": 26,
+          "line": "And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple."
+        },
+        {
+          "number": 27,
+          "line": "But Barnabas took him, and brought him to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus."
+        },
+        {
+          "number": 28,
+          "line": "And he was with them coming in and going out at Jerusalem."
+        },
+        {
+          "number": 29,
+          "line": "And he spake boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him."
+        },
+        {
+          "number": 30,
+          "line": "Which when the brethren knew, they brought him down to Caesarea, and sent him forth to Tarsus."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Paul_being_let_down_in_a_basket_8-1-2013 8-55-33 AM.jpg",
-      "caption": ""
+      "file": "Paul_being_let_down_in_a_basket_8-1-2013 8-55-33 AM.jpg",
+      "caption": "Paul escaping from Damascus by being let down in a basket, Matthias Gerung"
+    },
+    {
+      "file": "The_Escape_of_Paul_002_8-1-2013 8-55-33 AM.jpg",
+      "caption": "Paul escaping from Damascus by being let down in a basket, Acts: 9:25"
     }
-  ]
+  ],
+  "videos": []
 }

@@ -4,13 +4,71 @@
   "period": 5,
   "titleEn": "Obed",
   "titleKa": null,
-  "datesEn": "1203–1123 BC",
+  "datesEn": "1203&ndash;1123 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;servant&#34; or &#34;worshiper.&#34; He is the son of Boaz and Ruth and the father of Jesse and grandfather of David. Obed was an ancestor of Jesus Christ and is listed in Matthew and Luke&#39;s genealogies.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Ruth 4:21",
+      "verses": [
+        {
+          "number": 21,
+          "line": "And Salmon begat Boaz, and Boaz begat Obed,"
+        }
+      ]
+    },
+    {
+      "reference": "Matthew 1:5",
+      "verses": [
+        {
+          "number": 5,
+          "line": "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;"
+        }
+      ]
+    },
+    {
+      "reference": "Luke 3:32",
+      "verses": [
+        {
+          "number": 32,
+          "line": "Which was the son of Jesse, which was the son of Obed, which was the son of Booz, which was the son of Salmon, which was the son of Naasson,"
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 2:12",
+      "verses": [
+        {
+          "number": 12,
+          "line": "And Boaz begat Obed, and Obed begat Jesse,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "boaz",
+      "titleEn": "Boaz",
+      "titleKa": null
+    },
+    {
+      "slug": "jesse",
+      "titleEn": "Jesse",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas0269_8-13-2013 3-23-50 PM.jpg",
+      "caption": "Boaz, Ruth, Naomi, and Obed"
+    },
+    {
+      "file": "Ruth_Naomi_Obed.jpg",
+      "caption": "Pen and brown ink over pencil on paper picture of Ruth, Naomi, and Obed in 1860 by Simeon Solomon locatead at the Birmingham Museums and Art Gallery."
+    }
+  ],
+  "videos": []
 }

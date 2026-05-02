@@ -4,13 +4,55 @@
   "period": 7,
   "titleEn": "Elisha Warns Shunammite Woman of 7 Year Famine",
   "titleKa": null,
-  "datesEn": "839 BC",
+  "datesEn": "839 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A seven year famine is coming to Israel and Elisha warns the Shunammite woman to flee. She goes to Philistine and when she returns she requests of the king that her property be returned. Gehazi, Elisha&#39;s servant, assists in the process.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "This incident took place some time after that recorded in ch. 4:8&#8212;37, but how long after we do not know. At the time of the restoration of the son the husband was still alive. But now there are indications that she may have become a widow. At least her husband is not mentioned, and the instructions given to leave her once prosperous home seem to be directed to one who was without the guiding help of a husband. Elisha took a kindly interest in the people whom he was called to serve. He tried to be a friend to all. <BR /><BR />Wherever he could do something to make the lot of someone lighter and better, there he was ready to help. There were hard times ahead, and the woman was counseled to depart for a time to sojourn in some place where the situation would be easier than at her home at Shunem. He warned her of a seven year famine. This famine took place sometime during the reign of Joram of Israel, but exactly when, it is impossible to say. The woman of Shunem had learned that there are blessings in the path of obedience. The instruction given was by the direction of God, and although difficulties and hardships still lay ahead, the results would have been far worse if she had refused to obey those instructions.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 8:1-6",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Then spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for the LORD hath called for a famine; and it shall also come upon the land seven years."
+        },
+        {
+          "number": 2,
+          "line": "And the woman arose, and did after the saying of the man of God: and she went with her household, and sojourned in the land of the Philistines seven years."
+        },
+        {
+          "number": 3,
+          "line": "And it came to pass at the seven years' end, that the woman returned out of the land of the Philistines: and she went forth to cry unto the king for her house and for her land."
+        },
+        {
+          "number": 4,
+          "line": "And the king talked with Gehazi the servant of the man of God, saying, Tell me, I pray thee, all the great things that Elisha hath done."
+        },
+        {
+          "number": 5,
+          "line": "And it came to pass, as he was telling the king how he had restored a dead body to life, that, behold, the woman, whose son he had restored to life, cried to the king for her house and for her land. And Gehazi said, My lord, O king, this is the woman, and this is her son, whom Elisha restored to life."
+        },
+        {
+          "number": 6,
+          "line": "And when the king asked the woman, she told him. So the king appointed unto her a certain officer, saying, Restore all that was hers, and all the fruits of the field since the day that she left the land, even until now."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "elisha",
+      "titleEn": "Elisha",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "_GoodSalt-prcas1498_8-27-2013 12-24-12 PM.jpg",
+      "caption": "Elisha and the Shunammite woman"
+    }
+  ],
+  "videos": []
 }

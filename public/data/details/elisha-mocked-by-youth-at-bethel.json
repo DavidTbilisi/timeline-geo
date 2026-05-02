@@ -4,13 +4,43 @@
   "period": 7,
   "titleEn": "Elisha Mocked by Youth at Bethel",
   "titleKa": null,
-  "datesEn": "850 BC",
+  "datesEn": "850 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After Elijah&#39;s ascension, Elisha goes to build up the schools of the prophets and is mocked by youth or young men when passing through Bethel. This mockery is not passed by lightly. God&#39;s judgment comes upon the youth through bears, and 42 die.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Elisha was a prophet of peace with a message of peace. His work was to bring life and gladness to the people of Israel. As he was entering upon this important mission, a number of youth came out of the city of Bethel to make sport of him and to deride his work as a messenger of God. The youth mocked him saying, &#34;Go up thou bald head.&#34; The ascension of Elijah had been a most solemn event. God had taken His faithful servant to Himself without permitting him to taste of death. The youth at Bethel had heard of Elijah&#39;s translation, and they made this sacred occasion the subject of taunts and jeers. <BR /><BR />Elijah was gone, and now they set upon Elisha, derisively calling upon him also to make his ascent and depart from their midst. The young men were inspired by Satan, who was seeking to do what he could to counteract the effect of the solemn event that had occurred and that could not but leave a deep impression upon the people of the land. As Elisha was entering upon his work, Satan was seeking to defeat the plans and purposes of God. If the mockery of these young men had been permitted to pass unnoticed, the work that God intended to do through Elisha would have been greatly retarded, and a victory would have been won for the cause of evil. The occasion called for quick and decisive action.<BR /><BR />Elisha was by nature a man of kindness. But there are limits even to kindness in the work of the Lord. The honor of God&#39;s name must be upheld, and His solemn deeds must not be made the subject of jest and mockery by the impious rabble. A prophet of God must be held in respect and his authority must be maintained. Firmness, decision, and resolute action are marks of leadership in those whom God calls to carry responsibilities for Him. This was no time for weakness or indecision. Turning upon the crowd of rude, dissolute youth, Elisha, under the inspiration of Heaven, pronounced upon them the curse of God. The judgment that followed came from God. The severity of the punishment was in keeping with the seriousness of the issues at stake. <BR /><BR />A signal example was greatly needed to check the growth of irreligion and to show the people how awful a thing it is to make sport of the works of God or to hold in contempt the appointed ministers of Heaven. Holy men of God should be treated with reverence and respect, for they are called to work and to speak in the name of the Lord. They are here as representatives of God, and in showing dishonor to them, men show dishonor to God. The Lord holds men accountable for the treatment they accord His chosen ministers. The terrible judgment that befell the taunting youth of Bethel shows how awful it is to scorn holiness or to show disrespect for a messenger of God.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 2:23-24",
+      "verses": [
+        {
+          "number": 23,
+          "line": "And he went up from thence unto Bethel: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said unto him, Go up, thou bald head; go up, thou bald head."
+        },
+        {
+          "number": 24,
+          "line": "And he turned back, and looked on them, and cursed them in the name of the LORD. And there came forth two she bears out of the wood, and tare forty and two children of them."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "elisha",
+      "titleEn": "Elisha",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-pppas0202_8-6-2013 2-41-23 PM.jpg",
+      "caption": "Bears attack the youth because of their mocking of Elisha."
+    },
+    {
+      "file": "Bear_4-8-2013 4-12-08 PM.jpg",
+      "caption": "Elisha goes to build up the schools of the prophets and is mocked by youth or young men when passing through Bethel. God&#39;s judgment comes upon the youth through bears, and 42 die."
+    }
+  ],
+  "videos": []
 }

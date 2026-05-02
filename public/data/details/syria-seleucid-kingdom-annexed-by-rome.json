@@ -4,13 +4,19 @@
   "period": 9,
   "titleEn": "Syria Seleucid Kingdom  Annexed by Rome",
   "titleKa": null,
-  "datesEn": "64 BC",
+  "datesEn": "64 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "In 64 Pompey campaigned in Syria, ended the Seleucid monarchy, and turned southward into Palestine. He took Jerusalem and broke the power of the Hasmonaeans. By 63 Syria and Judea were added to the Roman territory",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In 67 the popular party made Pompey commander of the forces Rome sent to the East to rid the sea of the Cilician pirates, a task he accomplished in three months. The next year he was authorized to wage war with the recalcitrant kings of Pontus and Armenia. Victorious, he pushed on to the Caspian and subjected Asia Minor to the will of Rome. In 64 Pompey campaigned in Syria, ended the Seleucid monarchy, and turned southward into Palestine. He took Jerusalem and broke the power of the Hasmonaeans. By 63 Syria and Judea were added to the Roman territory",
   "articleKa": null,
   "scriptures": [],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "Hw-pompey_8-28-2013 2-26-43 PM.jpg",
+      "caption": "Pompey the Great (106-48 BCE), head at NY Carlsberg Glyptoteque near Copenhagenpomp&#233;e le grand, Source/Photographer: H.F. Helmolt (ed.): History of the World. New York, 1901. "
+    }
+  ],
+  "videos": []
 }

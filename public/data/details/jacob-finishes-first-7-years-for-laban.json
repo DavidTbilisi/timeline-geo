@@ -4,13 +4,47 @@
   "period": 3,
   "titleEn": "Jacob Finishes First 7 Years for Laban",
   "titleKa": null,
-  "datesEn": "1702 BC",
+  "datesEn": "1702 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Jacob agrees to work for seven years for Laban to receive the hand of Rachel in marriage. They seem &#34;only a few days to him&#34; because of how much he loves her. After seven years he requests Rachel to be his bride.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jacob, deeply in love with Rachel, was immediately ready to come to terms with his uncle. Jacob&#39;s proposal was based partly on the fact that he was not in a position to pay the usual dowry and partly on his knowledge that the situation at home would make necessary a rather prolonged stay with Laban. Laban&#39;s assent is to be explained solely on the ground of greed, which became more apparent as time went on. <BR /><BR />Jacob gave evidence of his devoted affection for Rachel, not alone by his willingness to serve seven years for her, but even more by the spirit in which he worked for his avaricious uncle. Many as were the days that must pass before Rachel should become his bride, they were rendered happy by his love for her. The words used by Moses to express the depth of Jacob&#39;s love breathe pure affection and tender devotion.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 29:18-21",
+      "verses": [
+        {
+          "number": 18,
+          "line": "And Jacob loved Rachel; and said, I will serve thee seven years for Rachel thy younger daughter."
+        },
+        {
+          "number": 19,
+          "line": "And Laban said, It is better that I give her to thee, than that I should give her to another man: abide with me."
+        },
+        {
+          "number": 20,
+          "line": "And Jacob served seven years for Rachel; and they seemed unto him but a few days, for the love he had to her."
+        },
+        {
+          "number": 21,
+          "line": "And Jacob said unto Laban, Give me my wife, for my days are fulfilled, that I may go in unto her."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-lwjas0585_8-5-2013 5-48-58 PM.jpg",
+      "caption": "And Jacob served seven years for Rachel; and they seemed unto him but a few days, for the love he had to her. (Genesis 29:20)"
+    }
+  ],
+  "videos": []
 }

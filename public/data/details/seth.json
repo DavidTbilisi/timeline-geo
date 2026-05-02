@@ -4,18 +4,49 @@
   "period": 1,
   "titleEn": "Seth",
   "titleKa": null,
-  "datesEn": "3824–2912 BC (912)",
+  "datesEn": "3824&ndash;2912 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Meaning of name: &#34;appointed&#34; or &#34;substitute.&#34; Seth was the third son of Adam, born after Abel. He is the father of Enosh and a godly line whose genealogy ends with Noah&#39;s three sons. He died at the age of 912 years.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The third son of Adam, born after Abel (whose substitute he became) was murdered (Gen 4:25 5:3). Seth became the father of Enosh (KJV &#34;Enos&#34;), and the progenitor of the godly line of men (see ch 6:2). He died at the age of 912 years (ch 5:8).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 5:3",
+      "verses": [
+        {
+          "number": 3,
+          "line": "And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 5:8",
+      "verses": [
+        {
+          "number": 8,
+          "line": "And all the days of Seth were nine hundred and twelve years: and he died."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "adam",
+      "titleEn": "Adam",
+      "titleKa": null
+    },
+    {
+      "slug": "enos",
+      "titleEn": "Enos",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/seth_8-5-2013 5-05-51 PM.jpg",
-      "caption": ""
+      "file": "seth_8-5-2013 5-05-51 PM.jpg",
+      "caption": "Church icon of Seth at Museum of Cyril, Belozersky Monastery."
     }
-  ]
+  ],
+  "videos": []
 }

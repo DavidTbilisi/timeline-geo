@@ -4,13 +4,39 @@
   "period": 6,
   "titleEn": "David Flees to Wilderness of Paran",
   "titleKa": null,
-  "datesEn": "1015 BC",
+  "datesEn": "1015 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After David spares Saul&#39;s life at En Gedi, he hears of Samuel&#39;s death and goes to the Wilderness of Paran. One of the best loved Psalms, 121, was probably written during this difficult time when David lost his earthly moral support and also Michal.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "After Samuel died, David fled to the Wilderness of Paran, a desert extending from southern Judah south toward Sinai (see Num. 10:12). Paran is in one instance equated with Seir (Deut. 33:2), and Seir was the home of Esau in the Negeb below Hebron (see Gen. 32:3 etc.). The Wilderness of Paran is thought to include the Wilderness of Zin lying between Kadeshbarnea and the great Arabah or plain between the Dead Sea and the Gulf of Aqabah. <BR /><BR />Since the tribes inhabiting this region were predatory in nature, David would find a very cold reception as he fled to Paran, and doubtless recognized his mistake. This reception, together with the knowledge that Saul&#39;s enmity would be more bitter after the death of Samuel, made David sense the need of definite help from on high. In his great anxiety he composed the 120th and 121st psalms. <BR /><BR />When David realized that his last influential earthly friend was gone, he turned to the Lord for his sole remaining help. Psalm 121 has been a great blessing to countless thousands who at one time or another have found themselves in circumstances more or less similar to those in which the psalmist finds himself.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Samuel 25:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah. And David arose, and went down to the wilderness of Paran."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Wilderness of Paran, tb042007530_5-1-2013 2-31-52 PM.jpg",
+      "caption": "Wilderness of Paran"
+    },
+    {
+      "file": "En Gedi spring area from below, tb100304868_5-1-2013 2-31-52 PM.jpg",
+      "caption": "En Gedi spring area"
+    }
+  ],
+  "videos": []
 }

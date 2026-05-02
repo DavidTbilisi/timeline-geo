@@ -4,13 +4,35 @@
   "period": 3,
   "titleEn": "Ishmael Mocks Isaac",
   "titleKa": null,
-  "datesEn": "1843 BC",
+  "datesEn": "1843 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Abraham makes a feast when Isaac is weaned at probably around 3 years of age. Sarah sees Ishmael &#34;mock&#34; Isaac, a laughter wishing him harm, and asks Abraham to cast out Hagar and Ishmael, which he does.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Some commentators translate the Hebrew word &#34;mocking,&#34; as &#34;playing,&#34; and conclude that Sarah&#39;s declaration in the following verse was the result of jealousy. They think she could not endure the thought of Ishmael&#39;s sharing in Abraham&#39;s inheritance. Others explain this text in the light of Paul&#39;s explanation that Ishmael was expelled from his father&#39;s home for persecuting Isaac (Gal. 4:29, 30). <BR /><BR />According to the majority of instances in which the intensive form of this verb is used, Ishmael was &#34;always mocking,&#34; or taunting, Isaac. Ishmael was 14 years older than Isaac, and therefore about 17 when Isaac was weaned (see ch. 16:3 21:5). He had no doubt ever considered himself the eldest son and heir of Abraham. The birth of Isaac, however, and the weaning feast made it apparent that Sarah&#39;s son was to replace him, and as a result his jealousy was aroused. Little wonder that Ishmael taunted Isaac on being the younger, and consequently ineligible to the rights and privileges of the birthright.<BR /><BR />Sarah asks Abraham to &#34;cast out this bondwoman.&#34; Sarah&#39;s words, reflecting jealousy and contempt, hardly seem appropriate for one who had suggested Hagar&#39;s marriage to Abraham in the first place (ch. 16:2, 3). Sarah referred to Hagar as a slave and to Ishmael as the son of a slave. Of course, Sarah had the right to demand that the status of her own son be legally clarified, that no question might arise after Abraham&#39;s death. Sarah therefore called upon her husband to send Hagar away and to disown Ishmael.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 21:9",
+      "verses": [
+        {
+          "number": 9,
+          "line": "And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ishmael",
+      "titleEn": "Ishmael",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "799px-Guercino_Abramo_ripudia_Agar_8-5-2013 4-11-28 PM.jpg",
+      "caption": "Hagar and Ishmael sent away, Guercino, 1657"
+    }
+  ],
+  "videos": []
 }

@@ -2,15 +2,31 @@
   "slug": "laurentius-petri",
   "id": 1333,
   "period": 11,
-  "titleEn": "Laurentius Petri",
+  "titleEn": "Laurentius Petri ",
   "titleKa": null,
-  "datesEn": "1499–1573 AD",
+  "datesEn": "1499&ndash;1573 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The first Evangelical Lutheran Archbishop of Sweden and a leading figure of the reformation in Sweden.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Laurentius Petri was born in 1499. Along with his brother Olaf and King Gustav Vasa, Laurentius is considered one of the Swedish Protestant reformers. Laurentius studied in Germany in 1520, and while there, met Martin Luther.<BR /><BR />When King Gustav proclaimed Sweden to be Protestant at the Uppsala Council in 1531, Laurentius was declared the new archbishop in Sweden. Along with his brother Olaf, Laurentius was one of the people to oversee the first translation of the Bible into Swedish, which appeared around 1541. Laurentius died in October 1573.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Gustav_Vasa_2-26-2013 4-26-37 PM.jpg",
+      "caption": "Gustav I portrayed in 1542 by Jakob Bincks."
+    },
+    {
+      "file": "iStock_000007563998XSmall_2-26-2013 4-26-37 PM.jpg",
+      "caption": "Map of Norway Sweden and Finland."
+    }
+  ],
+  "videos": []
 }

@@ -2,15 +2,31 @@
   "slug": "council-of-basel",
   "id": 1317,
   "period": 11,
-  "titleEn": "Council of Basel",
+  "titleEn": "Council of Basel ",
   "titleKa": null,
-  "datesEn": "1431–1449 AD",
+  "datesEn": "1431&ndash;1449 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Called by Pope Martin V to deal with the question of papal supremacy and with the Hussite heresy.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Pope Martin V called the Council of Basel in 1431, but he died before it was able to convene. Eugenius IV came to power next and was strongly against the conciliar movement (which claimed the authority of a general council was above the authority of the pope). Therefore, Eugenius dissolved the council before it officially began and devoted his pontificate to the restoration of papal supremacy. The pope met almost immediate resistance. Two factions arose as a result. Some were loyal to the pope, who had set up a different council in an Italian city, Ferrara. Two years later that council was moved to Florence. The other group resisted Eugenius IV by staying in Basel and holding their own council. At this council in Basel, the delegates deposed Eugenius and elected their own pope, Felix V, in 1439. However, Eugenius proved to be too powerful and Felix resigned in 1449. The Council of Basel was then moved to Lausanne, where it voted to dissolve itself.<BR /><BR />While the Council of Basel was convened, it also attempted to put out the Hussite movement. After the martyrdom of John Huss, there was a national protest in Bohemia. In 1420 the Hussites published the Four Articles of Prague, which demanded the freedom to preach and the end of worldly power within the church, among other things. However, the Hussites were perfectly united. The Taborites were the more radical of the two main groups. The Taborites held that any practice not specifically outlined in the Bible must be given up. They did not venerate saints, pray for the dead, believe in transubstantiation, or the validity of indulgences.<BR /><BR />The other Hussite group was known as the Utraquists. This group gave up their beliefs and was reunited with the Catholic Church at the Council of Basel. Nevertheless, this was not the consensus of all of the Hussites, and the remnant of this movement upheld their beliefs and later joined the Protestant Reformation.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Pisanello_copia_da_Ritratto_di_Martino_2-26-2013 5-24-38 PM.jpg",
+      "caption": "Portrait of Pope Martin V in the 1500&#39;s."
+    },
+    {
+      "file": "PapstEugen_2-26-2013 5-24-38 PM.jpg",
+      "caption": "Portrait of Pope Eugenius IV by Jean Fouquet in the 1500&#39;s."
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,39 @@
   "period": 10,
   "titleEn": "Romans Written",
   "titleKa": null,
-  "datesEn": "57–58 AD",
+  "datesEn": "57&ndash;58 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The book of and Romans was written by the Apostle Paul. His letter to the church in Rome is his greatest theological treaty on salvation.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Romans 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-lwjas0435_8-7-2013 1-30-40 PM.jpg",
+      "caption": "The epistle of Paul the apostle to the Romans."
+    },
+    {
+      "file": "156361886_2-28-2013 11-29-20 AM.jpg",
+      "caption": "Statue of Paul the Apostle in Vatican."
+    }
+  ],
+  "videos": []
 }

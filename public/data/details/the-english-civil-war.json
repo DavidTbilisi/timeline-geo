@@ -2,15 +2,31 @@
   "slug": "the-english-civil-war",
   "id": 1384,
   "period": 12,
-  "titleEn": "The English Civil War",
+  "titleEn": "The English Civil War ",
   "titleKa": null,
-  "datesEn": "1642–1651 AD",
+  "datesEn": "1642&ndash;1651 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Began in 1642 and ended in 1651. The battles were primarily fought between King Charles I and the Parliamentary Army.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Scholars disagree as to who is responsible for beginning the English Civil War, but King Charles I (1625&#8212;1649) is at least partially to blame. Charles I was very insensitive toward the Puritans in England. However, the Puritans were not without support. There were many members of Parliament who were either Puritan or respected the Puritan faith.<BR /><BR />In 1637 the Scottish war began, a rebellion against Charles I. The Scots eventually began to invade England, which forced Charles I to turn to Parliament for assistance. For a few years, matters continued to escalate in England. Eventually, in June 1642, the Parliament passed the Nineteen Propositions, which severely limited the authority of the king. As a result, Charles I refused to accept the document. The king&#39;s response began the unexpected English Civil War.<BR /><BR />The war ended on September 3, 1651, at the Battle of Worcester. Just prior to this in 1649, King Charles I had been beheaded by an army led by Puritan leader Oliver Cromwell.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Battle_of_Naseby_2-26-2013 11-20-49 AM.jpg",
+      "caption": "Battle of Naseby, by an unknown artist. The victory of the Parliamentarian New Model Army, under Sir Thomas Fairfax and Oliver Cromwell, over the Royalist army, commanded by Prince Rupert, at the Battle of Naseby (June 14, 1645) marked the decisive turning point in the English Civil War."
+    },
+    {
+      "file": "King Charles 1s_2-26-2013 11-50-00 AM.jpg",
+      "caption": "Portrait of Charles I (1652-1649) by Daniel Mytens."
+    }
+  ],
+  "videos": []
 }

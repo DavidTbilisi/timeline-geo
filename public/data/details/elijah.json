@@ -4,18 +4,116 @@
   "period": 7,
   "titleEn": "Elijah",
   "titleKa": null,
-  "datesEn": "904–850 BC (~54)",
+  "datesEn": "904&ndash;850 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;the LORD is my God.&#34; He is a Tishbite and probably the greatest spiritual reformer of all Scripture. He works in Israel&#39;s northern kingdom during the time of Ahab and Jezebel. He speaks against Baal worship, an shows victory on Mt. Carmel",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Elijah, name means &#34;Yahweh is my God&#34;. God&#39;s special messenger to the northern kingdom of Israel during the great apostasy under Ahab (c. 874&#8212;853 b.c.) and Jezebel, when Baal worship practically supplanted the worship of the true God. He is identified only as &#34;the Tishbite&#34; (1 Ki 17:1). A man of great faith in God and bold zeal for God, Elijah easily qualifies among the greatest of the prophets. <BR /><BR />The high esteem in which the Jews of later centuries held Elijah is evident from the popular expectation, based on the prediction of Mal 4:5, 6 that the prophet would return to earth to herald the imminent appearance of the Messiah (see Mt 17:10&#8212;12). Jesus identified the ministry of John the Baptist with that predicted by Malachi (ch 11:14), having already declared that there was none greater than John (v 11). So far as is known, Elijah was the only person, except Enoch, ever honored by translation to heaven without seeing death (2 Ki 2:11, 12). He was also chosen to accompany Moses, the great lawgiver, at the transfiguration of Christ (Mt 17:3).<BR /><BR />When Ahab began his reign, a little more than half a century had passed since the death of Solomon and the division of the kingdom, since which time Israel, the northern kingdom, had rapidly lapsed into apostasy. But Ahab &#34;did evil in the sight of the Lord above all that were before him,&#34; in that he married Jezebel, daughter of a Phoenician king, and adopted her religion, thus becoming a worshiper of Baal (1 Ki 16:30, 31). Not only so, but he erected a temple to Baal in Samaria (vs 32, 33) and thus &#34;Ahab did more to provoke the Lord God of Israel to anger than all the kings of Israel that were before him&#34; (v 33). Such were conditions when the Lord commissioned Elijah to visit Ahab at court and announce a severe drought of unspecified duration (ch 17:1) as remedial punishment. <BR /><BR />The intensity of the famine and the gravity with which Ahab viewed the situation are reflected in the apprehensive reaction of Obadiah, the officer over Ahab&#39;s house, to whom Elijah presented himself (vs 7&#8212;14). Ahab&#39;s initial challenge upon meeting Elijah, &#34;Art thou he that troubleth Israel?&#34; was promptly silenced by the divine indictment that Ahab himself was to blame for the plight of the nation, and by the order for the king to appear forthwith on Mount Carmel, together with all the prophets of Baal and Asherah (1 Ki 18:17&#8212;19). <BR /><BR />On Carmel the issue of Baal versus the Lord as the true God was put to a dramatic test designed to bring king and people to a decision in the matter (vs 20&#8212;40). The people acknowledged the Lord as the true God, and at the command of Elijah slew all the prophets of Baal (vs 39, 40). Then, to prove that the drought had been a divine judgment upon the land, and as a sequel to the people&#39;s admission that the Lord is the true God, an abundance of rain fell (vs 41&#8212;46).<BR /><BR />Enraged at the turn of events, Jezebel threatened the prophet&#39;s life, with the result that he took refuge in hasty flight southward to the Wilderness of Sinai, where he lodged in a cave once more he was miraculously sustained (1 Ki 19:1&#8212;9). When summoned by the Lord to account for his inglorious flight from the threat to his life by Jezebel, Elijah protested that he alone of all Israel had remained loyal to God, and that now even his life was in jeopardy (vs 10&#8212;14). Thereupon God tactfully rebuked His erring prophet and appointed him further tasks&#8212;the anointing of Jehu as king of Israel in the place of Ahab, of Hazael as the scourge of Israel because of its apostasy, and of Elisha as Elijah&#39;s successor (vs 15&#8212;21).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Kings 17:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 2:11-12",
+      "verses": [
+        {
+          "number": 11,
+          "line": "And it came to pass, as they still went on, and talked, that, behold, there appeared a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven."
+        },
+        {
+          "number": 12,
+          "line": "And Elisha saw it, and he cried, My father, my father, the chariot of Israel, and the horsemen thereof. And he saw him no more: and he took hold of his own clothes, and rent them in two pieces."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "three-and-one-half-years-of-no-rain",
+      "titleEn": "Three and One Half Years of No Rain",
+      "titleKa": null
+    },
+    {
+      "slug": "end-3-12-years-of-no-rain-elijah-runs-to-horeb",
+      "titleEn": "End 3 1/2 Years of No Rain, Elijah Runs to Horeb",
+      "titleKa": null
+    },
+    {
+      "slug": "ahaziah-of-israel-tries-to-intimidate-elijah",
+      "titleEn": "Ahaziah of Israel Tries to Intimidate Elijah",
+      "titleKa": null
+    },
+    {
+      "slug": "jehoram-of-judah-receives-prophetic-writing-from-elijah",
+      "titleEn": "Jehoram of Judah Receives Letter from Elijah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Elijah taken up 1005-63_7-22-2013 3-12-23 PM.JPG",
-      "caption": ""
+      "file": "Elijah taken up 1005-63_7-22-2013 3-12-23 PM.JPG",
+      "caption": "Elijah taken up into heaven"
+    },
+    {
+      "file": "425px-Elijahs-sacrifice-at-mount-Carmel-001_8-8-2013 12-29-23 PM.jpg",
+      "caption": "Elijah on Mount Carmel with the prophets of baal, William Brassey Hole"
+    },
+    {
+      "file": "385px-Transfiguration_005_8-8-2013 12-29-23 PM.jpg",
+      "caption": "Elijah on the mount of transfiguration with Jesus, James Jacques Joseph Tissot, c. 1886 - 1894"
+    },
+    {
+      "file": "Church of the Prophet Elijah, Cyprus_4-17-2013 4-31-44 PM.jpg",
+      "caption": "Church of the Prophet Elijah sitting on top of a rock cliff in Protaras, Cyprus"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Elijah&#39;s Return",
+      "caption": "What does the last Old Testament prophecy of Elijah returning mean? The Bible teaches that John the Baptist came in the spirit and power of Elijah. There is no greater prophet for he introduced the Messiah. We too must hear the call of Elijah to our hearts and turn to Jesus. Baptism symbolizes our commitment to Christ.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/events/map/map07.mp4"
+    },
+    {
+      "title": "Elijah&#39;s Return",
+      "caption": "The Bible says the same way that John the Baptist prepared the world for Jesus&#39; first coming, there is an Elijah message that will prepare the world for Jesus&#39; second coming.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp38.mp4"
+    },
+    {
+      "title": "Lessons from Elijah, Part 3: Showdown on Mt. Carmel",
+      "caption": "God says to Elijah, &#34;Go show yourself to Ahab&#34;.  Elijah listened to God and did what He told him to do. You need to be willing to go where God tells you to go.  Even if it means to need to present yourself to someone who may take your life.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8367.mp4"
+    },
+    {
+      "title": "Lessons from Elijah, Part 4: Riding the Fence",
+      "caption": "This is a continued study on the experience of Elijah the prophet. The history of Elijah, according to the Bible, will be repeated. This sermon is on the challenge on Mt. Carmel from Elijah to Ahab and Israel asking, &#34;How long will you waver?&#34; That is the question we need to face in our own lives.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8377.mp4"
+    },
+    {
+      "title": "Lessons from Elijah, Part 5: Praying for Rain",
+      "caption": "This is a continued series on the Old Testament prophet Elijah, one of the greatest of the prophets. Following the destruction of the prophets of Baal after the incident on Mt. Carmel Elijah in great faith prayed for rain.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8397.mp4"
+    },
+    {
+      "title": "Lessons from Elijah, Part 6: What doest Thou Here?",
+      "caption": "This is another sermon in a continued series on the Old Testament prophet Elijah. This sixth part looks at Elijah&#39;s response to Jezebel after the mountaintop experience on Mt. Carmel. Often our high experiences are followed by low times. In tiredness and discouragement Elijah runs, but God pursues. We are never alone, even in our darkest thoughts.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8407.mp4"
+    },
+    {
+      "title": "Lessons from Elijah, Part 8: Double Portion",
+      "caption": "This is the last in a series on the Old Testament prophet Elijah. After briefly discussing 2 Kings 1 and the stubbornness of Ahaziah, the sermon mostly looks at 2 Kings 2 and God taking Elijah up into heaven in a whirlwind. Like Elisha who would not leave Elijah, so we should have a deep commitment to follow Christ wherever He leads.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8427.mp4"
+    },
+    {
+      "title": "Lessons from Elijah, Part 7: Naboth&#39;s Vineyard",
+      "caption": "Ahab wanted Naboth to sell his vineyard to him. But Naboth refused because the law of God prohibited him from selling land he received as an inheritance. Ahab then began to covet the land and Jezebel, his wife stirred him up to take the land from him.  The devil wants to do the same thing with us, he wants us to give up the inheritance that God gives to us.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8417.mp4"
     }
   ]
 }

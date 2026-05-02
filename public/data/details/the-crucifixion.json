@@ -4,13 +4,478 @@
   "period": 9,
   "titleEn": "The Crucifixion",
   "titleKa": null,
-  "datesEn": "31 AD",
+  "datesEn": "31 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After Pilate&#39;s trial, soldiers strip Jesus, put a scarlet robe on Him and a crown of thorns and mockingly bow to Him as King of the Jews. They whip Him and lead Him away to be crucified with two thieves.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jesus was crucified. Crucifixion is the act of fixing a condemned person to a cross, either by tying the hands and feet to it or by fixing them to it by driving nails through them. As with Christ, it was common to scourge victims prior to crucifixion, and then to require them to carry the cross, or one beam of it, to the place of execution (Jn 19:1, 17). In 1968 several Jewish tombs were discovered north of Jerusalem. One of them, dating to the 1st cent. A.D., contained the bones of a man by the name of Jehohanan, who at the time of death was 24 to 28 years old. The evidence showed that he had been crucified. Both his heel bones were discovered transfixed by a large nail and the shin bones were found intentionally broken. It was the first time that the remains of a crucified individual were found in an archaeological excavation in Palestine.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 27:27-56",
+      "verses": [
+        {
+          "number": 27,
+          "line": "Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band of soldiers."
+        },
+        {
+          "number": 28,
+          "line": "And they stripped him, and put on him a scarlet robe."
+        },
+        {
+          "number": 29,
+          "line": "And when they had platted a crown of thorns, they put it upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!"
+        },
+        {
+          "number": 30,
+          "line": "And they spit upon him, and took the reed, and smote him on the head."
+        },
+        {
+          "number": 31,
+          "line": "And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify him."
+        },
+        {
+          "number": 32,
+          "line": "And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross."
+        },
+        {
+          "number": 33,
+          "line": "And when they were come unto a place called Golgotha, that is to say, a place of a skull,"
+        },
+        {
+          "number": 34,
+          "line": "They gave him vinegar to drink mingled with gall: and when he had tasted thereof, he would not drink."
+        },
+        {
+          "number": 35,
+          "line": "And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots."
+        },
+        {
+          "number": 36,
+          "line": "And sitting down they watched him there;"
+        },
+        {
+          "number": 37,
+          "line": "And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS."
+        },
+        {
+          "number": 38,
+          "line": "Then were there two thieves crucified with him, one on the right hand, and another on the left."
+        },
+        {
+          "number": 39,
+          "line": "And they that passed by reviled him, wagging their heads,"
+        },
+        {
+          "number": 40,
+          "line": "And saying, Thou that destroyest the temple, and buildest it in three days, save thyself. If thou be the Son of God, come down from the cross."
+        },
+        {
+          "number": 41,
+          "line": "Likewise also the chief priests mocking him, with the scribes and elders, said,"
+        },
+        {
+          "number": 42,
+          "line": "He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him."
+        },
+        {
+          "number": 43,
+          "line": "He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God."
+        },
+        {
+          "number": 44,
+          "line": "The thieves also, which were crucified with him, cast the same in his teeth."
+        },
+        {
+          "number": 45,
+          "line": "Now from the sixth hour there was darkness over all the land unto the ninth hour."
+        },
+        {
+          "number": 46,
+          "line": "And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?"
+        },
+        {
+          "number": 47,
+          "line": "Some of them that stood there, when they heard that, said, This man calleth for Elias."
+        },
+        {
+          "number": 48,
+          "line": "And straightway one of them ran, and took a spunge, and filled it with vinegar, and put it on a reed, and gave him to drink."
+        },
+        {
+          "number": 49,
+          "line": "The rest said, Let be, let us see whether Elias will come to save him."
+        },
+        {
+          "number": 50,
+          "line": "Jesus, when he had cried again with a loud voice, yielded up the ghost."
+        },
+        {
+          "number": 51,
+          "line": "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;"
+        },
+        {
+          "number": 52,
+          "line": "And the graves were opened; and many bodies of the saints which slept arose,"
+        },
+        {
+          "number": 53,
+          "line": "And came out of the graves after his resurrection, and went into the holy city, and appeared unto many."
+        },
+        {
+          "number": 54,
+          "line": "Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God."
+        },
+        {
+          "number": 55,
+          "line": "And many women were there beholding afar off, which followed Jesus from Galilee, ministering unto him:"
+        },
+        {
+          "number": 56,
+          "line": "Among which was Mary Magdalene, and Mary the mother of James and Joses, and the mother of Zebedee's children."
+        }
+      ]
+    },
+    {
+      "reference": "Mark 15:16-41",
+      "verses": [
+        {
+          "number": 16,
+          "line": "And the soldiers led him away into the hall, called Praetorium; and they call together the whole band."
+        },
+        {
+          "number": 17,
+          "line": "And they clothed him with purple, and platted a crown of thorns, and put it about his head,"
+        },
+        {
+          "number": 18,
+          "line": "And began to salute him, Hail, King of the Jews!"
+        },
+        {
+          "number": 19,
+          "line": "And they smote him on the head with a reed, and did spit upon him, and bowing their knees worshipped him."
+        },
+        {
+          "number": 20,
+          "line": "And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him."
+        },
+        {
+          "number": 21,
+          "line": "And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross."
+        },
+        {
+          "number": 22,
+          "line": "And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull."
+        },
+        {
+          "number": 23,
+          "line": "And they gave him to drink wine mingled with myrrh: but he received it not."
+        },
+        {
+          "number": 24,
+          "line": "And when they had crucified him, they parted his garments, casting lots upon them, what every man should take."
+        },
+        {
+          "number": 25,
+          "line": "And it was the third hour, and they crucified him."
+        },
+        {
+          "number": 26,
+          "line": "And the superscription of his accusation was written over, THE KING OF THE JEWS."
+        },
+        {
+          "number": 27,
+          "line": "And with him they crucify two thieves; the one on his right hand, and the other on his left."
+        },
+        {
+          "number": 28,
+          "line": "And the scripture was fulfilled, which saith, And he was numbered with the transgressors."
+        },
+        {
+          "number": 29,
+          "line": "And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest it in three days,"
+        },
+        {
+          "number": 30,
+          "line": "Save thyself, and come down from the cross."
+        },
+        {
+          "number": 31,
+          "line": "Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save."
+        },
+        {
+          "number": 32,
+          "line": "Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him."
+        },
+        {
+          "number": 33,
+          "line": "And when the sixth hour was come, there was darkness over the whole land until the ninth hour."
+        },
+        {
+          "number": 34,
+          "line": "And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me?"
+        },
+        {
+          "number": 35,
+          "line": "And some of them that stood by, when they heard it, said, Behold, he calleth Elias."
+        },
+        {
+          "number": 36,
+          "line": "And one ran and filled a spunge full of vinegar, and put it on a reed, and gave him to drink, saying, Let alone; let us see whether Elias will come to take him down."
+        },
+        {
+          "number": 37,
+          "line": "And Jesus cried with a loud voice, and gave up the ghost."
+        },
+        {
+          "number": 38,
+          "line": "And the veil of the temple was rent in twain from the top to the bottom."
+        },
+        {
+          "number": 39,
+          "line": "And when the centurion, which stood over against him, saw that he so cried out, and gave up the ghost, he said, Truly this man was the Son of God."
+        },
+        {
+          "number": 40,
+          "line": "There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;"
+        },
+        {
+          "number": 41,
+          "line": "(Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 23:26-49",
+      "verses": [
+        {
+          "number": 26,
+          "line": "And as they led him away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear it after Jesus."
+        },
+        {
+          "number": 27,
+          "line": "And there followed him a great company of people, and of women, which also bewailed and lamented him."
+        },
+        {
+          "number": 28,
+          "line": "But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children."
+        },
+        {
+          "number": 29,
+          "line": "For, behold, the days are coming, in the which they shall say, Blessed are the barren, and the wombs that never bare, and the paps which never gave suck."
+        },
+        {
+          "number": 30,
+          "line": "Then shall they begin to say to the mountains, Fall on us; and to the hills, Cover us."
+        },
+        {
+          "number": 31,
+          "line": "For if they do these things in a green tree, what shall be done in the dry?"
+        },
+        {
+          "number": 32,
+          "line": "And there were also two other, malefactors, led with him to be put to death."
+        },
+        {
+          "number": 33,
+          "line": "And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left."
+        },
+        {
+          "number": 34,
+          "line": "Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots."
+        },
+        {
+          "number": 35,
+          "line": "And the people stood beholding. And the rulers also with them derided him, saying, He saved others; let him save himself, if he be Christ, the chosen of God."
+        },
+        {
+          "number": 36,
+          "line": "And the soldiers also mocked him, coming to him, and offering him vinegar,"
+        },
+        {
+          "number": 37,
+          "line": "And saying, If thou be the king of the Jews, save thyself."
+        },
+        {
+          "number": 38,
+          "line": "And a superscription also was written over him in letters of Greek, and Latin, and Hebrew, THIS IS THE KING OF THE JEWS."
+        },
+        {
+          "number": 39,
+          "line": "And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us."
+        },
+        {
+          "number": 40,
+          "line": "But the other answering rebuked him, saying, Dost not thou fear God, seeing thou art in the same condemnation?"
+        },
+        {
+          "number": 41,
+          "line": "And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing amiss."
+        },
+        {
+          "number": 42,
+          "line": "And he said unto Jesus, Lord, remember me when thou comest into thy kingdom."
+        },
+        {
+          "number": 43,
+          "line": "And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise."
+        },
+        {
+          "number": 44,
+          "line": "And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour."
+        },
+        {
+          "number": 45,
+          "line": "And the sun was darkened, and the veil of the temple was rent in the midst."
+        },
+        {
+          "number": 46,
+          "line": "And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said thus, he gave up the ghost."
+        },
+        {
+          "number": 47,
+          "line": "Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man."
+        },
+        {
+          "number": 48,
+          "line": "And all the people that came together to that sight, beholding the things which were done, smote their breasts, and returned."
+        },
+        {
+          "number": 49,
+          "line": "And all his acquaintance, and the women that followed him from Galilee, stood afar off, beholding these things."
+        }
+      ]
+    },
+    {
+      "reference": "John 19:17-37",
+      "verses": [
+        {
+          "number": 17,
+          "line": "And he bearing his cross went forth into a place called the place of a skull, which is called in the Hebrew Golgotha:"
+        },
+        {
+          "number": 18,
+          "line": "Where they crucified him, and two other with him, on either side one, and Jesus in the midst."
+        },
+        {
+          "number": 19,
+          "line": "And Pilate wrote a title, and put it on the cross. And the writing was, JESUS OF NAZARETH THE KING OF THE JEWS."
+        },
+        {
+          "number": 20,
+          "line": "This title then read many of the Jews: for the place where Jesus was crucified was nigh to the city: and it was written in Hebrew, and Greek, and Latin."
+        },
+        {
+          "number": 21,
+          "line": "Then said the chief priests of the Jews to Pilate, Write not, The King of the Jews; but that he said, I am King of the Jews."
+        },
+        {
+          "number": 22,
+          "line": "Pilate answered, What I have written I have written."
+        },
+        {
+          "number": 23,
+          "line": "Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also his coat: now the coat was without seam, woven from the top throughout."
+        },
+        {
+          "number": 24,
+          "line": "They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which saith, They parted my raiment among them, and for my vesture they did cast lots. These things therefore the soldiers did."
+        },
+        {
+          "number": 25,
+          "line": "Now there stood by the cross of Jesus his mother, and his mother's sister, Mary the wife of Cleophas, and Mary Magdalene."
+        },
+        {
+          "number": 26,
+          "line": "When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son!"
+        },
+        {
+          "number": 27,
+          "line": "Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own home."
+        },
+        {
+          "number": 28,
+          "line": "After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst."
+        },
+        {
+          "number": 29,
+          "line": "Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put it upon hyssop, and put it to his mouth."
+        },
+        {
+          "number": 30,
+          "line": "When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost."
+        },
+        {
+          "number": 31,
+          "line": "The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and that they might be taken away."
+        },
+        {
+          "number": 32,
+          "line": "Then came the soldiers, and brake the legs of the first, and of the other which was crucified with him."
+        },
+        {
+          "number": 33,
+          "line": "But when they came to Jesus, and saw that he was dead already, they brake not his legs:"
+        },
+        {
+          "number": 34,
+          "line": "But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water."
+        },
+        {
+          "number": 35,
+          "line": "And he that saw it bare record, and his record is true: and he knoweth that he saith true, that ye might believe."
+        },
+        {
+          "number": 36,
+          "line": "For these things were done, that the scripture should be fulfilled, A bone of him shall not be broken."
+        },
+        {
+          "number": 37,
+          "line": "And again another scripture saith, They shall look on him whom they pierced."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "passion-week",
+      "titleEn": "Passion Week",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "461px-The_Death_of_Jesus_001_8-8-2013 3-30-02 PM.jpg",
+      "caption": "The Crucifixion of Jesus Christ, James Jacques Joseph Tissot, 1886 - 1894 "
+    },
+    {
+      "file": "147051574_2-28-2013 4-52-27 PM.jpg",
+      "caption": "Christ carrying the cross to Golgotha."
+    },
+    {
+      "file": "GoodSalt-Crucifixion_8-5-2013 4-32-15 PM.jpg",
+      "caption": "Jesus on the cross."
+    },
+    {
+      "file": "Joseph_of_Arimathaea_8-8-2013 3-33-01 PM.jpg",
+      "caption": "Joseph of Arimathea seeking the body of Jesus from Pilate, James Jacques Joseph Tissot, 1886 - 1894"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Power of the Cross",
+      "caption": "What is the position, purpose and the power of the cross?  Can it be applied to our lives today?",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2707.mp4"
+    },
+    {
+      "title": "Days of Destiny,Part 4: Calvary",
+      "caption": "The fourth of a six part series on the high points in the life of Christ. This sermon focuses on the crucifixion. Covered are Pilate&#39;s judgment hall to the declaration by a Roman soldier, &#34;Truly this was the son of God.&#34;",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2619.mp4"
+    },
+    {
+      "title": "A Dying Man&#39;s Last Words",
+      "caption": "The seven last statements made by Jesus when dying on the cross and their practical application to our lives today.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2115.mp4"
+    }
+  ]
 }

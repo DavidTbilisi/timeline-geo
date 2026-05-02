@@ -4,13 +4,115 @@
   "period": 7,
   "titleEn": "Second Invasion of Israel from Assyria",
   "titleKa": null,
-  "datesEn": "725–722 BC",
+  "datesEn": "725&ndash;722 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "During Hoshea&#39;s wicked reign in Israel, Assyria besieges Samaria for three years and carries Israel away to Assyria because of their sins against God.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Bible mentions Shalmaneser as beginning the siege, but does not name the king who took the city. The Babylonian Chronicle states that the city Shamarain (probably Samaria) fell during the reign of Shalmaneser, but his successor, Sargon II, made the claim, in documents written toward the close of his reign, that he himself captured the city of Samaria at the beginning of his reign. If this claim is true, then it could have been in the capacity of commanding general of the Assyrian armies and not as king that he effected the capture of the city. Historians differ, but there seems to be reasonable evidence for its fall in the latter part of Shalmaneser&#39;s reign.<BR /><BR />Israel had sinned. This was the primary reason for Israel&#39;s downfall. They could hardly display baser ingratitude than to forget God&#39;s mercy and goodness. Idolatry involved infinitely more guilt among the Hebrews than among other peoples, for the heathen had only a limited degree of enlightenment and had not experienced the wonderful blessings that God had bestowed on His chosen people. The Israelites knew by their own personal experience that God was kind and beneficent, and yet in spite of all this they turned away from Him to the worship of false gods.<BR /><BR />The rulers of Israel were responsible for leading their people into sin. They introduced and encouraged the worship of such false gods as Baal, and turned the people from the worship of Jehovah to the most corrupt forms of worship. Nevertheless, the people were not thereby without excuse. Men are held responsible individually for their acts. The wrongdoing of the leader provides no excuse for the followers to adopt the same sinful course. However, the Israelites were largely dependent upon oral instruction. Copies of the Law were rare, and few, if any, were privileged to have the Holy Scriptures in their homes. The people received their knowledge of the will of God through the priests and other religious leaders. If these spiritual instructors were themselves teaching and practicing evil, the natural result would be for those under their charge to follow the same course. The majority of the Israelites lacked a personal religious experience.<BR /><BR />So, they were carried off. A small remnant remained (see 2 Chron. 34:9). These intermarried with the heathen, adopted their ways, and so far forgot the customs of their fathers that the people of Judah refused to regard them as brethren. After some years they established a temple of their own on Mt. Gerizim, where they worshiped and carried on their ritual as a rival to that of the Temple at Jerusalem. The people who were carried away never returned. Some of their descendants joined the remnant of Judah who returned under the decree of Cyrus (Ezra 1:1&#8212;4). Others intermarried with the peoples where they lived, accepted their religion and their ways, and lost their identity. A few, no doubt, remained true to their religious convictions, letting their light shine in the lands to which they were carried, and influencing some there to accept the worship of the only true God.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 17:5-23",
+      "verses": [
+        {
+          "number": 5,
+          "line": "Then the king of Assyria came up throughout all the land, and went up to Samaria, and besieged it three years."
+        },
+        {
+          "number": 6,
+          "line": "In the ninth year of Hoshea the king of Assyria took Samaria, and carried Israel away into Assyria, and placed them in Halah and in Habor by the river of Gozan, and in the cities of the Medes."
+        },
+        {
+          "number": 7,
+          "line": "For so it was, that the children of Israel had sinned against the LORD their God, which had brought them up out of the land of Egypt, from under the hand of Pharaoh king of Egypt, and had feared other gods,"
+        },
+        {
+          "number": 8,
+          "line": "And walked in the statutes of the heathen, whom the LORD cast out from before the children of Israel, and of the kings of Israel, which they had made."
+        },
+        {
+          "number": 9,
+          "line": "And the children of Israel did secretly those things that were not right against the LORD their God, and they built them high places in all their cities, from the tower of the watchmen to the fenced city."
+        },
+        {
+          "number": 10,
+          "line": "And they set them up images and groves in every high hill, and under every green tree:"
+        },
+        {
+          "number": 11,
+          "line": "And there they burnt incense in all the high places, as did the heathen whom the LORD carried away before them; and wrought wicked things to provoke the LORD to anger:"
+        },
+        {
+          "number": 12,
+          "line": "For they served idols, whereof the LORD had said unto them, Ye shall not do this thing."
+        },
+        {
+          "number": 13,
+          "line": "Yet the LORD testified against Israel, and against Judah, by all the prophets, and by all the seers, saying, Turn ye from your evil ways, and keep my commandments and my statutes, according to all the law which I commanded your fathers, and which I sent to you by my servants the prophets."
+        },
+        {
+          "number": 14,
+          "line": "Notwithstanding they would not hear, but hardened their necks, like to the neck of their fathers, that did not believe in the LORD their God."
+        },
+        {
+          "number": 15,
+          "line": "And they rejected his statutes, and his covenant that he made with their fathers, and his testimonies which he testified against them; and they followed vanity, and became vain, and went after the heathen that were round about them, concerning whom the LORD had charged them, that they should not do like them."
+        },
+        {
+          "number": 16,
+          "line": "And they left all the commandments of the LORD their God, and made them molten images, even two calves, and made a grove, and worshipped all the host of heaven, and served Baal."
+        },
+        {
+          "number": 17,
+          "line": "And they caused their sons and their daughters to pass through the fire, and used divination and enchantments, and sold themselves to do evil in the sight of the LORD, to provoke him to anger."
+        },
+        {
+          "number": 18,
+          "line": "Therefore the LORD was very angry with Israel, and removed them out of his sight: there was none left but the tribe of Judah only."
+        },
+        {
+          "number": 19,
+          "line": "Also Judah kept not the commandments of the LORD their God, but walked in the statutes of Israel which they made."
+        },
+        {
+          "number": 20,
+          "line": "And the LORD rejected all the seed of Israel, and afflicted them, and delivered them into the hand of spoilers, until he had cast them out of his sight."
+        },
+        {
+          "number": 21,
+          "line": "For he rent Israel from the house of David; and they made Jeroboam the son of Nebat king: and Jeroboam drave Israel from following the LORD, and made them sin a great sin."
+        },
+        {
+          "number": 22,
+          "line": "For the children of Israel walked in all the sins of Jeroboam which he did; they departed not from them;"
+        },
+        {
+          "number": 23,
+          "line": "Until the LORD removed Israel out of his sight, as he had said by all his servants the prophets. So was Israel carried away out of their own land to Assyria unto this day."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "hoshea",
+      "titleEn": "Hoshea",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas3126_8-6-2013 3-47-37 PM.jpg",
+      "caption": "Assyria invades Israel."
+    },
+    {
+      "file": "Human_headed_winged_bull_profile_4-4-2013 11-32-32 AM.jpg",
+      "caption": "A lamassu from the palace of Sargon II at Dur-Sharrukin."
+    },
+    {
+      "file": "Sargon II_4-4-2013 11-32-32 AM.jpg",
+      "caption": "Sargon II and dignitary. Low-relief from the L wall of the palace of Sargon II at Dur Sharrukin in Assyria (now Khorsabad in Iraq), c. 716-713 BC. Locatead at the Louvrea Museum in Paris."
+    }
+  ],
+  "videos": []
 }

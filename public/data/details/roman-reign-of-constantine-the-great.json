@@ -4,18 +4,25 @@
   "period": 10,
   "titleEn": "Roman Reign of Constantine the Great",
   "titleKa": null,
-  "datesEn": "306–337 AD",
+  "datesEn": "306&ndash;337 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Constantine legalized Christianity across Rome during his reign as emperor.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Flavius Valerius Aurelius Constantinus Augustus, known as Constantine the Great, Constantine I and Saint Constantine, served as Emperor of Rome from 306 until 337 A.D. He is credited with bringing religious toleration to the Empire in 313.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
+  "related": [
+    {
+      "slug": "constantine-the-great",
+      "titleEn": "Constantine the Great",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-lwjas0188_8-7-2013 9-42-50 AM.jpg",
-      "caption": ""
+      "file": "GoodSalt-lwjas0188_8-7-2013 9-42-50 AM.jpg",
+      "caption": "Arch of Constantine and Colosseum, Roma, Italy"
     }
-  ]
+  ],
+  "videos": []
 }

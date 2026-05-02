@@ -4,13 +4,47 @@
   "period": 10,
   "titleEn": "Death of Paul",
   "titleKa": null,
-  "datesEn": "67 AD",
+  "datesEn": "67 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The Bible does not clearly give an account of the death of Paul, though his letters show death is imminent (2 Timothy 4:7, 8). Tradition states Paul was beheaded.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Early Christian authors are unanimous in declaring that Paul died under Nero at Rome. His execution, then, which tradition says was by decapitation somewhere on the Ostian Way, must have taken place at least by A.D. 68, for Nero himself died that year. He was executed probably sometime between A.D. 66 and 68. <BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Timothy 4:7-8",
+      "verses": [
+        {
+          "number": 7,
+          "line": "I have fought a good fight, I have finished my course, I have kept the faith:"
+        },
+        {
+          "number": 8,
+          "line": "Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "156361886_2-28-2013 10-18-53 AM.jpg",
+      "caption": "Statue of Paul the Apostle in Vatican."
+    },
+    {
+      "file": "Pauls Conversion_2-28-2013 10-18-53 AM.jpg",
+      "caption": "Conversion on the Way to Damascus painting by Caravaggio in 1601 located at Santa Maria del Popolo, Rome. "
+    },
+    {
+      "file": "92821560_2-28-2013 10-18-53 AM.jpg",
+      "caption": "Marble bust of Nero at the Musei Capitolini, Rome."
+    }
+  ],
+  "videos": []
 }

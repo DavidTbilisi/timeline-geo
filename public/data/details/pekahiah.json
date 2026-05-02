@@ -4,13 +4,48 @@
   "period": 7,
   "titleEn": "Pekahiah",
   "titleKa": null,
-  "datesEn": "767–740 BC",
+  "datesEn": "767&ndash;740 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh has opened the eyes.&#34; He is the son of Menahem and the 18th king of the northern kingdom of Israel. He reigns for 2 years. He is evil like his father and follows the calf worship of Jeroboam I. He is assassinated by Pekah.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Pekahiah, name means &#34;Yahweh has opened (the eyes).&#34; The 18th king of Israel, if Tibni is included in the count. He reigned at Samaria for 2 years (c. 742&#8212;c. 740 b.c.), but nothing more is known of him except that he was evil like his father, Menahem, and followed the calf worship of Jeroboam I (2 Ki 15:22&#8212;24). He was assassinated by Pekah, an army officer, who then usurped the throne for himself (v 25).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 15:23",
+      "verses": [
+        {
+          "number": 23,
+          "line": "In the fiftieth year of Azariah king of Judah Pekahiah the son of Menahem began to reign over Israel in Samaria, and reigned two years."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 15:25",
+      "verses": [
+        {
+          "number": 25,
+          "line": "But Pekah the son of Remaliah, a captain of his, conspired against him, and smote him in Samaria, in the palace of the king's house, with Argob and Arieh, and with him fifty men of the Gileadites: and he killed him, and reigned in his room."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "menahem",
+      "titleEn": "Menahem",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Phacea-Pekahiah.jpg",
+      "caption": "Illustration of Pekahiah in 1553 published by Guillaume Rouille"
+    },
+    {
+      "file": "Golden Calf_4-3-2013 3-54-59 PM.jpg",
+      "caption": "Pekahiah reigns for 2 years. He is evil like his father and follows the calf worship of Jeroboam I."
+    }
+  ],
+  "videos": []
 }

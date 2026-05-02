@@ -4,18 +4,25 @@
   "period": 8,
   "titleEn": "Artaxerxes II",
   "titleKa": null,
-  "datesEn": "445–359 BC (~86)",
+  "datesEn": "445&ndash;359 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The eldest son of Darius II, a king of Persia during a time in which no Bible records are available.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
   "scriptures": [],
-  "related": [],
+  "related": [
+    {
+      "slug": "darius-ii",
+      "titleEn": "Darius II",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/800px-Persepolis_Artaxerxes_II_tomb_8-28-2013 1-31-08 PM.jpg",
-      "caption": ""
+      "file": "800px-Persepolis_Artaxerxes_II_tomb_8-28-2013 1-31-08 PM.jpg",
+      "caption": "The tomb of Artaxerxes II, Persepolis, Iran, Public Domain"
     }
-  ]
+  ],
+  "videos": []
 }

@@ -4,18 +4,49 @@
   "period": 1,
   "titleEn": "Cainan",
   "titleKa": null,
-  "datesEn": "3629–2719 BC (910)",
+  "datesEn": "3629&ndash;2719 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Meaning of name: &#34;possession.&#34; He is the fourth patriarch from Adam and the oldest son of Enos or Enosh. He begat Mahalaleel at age 70. He lived 910 years. This Cainan is different from the son of Arphaxad in Luke 3:36.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 5:9",
+      "verses": [
+        {
+          "number": 9,
+          "line": "And Enos lived ninety years, and begat Cainan:"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 5:14",
+      "verses": [
+        {
+          "number": 14,
+          "line": "And all the days of Cainan were nine hundred and ten years: and he died."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "enos",
+      "titleEn": "Enos",
+      "titleKa": null
+    },
+    {
+      "slug": "mahalaleel",
+      "titleEn": "Mahalaleel",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Goodsalt- cainan_8-5-2013 5-15-02 PM.jpg",
-      "caption": ""
+      "file": "Goodsalt- cainan_8-5-2013 5-15-02 PM.jpg",
+      "caption": "Cainan"
     }
-  ]
+  ],
+  "videos": []
 }

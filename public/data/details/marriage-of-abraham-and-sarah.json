@@ -4,13 +4,35 @@
   "period": 3,
   "titleEn": "Marriage of Abraham and Sarah",
   "titleKa": null,
-  "datesEn": "1915–1809 BC",
+  "datesEn": "1915&ndash;1809 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Genesis 11 says that &#34;Abram and Nahor took wives: the name of Abram&#39;s wife was Sarai.&#34; Central to the story of Abraham&#39;s family is the statement in v. 30, &#34;But Sarai was barren she had no child.&#34;",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Abram&#39;s wife, Sarai, was his half sister, a daughter of Terah by another wife than Abram&#39;s mother (see ch. 20:12). Marriage with a half sister, and with other close relatives, was afterward forbidden by the Mosaic civil code, though apparently still permitted in Abram&#39;s time (see Lev. 18:6, 9, 14).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 11:29",
+      "verses": [
+        {
+          "number": 29,
+          "line": "And Abram and Nahor took them wives: the name of Abram's wife was Sarai; and the name of Nahor's wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "abraham",
+      "titleEn": "Abraham",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-pppas0289_8-5-2013 3-08-46 PM.jpg",
+      "caption": "Genesis 11 says that &#34;Abram and Nahor took wives: the name of Abram&#39;s wife was Sarai."
+    }
+  ],
+  "videos": []
 }

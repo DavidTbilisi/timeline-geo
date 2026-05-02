@@ -4,13 +4,43 @@
   "period": 6,
   "titleEn": "Pharaoh Conquers Gezer, Dowry for Daughter",
   "titleKa": null,
-  "datesEn": "967 BC",
+  "datesEn": "967 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Solomon marries the daughter of Pharaoh. This Egyptian king conqueres Gezer and gives it to his daughter as a dowry.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Gezer  was an important Canaanite town, on a bastion extending out into the maritime plain, 6 1/4 mi. (10 km.) west&#8212;northwest of Aijalon, on the boundary of Ephraim (Joshua 16:3). The city was assigned to the Levites (Joshua 21:21), but was not taken at the time of the conquest (Judges 1:29), although it was tributary for a time (Joshua 16:10). It occupied a strategic position in the plain of Aijalon, an important pass, frequently used by the Philistines making their way to the central highlands. <BR /><BR />It is mentioned on a number of occasions in connection with the battles of David (2 Sam. 5:25 1 Chron. 14:16 20:4). Gezer was taken by Pharaoh and given as a dowry on the occasion of the marriage of his daughter to Solomon. There are a number of records of grants of important territorial rights as dowries on the occasion of royal weddings in the ancient East.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 9:15-16",
+      "verses": [
+        {
+          "number": 15,
+          "line": "And this is the reason of the levy which king Solomon raised; for to build the house of the LORD, and his own house, and Millo, and the wall of Jerusalem, and Hazor, and Megiddo, and Gezer."
+        },
+        {
+          "number": 16,
+          "line": "For Pharaoh king of Egypt had gone up, and taken Gezer, and burnt it with fire, and slain the Canaanites that dwelt in the city, and given it for a present unto his daughter, Solomon's wife."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "solomon-marries-daughter-of-pharaoh",
+      "titleEn": "Solomon Marries Daughter of Pharaoh",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Pharaoh_8-22-2013 3-20-52 PM.jpg",
+      "caption": "Pharaoh, the king of ancient Egypt, is often depicted wearing the nemes headdress and an ornate shendyt. Based on New Kingdom tomb paintings.,  \tJeff Dahl, 2007"
+    },
+    {
+      "file": "Gezer with view west to hill country, tb010412755_4-30-2013 12-53-58 PM.jpg",
+      "caption": "Gezer with view west to hill country"
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,57 @@
   "period": 7,
   "titleEn": "Amaziah",
   "titleKa": null,
-  "datesEn": "821–767 BC",
+  "datesEn": "821&ndash;767 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;strengthened by Jehovah.&#34; The son of Joash, the 9th king of Judah, southern kingdom, who reigns for 29 years. He is faithful to God early in his reign but turns away from God after the victory over Edom. He is murdered in Lachish.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Amaziah, name means &#34;Yahweh is strong.&#34; The 9th king of Judah, the southern kingdom, who reigned for 29 years (c. 796&#8212;c. 767 b.c.). He succeeded his father Joash, who had been slain for the murder of the priest Zechariah. When Amaziah felt himself securely established on the throne he put his father&#39;s murderers to death but spared their children in harmony with the principles laid down by Moses in the Law (2 Ki 14:1&#8212;6 2 Chr 24:23&#8212;26 2 Chr 25:1&#8212;4 cf. Deut 24:16). <BR /><BR />He planned a military campaign against Edom, and to assist him hired 100,000 troops from Israel, but on the advice of a man of God he dismissed them. Bitterly disappointed, these rejected men plundered the cities of Judah north of Bethhoron on their way home. Amaziah meanwhile attacked the Edomites and defeated them thoroughly in the Valley of Salt. He also took *Sela, their capital. In view of the supposedly impregnable position of Sela this victory was a major military feat (2 Ki 14:7 2 Chr 25:5&#8212;12). Although Amaziah had been faithful to God in his early reign (2 Ki 14:3 2 Chr 25:2), after his victory over Edom he began to worship Edomite gods that he had brought back to Jerusalem. <BR /><BR />As a prophet had forewarned (2 Chr 25:14&#8212;16), this act of idolatry caused his downfall. Following certain advice, he challenged Jehoash (Joash) of Israel to battle, but was badly defeated at Beth&#8212;shemesh. Jehoash thereupon took Amaziah to Jerusalem, despoiled his treasures, took hostages, and broke down a portion of the defenses of the capital city of Judah (2 Ki 14:8&#8212;14 2 Chr 25:17&#8212;24). Later a conspiracy was formed against Amaziah. He fled to Lachish, but was murdered there. He was buried at Jerusalem in a royal tomb (2 Ki 14:19, 20 2 Chr 25:27, 28).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 14:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "In the second year of Joash son of Jehoahaz king of Israel reigned Amaziah the son of Joash king of Judah."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 14:19",
+      "verses": [
+        {
+          "number": 19,
+          "line": "Now they made a conspiracy against him in Jerusalem: and he fled to Lachish; but they sent after him to Lachish, and slew him there."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "joash-or-jehoash",
+      "titleEn": "Joash (or Jehoash)",
+      "titleKa": null
+    },
+    {
+      "slug": "uzziah",
+      "titleEn": "Uzziah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Amasias_8-27-2013 1-16-04 PM.jpg",
+      "caption": "Illustration of Amaziah in 1553 published by Guillaume Rouille"
+    },
+    {
+      "file": "Edomite mountains around Sela, tb061404233_4-3-2013 5-01-31 PM.jpg",
+      "caption": "Edomite mountains around Sela"
+    },
+    {
+      "file": "Lachish from northwest, tb022201262 copy_4-3-2013 5-01-31 PM.jpg",
+      "caption": "Lachish from northwest"
+    }
+  ],
+  "videos": []
 }

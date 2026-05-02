@@ -4,13 +4,77 @@
   "period": 9,
   "titleEn": "Judas' Confession and Suicide",
   "titleKa": null,
-  "datesEn": "31 AD",
+  "datesEn": "31 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Judas, the disciple who betrayed Christ into the hands of the Jewish leaders, discovers Christ does not free Himself but is being condemned. He confesses to the chief priests that he has betrayed innocent blood, throws his money down & hangs himself.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "When Jesus submitted to the death sentence, he publicly confessed his traitorous act and returned the 30 pieces of silver (ch 27:3, 4), an act that doubtless embarrassed the Jewish leaders greatly. Later, he committed suicide, and the betrayal money was spent for a potter&#39;s field (Mt 27:5&#8212;10 Acts 1:18, 19).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 27:3-10",
+      "verses": [
+        {
+          "number": 3,
+          "line": "Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,"
+        },
+        {
+          "number": 4,
+          "line": "Saying, I have sinned in that I have betrayed the innocent blood. And they said, What is that to us? see thou to that."
+        },
+        {
+          "number": 5,
+          "line": "And he cast down the pieces of silver in the temple, and departed, and went and hanged himself."
+        },
+        {
+          "number": 6,
+          "line": "And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood."
+        },
+        {
+          "number": 7,
+          "line": "And they took counsel, and bought with them the potter's field, to bury strangers in."
+        },
+        {
+          "number": 8,
+          "line": "Wherefore that field was called, The field of blood, unto this day."
+        },
+        {
+          "number": 9,
+          "line": "Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;"
+        },
+        {
+          "number": 10,
+          "line": "And gave them for the potter's field, as the Lord appointed me."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "passion-week",
+      "titleEn": "Passion Week",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Judas_Returning_the_Thirty_Silver_Pieces_-_Rembrandt_3-6-2013 10-27-26 AM.jpg",
+      "caption": "Judas returning the thirty silver pieces painting by Rembrandt in 1629 located at Mulgrave Castle in Lythe, North Yorkshire."
+    },
+    {
+      "file": "iStock_000009373328XSmall_3-6-2013 10-27-26 AM.jpg",
+      "caption": "The statue sculpted by Ignazio Jacometti (1854) represents Judas kissing Jesus Christ as a sign of betrayal."
+    },
+    {
+      "file": "162720026_3-6-2013 10-27-26 AM.jpg",
+      "caption": "Verona - Captivity of Christ or Arresto di Gesu by N. Giolfino (1476 - 1555) from Avanzi Chapel in San Bernardino church."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Judas Iscariot: Misguided Motives",
+      "caption": "Judas was a disciple loved by Christ who had misguided motives. He had a yearning for Jesus but also a desire for recognition. God can work in the lives of people even if they are not fully converted.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2331.mp4"
+    }
+  ]
 }

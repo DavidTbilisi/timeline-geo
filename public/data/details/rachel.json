@@ -4,13 +4,60 @@
   "period": 3,
   "titleEn": "Rachel",
   "titleKa": null,
-  "datesEn": "1724–1680 BC",
+  "datesEn": "1724&ndash;1680 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;ewe.&#34; She is the youngest daughter of Laban. Jacob loves her and works fourteen years to have her as his wife. When returning to Canaan, she takes her father&#39;s idols. She is the mother of Joseph and dies giving birth to Benjamin.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Rachel. Laban&#39;s younger daughter, Jacob&#39;s 2nd wife and the mother of Joseph and Benjamin. Since Laban was Jacob&#39;s uncle, on his mother&#39;s side, Rachel was Jacob&#39;s cousin (cf. Gen 28:2 29:9, 10). Jacob first met Rachel at the well near Haran upon arriving in Paddan&#8212;aram, where he had been sent to find a wife. After chivalrously rolling the stone from the well&#39;s mouth and watering her flock (Gen 29:10), Jacob greeted Rachel with a kiss and introduced himself (vs 11, 12). <BR /><BR />Apparently Jacob fell in love with Rachel at first sight, and his affection for her grew to be genuine and deep (v 20). Laban welcomed Jacob into his home (vs 13, 14), and after a month hired him to keep his flocks and herds (v 15 cf. ch 30:31), with the understanding that Rachel was to become Jacob&#39;s wife in return for 7 years of service (ch 29:15&#8212;19). Since Jacob had arrived penniless, and was thus unable to pay for his intended bride, it was necessary for him to work out the stipulated price. <BR /><BR />When the 7 years had passed, Laban surreptitiously substituted Rachel&#39;s older sister Leah, and Jacob, the artful deceiver (ch 27), found himself deceived (ch 29:21&#8212;25). Under the pretext that custom forbade marrying off a younger daughter before her older sister, Laban proposed to Jacob that the wedding festivities already begun be continued for the nuptial week (cf. Jgs 14:12), at the close of which he would give him Rachel also, in return for another 7 years of service (Gen 29:26, 27, 30). To her great dismay and deep disappointment, &#34;Rachel was barren&#34; (v 31).  Leah, on the other hand, gave birth to several children (vs 32&#8212;35). Jealous of Leah, Rachel blamed Jacob for her childlessness, and petulantly demanded children of him (ch 30:1), but he reminded her that the matter was in God&#39;s hands (v 2). <BR /><BR />Rachel then gave Jacob her maid Bilhah as a concubine (v 3), in keeping with the ancient Oriental custom whereby a concubine&#39;s children became the legal children of the lawful wife. Dan and Naphtali were born to this union (vs 4&#8212;8). Upon one occasion Rachel bargained with Leah for mandrakes gathered by her son Reuben (v 14), the mandrake being an herb of the belladonna family thought by people of the Near East to promote fertility. <BR /><BR />In time &#34;God remembered Rachel,&#34; and she gave birth to Joseph (vs 22&#8212;24). After 20 years of service (ch 31:38) Jacob surreptitiously left Laban to return to Canaan, with his wives, flocks, and herds (vs 1&#8212;18, 20). Several years later, on a journey from Bethel, Rachel gave birth to Benjamin, but died in childbirth and was buried near Ephrath (vs 16&#8212;19), where a pillar was built to mark her grave (v 20). Jacob&#39;s deep love for Rachel is reflected in his mention of her many years after her death (Gen 48:7).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 29:16",
+      "verses": [
+        {
+          "number": 16,
+          "line": "And Laban had two daughters: the name of the elder was Leah, and the name of the younger was Rachel."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 35:16-20",
+      "verses": [
+        {
+          "number": 16,
+          "line": "And they journeyed from Bethel; and there was but a little way to come to Ephrath: and Rachel travailed, and she had hard labour."
+        },
+        {
+          "number": 17,
+          "line": "And it came to pass, when she was in hard labour, that the midwife said unto her, Fear not; thou shalt have this son also."
+        },
+        {
+          "number": 18,
+          "line": "And it came to pass, as her soul was in departing, (for she died) that she called his name Benoni: but his father called him Benjamin."
+        },
+        {
+          "number": 19,
+          "line": "And Rachel died, and was buried in the way to Ephrath, which is Bethlehem."
+        },
+        {
+          "number": 20,
+          "line": "And Jacob set a pillar upon her grave: that is the pillar of Rachel's grave unto this day."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "laban",
+      "titleEn": "Laban",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Jacob_and_Rachel_at_the_Well_8-5-2013 4-49-09 PM.jpg",
+      "caption": "Jacob meets Rachel at the well, James Joseph Jacques Tissot, 1902"
+    }
+  ],
+  "videos": []
 }

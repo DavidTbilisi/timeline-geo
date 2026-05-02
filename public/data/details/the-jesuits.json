@@ -2,15 +2,31 @@
   "slug": "the-jesuits",
   "id": 1367,
   "period": 12,
-  "titleEn": "The Jesuits",
+  "titleEn": "The Jesuits ",
   "titleKa": null,
-  "datesEn": "1540–Future",
+  "datesEn": "1540&ndash;Future",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Founded by Ignatius in 1540 as a male religious order under the Roman Catholic Church.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Ignatius of Loyola organized the Jesuits, or the Society of Jesus, in 1540.<BR /><BR />Ignatius had an experience similar to that of Martin Luther. He was completely distressed over his sins and struggled tremendously. Luther eventually discovered the meaning of righteousness by faith and found solace in Scripture. Ignatius, on the other hand, created a method based upon human achievement through spiritual exercise. His book Spiritual Exercises (based on salvation by works) became very popular and helped to guide the Catholic Church during the Counter&#8212;Reformation (the Catholic response to the Protestant Reformation).<BR /><BR />Ignatius gathered a small group of men who shared his ideals, and the group began spreading their &#34;reform&#34; message. In the summer of 1539, Ignatius presented his ideas to Pope Paul III and, in September 1540, the pope issued a bull that put the Society of Jesus in official standing within the Catholic Church.<BR /><BR />An elitist society, the Jesuits were incredibly disciplined. The initiation process to become a member took 12 years, which were full of rigorous studies, both in philosophy and theology. Despite the intensity of training, the Jesuit Order was extremely popular and by 1556 (the year Ignatius died) the Order had more than 900 members. Eventually the Order grew to about 30,000 and continued to maintain that number for decades.<BR /><BR />The Jesuits committed much of their time and energy to eradicating Protestantism and attempting to restore Catholicism to Europe. However, their elitist attitude, extremist mentality, and eventually financial collapse brought the Society of Jesus to an end for a time. In 1773 Pope Clement XIV officially ended the Jesuit Order. However, the Society of Jesus did not completely pass away and was revitalized in 1814 by Pope Pius VII and continues to this day.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "St_Ignatius_of_Loyola_2-26-2013 2-15-12 PM.jpg",
+      "caption": "Painting of Ignatius of Loyola by Peter Paul Rubens in the 1600&#39;s."
+    },
+    {
+      "file": "1000px-Ihs-logo_svg_2-26-2013 2-15-12 PM.png",
+      "caption": "IHS emblem of the Jesuits"
+    }
+  ],
+  "videos": []
 }

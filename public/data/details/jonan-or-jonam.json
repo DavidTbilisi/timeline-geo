@@ -4,13 +4,40 @@
   "period": 7,
   "titleEn": "Jonan (or Jonam)",
   "titleKa": null,
-  "datesEn": "878–876 BC",
+  "datesEn": "878&ndash;876 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;God is gracious.&#34; Also spelled Jonam, he is listed in Luke&#39;s geneaology as the son of Eliakim and father of Joseph, and so an ancestor of Jesus Christ. Nothing else is known about him.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:30",
+      "verses": [
+        {
+          "number": 30,
+          "line": "Which was the son of Simeon, which was the son of Juda, which was the son of Joseph, which was the son of Jonan, which was the son of Eliakim,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "eliakim-son-of-melea",
+      "titleEn": "Eliakim",
+      "titleKa": null
+    },
+    {
+      "slug": "joseph-son-of-jonan",
+      "titleEn": "Joseph",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas3975_8-21-2013 2-44-38 PM.jpg",
+      "caption": "Ancestor of Jesus"
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,43 @@
   "period": 3,
   "titleEn": "Gad",
   "titleKa": null,
-  "datesEn": "1699–1595 BC",
+  "datesEn": "1699&ndash;1595 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;fortune.&#34; He is the seventh son of Jacob by Zilpah, Leah&#39;s handmaid, and brother of Asher. Jacob predicts that Gad&#39;s descendents will be pushed by strong enemies, but they will prevail against them. Gad has seven sons.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A son of Jacob by Zilpah, Leah&#39;s maidservant (Gen 30:10, 11). Jacob predicted that Gad&#39;s descendants would be hard pressed by hostile forces, but would stand against them (ch 49:19). Of Gad&#39;s 7 sons (ch 46:16), at least 6 were heads of tribal families (Num 26:15&#8212;18).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 30:9-11",
+      "verses": [
+        {
+          "number": 9,
+          "line": "When Leah saw that she had left bearing, she took Zilpah her maid, and gave her Jacob to wife."
+        },
+        {
+          "number": 10,
+          "line": "And Zilpah Leah's maid bare Jacob a son."
+        },
+        {
+          "number": 11,
+          "line": "And Leah said, A troop cometh: and she called his name Gad."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Gade2.JPG",
+      "caption": "Symbol for the tribe of Gad."
+    }
+  ],
+  "videos": []
 }

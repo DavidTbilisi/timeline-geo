@@ -4,18 +4,80 @@
   "period": 10,
   "titleEn": "Paul in Damascus and Arabia",
   "titleKa": null,
-  "datesEn": "35–38 AD",
+  "datesEn": "35&ndash;38 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After Saul (Paul) is converted he immediately preaches of Christ in Damascus. He spends 3 years in Arabia. Back in Damascus his life is threatened and he escapes by being let over the city wall in a basket at night. He then goes to Jerusalem.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "After encountering Christ and becoming blind, Paul was led by his companions to the home of a certain Judas in Damascus, where he stayed 3 days without food or drink (Acts 9:8, 9, 11). While Paul was engaged in prayer, Jesus appeared in vision to one Ananias and directed him to the home of Judas, on the &#34;street which is called Straight,&#34; where he would find Paul, who had been given a vision of his coming. Ananias respectfully reminded Jesus of Paul&#39;s acts of persecution, but was informed that the erstwhile persecutor had been chosen of God (vs 11&#8212;16). Following instructions, Ananias found Paul and laid his hands upon him, whereupon Paul&#39;s sight was immediately restored and he received the gift of the Holy Spirit and was baptized (vs 17, 18).<BR /><BR />How long Paul remained in Damascus after this is not known. The record seems to indicate that it was a brief period (Acts 9:19). We know that he associated with the Christians there. Also, true to his character&#8212;and to the wonderment of those who knew him&#8212;he began to preach in the synagogues the Christ he had once vilified but had recently come to worship (vs 19&#8212;21). So powerfully and convincingly did he preach that none could defeat his logic or deny his power (v 22).<BR /><BR />3. Preparation and Early Preaching. The narrative in Acts omits the next event in Paul&#39;s life, but Paul refers to it in the book of Galatians, where he says that following his conversion and his first brief evangelistic venture, he went into Arabia and returned to Damascus (Gal 1:17), before his trip to Jerusalem recorded in Acts 9:26 Gal 1:18. The exact area referred to as &#34;Arabia&#34; is unknown (although it was most likely the country of the Nabataeans), as is the length of time he remained there. This period of retirement gave him time for meditation upon the great change that had come into his life, solitude in which to re&#8212;examine, prayerfully and carefully, the whole foundation of his new convictions in the light of Scripture, and the opportunity to settle for all time his faith in Christ and in His gospel.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Acts 9:20-25",
+      "verses": [
+        {
+          "number": 20,
+          "line": "And straightway he preached Christ in the synagogues, that he is the Son of God."
+        },
+        {
+          "number": 21,
+          "line": "But all that heard him were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came hither for that intent, that he might bring them bound unto the chief priests?"
+        },
+        {
+          "number": 22,
+          "line": "But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ."
+        },
+        {
+          "number": 23,
+          "line": "And after that many days were fulfilled, the Jews took counsel to kill him:"
+        },
+        {
+          "number": 24,
+          "line": "But their laying await was known of Saul. And they watched the gates day and night to kill him."
+        },
+        {
+          "number": 25,
+          "line": "Then the disciples took him by night, and let him down by the wall in a basket."
+        }
+      ]
+    },
+    {
+      "reference": "Galatians 1:17-18",
+      "verses": [
+        {
+          "number": 17,
+          "line": "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus."
+        },
+        {
+          "number": 18,
+          "line": "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Ananias_restores_sight_of_Saint_Paul_8-1-2013 8-51-07 AM.jpg",
-      "caption": ""
+      "file": "Ananias_restores_sight_of_Saint_Paul_8-1-2013 8-51-07 AM.jpg",
+      "caption": "Ananias restoring Paul&#39;s sight at the command of God, Pietro De Cortana, 1631"
+    },
+    {
+      "file": "iStock_000006380388Small_2-28-2013 1-54-36 PM.jpg",
+      "caption": "Map of Damascus."
+    },
+    {
+      "file": "147094593_2-28-2013 1-54-36 PM.jpg",
+      "caption": "Damascus city panorama view."
+    },
+    {
+      "file": "156880720_2-28-2013 1-54-36 PM.jpg",
+      "caption": "The Grand Mosque of Damascus, also known as the Umayyad Mosque is one of the biggest in the world. This picture shows a view of the marble courtyard"
     }
-  ]
+  ],
+  "videos": []
 }

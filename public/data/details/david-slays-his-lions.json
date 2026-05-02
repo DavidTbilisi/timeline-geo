@@ -4,13 +4,55 @@
   "period": 6,
   "titleEn": "David Slays His Lions",
   "titleKa": null,
-  "datesEn": "1027 BC",
+  "datesEn": "1027 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "When David hears Goliath blaspheme the God of Israel, he is brought before King Saul. David explains how, as a shepherd, he slew lions and bears which attacked his father&#39;s sheep. &#34;He will deliver me from the hand of this Philistine.&#34;",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "When David hears Goliath curse Israel, David was jealous for the good name of Israel and Israel&#39;s God, as Moses had been before him (Ex. 32:12, 13 Num. 14:13&#8212;16 Deut. 9:26&#8212;29 cf. Eze. 20:9). The inactivity of God&#39;s people in a time of shame and crisis was more than David could endure. Saul had once asked great things of God and had attempted great things for Him. However, pride and self&#8212;glory had filled his heart, and now every obstacle appeared insurmountable. In his effort to vindicate himself he had forgotten that with God all things are possible. <BR /><BR />How could God better impress upon him his lack than by letting David rehearse the providential protection that had been over him personally in the past. The Spirit of God once took possession of Saul. Now he would have the opportunity of seeing what he himself might have been had he not rebelled against that Spirit. Again he was in a dilemma. If he refused to let David fight, the army would expect him, as king, to champion their cause. <BR /><BR />If he let David fight, and Goliath killed him, the battle would be lost and Israel would again be in bondage to the Philistines. It was to save his own life and reputation that Saul sent David forth to combat. But the very means Saul used in an effort to save his reputation as king and leader resulted in its loss (ch. 18:6&#8212;9). It became apparent that without God, Saul was powerless before his enemies (ch. 14:24 cf. 15:23), and that past victories for which he had personally taken credit were from God.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Samuel 17:34-37",
+      "verses": [
+        {
+          "number": 34,
+          "line": "And David said unto Saul, Thy servant kept his father's sheep, and there came a lion, and a bear, and took a lamb out of the flock:"
+        },
+        {
+          "number": 35,
+          "line": "And I went out after him, and smote him, and delivered it out of his mouth: and when he arose against me, I caught him by his beard, and smote him, and slew him."
+        },
+        {
+          "number": 36,
+          "line": "Thy servant slew both the lion and the bear: and this uncircumcised Philistine shall be as one of them, seeing he hath defied the armies of the living God."
+        },
+        {
+          "number": 37,
+          "line": "David said moreover, The LORD that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. And Saul said unto David, Go, and the LORD be with thee."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "David_ki_8-1-2013 9-01-28 AM.jpg",
+      "caption": "Painting of David defending his flocks from a lion."
+    },
+    {
+      "file": "GoodSalt-DavidSlaysLion_8-5-2013 4-34-14 PM.jpg",
+      "caption": "David rescuing a sheep from a lion."
+    },
+    {
+      "file": "Bear_5-1-2013 5-06-56 PM.jpg",
+      "caption": "David explains how, as a shepherd, he slew lions and bears which attacked his father&#39;s sheep."
+    }
+  ],
+  "videos": []
 }

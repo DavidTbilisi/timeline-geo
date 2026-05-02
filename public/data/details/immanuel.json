@@ -4,13 +4,48 @@
   "period": 7,
   "titleEn": "Immanuel",
   "titleKa": null,
-  "datesEn": "734 BC",
+  "datesEn": "734 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;God is with us.&#34; Name of a sign&#8212;child spoken to Ahaz by Isaiah which was to be a sign of Judah&#39;s promised deliverance. Ahaz kept turning from God. Isaiah later applies the name to the land of Judah. It&#39;s supreme fulfillment is in Jesus.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Immanuel, name means &#34;God is with us&#34;. The sign&#8212;child foretold by the prophet Isaiah in conversation with Ahaz, king of Judah (Is 7:14), applied by Matthew to Jesus of Nazareth (Mt 1:23). Alarmed at an alliance between Pekah, king of Israel, and Rezin, king of Syria, against Judah (Is 7:2, 5, 6), Ahaz turned to Tiglath&#8212;pileser III, king of Assyria, for help (2 Ki 16:6&#8212;9 2 Chr 28:16 Is 8:9&#8212;12). Anticipating imminent attack, Ahaz went out to inspect the water supply of the city. Isaiah met him on the way with the message not to fear Pekah and Rezin but to trust in the Lord (Is 7:4&#8212;7 8:13, 14). <BR /><BR />In token of the promised deliverance, Isaiah, whose name means &#34;Yahweh saves,&#34; foretold the birth of a son to be named Immanuel, meaning &#34;God is with us,&#34; as a token and reminder of God&#39;s abiding presence. Before this sign&#8212;child should reach the age of accountability Pekah and Rezin would both fall before the Assyrians (ch 8:7, 8, 16). This prediction, made about 734 b.c., was literally fulfilled. Tiglath&#8212;pileser captured Damascus and killed Rezin 2 years later (2 Ki 16:9, 10), then devastated Gilead and Galilee, took a vast number of captives, and arranged for the assassination of Pekah (2 Ki 15:29, 30 1 Chr 5:26 Is 8:4). <BR /><BR />The kingdom of Israel disappeared altogether 12 years later, with the fall of Samaria to the Assyrians in 723/22 b.c. (cf. Is 7:8). Repeated Assyrian invasions during the next few years also devastated all the land of Judah, except for Jerusalem itself (2 Ki 18:13 to 19:34 2 Chr 32:1&#8212;20 Is 36:1 to 37:20). Nevertheless, God was with His people to spare the remnant in Jerusalem in a miraculous way (2 Ki 19:35&#8212;37 2 Chr 32:21, 22 Is 37:21&#8212;38). Had Ahaz trusted the Lord, Judah would have been spared this fearful experience altogether, as implied in the name of the sign&#8212;child&#8212;&#34;God is with us&#34; (Is 7:14). But Ahaz&#39; persistent refusal to rely on the Lord instead of on the Assyrian alliance resulted in great suffering for Judah (ch 8:7, 8, 21, 22). In irony the prophet speaks of Judah as Immanuel&#39;s land&#8212;&#34;God is with us&#34;&#8212;comparing what actually took place with what might have been (vs 8, 10).<BR /><BR />Matthew (Mt 1:23 cf. Is 7:14) quotes Is 7:14 and applies it to Christ. The name Immanuel thus originated in an actual historical situation as a promise that God would be with His people to deliver them from their immediate enemies. But Isaiah also looked forward by inspiration to the time when God would send His own Son, the true Immanuel, who would deliver His people from all their enemies. By inspiration Matthew thus picked up the prophecy of Isaiah and declared that it was to meet its fulfillment in the person of Jesus Christ, who was born of a virgin, and who was in the supreme sense &#34;God with us.&#34;",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Isaiah 7:14",
+      "verses": [
+        {
+          "number": 14,
+          "line": "Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel."
+        }
+      ]
+    },
+    {
+      "reference": "Isaiah 8:8",
+      "verses": [
+        {
+          "number": 8,
+          "line": "And he shall pass through Judah; he shall overflow and go over, he shall reach even to the neck; and the stretching out of his wings shall fill the breadth of thy land, O Immanuel."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ahaz",
+      "titleEn": "Ahaz",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "_GoodSalt-prcas3016_8-27-2013 2-31-40 PM.jpg",
+      "caption": "Immanuel, name means &#34;God is with us&#34;. The sign-child foretold by the prophet Isaiah in conversation with Ahaz, king of Judah (Is 7:14), applied by Matthew to Jesus of Nazareth. "
+    },
+    {
+      "file": "_GoodSalt-prcas3300_8-27-2013 2-31-40 PM.jpg",
+      "caption": "The Prophet Isaiah"
+    }
+  ],
+  "videos": []
 }

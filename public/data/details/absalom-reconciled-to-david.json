@@ -4,13 +4,67 @@
   "period": 6,
   "titleEn": "Absalom Reconciled to David",
   "titleKa": null,
-  "datesEn": "982 BC",
+  "datesEn": "982 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Absalom returns from exile in Geshur but does not see the face of King David for 2 years. He tries to gain a hearing but Joab turns away until Absalom has Joab&#39;s barley field set on fire. Absalom finally sees his father who kisses and forgives him.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "After murdering his brother, Absalom was banished from Jerusalem, but was eventually brought back by Joab. But he was not permitted to see the king. This naturally made Absalom bitter and morose, causing him to think that he was being unjustly treated. In his own eyes he probably felt that he had done no wrong in putting Amnon to death, since he had only meted out justice. <BR /><BR />Absalom was selfish and unscrupulous, ambitious and impulsive. He was admired by the people and was gradually winning their sympathies. It was hardly the part of wisdom for David to allow such a situation to continue. Since Joab had been successful in his former efforts, Absalom thought that he again might be of service. But Joab doubtless felt that he had already done as much as was wise, and that he would incur the king&#39;s displeasure if he took any further steps in the matter.<BR /><BR />So Abasalom sets Joab&#39;s barley field on fire to force the issue. Absalom treated Joab as his servant, giving to him his orders and expecting them to be carried out. His conduct reveals how far he had already gone in his course of rebellion and his determination to secure a redress of his supposed grievances and a restoration to privileges he believed to be rightfully his. No attempt was made to explain his arson. <BR /><BR />He acted as if he were fully within his rights in taking the measures he did to bring Joab to him, and as if Joab were under obligation to carry out his wishes. Absalom had been allowed to come home, but the king still refused to see him. Such treatment was to Absalom more galling than his exile. In the popular estimation David was unduly harsh in his treatment of his son, and the people were gradually drawn toward Absalom.<BR /><BR />Absalom was finally admitted into the royal presence. He was given such treatment as indicated an outward reconciliation at least. Compare Esau kissing Jacob, and Joseph, his brethren (Gen. 33:4 45:15). David&#39;s memory of his own guilt made him listless and irresolute. He apparently knew not which way to turn or what course to pursue. He recognized his duty, but the memory of his own transgression prevented him from doing what he knew should be done.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Samuel 14:25-33",
+      "verses": [
+        {
+          "number": 25,
+          "line": "But in all Israel there was none to be so much praised as Absalom for his beauty: from the sole of his foot even to the crown of his head there was no blemish in him."
+        },
+        {
+          "number": 26,
+          "line": "And when he polled his head, (for it was at every year's end that he polled it: because the hair was heavy on him, therefore he polled it:) he weighed the hair of his head at two hundred shekels after the king's weight."
+        },
+        {
+          "number": 27,
+          "line": "And unto Absalom there were born three sons, and one daughter, whose name was Tamar: she was a woman of a fair countenance."
+        },
+        {
+          "number": 28,
+          "line": "So Absalom dwelt two full years in Jerusalem, and saw not the king's face."
+        },
+        {
+          "number": 29,
+          "line": "Therefore Absalom sent for Joab, to have sent him to the king; but he would not come to him: and when he sent again the second time, he would not come."
+        },
+        {
+          "number": 30,
+          "line": "Therefore he said unto his servants, See, Joab's field is near mine, and he hath barley there; go and set it on fire. And Absalom's servants set the field on fire."
+        },
+        {
+          "number": 31,
+          "line": "Then Joab arose, and came to Absalom unto his house, and said unto him, Wherefore have thy servants set my field on fire?"
+        },
+        {
+          "number": 32,
+          "line": "And Absalom answered Joab, Behold, I sent unto thee, saying, Come hither, that I may send thee to the king, to say, Wherefore am I come from Geshur? it had been good for me to have been there still: now therefore let me see the king's face; and if there be any iniquity in me, let him kill me."
+        },
+        {
+          "number": 33,
+          "line": "So Joab came to the king, and told him: and when he had called for Absalom, he came to the king, and bowed himself on his face to the ground before the king: and the king kissed Absalom."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "absalom",
+      "titleEn": "Absalom",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-pppas0412_8-22-2013 2-42-19 PM.jpg",
+      "caption": "Pillar of Absalom and Tomb of Jehoshaphat"
+    }
+  ],
+  "videos": []
 }

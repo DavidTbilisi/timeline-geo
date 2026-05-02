@@ -4,13 +4,86 @@
   "period": 10,
   "titleEn": "Paul Travels in Crete, Asia Minor, and Macedonia",
   "titleKa": null,
-  "datesEn": "63–67 AD",
+  "datesEn": "63&ndash;67 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After being imprisoned for 2 years, Paul is released and conducts missionary travels. References in 1 Timothy and Titus indicate the freedom he has during this time in Crete, Asia Minor, and Macedonia. He is eventually arrested a second time.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "At the end of 2 years (probably A.D. 63), Paul was tried at the judgment seat of Nero and released. The epistles written during this period of freedom, 1 Timothy and Titus, show that the apostle once more conducted missionary travels after his release. Clement of Rome (The First Epistle of Clement to the Corinthians 5) says that Paul preached in both East and West. Since the apostle had planned to go to Spain (Rom 15:24, 28), it is possible that he now visited that country. The Muratorian Fragment (c. A.D. 190) states that he did visit Spain. Paul probably also carried out his expressed purpose of visiting Philippi (Php 2:24) and Colossae (Phm 22 cf. Col 4:9 Phm 10). From 1 Ti 1:3 we can conclude that he went to Macedonia and Ephesus. He also apparently visited Crete (Tit 1:5), and possibly Corinth (2 Ti 4:20). He also may have spent a winter (perhaps A.D. 65) at Nicopolis (Tit 3:12), on the western coast of Greece.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Romans 15:24-28",
+      "verses": [
+        {
+          "number": 24,
+          "line": "Whensoever I take my journey into Spain, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you, if first I be somewhat filled with your company."
+        },
+        {
+          "number": 25,
+          "line": "But now I go unto Jerusalem to minister unto the saints."
+        },
+        {
+          "number": 26,
+          "line": "For it hath pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem."
+        },
+        {
+          "number": 27,
+          "line": "It hath pleased them verily; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, their duty is also to minister unto them in carnal things."
+        },
+        {
+          "number": 28,
+          "line": "When therefore I have performed this, and have sealed to them this fruit, I will come by you into Spain."
+        }
+      ]
+    },
+    {
+      "reference": "Philippians 2:24",
+      "verses": [
+        {
+          "number": 24,
+          "line": "But I trust in the Lord that I also myself shall come shortly."
+        }
+      ]
+    },
+    {
+      "reference": "1 Timothy 1:3",
+      "verses": [
+        {
+          "number": 3,
+          "line": "As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,"
+        }
+      ]
+    },
+    {
+      "reference": "Titus 1:5",
+      "verses": [
+        {
+          "number": 5,
+          "line": "For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "iStock_000009355560Small_2-28-2013 10-53-55 AM.jpg",
+      "caption": "The hidden beach of Balos on the island of Crete, Greece. Crete is the largest of the Greek islands and the fifth largest island in the Mediterranean Sea at 8,336 kmÂ² (3,219 square miles)."
+    },
+    {
+      "file": "156361886_2-28-2013 10-53-55 AM.jpg",
+      "caption": "Statue of Paul the Apostle in Vatican."
+    },
+    {
+      "file": "92821560_2-28-2013 10-53-55 AM.jpg",
+      "caption": "Marble bust of Nero at the Musei Capitolini, Rome."
+    }
+  ],
+  "videos": []
 }

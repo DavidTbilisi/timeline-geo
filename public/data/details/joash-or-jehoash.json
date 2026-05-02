@@ -4,18 +4,68 @@
   "period": 7,
   "titleEn": "Joash (or Jehoash)",
   "titleKa": null,
-  "datesEn": "842–796 BC (~46)",
+  "datesEn": "842&ndash;796 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh has given.&#34; The son of Ahaziah, who is slain while Joash (or Jehoash) is a child. His grandmother takes the crown and slays all heirs except Joash who is hidden away and then crowned at about 7. He helps his uncle restore worship.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jehoash (or Joash), name means &#34;Yahweh has given.&#34; The 8th ruler of the southern kingdom of Judah, more often called Joash. He reigned 40 years (c. 835&#8212;c. 796 b.c.). In 841 b.c., when he was but an infant, his father, Ahaziah, was slain by King Jehu of Israel. Thereupon Athaliah, Ahaziah&#39;s mother, took the throne after slaying all of Ahaziah&#39;s children but one infant son. This child was saved only because his father&#39;s sister Jehosheba, wife of the high priest Jehoiada, spirited him away and kept him in hiding (2 Ki 11:1&#8212;3 2 Chr 22:10&#8212;12). <BR /><BR />In the 7th year of Athaliah&#39;s reign Jehoiada presented the young prince to the army officers and gained their support in his plan to overthrow Athaliah and make Joash king. Under the protection of the army the plan was put into effect and the boy was proclaimed king in the Temple. Athaliah, attracted by the acclamations, made her way to the Temple but was slain en route (2 Ki 11:4&#8212;16 2 Chr 23:1&#8212;15). Jehoiada at once set out to restore the worship of God and to destroy the Baal temple. When the young king grew to manhood, he repaired the Temple, which was now nearly 150 years old, but he allowed the high places to continue and to be used as places of worship (2 Ki 11:17 to 12:16 2 Chr 23:16 to 24:16). <BR /><BR />However, after Jehoiada&#39;s death, the king changed considerably and became a worshiper of Asherah and other idols. When rebuked for this by his benefactor&#39;s son, Zechariah, he ordered him stoned (2 Chr 24:17&#8212;22 cf. Lk 11:51). He also suffered a serious military defeat when Hazael of Damascus invaded Judah after taking the Philistine city of Gath. He could buy himself and Jerusalem off only by handing over to the Aramaeans all the treasures of the palace and of the Temple (2 Ki 12:17, 18 2 Chr 24:23, 24). Soon after this defeat he was assassinated in bed by 2 of his own courtiers (2 Ki 12:20, 21 2 Chr 24:25, 26). He was buried in the City of David, but not in the royal tombs. His son Amaziah followed him on the throne.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 11:2",
+      "verses": [
+        {
+          "number": 2,
+          "line": "But Jehosheba, the daughter of king Joram, sister of Ahaziah, took Joash the son of Ahaziah, and stole him from among the king's sons which were slain; and they hid him, even him and his nurse, in the bedchamber from Athaliah, so that he was not slain."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 12:20-21",
+      "verses": [
+        {
+          "number": 20,
+          "line": "And his servants arose, and made a conspiracy, and slew Joash in the house of Millo, which goeth down to Silla."
+        },
+        {
+          "number": 21,
+          "line": "For Jozachar the son of Shimeath, and Jehozabad the son of Shomer, his servants, smote him, and he died; and they buried him with his fathers in the city of David: and Amaziah his son reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ahaziah-6th-king",
+      "titleEn": "Ahaziah",
+      "titleKa": null
+    },
+    {
+      "slug": "amaziah",
+      "titleEn": "Amaziah",
+      "titleKa": null
+    },
+    {
+      "slug": "jeroboam-ii",
+      "titleEn": "Jeroboam II",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/_GoodSalt-stdas0028_8-27-2013 12-10-43 PM.jpg",
-      "caption": ""
+      "file": "_GoodSalt-stdas0028_8-27-2013 12-10-43 PM.jpg",
+      "caption": "Joash is crowned king at seven years of age (2 Chronicles, Chapter 23,24)."
+    },
+    {
+      "file": "_GoodSalt-pppas0413_8-27-2013 12-10-43 PM.jpg",
+      "caption": "Joash&#39;s coronation"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Many Crowns",
+      "caption": "This is a study on the term &#34;crowns&#34; in the Bible. There are different types of crowns in Scripturehaving a white head, golden crowns, perishable crowns, etc. Man was given a &#34;crown&#34; over this world.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2636.mp4"
     }
   ]
 }

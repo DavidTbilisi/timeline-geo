@@ -4,18 +4,29 @@
   "period": 9,
   "titleEn": "Augustus Caesar",
   "titleKa": null,
-  "datesEn": "63 BC–14 AD (~77)",
+  "datesEn": "63 <span>BC</span>&ndash;14 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Augustus is the first Emperor of Rome, ruling from 27 BC until his death in 14 AD.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Augustus 23 is considered the first emperor of the Roman Empire, which he ruled alone from 27 BC until his death in 14 AD. Born Gaius Octavius Thurinus, he was adopted posthumously by his great&#8212;uncle Gaius Julius Caesar in 44 BC via his last will and testament, and between then and 27 BC was officially named Gaius Julius Caesar. In 27 BC the Senate awarded him the honorific Augustus &#34;the revered one&#34;, and thus consequently he was Gaius Julius Caesar Augustus.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
+  "related": [
+    {
+      "slug": "julius-caesar",
+      "titleEn": "Julius Caesar",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Augustus Caesar_3-20-2013 4-27-25 PM.jpg",
-      "caption": ""
+      "file": "Augustus Caesar_3-20-2013 4-27-25 PM.jpg",
+      "caption": "Bust of Caesar Augustus from antiquity."
+    },
+    {
+      "file": "386px-Roman_-_Portrait_of_Emperor_Augustus_-_Walters_2321_8-8-2013 1-57-52 PM.jpg",
+      "caption": "Bust of Caesar Augustus, Artist: Unknown, 27 BC- AD 14"
     }
-  ]
+  ],
+  "videos": []
 }

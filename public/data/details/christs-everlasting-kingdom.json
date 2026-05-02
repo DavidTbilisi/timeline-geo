@@ -6,11 +6,73 @@
   "titleKa": null,
   "datesEn": "Future",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After a vision of four beasts and a judgment scene, Daniel sees &#34;One like the Son of Man,&#34; who was given &#34;an everlasting dominion.&#34; Here the kingdom of heaven is established forever. It will &#34;not pass away&#34; or &#34;be destroyed.&#34;",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In Luke 19:12&#8212;15 Christ is represented as a nobleman who took his journey into a far country to receive for himself a kingdom, and to return. At the close of His priestly ministry in the sanctuary, while still in heaven, Christ receives the kingdom from His Father and then returns to Earth for His saints.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Daniel 7:13-14",
+      "verses": [
+        {
+          "number": 13,
+          "line": "I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him."
+        },
+        {
+          "number": 14,
+          "line": "And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "daniel-7-four-great-beasts",
+      "titleEn": "Daniel 7 - Four Great Beasts",
+      "titleKa": null
+    },
+    {
+      "slug": "return-of-christ",
+      "titleEn": "Return of Christ ",
+      "titleKa": null
+    },
+    {
+      "slug": "resurrection-and-translation-of-the-saints",
+      "titleEn": "Resurrection and Translation of the Saints",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-smcas0096_8-5-2013 12-49-49 PM.jpg",
+      "caption": "Artist&#39;s rendition of the home of the saints ..."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Second Coming or Second Chance",
+      "caption": "People missed the prophecies of Jesus&#39; first coming.  Will they miss Him again?",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp26.mp4"
+    },
+    {
+      "title": "The Coming King, Pt.1",
+      "caption": "The Coming King speaks about the Bible&#39;s teaching about the soon coming of Christ. Though we cannot know the exact day or hour, we can know that it is near. There are many Scripture passages that explain the importance of Jesus&#39; 2nd coming. What does the Bible say about how Christ will return?",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp69.mp4"
+    },
+    {
+      "title": "The Coming King, Pt.2",
+      "caption": "The Coming King speaks about the Bible&#39;s teaching about the soon coming of Christ. Though we cannot know the exact day or hour, we can know that it is near. There are many Scripture passages that explain the importance of Jesus&#39; 2nd coming. What does the Bible say about how Christ will return?",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp70.mp4"
+    },
+    {
+      "title": "The 7,000 Year Pattern",
+      "caption": "The topic of this presentation is &#34;The 7,000 Year Pattern.&#34; Seven represents a complete cycle in the Bible. There is a pattern of 7,000 years in history. A miniature picture of the second coming of Christ is found in the mount of transfiguration.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/fup01.mp4"
+    },
+    {
+      "title": "Setting Dates For Christ&#39;s Return",
+      "caption": "People over the years have predicted the exact date of Christ&#39;s second coming and have obviously failed. The Bible teaches we do not know the day or hour when Jesus will return, but we can know it is near. What is most important is for us to live in a state of being ready always.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg21102.mp4"
+    }
+  ]
 }

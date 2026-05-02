@@ -4,18 +4,58 @@
   "period": 1,
   "titleEn": "Enos",
   "titleKa": null,
-  "datesEn": "3719–2814 BC (905)",
+  "datesEn": "3719&ndash;2814 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Meaning of name: &#34;mortal&#34; or &#34;frail.&#34; A son of Seth and a grandson of Adam. Also spelled &#34;Enosh.&#34; He lived 905 years. Men began to call on the name of the Lord at this time (Genesis 4:26).",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 4:26",
+      "verses": [
+        {
+          "number": 26,
+          "line": "And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 5:6",
+      "verses": [
+        {
+          "number": 6,
+          "line": "And Seth lived an hundred and five years, and begat Enos:"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 5:11",
+      "verses": [
+        {
+          "number": 11,
+          "line": "And all the days of Enos were nine hundred and five years: and he died."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "seth",
+      "titleEn": "Seth",
+      "titleKa": null
+    },
+    {
+      "slug": "cainan",
+      "titleEn": "Cainan",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt- Enos_8-5-2013 5-22-39 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt- Enos_8-5-2013 5-22-39 PM.jpg",
+      "caption": "Enos"
     }
-  ]
+  ],
+  "videos": []
 }

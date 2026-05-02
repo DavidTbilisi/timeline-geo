@@ -4,18 +4,82 @@
   "period": 7,
   "titleEn": "Hezekiah",
   "titleKa": null,
-  "datesEn": "741–686 BC (~55)",
+  "datesEn": "741&ndash;686 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh has strengthened.&#34; He is the son of Ahaz and the 13th king of Judah southern kingdom. He reigns for 29 years as a good king with many accomplishments, including building the Siloam tunnel for bringing water into Jerusalem.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Hezekiah, name means &#34;Yahweh has strengthened&#34;. The son of Ahaz and the 13th king of Judah. His reign of 29 years (as recorded in 2 Ki 18:2 2 Chr 29:1) is probably reckoned from his father&#39;s death (c. 715 b.c.). During 10 years of the 29 his son Manasseh was probably coregent with him. But apparently Hezekiah had ruled jointly with his father for 14 years before that, thus being on the throne a total of 43 years (c. 729 &#8212; c. 686 b.c., according to the synchronisms of the Bible and the Assyrian chronology). Hezekiah was a good ruler and broke with his father&#39;s evil practices as soon as he was free to do so. <BR /><BR />He repaired and cleansed the Temple, reorganized the religious services, and celebrated a great Passover to which he invited the ten tribes of the north. He removed the high places, destroyed the idols, and even the bronze serpent dating from Moses&#39; time, since it was being used for idolatrous purposes (2 Ki 18:3&#8212;6 2 Chr 29:1 to 31:21). He also had unpublished proverbs of Solomon collected and recorded (Prov 25:1).<BR /><BR />His reign was marked by remarkable prosperity. He gained control over the Philistine Plain (2 Ki 18:8), built store cities and sheepfolds (2 Chr 32:27&#8212;29), and fortified the wall of Jerusalem (Is 22:10). But his greatest technical accomplishment was bringing water inside Jerusalem. His rock&#8212;cut Siloam tunnel, 1,749 ft. (c. 533 m.) long, connected an old tunnel from the spring of Gihon, in the Kidron Valley, with a new, lower pool inside the city (2 Ki 20:20 2 Chr 32:4, 30 cf. Ecclus 48:17 see Siloam).<BR /><BR />Hezekiah is best known for his brave fight against the powerful Assyrian Empire, and for his faith in God during one of Sennacherib&#39;s invasions, a faith that was rewarded by a miraculous destruction of a large Assyrian army.<BR /><BR />Besides Isaiah, the prophets Hosea and Micah were active in Hezekiah&#39;s time (Hos 1:1 Mic 1:1). When Hezekiah died, c. 686 b.c., his son Manasseh, who seems to have been associated with him for some years on the throne, became sole ruler.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 18:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now it came to pass in the third year of Hoshea son of Elah king of Israel, that Hezekiah the son of Ahaz king of Judah began to reign."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 20:21",
+      "verses": [
+        {
+          "number": 21,
+          "line": "And Hezekiah slept with his fathers: and Manasseh his son reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ahaz",
+      "titleEn": "Ahaz",
+      "titleKa": null
+    },
+    {
+      "slug": "reformationpassover-celebrated-in-judah-option-1",
+      "titleEn": "Reformation-Passover Celebrated in Judah",
+      "titleKa": null
+    },
+    {
+      "slug": "invasion-of-philistines",
+      "titleEn": "Invasion of Philistines",
+      "titleKa": null
+    },
+    {
+      "slug": "manasseh-king-of-judah",
+      "titleEn": "Manasseh",
+      "titleKa": null
+    },
+    {
+      "slug": "sun-goes-back-10-degrees-hezekiah-recovers",
+      "titleEn": "Sun Goes Back 10 Degrees, Hezekiah Recovers",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/_GoodSalt-prcas5185_8-27-2013 2-25-13 PM.jpg",
-      "caption": ""
+      "file": "_GoodSalt-prcas5185_8-27-2013 2-25-13 PM.jpg",
+      "caption": "Hezekiah reopens the temple"
+    },
+    {
+      "file": "Hezekiah's Tunnel, tb110705527_4-3-2013 2-53-34 PM.jpg",
+      "caption": "Hezekiah&#39;s tunnel in Jerusalem."
+    },
+    {
+      "file": "_GoodSalt-stdas0687_8-27-2013 2-25-13 PM.jpg",
+      "caption": "Idols being torn down"
+    },
+    {
+      "file": "_GoodSalt-prcas3298_8-27-2013 2-25-13 PM.jpg",
+      "caption": "Sennacherib&#39;s invasion"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Learning From The Kings, Part 3: Pride and Possession",
+      "caption": "God wants to bless us. Having material possessions is not bad, but it can be when our hearts are turned away from God by them. This is a lesson we can learn from the kings of Israel in this sermon. Hezekiah is an example of pride and possessions leading one astray.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg9377.mp4"
     }
   ]
 }

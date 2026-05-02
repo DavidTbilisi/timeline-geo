@@ -4,13 +4,68 @@
   "period": 7,
   "titleEn": "Isaiah Prophecy Concerning Cyrus II",
   "titleKa": null,
-  "datesEn": "697 BC",
+  "datesEn": "697 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Isaiah makes an amazing prediction about Cyrus, a heathen king, whom he names before his birth as one who would restore Israel from Babylonian captivity. It shows God&#39;s foreknowledge and sovereignty.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "This is a remarkable prophecy in that it mentions Cyrus by name, a century and a half before his time, and foretells the remarkable part he was to play in the liberation of the Jews (for a similar advance prophecy given concerning Josiah&#39;s reform see 1 Kings 13:2). Cyrus must have been greatly astonished to learn that a Jewish prophecy named him, described his capture of Babylon, and predicted his policy toward the captive Jews, a century and a half before his birth. He refers to Cyrus as &#34;My shepherd.&#34; In overthrowing Babylon and liberating the Jews, Cyrus did for literal Israel what Christ will accomplish for all His chosen ones in the overthrow of mystical Babylon and the deliverance of His people from her dominion (Rev. 18:2&#8212;4, 20 Rev. 19:1, 2). Soon after capturing Babylon, Cyrus issued the decree that permitted the captive Jews to return to their homeland and rebuild the Temple (2 Chron. 36:22, 23 see Ezra 1:1&#8212;4).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Isaiah 44:28",
+      "verses": [
+        {
+          "number": 28,
+          "line": "That saith of Cyrus, He is my shepherd, and shall perform all my pleasure: even saying to Jerusalem, Thou shalt be built; and to the temple, Thy foundation shall be laid."
+        }
+      ]
+    },
+    {
+      "reference": "Isaiah 45:1-6",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Thus saith the LORD to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him; and I will loose the loins of kings, to open before him the two leaved gates; and the gates shall not be shut;"
+        },
+        {
+          "number": 2,
+          "line": "I will go before thee, and make the crooked places straight: I will break in pieces the gates of brass, and cut in sunder the bars of iron:"
+        },
+        {
+          "number": 3,
+          "line": "And I will give thee the treasures of darkness, and hidden riches of secret places, that thou mayest know that I, the LORD, which call thee by thy name, am the God of Israel."
+        },
+        {
+          "number": 4,
+          "line": "For Jacob my servant's sake, and Israel mine elect, I have even called thee by thy name: I have surnamed thee, though thou hast not known me."
+        },
+        {
+          "number": 5,
+          "line": "I am the LORD, and there is none else, there is no God beside me: I girded thee, though thou hast not known me:"
+        },
+        {
+          "number": 6,
+          "line": "That they may know from the rising of the sun, and from the west, that there is none beside me. I am the LORD, and there is none else."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "isaiah",
+      "titleEn": "Isaiah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas0291_8-6-2013 4-05-45 PM.jpg",
+      "caption": "Prophet Isaiah "
+    },
+    {
+      "file": "GettyImages_122227260_2_sm_4-3-2013 12-06-01 PM.jpg",
+      "caption": "This clay cylinder is inscribed in Babylonian cuneiform and is an account by Cyrus, king of Persia (559-530 B.B.), one of his conquest of Babylon in 539 B.C. and capture of Nabonidus, the last Babylonian king."
+    }
+  ],
+  "videos": []
 }

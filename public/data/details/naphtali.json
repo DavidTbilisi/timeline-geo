@@ -4,13 +4,39 @@
   "period": 3,
   "titleEn": "Naphtali",
   "titleKa": null,
-  "datesEn": "1698–1600 BC",
+  "datesEn": "1698&ndash;1600 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;wrestling.&#34; He is the fifth son of Jacob through Rachel&#39;s handmaid Bilhah and is so named because Rachel &#34;wrestled&#34; with her sister over having children and prevailed.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A son of Jacob and of Rachel&#39;s maid&#8212;servant Bilhah. The name was given him by Rachel to indicate how she had &#34;wrestled&#34; in contest with her sister to obtain a child as a mark of God&#39;s favor (Gen 30:7, 8). He was the father of four sons and the ancestor of the tribe that bore his name (Gen 46:24 Num 26:48, 49).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 30:7-8",
+      "verses": [
+        {
+          "number": 7,
+          "line": "And Bilhah Rachel's maid conceived again, and bare Jacob a second son."
+        },
+        {
+          "number": 8,
+          "line": "And Rachel said, With great wrestlings have I wrestled with my sister, and I have prevailed: and she called his name Naphtali."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Naftali.JPG",
+      "caption": "Symbol of the tribe of Naphtali by the S.S. Teacher&#39;s Edition: The Holy Bible. New York: Henry Frowde, Publisher to the University of Oxford, 1896."
+    }
+  ],
+  "videos": []
 }

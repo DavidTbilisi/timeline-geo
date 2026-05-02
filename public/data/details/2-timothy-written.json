@@ -4,13 +4,39 @@
   "period": 10,
   "titleEn": "2 Timothy Written",
   "titleKa": null,
-  "datesEn": "66 AD",
+  "datesEn": "66 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Paul wrote 2 Timothy during his final imprisonment in Rome, probably in the autumn of a.d. 66. It is clearly a difficult time for Paul. He seems to have had one hearing and was awaiting another.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "After his arrest, probably in a.d. 66, Paul was once more transported to Rome. At the time he wrote his second letter to Timothy, he seems already to have had one hearing but not yet to have been sentenced 2 Tim. 4:17. Although he apparently had little hope of a favorable verdict v.v. verse 6, he seems to have thought that he might spend at least the following winter in Rome (v. 21), possibly because he knew by experience how slowly Roman courts worked. If this expectation proved to be true, and Paul died in a.d. 67, the second letter to Timothy may be dated in the autumn of a.d. 66.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Timothy 1:8",
+      "verses": [
+        {
+          "number": 8,
+          "line": "Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God;"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "95269098_2-28-2013 10-27-37 AM.jpg",
+      "caption": "The second epistle of Paul the apostle to Timothy."
+    },
+    {
+      "file": "156361886_2-28-2013 10-27-37 AM.jpg",
+      "caption": "Statue of Paul the Apostle in Vatican."
+    }
+  ],
+  "videos": []
 }

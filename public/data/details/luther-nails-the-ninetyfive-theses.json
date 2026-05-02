@@ -2,15 +2,33 @@
   "slug": "luther-nails-the-ninetyfive-theses",
   "id": 1339,
   "period": 11,
-  "titleEn": "Luther Nails the Ninety-Five Theses",
+  "titleEn": "Luther Nails the Ninety-Five Theses ",
   "titleKa": null,
-  "datesEn": "1517 AD",
+  "datesEn": "1517 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The Ninety&#8212;five Theses were posted by Luther on the door of Castle Church in Wittenburg. Known as the impetus for the Protestant Reformation.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "On October 31, 1517 (All Saints Day), Martin Luther nailed a copy of his Ninety&#8212;five Theses to the door of the Wittenberg church. The Ninety&#8212;five Theses dealt primarily with the sale of indulgences, which were documents people could buy to escape purgatory. On the same day, he wrote a letter to the archbishop of Mainz expressing his concerns for the church. He included with the letter a copy of his Ninety&#8212;five Theses.<BR />",
   "articleKa": null,
   "scriptures": [],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "martin-luther-95-theses_8-5-2013 10-01-29 AM.jpg",
+      "caption": "Martin Luther nails the 95 theses, still shot from The Bride, The Beast, and Babylon DVD by Amazing Facts"
+    },
+    {
+      "file": "IMG_0491_2-26-2013 4-39-48 PM.JPG",
+      "caption": "Doors to Castle Church in Wittenburg"
+    },
+    {
+      "file": "IMG_0517_2-26-2013 4-39-48 PM.JPG",
+      "caption": "Castle Church of Wittenburg"
+    },
+    {
+      "file": "GoodSalt-pppas0099_8-7-2013 10-01-14 AM.jpg",
+      "caption": "Martin Luther nails the 95 theses"
+    }
+  ],
+  "videos": []
 }

@@ -2,15 +2,27 @@
   "slug": "geneva-academy",
   "id": 1373,
   "period": 12,
-  "titleEn": "Geneva Academy",
+  "titleEn": "Geneva Academy ",
   "titleKa": null,
-  "datesEn": "1559–1553 AD",
+  "datesEn": "1559&ndash;",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Began in 1559 to teach students Protestant doctrines as understood by John Calvin. Eventually evolved into the University of Geneva, which is still active today.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Geneva Academy was established as a learning center to educate people in the way that John Calvin considered best. It opened on June 5, 1559, and Theodore Beza was its first rector.<BR /><BR />The Geneva Academy was very prosperous in its early years and played a critical role in spreading the Calvinist message to other countries. The vast majority of students at the academy were from countries other than Switzerland, although at first, mostly from France. The men that came to study at this institution went back to their homes and spread Calvinist doctrines. Calvin died five years after the academy was opened, but it continued to grow. Over time, the Geneva Academy developed into the University of Geneva, which remains in Switzerland today.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "462px-Theodore-de-Beze-2_8-7-2013 9-11-50 AM.jpg",
+      "caption": "Theodore Beza, Ã–l auf Holz, 1577"
+    }
+  ],
+  "videos": []
 }

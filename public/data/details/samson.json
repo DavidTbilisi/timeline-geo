@@ -4,18 +4,62 @@
   "period": 5,
   "titleEn": "Samson",
   "titleKa": null,
-  "datesEn": "1119–1079 BC (~40)",
+  "datesEn": "1119&ndash;1079 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;sun,&#34; &#34;little sun,&#34; &#34;destroyer,&#34; or &#34;the strong one.&#34; He is the son of Manoah and a judge of Israel for 20 years during a time of oppression by the Philistines. Samson is known for his mighty strength which he loses, but gives his life.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Samson. A hero of the late period of the judges, who performed feats of superhuman strength during the Philistine oppression of Judah and Dan shortly before Saul became king of Israel. Although Samson is called &#34;judge,&#34; he is so different in character and action from the other judges that he can hardly be compared either with the major judges&#8212;Othniel, Ehud, Barak, Gideon, and Jephthah&#8212;or with the minor ones&#8212;Tola, Jair, Ibzan, Elon, and Abdon. <BR /><BR />Samson&#39;s birth was predicted to the barren wife of Manoah, by an angel of God who at the same time instructed her as to the nature of his upbringing and work. He was to be a Nazirite and as such had to live under certain restrictions (Jgs 13). The family of Samson belonged to the tribe of Dan and lived at Zorah (v 2) in the Shephelah not far from the territory of the Philistines, hence probably felt the brunt of Philistine oppressive rule. <BR /><BR />Samson possessed unusual strength with which he was able to perform heroic deeds of extraordinary valor. If his moral character had been commensurate with his strength, God would have used him mightily for the deliverance of His people. As it was, he failed to complete the work of God had given him to do, and finally died in captivity and ignominy.<BR /><BR />In spite of Samson&#39;s grave failures, the New Testament lists him among the great heroes of faith (Heb 11:32), possibly because he finally realized his total dependence upon God and called upon Him in his last act of valor. Samson&#39;s death should not be considered suicide, but a self&#8212;sacrificing act in fulfillment of his calling. The Samson stories not only give the picture of a chosen instrument of God whose indulgence of weaknesses and passions made it impossible for him to fulfill his calling but also provide valuable information concerning the customs of the judges&#39; period, of which so little is otherwise known. <BR /><BR />We learn that feasts lasting several days were connected with marriage rites that, on occasion at least, riddles were propounded at these feasts that the father gave his daughter to the bridegroom and that a rejected wife was given to someone else. This account also throws light on how crimes were punished and prisoners treated.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Judges 13:24",
+      "verses": [
+        {
+          "number": 24,
+          "line": "And the woman bare a son, and called his name Samson: and the child grew, and the LORD blessed him."
+        }
+      ]
+    },
+    {
+      "reference": "Judges 16:30",
+      "verses": [
+        {
+          "number": 30,
+          "line": "And Samson said, Let me die with the Philistines. And he bowed himself with all his might; and the house fell upon the lords, and upon all the people that were therein. So the dead which he slew at his death were more than they which he slew in his life."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "philistine-oppression-begins",
+      "titleEn": "Philistine Oppression",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Tissot_Samson_Slays_a_Thousand_Men_8-8-2013 11-59-12 AM.jpg",
-      "caption": ""
+      "file": "Tissot_Samson_Slays_a_Thousand_Men_8-8-2013 11-59-12 AM.jpg",
+      "caption": "Samson on the battlefield with the Jawbone after defeating the Philistines, James Joseph Jacques Tissot, c. 1896 - 1902 "
+    },
+    {
+      "file": "507px-Samson_Carries_City_Gate_001_8-8-2013 11-59-12 AM.jpg",
+      "caption": "Samson carries away the city gates, Richard Andre, 1884"
+    },
+    {
+      "file": "samson-lion_8-8-2013 11-59-12 AM.jpg",
+      "caption": "Then went Samson down, and his father and his mother, to Timnath, and came to the vineyards of Timnath: and, behold, a young lion roared against him. (Judges 14:5)Lucas Cranach the Elder, c. 1520 - 1525"
+    },
+    {
+      "file": "Samson 2_5-2-2013 5-34-05 PM.jpg",
+      "caption": "Samson destroying Temple of Dagon"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Lessons From Samson Part 2",
+      "caption": "This is the second in a two part series on Samson. His life is the gospel encapsulated in a story. Samson, though he had many failures, was a type of Christ. Pastor Batchelor draws many parallels between the actions of Samson and the work of Christ.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg5407.mp4"
     }
   ]
 }

@@ -4,13 +4,190 @@
   "period": 9,
   "titleEn": "First Trial before Pilate",
   "titleKa": null,
-  "datesEn": "31 AD",
+  "datesEn": "31 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The Jewish leaders take Christ to Pilate, the governor of Judea, to have Jesus condemned to death. He questions Jesus and tries to get Christ to defend Himself. Jesus remains silent.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Jewish leaders led Christ to Pilate to be tried. Luke lists three of the charges preferred against Jesus by the Jewish authorities. Here, they charge Him with being a revolutionary agitator. Throughout His ministry Jesus had taken great care to avoid providing any valid basis for such a charge as the one now brought against Him (see on Matt. 14:22 16:20 Mark 1:45 6:42 John 6:15). <BR /><BR />This fabricated charge was directly related to the false Messianic concepts entertained by the Jewish leaders (see on Luke 4:19). Three days before this the Pharisees had done their best to lure Jesus into making the statement they here claim that He did make, but their attempt met with inglorious defeat (see on Matt. 22:15&#8212;22). Second, Jesus was charged with saying that He was against paying tribute to Caesar.  The third charge was that Christ claimed to be king. Jesus had never made such a claim directly. They were no doubt thinking of His triumphal entry into Jerusalem but five days before this, an event that all members of the Jewish nation took as equivalent to a declaration by Jesus that He was assuming the throne of David (see on Matt. 21:5, 9).<BR /><BR />The mob was fierce and urgent in their demands. They persistently insisted that Pilate accede to their demands. They claimed Jesus stirred up the people. This charge was, of course, all too true, though not in the sense that the leaders would have Pilate believe. During recent weeks, particularly since the resurrection of Lazarus, popular opinion was increasingly favorable to Jesus. Previously, the priests and rulers themselves had ruefully admitted to one another that &#34;the world is gone after him&#34; (John 12:19).<BR /><BR />Jewry. Literally, Judea here probably used inclusively of all Israelite Palestine (see on chs. 1:5 7:17). To be sure, Luke also uses the term in reference to Judea proper (see Luke 2:4 Acts 1:8 8:1). However, Luke seems to be the only New Testamentwriter to use the term in the broader sense.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 27:2-14",
+      "verses": [
+        {
+          "number": 2,
+          "line": "And when they had bound him, they led him away, and delivered him to Pontius Pilate the governor."
+        },
+        {
+          "number": 3,
+          "line": "Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,"
+        },
+        {
+          "number": 4,
+          "line": "Saying, I have sinned in that I have betrayed the innocent blood. And they said, What is that to us? see thou to that."
+        },
+        {
+          "number": 5,
+          "line": "And he cast down the pieces of silver in the temple, and departed, and went and hanged himself."
+        },
+        {
+          "number": 6,
+          "line": "And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood."
+        },
+        {
+          "number": 7,
+          "line": "And they took counsel, and bought with them the potter's field, to bury strangers in."
+        },
+        {
+          "number": 8,
+          "line": "Wherefore that field was called, The field of blood, unto this day."
+        },
+        {
+          "number": 9,
+          "line": "Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;"
+        },
+        {
+          "number": 10,
+          "line": "And gave them for the potter's field, as the Lord appointed me."
+        },
+        {
+          "number": 11,
+          "line": "And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest."
+        },
+        {
+          "number": 12,
+          "line": "And when he was accused of the chief priests and elders, he answered nothing."
+        },
+        {
+          "number": 13,
+          "line": "Then said Pilate unto him, Hearest thou not how many things they witness against thee?"
+        },
+        {
+          "number": 14,
+          "line": "And he answered him to never a word; insomuch that the governor marvelled greatly."
+        }
+      ]
+    },
+    {
+      "reference": "Mark 15:2-5",
+      "verses": [
+        {
+          "number": 2,
+          "line": "And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, Thou sayest it."
+        },
+        {
+          "number": 3,
+          "line": "And the chief priests accused him of many things: but he answered nothing."
+        },
+        {
+          "number": 4,
+          "line": "And Pilate asked him again, saying, Answerest thou nothing? behold how many things they witness against thee."
+        },
+        {
+          "number": 5,
+          "line": "But Jesus yet answered nothing; so that Pilate marvelled."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 23:1-5",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And the whole multitude of them arose, and led him unto Pilate."
+        },
+        {
+          "number": 2,
+          "line": "And they began to accuse him, saying, We found this fellow perverting the nation, and forbidding to give tribute to Caesar, saying that he himself is Christ a King."
+        },
+        {
+          "number": 3,
+          "line": "And Pilate asked him, saying, Art thou the King of the Jews? And he answered him and said, Thou sayest it."
+        },
+        {
+          "number": 4,
+          "line": "Then said Pilate to the chief priests and to the people, I find no fault in this man."
+        },
+        {
+          "number": 5,
+          "line": "And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place."
+        }
+      ]
+    },
+    {
+      "reference": "John 18:28-38",
+      "verses": [
+        {
+          "number": 28,
+          "line": "Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover."
+        },
+        {
+          "number": 29,
+          "line": "Pilate then went out unto them, and said, What accusation bring ye against this man?"
+        },
+        {
+          "number": 30,
+          "line": "They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee."
+        },
+        {
+          "number": 31,
+          "line": "Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:"
+        },
+        {
+          "number": 32,
+          "line": "That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die."
+        },
+        {
+          "number": 33,
+          "line": "Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?"
+        },
+        {
+          "number": 34,
+          "line": "Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?"
+        },
+        {
+          "number": 35,
+          "line": "Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?"
+        },
+        {
+          "number": 36,
+          "line": "Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence."
+        },
+        {
+          "number": 37,
+          "line": "Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice."
+        },
+        {
+          "number": 38,
+          "line": "Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault at all."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "passion-week",
+      "titleEn": "Passion Week",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "92832140_2-28-2013 5-01-18 PM.jpg",
+      "caption": "Art depicting Jesus before Pilate"
+    },
+    {
+      "file": "Eccehomo1_2-28-2013 5-01-18 PM.jpg",
+      "caption": "Ecce Homo (&#34;Behold the Man&#34;), Antonio Ciseri&#39;s depiction of Pilate presenting a scourged Jesus to the people of Jerusalem in 1871."
+    },
+    {
+      "file": "What-is-truth02_2-28-2013 5-01-18 PM.jpg",
+      "caption": "Christ and Pilate (&#34;What is truth?&#34;) painting by Nikolai Ge in 1890."
+    },
+    {
+      "file": "98955409_2-28-2013 5-01-18 PM.jpg",
+      "caption": "Illustration of Pilate washing hands in bowl as he gives orders for Jesus to be flogged and Barabbas to be released"
+    }
+  ],
+  "videos": []
 }

@@ -4,18 +4,67 @@
   "period": 3,
   "titleEn": "Sarah",
   "titleKa": null,
-  "datesEn": "1936–1809 BC (~127)",
+  "datesEn": "1936&ndash;1809 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Her name means &#34;princess.&#34; She is the daughter of Terah and wife and sister of Abram. They had the same father, but not the same mother. Sarai, later Sarah, became the mother of a promised child (Rom. 4:19), Isaac, through whom the Savior came.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The wife of Abraham (Gen 11:29) and daughter of his father, but not of his mother (ch 20:12). She was about 10 years younger than Abraham (ch 17:17), and was therefore about 65 years old when her husband left Haran at the age of 75 (ch 12:4). Shortly after their arrival in Palestine a famine broke out which forced them to go to Egypt to keep their large household alive. Fearing that Sarah&#39;s beauty would, in spite of her age, attract the attention of the Egyptians, Abraham pretended she was his sister. <BR /><BR />Posing now as unmarried, she was taken to Pharaoh&#39;s harem. But the king returned her to Abraham when her true status became known, with a rebuke for Abraham&#39;s deception and a request that Abraham leave the country (vs 10&#8212;20). Abraham did not profit by this experience, but again passed off Sarah as his sister, this time in the country of Abimelech of Gerar (ch 20:1&#8212;18). When about 75 years of age (cf. chs 16:16 17:17) Sarah despaired of ever becoming a mother, and requested her husband to have a child through Hagar, her Egyptian slave. <BR /><BR />In making this proposal Sarah followed a custom of her native Mesopotamia. The result was the birth of Ishmael (ch 16:1&#8212;16). Later, when about 89 years old, Sarah received a definite promise that she would give birth to a son within a year. It was on this occasion that her name, which had hitherto been Sarai, was changed to Sarah. The promise was fulfilled in the birth of Isaac. During Isaac&#39;s weaning feast Sarah saw Ishmael tormenting Isaac (Gen 21:9 Gal 4:29), whereupon she demanded that Ishmael and Hagar be expelled from the family. <BR /><BR />At God&#39;s direction Abraham reluctantly obeyed (Gen 21:9&#8212;14). Nothing more is recorded of Sarah except that she died at the age of 127 at Kiriath&#8212;arba, or Hebron (Gen 23:1, 2). She was buried in the Cave of Machpelah, which Abraham bought after her death as a family sepulcher (vs 19, 20). Isaiah refers to Sarah as the mother of the Israelite nation (Is 51:2), and Paul writes of her as the mother of the child of promise (Rom 4:19 9:9). Peter mentions her as an example of a good wife (1 Pe 3:6), and in Heb 11:11 she is praised for her faith.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 23:1-2",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Sarah was an hundred and seven and twenty years old: these were the years of the life of Sarah."
+        },
+        {
+          "number": 2,
+          "line": "And Sarah died in Kirjatharba; the same is Hebron in the land of Canaan: and Abraham came to mourn for Sarah, and to weep for her."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 20:12",
+      "verses": [
+        {
+          "number": 12,
+          "line": "And yet indeed she is my sister; she is the daughter of my father, but not the daughter of my mother; and she became my wife."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "terah",
+      "titleEn": "Terah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas5769_8-7-2013 1-18-26 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas5769_8-7-2013 1-18-26 PM.jpg",
+      "caption": "Abraham, Isaac, and Sarah"
+    },
+    {
+      "file": "Hebron Machpelah, Sarah's cenotaph_5-15-2013 5-42-24 PM.jpg",
+      "caption": "Sarah&#39;s tomb at the Cave of Machpelah in Hebron."
+    },
+    {
+      "file": "Hebron Machpelah_5-15-2013 5-42-24 PM.jpg",
+      "caption": "Cave of Machpelah in Hebron"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Abraham, Part 2: My Sister, My Spouse",
+      "caption": "This is the second of a 12 part series on the life of Abraham. This sermon focuses on Abraham&#39;s experience in Egypt. Like Sarah, the beauty of a godly heart is an inward adorning. Abraham&#39;s lie to the Pharaoh shows God&#39;s long suffering with us.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2406.mp4"
+    },
+    {
+      "title": "Abraham Part 11: Mourning a Loss",
+      "caption": "The eleventh in a 12 part series on the life of Abraham. In this sermon we look at the death of Sarah who represents the church. She has a miracle baby boy, which symbolizes God&#39;s church.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2421.mp4"
     }
   ]
 }

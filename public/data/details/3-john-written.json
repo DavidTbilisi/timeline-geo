@@ -4,13 +4,35 @@
   "period": 10,
   "titleEn": "3 John Written",
   "titleKa": null,
-  "datesEn": "92 AD",
+  "datesEn": "92 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Because of the many similarities with 1 and 2 John, we know this is the third in a trio of letters. It was written in the last part of John&#39;s life to a specific person named Gaius.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Several things point to a development of the situation revealed in the second epistle of John, and makes the third the last in the trio of letter preserved to us. This is not to say that John wrote no other letters. There is no evidence to prove that the letter referred to in v.v. verse 9 was the second epistle, although it is an attractive possibility and there is no way of determining the length of time that passed between the writing of the second epistle and that of the third, but it seems probable that the interval was brief, since the letters are so closely related in style and content.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "3 John 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "The elder unto the wellbeloved Gaius, whom I love in the truth."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "john",
+      "titleEn": "John",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas1771_8-7-2013 1-26-22 PM.jpg",
+      "caption": "John the Evangelist also known as John the Revelator, James Jacques Joseph Tissot"
+    }
+  ],
+  "videos": []
 }

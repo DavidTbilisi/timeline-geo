@@ -4,13 +4,49 @@
   "period": 6,
   "titleEn": "Baasha",
   "titleKa": null,
-  "datesEn": "933–886 BC",
+  "datesEn": "933&ndash;886 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;bravery.&#34; He is the son of Ahijah and the 3rd king of Israel. The city of Tirzah is his capital and he is buried there after reigning 24 years. He is a wicked king. Because of idolatry, Jehu predicts his house will be destroyed.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Baasha. The son of Ahijah, of the tribe of Issachar, the 3rd king of the northern kingdom of Israel. He acquired the throne by slaying King Nadab during a siege of the Philistine city of Gibbethon (1 Ki 15:27, 28). One of the first acts of his reign was to exterminate all remaining relatives of Jeroboam I, thus fulfilling the prophet Ahijah&#39;s prediction (vs 29, 30 ch 14:10, 11). The 24 years of Baasha&#39;s reign (c. 909&#8212;c. 886 b.c.) were marked by wickedness (1 Ki 15:34) and by continual warfare with the southern kingdom (v 32). His attempt to build up Ramah as a military fortress within the border of Judah failed when Asa of Judah hired Ben&#8212;hadad I of Damascus against him (1 Ki 15:16&#8212;21 2 Chr 16:1&#8212;6). The prophet Jehu predicted the extermination of Baasha&#39;s dynasty (1 Ki 16:1&#8212;4).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 15:27",
+      "verses": [
+        {
+          "number": 27,
+          "line": "And Baasha the son of Ahijah, of the house of Issachar, conspired against him; and Baasha smote him at Gibbethon, which belonged to the Philistines; for Nadab and all Israel laid siege to Gibbethon."
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 16:6",
+      "verses": [
+        {
+          "number": 6,
+          "line": "So Baasha slept with his fathers, and was buried in Tirzah: and Elah his son reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ahijah",
+      "titleEn": "Ahijah",
+      "titleKa": null
+    },
+    {
+      "slug": "elah",
+      "titleEn": "Elah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Baasha_of_Israel_8-26-2013 4-51-17 PM.jpg",
+      "caption": "Illustration of Baasha in 1553 published by Guillaume Rouille"
+    }
+  ],
+  "videos": []
 }

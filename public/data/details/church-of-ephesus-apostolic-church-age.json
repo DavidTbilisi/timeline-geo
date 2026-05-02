@@ -4,18 +4,71 @@
   "period": 9,
   "titleEn": "Church of Ephesus, Apostolic Church Age",
   "titleKa": null,
-  "datesEn": "31–100 AD",
+  "datesEn": "31&ndash;100 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The message to the church of Ephesus is one of purity and represents the church of the first century. It is admonished to remember its first love. Ephesus was an important seaport city in Asia Minor (modern day Western Turkey).",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The book of Revelation is presented as a letter to seven churches located in Asia Minor (see Revelation 1:4). While the entire book was intended for all seven churches to read, specific messages are found for each church in chapters 2 and 3. These ancient letters not only encouraged seven local churches when delivered 2,000 years ago, but have universal value to churches in all ages. The messages to these churches also appear to describe eras of church history from the time of Christ up to our day. The number seven is a key figure in the book of Revelation. It has deeper spiritual significance in prophecy. It is the &#34;prince&#34; of numbers in Scripture and represents completeness and perfection. The messages to the seven churches are perfect for all churches to read and study.<BR /><BR /><B>Letter to the Church of Ephesus</B><BR />The first letter in Revelation 2:1&#8212;7 was written to the church of Ephesus, a seaport city in the southwest part of Asia Minor. It was a leading city and a focal point of trade. Like a giant circle (of about 50 miles around), the seven churches are each presented with a message going clockwise from Ephesus to Laodicea. Ephesus represents the new and pure church of the first century. The name &#34;Ephesus&#34; means &#34;desirable.&#34; The church is praised for its patience and hard work, but is rebuked for losing its first love.<BR /><BR />Like each letter, this message begins with a brief description of a quality of Christ. &#34;These things says He who holds the seven stars in His right hand, who walks in the midst of the seven golden lamp stands&#34; (v. 1). Also, like the other letters, this one begins with a word of affirmation. The church of Ephesus is praised for their work and patience. They are not afraid of dealing with evil.<BR /><BR />But, Ephesus is rebuked for having left its &#34;first love.&#34; God calls them to repent and return to their &#34;first works&#34; or the lampstand in their midst will be removed. The fervor of this young church in spreading the gospel was strong and passionate when the outpouring of the Holy Spirit launched the new believers. But time and persecution began to cause some of the bright lights to go out. Some leaders were martyred, others became complacent. During the time of John on the island of Patmos it seemed like the lampstand (the light of the Holy Spirit) would be extinguished.<BR /><BR />But God had not forgotten His people. A message of warning was sent to challenge the new church to return to its first love. Like newlyweds who begin to forget the tender affections of the first years of marriage, this church needed to receive God&#39;s love back into their hearts and be motivated to serve with a passion born of love for Jesus. The church in Ephesus was also affirmed for hating the deeds of the &#34;Nicolaitans&#34;, a group that was apparently introducing heresy into the church.<BR />Verse 7 ends with two messages. &#34;He who has an ear, let him hear what the Spirit says to the churches.&#34; In other words, these messages are for anyone who is willing to honestly listen to the Holy Spirit. The letter ends with a promise for overcomers. &#34;To him who overcomes I will give to eat from the tree of life, which is in the midst of the Paradise of God.&#34; Just as the church of Ephesus over came the &#34;false teachings&#34; being circulated, so must all believers not eat from the tree of knowledge of good and evil. When anyone overcomes, they will eat from the tree of life.<BR /><BR /><B>Loveless Churches and Christians Today</B><BR />Though the message to the church of Ephesus was written 2,000 years ago for a church in Asia Minor, the letter is relevant today, both for individual churches and every Christian. When churches are planted, they may spring up with a contagious zeal to witness and share the love of Christ. But churches may go through cycles and lose this first love. They must not forget the foundations of their early evangelistic work. The love of Jesus is not needed only when a church first begins, but must remain in the lifeblood of the organization throughout its entire life.<BR /><BR />So also must everyone who comes to Christ must stay with Christ. The early attentions of our love&#8212;relationship with Jesus need to stay alive during our entire walk with God. Spending time in the Bible study and prayer cannot be laid aside if we would maintain our faith. Sharing our witness with others and giving our personal testimony needs to stay fresh and alive or we will lose our first love and the light of God&#39;s presence will go out from our lives. Will you maintain your first love with Jesus?",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Revelation 2:1-7",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;"
+        },
+        {
+          "number": 2,
+          "line": "I know thy works, and thy labour, and thy patience, and how thou canst not bear them which are evil: and thou hast tried them which say they are apostles, and are not, and hast found them liars:"
+        },
+        {
+          "number": 3,
+          "line": "And hast borne, and hast patience, and for my name's sake hast laboured, and hast not fainted."
+        },
+        {
+          "number": 4,
+          "line": "Nevertheless I have somewhat against thee, because thou hast left thy first love."
+        },
+        {
+          "number": 5,
+          "line": "Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent."
+        },
+        {
+          "number": 6,
+          "line": "But this thou hast, that thou hatest the deeds of the Nicolaitanes, which I also hate."
+        },
+        {
+          "number": 7,
+          "line": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "prophecies-of-the-end-of-time",
+      "titleEn": "Prophecies of the End of Time",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/149144388_2-28-2013 9-06-13 AM.jpg",
-      "caption": ""
+      "file": "149144388_2-28-2013 9-06-13 AM.jpg",
+      "caption": "The front facade and courtyard of the library building at Ephesus is an imposing ancient Greek and Roman structure. Built from old stone and reconstructed by archaeologists, it is a popular tourist stop near the city of Izmir in Turkey."
+    },
+    {
+      "file": "The_angels_standing_guard_to_the_seven_churches_of_Asia_2-28-2013 9-06-13 AM.jpg",
+      "caption": "Mosaic in St. Mark&#39;s Basilica depicting the angels standing guard over the seven churches of Asia. "
+    },
+    {
+      "file": "iStock_000013048147Small_2-28-2013 9-06-13 AM.jpg",
+      "caption": "Akropol in Bergama in Turkey"
+    },
+    {
+      "file": "GoodSalt-7 churches_8-5-2013 4-09-10 PM.jpg",
+      "caption": "The Seven Churches of Asia Minor."
     }
-  ]
+  ],
+  "videos": []
 }

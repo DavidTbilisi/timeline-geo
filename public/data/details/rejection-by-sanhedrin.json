@@ -4,13 +4,159 @@
   "period": 9,
   "titleEn": "Rejection by Sanhedrin",
   "titleKa": null,
-  "datesEn": "29 AD",
+  "datesEn": "29 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After He heals a man by the pool of Bethesda on the Sabbath, the Jewish leaders are very angry at Christ for breaking the law. Jesus speaks to them and says He does nothing of His own will, but only God&#39;s will.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "After healing an invalid on Sabbath Jesus was haled before the Sanhedrin and charged with Sabbathbreaking and to this charge was added that of blasphemy (v. 18). The leaders of the nation sought to counteract Jesus&#39; undeniably great influence over the people. Also, they set spies to watch Him, apparently to build up a case, so that they could condemn Him to death.<BR /><BR />By their action in publicly censuring Jesus in the spring of a.d. 29 the Jewish leaders sought to undermine His authority and influence with the people. They made a public proclamation warning the nation against Him and set spies to follow Him in an endeavor to find cause for legal action against Him. In the full knowledge that their opposition to Him was without excuse they became even more bitter toward Him from now on, and began laying plans how they might take His life. This design they succeeded in carrying out two years later, at the Passover of a.d. 31.<BR /><BR />By the spring of a.d. 29 they had ample evidence of his Messiahship&#8212;they knew of the vision of Zacharias (Luke 1:5&#8212;20), of the announcement to the shepherds (Luke 2:8&#8212;12), of the coming of the wise men (Matt. 2:1, 2), of the visit of Jesus to the Temple at the age of 12 (Luke 2:42&#8212;50), of the witness of John the Baptist to Christ as the Messiah (John 1:19&#8212;34). More recently they had had the additional evidence of the perfection evident in Jesus&#39; character, of the soundness of His teachings, and of the divine character of His miracles. Added to all of this they had the prophecies. These, the Jews must have been impressed were being fulfilled in events then taking place.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "John 5:16-47",
+      "verses": [
+        {
+          "number": 16,
+          "line": "And therefore did the Jews persecute Jesus, and sought to slay him, because he had done these things on the sabbath day."
+        },
+        {
+          "number": 17,
+          "line": "But Jesus answered them, My Father worketh hitherto, and I work."
+        },
+        {
+          "number": 18,
+          "line": "Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God."
+        },
+        {
+          "number": 19,
+          "line": "Then answered Jesus and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise."
+        },
+        {
+          "number": 20,
+          "line": "For the Father loveth the Son, and sheweth him all things that himself doeth: and he will shew him greater works than these, that ye may marvel."
+        },
+        {
+          "number": 21,
+          "line": "For as the Father raiseth up the dead, and quickeneth them; even so the Son quickeneth whom he will."
+        },
+        {
+          "number": 22,
+          "line": "For the Father judgeth no man, but hath committed all judgment unto the Son:"
+        },
+        {
+          "number": 23,
+          "line": "That all men should honour the Son, even as they honour the Father. He that honoureth not the Son honoureth not the Father which hath sent him."
+        },
+        {
+          "number": 24,
+          "line": "Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life."
+        },
+        {
+          "number": 25,
+          "line": "Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live."
+        },
+        {
+          "number": 26,
+          "line": "For as the Father hath life in himself; so hath he given to the Son to have life in himself;"
+        },
+        {
+          "number": 27,
+          "line": "And hath given him authority to execute judgment also, because he is the Son of man."
+        },
+        {
+          "number": 28,
+          "line": "Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,"
+        },
+        {
+          "number": 29,
+          "line": "And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation."
+        },
+        {
+          "number": 30,
+          "line": "I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me."
+        },
+        {
+          "number": 31,
+          "line": "If I bear witness of myself, my witness is not true."
+        },
+        {
+          "number": 32,
+          "line": "There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true."
+        },
+        {
+          "number": 33,
+          "line": "Ye sent unto John, and he bare witness unto the truth."
+        },
+        {
+          "number": 34,
+          "line": "But I receive not testimony from man: but these things I say, that ye might be saved."
+        },
+        {
+          "number": 35,
+          "line": "He was a burning and a shining light: and ye were willing for a season to rejoice in his light."
+        },
+        {
+          "number": 36,
+          "line": "But I have greater witness than that of John: for the works which the Father hath given me to finish, the same works that I do, bear witness of me, that the Father hath sent me."
+        },
+        {
+          "number": 37,
+          "line": "And the Father himself, which hath sent me, hath borne witness of me. Ye have neither heard his voice at any time, nor seen his shape."
+        },
+        {
+          "number": 38,
+          "line": "And ye have not his word abiding in you: for whom he hath sent, him ye believe not."
+        },
+        {
+          "number": 39,
+          "line": "Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me."
+        },
+        {
+          "number": 40,
+          "line": "And ye will not come to me, that ye might have life."
+        },
+        {
+          "number": 41,
+          "line": "I receive not honour from men."
+        },
+        {
+          "number": 42,
+          "line": "But I know you, that ye have not the love of God in you."
+        },
+        {
+          "number": 43,
+          "line": "I am come in my Father's name, and ye receive me not: if another shall come in his own name, him ye will receive."
+        },
+        {
+          "number": 44,
+          "line": "How can ye believe, which receive honour one of another, and seek not the honour that cometh from God only?"
+        },
+        {
+          "number": 45,
+          "line": "Do not think that I will accuse you to the Father: there is one that accuseth you, even Moses, in whom ye trust."
+        },
+        {
+          "number": 46,
+          "line": "For had ye believed Moses, ye would have believed me: for he wrote of me."
+        },
+        {
+          "number": 47,
+          "line": "But if ye believe not his writings, how shall ye believe my words?"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "christs-ministry-in-judea",
+      "titleEn": "Christ's Ministry in Judea",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Pharisees_and_the_Herodians_Conspire_Against_Jesus_001_8-1-2013 9-42-24 AM.jpg",
+      "caption": "Pharisees and the Herodians Consipire Against Jesus, James Tissot"
+    }
+  ],
+  "videos": []
 }

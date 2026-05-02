@@ -4,13 +4,47 @@
   "period": 3,
   "titleEn": "Jacob Comes to Hebron",
   "titleKa": null,
-  "datesEn": "1679 BC",
+  "datesEn": "1679 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Jacob travels to Hebron to see his father, Isaac, who dies at the age of 180 years. Jacob and Esau bury their father.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jacob&#39;s arrival at Mamre constituted the formal return to his father&#39;s house, where he now took up his abode as Isaac&#39;s heir. Mamre was in the immediate vicinity of Hebron, formerly Kirjath&#8212;arba (see chs. 13:18 23:2). Isaac lived 23 years after Jacob&#39;s departure from Haran. Jacob was 120 at the death of his father (ch. 25:26). Ten years later, at the age of 130 years, he stood before Pharaoh (ch. 47:9). <BR /><BR />At that time Joseph had been governor of Egypt for nine years (ch. 45:11). Jacob was therefore 121 years old when Joseph was promoted at the age of 30 (ch. 41:46), and 108 when Joseph was sold at the age of 17 (ch. 37:2). Consequently, Isaac was 168 years of age when Joseph was sold into slavery. Since this tragic event occurred while Jacob was living at Hebron with his aged father (ch. 37:14), Isaac witnessed the grief of Jacob and survived that event for a period of 12 years.<BR /><BR />When Isaac died, Esau and Jacob had been fully reconciled for about 23 years. It is not strange therefore to find Esau joining Jacob in the last rites for their honored father. Under similar circumstances Isaac and Ishmael had cooperated in the burial of Abraham (ch. 25:9). Isaac was pious and humbly submissive before God, amiable and generous toward his fellow men. In comparison with that of his son Jacob, his own character was by far the more excellent.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 35:27-29",
+      "verses": [
+        {
+          "number": 27,
+          "line": "And Jacob came unto Isaac his father unto Mamre, unto the city of Arbah, which is Hebron, where Abraham and Isaac sojourned."
+        },
+        {
+          "number": 28,
+          "line": "And the days of Isaac were an hundred and fourscore years."
+        },
+        {
+          "number": 29,
+          "line": "And Isaac gave up the ghost, and died, and was gathered unto his people, being old and full of days: and his sons Esau and Jacob buried him."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-pppas0140_8-6-2013 10-11-36 AM.jpg",
+      "caption": "And Jacob came unto Isaac his father unto Mamre, unto the city of Arbah, which is Hebron, where Abraham and Isaac sojourned. (Genesis 35:27)"
+    },
+    {
+      "file": "Isaac's Tomb_5-9-2013 11-50-36 AM.jpg",
+      "caption": "Isaac&#39;s grave at the Cave of the Patriarchs in Hebron "
+    }
+  ],
+  "videos": []
 }

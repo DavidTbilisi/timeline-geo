@@ -4,13 +4,129 @@
   "period": 9,
   "titleEn": "The Storm on the Lake",
   "titleKa": null,
-  "datesEn": "29 AD",
+  "datesEn": "29 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Christ and His disciples get into a boat to cross a lake. A storm arises and threatens to sink the boat. Jesus is asleep and is awakened. He rebukes the winds. His disciples marvel that He has authority over all forces of evil.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "According to the account in Mark, Christ was already in the little fishing boat, and simply remained there without going ashore to dismiss the people (ch. 4:1, 36). However, since Matthew has separated from its context the story of the storm on the lake (see on ch. 8:18), apparently he deems it necessary, in this connection also, to record Jesus&#39; entering into the boat (see ch. 13:2). It was probably almost dusk when the disciples shoved the boat away from the shore. This vessel was doubtless the &#34;small ship&#34; placed at Jesus&#39; disposal (see on Mark 3:9). There were several other fishing boats that left shore at the same time to cross the lake with Jesus (see Mark 4:36).<BR /><BR />A tempest arose. The Greek word is seismos, &#34;a shaking,&#34; &#34;a commotion,&#34; &#34;a tempest,&#34; or &#34;an earthquake.&#34; Our English word seismograph is derived in part from this root. Here seismos denotes the turbulence of the sea, and the terrific force of the furious gusts of wind as they struck the boat. The Lake of Galilee is noted for sudden storms of great intensity. In this instance the winds came sweeping wildly down upon the waters of the lake fom the mountain gorges along the eastern shore. However, the evening had been calm, and the disciples had probably not anticipated stormy weather.<BR /><BR />The boat began filling up with such rapidity that the disciples lost hope of bailing the water out before it became completely swamped. Several of the disciples were expert fishermen who had spent much of their lives on the Lake of Galilee, and who knew how to handle a boat in a storm. But all their experience and skill failed them on this occasion. The Bible says Jesus was a sleep in the boat. This is the only recorded instance of Jesus&#39; sleeping. Overcome with utter weariness and hunger at the close of a strenuous day He no doubt fell asleep quickly (see on Matt. 8:18 Mark 4:38).<BR /><BR />The disciples called to Jesus twice in the darkness, only to have their voices drowned out by the noise of the storm. Then a sudden flash of lightning disclosed to them the fact that Jesus was still asleep whereupon &#34;they came to him, and awoke him&#34; (Luke 8:24). Astonished that He could sleep through the fury of the gale, and amazed at His apparent unconcern in the midst of their frantic efforts to save the ship and their very lives, they addressed Him somewhat reprovingly, &#34;Carest thou not that we perish?&#34; (Mark 4:38). Though the disciples had seen many wonderful evidences of divine power, it seems that prior to this time Jesus had displayed no control over the forces of nature, and it might not have occurred to them that He could do so. But Christ stood and calmed the storm. It subsided as suddenly as it had risen. No doubt the silence of nature was as startling and impressive as the unexpected fury of wind and wave had been.<BR />As Christ stilled the winds and the waves of Galilee, so He is able to still the storms of life that so often burst unexpectedly and with violence over the human soul. Too often the reason we do not experience His power in our lives is that we are &#34;fearful&#34; and have but &#34;little faith.&#34;<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 8:18-27",
+      "verses": [
+        {
+          "number": 18,
+          "line": "Now when Jesus saw great multitudes about him, he gave commandment to depart unto the other side."
+        },
+        {
+          "number": 19,
+          "line": "And a certain scribe came, and said unto him, Master, I will follow thee whithersoever thou goest."
+        },
+        {
+          "number": 20,
+          "line": "And Jesus saith unto him, The foxes have holes, and the birds of the air have nests; but the Son of man hath not where to lay his head."
+        },
+        {
+          "number": 21,
+          "line": "And another of his disciples said unto him, Lord, suffer me first to go and bury my father."
+        },
+        {
+          "number": 22,
+          "line": "But Jesus said unto him, Follow me; and let the dead bury their dead."
+        },
+        {
+          "number": 23,
+          "line": "And when he was entered into a ship, his disciples followed him."
+        },
+        {
+          "number": 24,
+          "line": "And, behold, there arose a great tempest in the sea, insomuch that the ship was covered with the waves: but he was asleep."
+        },
+        {
+          "number": 25,
+          "line": "And his disciples came to him, and awoke him, saying, Lord, save us: we perish."
+        },
+        {
+          "number": 26,
+          "line": "And he saith unto them, Why are ye fearful, O ye of little faith? Then he arose, and rebuked the winds and the sea; and there was a great calm."
+        },
+        {
+          "number": 27,
+          "line": "But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!"
+        }
+      ]
+    },
+    {
+      "reference": "Mark 4:35-41",
+      "verses": [
+        {
+          "number": 35,
+          "line": "And the same day, when the even was come, he saith unto them, Let us pass over unto the other side."
+        },
+        {
+          "number": 36,
+          "line": "And when they had sent away the multitude, they took him even as he was in the ship. And there were also with him other little ships."
+        },
+        {
+          "number": 37,
+          "line": "And there arose a great storm of wind, and the waves beat into the ship, so that it was now full."
+        },
+        {
+          "number": 38,
+          "line": "And he was in the hinder part of the ship, asleep on a pillow: and they awake him, and say unto him, Master, carest thou not that we perish?"
+        },
+        {
+          "number": 39,
+          "line": "And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm."
+        },
+        {
+          "number": 40,
+          "line": "And he said unto them, Why are ye so fearful? how is it that ye have no faith?"
+        },
+        {
+          "number": 41,
+          "line": "And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him?"
+        }
+      ]
+    },
+    {
+      "reference": "Luke 8:22-25",
+      "verses": [
+        {
+          "number": 22,
+          "line": "Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth."
+        },
+        {
+          "number": 23,
+          "line": "But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled with water, and were in jeopardy."
+        },
+        {
+          "number": 24,
+          "line": "And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm."
+        },
+        {
+          "number": 25,
+          "line": "And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "galilean-ministry",
+      "titleEn": "Galilean Ministry",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Storm in the Sea_3-19-2013 5-12-48 PM.jpg",
+      "caption": "Christ in the Storm on the Lake of Galilee  painting by Rembrandt in 1633. Located at the Isabella Steward Gardner Museum in Boston. "
+    },
+    {
+      "file": "Storm over Sea of Galilee, tb011212500_3-19-2013 5-12-48 PM.jpg",
+      "caption": "Storm over Sea of Galilee."
+    }
+  ],
+  "videos": []
 }

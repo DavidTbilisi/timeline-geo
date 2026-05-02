@@ -4,13 +4,101 @@
   "period": 6,
   "titleEn": "Rebellion of Adonijah, 4th Judgment",
   "titleKa": null,
-  "datesEn": "971 BC",
+  "datesEn": "971 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;my Lord is Yahweh.&#34; He seeks to overtake the kingdom from his half&#8212;brother Solomon. He makes a request to Bathsheba who in turns speaks to Solomon. The king recognizes Adonijah&#39;s motives and has him struck dead.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Adonijah, whose name means &#34;Yahweh is my Lord&#34;, is the son who, when David was old, aspired to the crown (1 Kings 1:5), and was later put to death by Solomon (1 Kings 2:24, 25). After the death of his three elder brothers, Chileab being presumably dead, Adonijah regarded himself the rightful heir to the throne. He approaches Bathsheba. The very appearance of Adonijah upon the scene raised a question concerning his intentions. Had he reconciled himself to his fate and was he ready to support Solomon, or was he still hoping by some means to secure the kingdom? Adonijah&#39;s reference to his unsuccessful attempt to secure the throne gives evidence that the matter was still very much alive within his heart. Bath&#8212;sheba&#39;s apprehensions seem to have been well founded. <BR /><BR />But, she goes before the king on his behalf. Solomon is giving vent to his disgust at his mother&#39;s shortsightedness for having allowed herself to be drawn into such a situation as this. Things were already bad enough without her lending her aid to the efforts of Adonijah to secure the throne. Adonijah was, after all, the elder brother, and many would think he had a just claim to the throne. And at his side were two of the most influential men of the land, Abiathar, the high priest, and Joab, the commander in chief, aiding and abetting him in every possible way. <BR /><BR />Now the king&#39;s mother had allowed herself to be taken in to the extent that she was actually asking for nothing less than the kingdom for the elder son. Solomon said in effect, &#34;Why ask only for Abishag, why not ask for the kingdom as well? He is my elder brother, and does it not by right belong to him? And in proof of his claims, does he not have with him Abiathar the priest and Joab as well, in support of his cause and giving evidence to all that he indeed is in the right?&#34; Bath&#8212;sheba evidently understood the needed rebuke. Knowing that what he was doing was in accord with the will of Heaven, Solomon, with a solemn adjuration, gave judgment that Adonijah be put to death that day.<BR /><BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Samuel 3:4",
+      "verses": [
+        {
+          "number": 4,
+          "line": "And the fourth, Adonijah the son of Haggith; and the fifth, Shephatiah the son of Abital;"
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 2:13-25",
+      "verses": [
+        {
+          "number": 13,
+          "line": "And Adonijah the son of Haggith came to Bathsheba the mother of Solomon. And she said, Comest thou peaceably? And he said, Peaceably."
+        },
+        {
+          "number": 14,
+          "line": "He said moreover, I have somewhat to say unto thee. And she said, Say on."
+        },
+        {
+          "number": 15,
+          "line": "And he said, Thou knowest that the kingdom was mine, and that all Israel set their faces on me, that I should reign: howbeit the kingdom is turned about, and is become my brother's: for it was his from the LORD."
+        },
+        {
+          "number": 16,
+          "line": "And now I ask one petition of thee, deny me not. And she said unto him, Say on."
+        },
+        {
+          "number": 17,
+          "line": "And he said, Speak, I pray thee, unto Solomon the king, (for he will not say thee nay,) that he give me Abishag the Shunammite to wife."
+        },
+        {
+          "number": 18,
+          "line": "And Bathsheba said, Well; I will speak for thee unto the king."
+        },
+        {
+          "number": 19,
+          "line": "Bathsheba therefore went unto king Solomon, to speak unto him for Adonijah. And the king rose up to meet her, and bowed himself unto her, and sat down on his throne, and caused a seat to be set for the king's mother; and she sat on his right hand."
+        },
+        {
+          "number": 20,
+          "line": "Then she said, I desire one small petition of thee; I pray thee, say me not nay. And the king said unto her, Ask on, my mother: for I will not say thee nay."
+        },
+        {
+          "number": 21,
+          "line": "And she said, Let Abishag the Shunammite be given to Adonijah thy brother to wife."
+        },
+        {
+          "number": 22,
+          "line": "And king Solomon answered and said unto his mother, And why dost thou ask Abishag the Shunammite for Adonijah? ask for him the kingdom also; for he is mine elder brother; even for him, and for Abiathar the priest, and for Joab the son of Zeruiah."
+        },
+        {
+          "number": 23,
+          "line": "Then king Solomon sware by the LORD, saying, God do so to me, and more also, if Adonijah have not spoken this word against his own life."
+        },
+        {
+          "number": 24,
+          "line": "Now therefore, as the LORD liveth, which hath established me, and set me on the throne of David my father, and who hath made me an house, as he promised, Adonijah shall be put to death this day."
+        },
+        {
+          "number": 25,
+          "line": "And king Solomon sent by the hand of Benaiah the son of Jehoiada; and he fell upon him that he died."
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 2:25",
+      "verses": [
+        {
+          "number": 25,
+          "line": "And king Solomon sent by the hand of Benaiah the son of Jehoiada; and he fell upon him that he died."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Adonijah-theONLYpic_7-30-2013 4-52-30 PM.jpg",
+      "caption": "There Zadok the priest and Nathan the prophet will anoint him king over Israel"
+    }
+  ],
+  "videos": []
 }

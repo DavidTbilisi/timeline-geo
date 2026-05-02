@@ -4,13 +4,67 @@
   "period": 5,
   "titleEn": "Salmon",
   "titleKa": null,
-  "datesEn": "1333–1233 BC",
+  "datesEn": "1333&ndash;1233 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;garment.&#34; He is the son of Nashon (or Naasson), the father of Boaz, grandfather of Obed, great&#8212;grandfather of Jesse, and great&#8212;great grandfather of King David. Salmon is also spelled &#34;Salma&#34; and is a descendent of Judah related to Christ.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A descendant of Judah through Perez, Hezron, and Ram, and ancestor of David (Ruth 4:18&#8212;21,1 Chr 2:11, Mt 1:4, Lk 3:32). According to Mt 1:5 he was the husband of Rahab, doubtless the Rahab of Jericho fame.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Ruth 4:20",
+      "verses": [
+        {
+          "number": 20,
+          "line": "And Amminadab begat Nahshon, and Nahshon begat Salmon,"
+        }
+      ]
+    },
+    {
+      "reference": "Matthew 1:4",
+      "verses": [
+        {
+          "number": 4,
+          "line": "And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;"
+        }
+      ]
+    },
+    {
+      "reference": "1 Chronicles 2:11",
+      "verses": [
+        {
+          "number": 11,
+          "line": "And Nahshon begat Salma, and Salma begat Boaz,"
+        }
+      ]
+    },
+    {
+      "reference": "Luke 3:32",
+      "verses": [
+        {
+          "number": 32,
+          "line": "Which was the son of Jesse, which was the son of Obed, which was the son of Booz, which was the son of Salmon, which was the son of Naasson,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "naasson-or-nahshon",
+      "titleEn": "Naasson (or Nahshon)",
+      "titleKa": null
+    },
+    {
+      "slug": "boaz",
+      "titleEn": "Boaz",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Salmon_5-7-2013 10-01-02 AM.jpg",
+      "caption": "Lunette depicting Salmon in the Sistine Chapel, 1511-1512 by Michelangelo Buonarroti"
+    }
+  ],
+  "videos": []
 }

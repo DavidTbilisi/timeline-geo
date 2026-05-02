@@ -4,13 +4,54 @@
   "period": 9,
   "titleEn": "John",
   "titleKa": null,
-  "datesEn": "11–99 AD",
+  "datesEn": "11&ndash;99 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "John, the son of Zebedee, and brother of James was a disciple of Jesus and a member of His inner circle. Jesus entrusted him with the care of His mother at the cross. John was banished to Patmos. He wrote a gospel, three epistles, and Revelation.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Name means &#34;Yahweh is gracious&#34;. A son of Zebedee, and apparently Salome, and brother of James (Mt 4:21; 27:56; cf. Mk 15:40; 16:1; Jn 19:25; Acts 12:1, 2). The fact that James is usually mentioned first when the names of the 2 disciples appear together implies that John was the younger of the two. Zebedee and his 2 sons were fishermen by trade, and apparently reasonably prosperous (Mk 1:19, 20). John apparently enters the Gospel narrative in Jn 1:35&#8212;40 as an unnamed disciple, among the throng listening to John the Baptist by the river Jordan. In that case he and Andrew, Simon Peter&#39;s brother, were the first of John the Baptist&#39;s disciples to follow Jesus. John apparently returned with Jesus to Galilee a few days later and attended the wedding festivities at Cana (ch 2:1&#8212;11). <BR /><BR />John was with Jesus intermittently during the next year, the period of His Judean ministry, but also evidently devoted part of his time to the fishing business; but as Jesus began His Galilean ministry, He invited John and his brother, and Peter and Andrew as well, to become permanent disciples (Lk 5:1&#8212;11). Some months later John was among the 12 chosen to be apostles (Mt 10:2). Henceforth John was intimately associated with Jesus in His labors. With Peter and James, John was a member of Jesus&#39; inner circle of associates. <BR /><BR />He witnessed the raising of Jairus&#39; daughter (Mk 5:37), and was present at the Transfiguration (ch 9:2) and again at Gethsemane (ch 14:33). John gave evidence of an impetuous disposition upon various occasions, as when he rebuked someone who labored in Christ&#39;s name but had not formally become a disciple (Lk 9:49), and when he proposed to call fire down from heaven on the inhabitants of a Samaritan village who had refused Christ the privilege of sleeping in their village (vs 52&#8212;56). He revealed selfishness upon the occasion when he with his brother sought places of honor beside Jesus in His future kingdom, but also demonstrated zeal and loyalty by declaring himself ready to face death with his Master (Mt 20:20&#8212;24; Mk 10:35&#8212;41).<BR /><BR />During his association with Jesus, John seems to have yielded himself fully to the softening, subduing influence of the Saviour, with the result that his character was transformed. Apparently he entered into a fellowship with Jesus deeper and richer than that of the other apostles (see Jn 21:20). At the Last Supper he occupied the place next to Jesus (ch 13:23). When Jesus was arrested in Gethsemane, John followed Him into the palace of the high priest, where he seems to have been known, and later to Calvary (chapters 18:15; 19:26). <BR /><BR />At the cross Jesus entrusted His mother Mary to the loving care of John (ch 19:27). Early Sunday morning, upon hearing the report that Jesus&#39; tomb was empty, John and Peter ran together to the sepulcher to investigate, and became witnesses of the fact that Jesus had indeed risen (ch 20:1&#8212;10). John was present the evening of the day of the resurrection, when Jesus appeared to the disciples in the upper room, and also a week later (Lk 24:33&#8212;43; Jn 20:19&#8212;30; 1 Cor 15:5). He was one of a group of disciples who had gone fishing, to whom Jesus appeared on the shores of Galilee (Jn 21:1&#8212;7).<BR /><BR />After the ascension John remained with the other 10 apostles in the upper room at Jerusalem (Acts 1:13), and subsequently joined with Peter in missionary labor in the city of Jerusalem (ch 3:1). Despite imprisonment, both apostles witnessed boldly to their faith in Jesus (ch 4:19). Later Peter and John went to Samaria to assist Philip (ch 8:14). John was possibly among the &#34;apostles and elders which were at Jerusalem&#34; for a number of years (see Acts 16:4; Gal 2:9). Tradition, supported by the implication in Rev 1:11, suggests that during the later years of his life John was in charge of the churches in the Roman province of Asia Minor, with headquarters at Ephesus. <BR /><BR />From there he was banished by Domitian to the island of Patmos (v 9) but is thought to have been released when Nerva became emperor in a.d. 96 . According to tradition, Polycarp, Papias, and Ignatius were pupils of John. Following his release, according to tradition, John resided at Ephesus, and died during the reign of Trajan, a.d. 98&#8212;117. Toward the close of his life John wrote the book of Revelation and also the Gospel and the three epistles that bear his name.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 4:21",
+      "verses": [
+        {
+          "number": 21,
+          "line": "And going on from thence, he saw other two brethren, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "1-john-written",
+      "titleEn": "1 John Written",
+      "titleKa": null
+    },
+    {
+      "slug": "2-john-written",
+      "titleEn": "2 John Written",
+      "titleKa": null
+    },
+    {
+      "slug": "3-john-written",
+      "titleEn": "3 John Written",
+      "titleKa": null
+    },
+    {
+      "slug": "revelation-written",
+      "titleEn": "Revelation Written",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-pppas0013_8-28-2013 2-42-06 PM.jpg",
+      "caption": "John at the scene of the crucifixion with Mary"
+    },
+    {
+      "file": "_98A1499_DTK_Z_2-27-2013 11-31-14 AM.jpg",
+      "caption": "John the Revelator on the island of Patmos."
+    }
+  ],
+  "videos": []
 }

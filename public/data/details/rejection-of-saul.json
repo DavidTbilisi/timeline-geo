@@ -4,13 +4,139 @@
   "period": 6,
   "titleEn": "Rejection of Saul",
   "titleKa": null,
-  "datesEn": "1029 BC",
+  "datesEn": "1029 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Saul grows to become great in his own eyes. He is given instructions to utterly destroy the Amalekites which he does not do. He excuses his behavior, blames the people, and tries to look good. Samuel tells Saul God has rejected him as king.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Saul began to struggle with pride as the first king of Israel. Saul&#39;s decision to follow his own desires did not in the least thwart God&#39;s eternal purpose, but it did provide an opportunity for God to demonstrate His long&#8212;suffering, in permitting Saul to remain king. In this story Saul does not follow the instructions of God. Samuel was so disappointed and perplexed that he sought the Lord with all his heart to learn the way out of the deplorable situation.<BR /><BR />With an apparent show of great respect, Saul waited expectantly to receive Samuel&#39;s commendation. Like men all through the course of history, Saul was ready to believe that he had carried out the commission given him, merely by performing that part of it that was agreeable to him. He had made a foray against the traditional enemies of Israel, and had returned with Agag as proof of the accomplishment of his mission. The victory monument erected in Carmel is evidence of his self&#8212;satisfaction. Like Saul of Tarsus, Saul the son of Kish had no doubt come to believe that acts of his own choosing were performed in harmony with God&#39;s will. But here, of course, similarity between the two ends, for the one knew the will of God and did it not, but the other acted in ignorance (1 Tim. 1:13).<BR /><BR />When Samuel confronted Saul for not destroying everything as God commanded, Saul made excuses. Like Adam and Eve, Saul sought to blame someone else. Would not the people now have been as loyal to Saul&#39;s command to destroy everything belonging to the Amalekites as they had been previously in abstaining from food on the day they put the Philistines to rout (ch. 14:24)? For anyone of Saul&#39;s nature and intelligence to seek refuge in such an excuse is clear evidence of spiritual breakdown.<BR /><BR />Saul failed in this great final test of character. Even Samuel, who had spent the night in prayer to God on Saul&#39;s behalf, that the sentence of rejection might be reversed was filled with indignation when he saw the evidence of Saul&#39;s rebellion. Because Saul had forsaken the Lord, Heaven abandoned him to the course of his own choosing and Samuel, for his part, &#34;came no more to see Saul until the day of his death&#34; (v. 35). Saul had completely disqualified himself as king by submitting to the desires of the people, by laying upon them the blame for his own wrong decision, and by seeking to assume to himself honor that in fact belonged to God.<BR /><BR />Reluctant as Samuel may have been in the first place to give Israel a king, once the king had been selected, Samuel remained loyal to him in spite of his mistakes. To Samuel, as later to David, Saul was &#34;the Lord&#39;s anointed&#34; (ch. 24:10). Samuel&#39;s grief over the course Saul had chosen is evidence of the sincerity of Samuel&#39;s solicitude for him.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Samuel 15:10-35",
+      "verses": [
+        {
+          "number": 10,
+          "line": "Then came the word of the LORD unto Samuel, saying,"
+        },
+        {
+          "number": 11,
+          "line": "It repenteth me that I have set up Saul to be king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto the LORD all night."
+        },
+        {
+          "number": 12,
+          "line": "And when Samuel rose early to meet Saul in the morning, it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a place, and is gone about, and passed on, and gone down to Gilgal."
+        },
+        {
+          "number": 13,
+          "line": "And Samuel came to Saul: and Saul said unto him, Blessed be thou of the LORD: I have performed the commandment of the LORD."
+        },
+        {
+          "number": 14,
+          "line": "And Samuel said, What meaneth then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear?"
+        },
+        {
+          "number": 15,
+          "line": "And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the LORD thy God; and the rest we have utterly destroyed."
+        },
+        {
+          "number": 16,
+          "line": "Then Samuel said unto Saul, Stay, and I will tell thee what the LORD hath said to me this night. And he said unto him, Say on."
+        },
+        {
+          "number": 17,
+          "line": "And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and the LORD anointed thee king over Israel?"
+        },
+        {
+          "number": 18,
+          "line": "And the LORD sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed."
+        },
+        {
+          "number": 19,
+          "line": "Wherefore then didst thou not obey the voice of the LORD, but didst fly upon the spoil, and didst evil in the sight of the LORD?"
+        },
+        {
+          "number": 20,
+          "line": "And Saul said unto Samuel, Yea, I have obeyed the voice of the LORD, and have gone the way which the LORD sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites."
+        },
+        {
+          "number": 21,
+          "line": "But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the LORD thy God in Gilgal."
+        },
+        {
+          "number": 22,
+          "line": "And Samuel said, Hath the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams."
+        },
+        {
+          "number": 23,
+          "line": "For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the LORD, he hath also rejected thee from being king."
+        },
+        {
+          "number": 24,
+          "line": "And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the LORD, and thy words: because I feared the people, and obeyed their voice."
+        },
+        {
+          "number": 25,
+          "line": "Now therefore, I pray thee, pardon my sin, and turn again with me, that I may worship the LORD."
+        },
+        {
+          "number": 26,
+          "line": "And Samuel said unto Saul, I will not return with thee: for thou hast rejected the word of the LORD, and the LORD hath rejected thee from being king over Israel."
+        },
+        {
+          "number": 27,
+          "line": "And as Samuel turned about to go away, he laid hold upon the skirt of his mantle, and it rent."
+        },
+        {
+          "number": 28,
+          "line": "And Samuel said unto him, The LORD hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, that is better than thou."
+        },
+        {
+          "number": 29,
+          "line": "And also the Strength of Israel will not lie nor repent: for he is not a man, that he should repent."
+        },
+        {
+          "number": 30,
+          "line": "Then he said, I have sinned: yet honour me now, I pray thee, before the elders of my people, and before Israel, and turn again with me, that I may worship the LORD thy God."
+        },
+        {
+          "number": 31,
+          "line": "So Samuel turned again after Saul; and Saul worshipped the LORD."
+        },
+        {
+          "number": 32,
+          "line": "Then said Samuel, Bring ye hither to me Agag the king of the Amalekites. And Agag came unto him delicately. And Agag said, Surely the bitterness of death is past."
+        },
+        {
+          "number": 33,
+          "line": "And Samuel said, As thy sword hath made women childless, so shall thy mother be childless among women. And Samuel hewed Agag in pieces before the LORD in Gilgal."
+        },
+        {
+          "number": 34,
+          "line": "Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul."
+        },
+        {
+          "number": 35,
+          "line": "And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the LORD repented that he had made Saul king over Israel."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "saul",
+      "titleEn": "Saul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-SaulRejectedByGod_8-5-2013 4-10-17 PM.jpg",
+      "caption": "Samuel said to Saul, &#34;I will not go back with you, for you have rejected the word of the Lord, and the Lord has rejected you from being king over Israel!&#34;"
+    },
+    {
+      "file": "Saul_Rejected_as_King_7-31-2013 5-13-16 PM.jpg",
+      "caption": "Samuel and Saul as Saul is being told that he&#39;s been rejected as King of Israel, Providence Lithograph Company, 1902"
+    }
+  ],
+  "videos": []
 }

@@ -4,18 +4,47 @@
   "period": 6,
   "titleEn": "David Anointed by Samuel",
   "titleKa": null,
-  "datesEn": "1029 BC",
+  "datesEn": "1029 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After Saul is rejected as king, Samuel goes to Jesse and looks over his sons. God indicates David, the youngest, is His choice as the next king over Israel. Samuel anoints him with oil and the Spirit of the Lord comes on David from that day forward.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Chosen as a youth, David enjoyed the opportunity of a period of training and testing before he assumed the responsibilities of high office. Where David&#39;s character failed in meeting the divine standards, changes could thus be made before his coronation. God deals similarly with every individual whom He invites to be a member of His kingdom, and particularly with those whom he calls to positions of responsibility. All unconsciously man is tested by the common events of life until finally God can say, &#34;Thou hast been faithful over a few things, I will make thee ruler over many things&#34; (Matt. 25:23). <BR /><BR />Thus far David had shown himself to possess youthful vigor, a loving, gentle spirit, and fearlessness born of confidence in divine power. He was uncorrupted by the world, a meditative soul growing up in the quiet seclusion of the hills of Bethlehem. There, herding the sheep like Moses in Midian, he acquired a sense of responsibility and developed qualities of leadership that were to carry him through life.<BR /><BR />The Spirit of the Lord is no respecter of persons. He gave Saul a new heart and pointed out the pitfalls ahead of him. Yet Saul quickly rejected divine guidance. Now God proposed to guide David as He had tried in vain to guide Saul. As with many of the world&#39;s great leaders, David grew up amid humble surroundings, quietly developing a sterling character under the guidance of the Holy Spirit, who one day would qualify him fully for the part he was to play in the great controversy between good and evil. God&#39;s Spirit &#34;came upon David&#34; at the time of his anointing, even as the Divine Spirit came upon Christ at His baptism (see on Matt. 3:16).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Samuel 16:12-13",
+      "verses": [
+        {
+          "number": 12,
+          "line": "And he sent, and brought him in. Now he was ruddy, and withal of a beautiful countenance, and goodly to look to. And the LORD said, Arise, anoint him: for this is he."
+        },
+        {
+          "number": 13,
+          "line": "Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the LORD came upon David from that day forward. So Samuel rose up, and went to Ramah."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas0756_8-13-2013 4-08-56 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas0756_8-13-2013 4-08-56 PM.jpg",
+      "caption": "David before Samuel."
+    },
+    {
+      "file": "GoodSalt-prcas3053_8-6-2013 5-37-43 PM.jpg",
+      "caption": "Samuel anointing David after Saul is rejected as king by God."
+    },
+    {
+      "file": "David Annointed_5-1-2013 5-17-17 PM.jpg",
+      "caption": "Bible story from the book of 2 Samuel 2:4. David at Hebron is anointed king over the house of Judah. From an original woodcut published in 1860 by George Wigland, Leipzig."
     }
-  ]
+  ],
+  "videos": []
 }

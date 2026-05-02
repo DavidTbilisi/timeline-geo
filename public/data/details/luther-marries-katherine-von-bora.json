@@ -2,15 +2,31 @@
   "slug": "luther-marries-katherine-von-bora",
   "id": 1350,
   "period": 12,
-  "titleEn": "Luther Marries Katherine von Bora",
+  "titleEn": "Luther Marries Katherine von Bora ",
   "titleKa": null,
-  "datesEn": "1525 AD",
+  "datesEn": "1525 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Martin Luther married Katharina von Bora, a former nun, in 1525.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "During the Peasants&#39; Revolt, Martin Luther married the nun Katherine von Bora. Katherine had fled from the Wittenberg convent about two years prior with a group of &#34;sisters.&#34; The rest of the nuns married quickly, but Katherine refused marriage at first. Luther himself, although previously resistant to marriage, was influenced to marry through his father, who wanted grandchildren to carry on the family name. In the end, Martin and Katherine believed marriage would be a good idea. On June 13, 1525, they were married&#8212;Martin at the age of 42 and Katherine 26.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "92831905_2-26-2013 3-20-10 PM.jpg",
+      "caption": "Portrait of Martin Luther by Lucas Cranach the Elder"
+    },
+    {
+      "file": "Katharina-von-Bora-05_2-26-2013 3-20-10 PM.jpg",
+      "caption": "Portrait of Katharina von Bora by Lucas Cranach the Elder in 1526 located in Germany."
+    }
+  ],
+  "videos": []
 }

@@ -4,18 +4,55 @@
   "period": 7,
   "titleEn": "Shunammite Woman's Land Restored",
   "titleKa": null,
-  "datesEn": "832 BC",
+  "datesEn": "832 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Elisha warns the woman of Shunem there will be a 7&#8212;year famine. She leaves Israel, lives with the Philistines, comes back & the king has ownership of her land. She comes to the king as Gehazi is telling of her son&#39;s miracle. He restores her land.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 8:1-6",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Then spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for the LORD hath called for a famine; and it shall also come upon the land seven years."
+        },
+        {
+          "number": 2,
+          "line": "And the woman arose, and did after the saying of the man of God: and she went with her household, and sojourned in the land of the Philistines seven years."
+        },
+        {
+          "number": 3,
+          "line": "And it came to pass at the seven years' end, that the woman returned out of the land of the Philistines: and she went forth to cry unto the king for her house and for her land."
+        },
+        {
+          "number": 4,
+          "line": "And the king talked with Gehazi the servant of the man of God, saying, Tell me, I pray thee, all the great things that Elisha hath done."
+        },
+        {
+          "number": 5,
+          "line": "And it came to pass, as he was telling the king how he had restored a dead body to life, that, behold, the woman, whose son he had restored to life, cried to the king for her house and for her land. And Gehazi said, My lord, O king, this is the woman, and this is her son, whom Elisha restored to life."
+        },
+        {
+          "number": 6,
+          "line": "And when the king asked the woman, she told him. So the king appointed unto her a certain officer, saying, Restore all that was hers, and all the fruits of the field since the day that she left the land, even until now."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "elisha",
+      "titleEn": "Elisha",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/_GoodSalt-prcas0990_8-27-2013 12-26-23 PM.jpg",
-      "caption": ""
+      "file": "_GoodSalt-prcas0990_8-27-2013 12-26-23 PM.jpg",
+      "caption": "Elisha and the Shunammite woman"
     }
-  ]
+  ],
+  "videos": []
 }

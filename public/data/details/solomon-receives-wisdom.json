@@ -4,13 +4,29 @@
   "period": 6,
   "titleEn": "Solomon Receives Wisdom",
   "titleKa": null,
-  "datesEn": "967 BC",
+  "datesEn": "967 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Early in King Solomon&#39;s reign he goes to Gibeon to offer sacrifices to the Lord. In a dream God says, &#34;Ask! What shall I give you?&#34; He asks for wisdom and a discerning heart. This pleases God who also promises riches and long life if he is obedient.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Solomon traveled to Gibeon, a town that was nearly 6 mi. (9.6 km.) northwest of Jerusalem. After the success of the measures taken to establish the kingdom Solomon held a great festival at Gibeon for the whole nation (2 Chron. 1:1&#8212;3), in grateful thanksgiving to the Lord for the blessings conferred. The tabernacle that had been built in the wilderness was located there (2 Chron. 1:3). It will be recalled that, long before, the Gibeonites had deceived Joshua, and accordingly had been sentenced to be &#34;hewers of wood and drawers of water for the house of my God&#34; (Joshua 9:23).<BR /><BR />One night Solomon has a dream in which the Lord speaks to him. In the days of Solomon&#39;s father David, the will of the Lord had been revealed to men through the prophets Nathan and Gad (2 Sam. 7:2&#8212;17 12:1&#8212;14 24:11&#8212;14), and through special services rendered by the priests (1 Sam. 23:9&#8212;12 30:7, 8). God knew well what Solomon needed, but He bade him ask. The incident was to be a test to the young king. By the nature of his request Solomon would reveal the nature of his heart. <BR /><BR />Solomon compares himself as a child. He is not here conveying the thought that he is a child in years, but that he regards himself as a child in experience. The words are those of humility. With the heavy responsibilities of the nation resting upon him, he felt himself unequal to the task and in need of divine help. At the time of his accession he was already married and probably a father. This is suggested by the fact that he had a son 41 years old (2 Chron. 12:13) at the time of his death, after a reign of 40 years (1 Kings 11:42). So, he asks God for an understanding heart.<BR /><BR />God is pleased when man requests of Him that which is wise and good. It brings joy to the heart of God for man to relate himself wisely to the issues of life.<BR />Solomon&#39;s wisdom seems to have been both moral and intellectual. It was wisdom of a practical kind, concerning all departments of life, concerning the things and the hearts of men and the works and thoughts of the Creator. In his dream the Lord assures him of his wish. <BR /><BR />This was not simply a dream, but a dream from God. Solomon had every assurance that the dream was of divine inspiration, and that he had come in touch with God. So certain was he that this was the case that immediately upon his return to the capital, he went before the ark and offered sacrifices to God. The sequel shows beyond question that he was right, and that he had had a message direct from the Lord.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "solomon",
+      "titleEn": "Solomon",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas0245_8-6-2013 9-24-04 AM.jpg",
+      "caption": "Solomon asking for wisdom"
+    },
+    {
+      "file": "GoodSalt-prcas0696_8-22-2013 3-22-40 PM.jpg",
+      "caption": "Solomon praying for wisdom"
+    }
+  ],
+  "videos": []
 }

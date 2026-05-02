@@ -4,18 +4,25 @@
   "period": 5,
   "titleEn": "Shechem Destroyed",
   "titleKa": null,
-  "datesEn": "1171 BC",
+  "datesEn": "1171 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After the death of Gideon the people of Shechem make his son Abimelech king. He rules over them for 3 years, before turning against them and destroying the city.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Shechem means &#34;shoulder&#34; and was a Canaanite city in central Palestine, the home of Abimelech, the son of Gideon. <BR /><BR />Shechem  Situated 30 mi. north of Jerusalem in a narrow fertile valley. It probably had been under the jurisdiction of Gideon. At least it was the residence of Gideon&#39;s concubine and her kinsmen. As soon as Gideon was buried, Abimelech went to Shechem to try to induce his relatives, who seem to have been prominent citizens of the town, to help him obtain the same governing authority as his father had exercised. When later the leaders of Shechem got tired of him and he fought against the city and destroyed it.<BR /><BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
+  "related": [
+    {
+      "slug": "gideon",
+      "titleEn": "Gideon",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-pppas0498_8-6-2013 4-29-31 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-pppas0498_8-6-2013 4-29-31 PM.jpg",
+      "caption": "Shechem destroyed"
     }
-  ]
+  ],
+  "videos": []
 }

@@ -4,13 +4,49 @@
   "period": 2,
   "titleEn": "Reu",
   "titleKa": null,
-  "datesEn": "2167–1928 BC",
+  "datesEn": "2167&ndash;1928 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;friend.&#34; A son of Peleg, a descendent of Eber, and ancestor of Abraham, he lived 239 years.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A descendant of Eber and an ancestor of Abraham (Gen 11:18&#8212;21 1 Chr 1:25 Lk 3:35). The city of Ruguli&#39;i in Upper Mesopotamia may have been named in his honor, for several ancient cities in that area bore names commemorating Abraham&#39;s ancestors or relatives.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 11:18",
+      "verses": [
+        {
+          "number": 18,
+          "line": "And Peleg lived thirty years, and begat Reu:"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 11:21",
+      "verses": [
+        {
+          "number": 21,
+          "line": "And Reu lived after he begat Serug two hundred and seven years, and begat sons and daughters."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "peleg",
+      "titleEn": "Peleg",
+      "titleKa": null
+    },
+    {
+      "slug": "serug",
+      "titleEn": "Serug",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Reu.jpg",
+      "caption": "Illustration of Reu in 1553 published by Guillaume Rouille"
+    }
+  ],
+  "videos": []
 }

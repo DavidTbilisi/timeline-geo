@@ -4,13 +4,43 @@
   "period": 3,
   "titleEn": "Jacob Finishes Next 7 Years for Laban",
   "titleKa": null,
-  "datesEn": "1695 BC",
+  "datesEn": "1695 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Laban deceives Jacob and gives his oldest daughter, Leah, to him in marriage. Jacob demands Rachel and after receiving her as his wife he serves Laban another seven years. Marrying two sisters creates family conflicts for Jacob.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "It is plain that Jacob did not serve another seven years before Rachel became his wife. This occurred at the close of Leah&#39;s festal week. Jacob&#39;s act of bigamy must not be judged by a later provision in the Mosaic law that prohibited marriage with two sisters concurrently (Lev. 18:18). At the same time Jacob&#39;s double marriage cannot be justified on the ground that the blessing of God eventually made it the means of multiplying Jacob&#39;s seed and so fulfilling His promise. God simply overruled the errors of men even these could not thwart His purpose (see Ps. 76:10). <BR /><BR />The bigamy that had been occasioned by Laban&#39;s deception and Jacob&#39;s affection brought friction and regret to the homes of both men. In this school of affliction Jacob learned that &#34;the way of transgressors is hard&#34; (Prov. 13:15). The jealousy and misery attending this marriage are a commentary on Moses&#39; specific injunction against a man&#39;s marrying two sisters concurrently (Lev. 18:18).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 29:28-30",
+      "verses": [
+        {
+          "number": 28,
+          "line": "And Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also."
+        },
+        {
+          "number": 29,
+          "line": "And Laban gave to Rachel his daughter Bilhah his handmaid to be her maid."
+        },
+        {
+          "number": 30,
+          "line": "And he went in also unto Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Jakob_und_Rahel_8-6-2013 9-07-10 AM.jpg",
+      "caption": "Jacob and Rachel, Ephraim Moshe Lilien"
+    }
+  ],
+  "videos": []
 }

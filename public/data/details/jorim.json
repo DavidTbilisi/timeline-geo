@@ -4,13 +4,40 @@
   "period": 7,
   "titleEn": "Jorim",
   "titleKa": null,
-  "datesEn": "747–667 BC",
+  "datesEn": "747&ndash;667 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh is exalted.&#34; He is the son of Matthat in Luke&#39;s genealogy, a Judahite, and an ancestor of Christ.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:29",
+      "verses": [
+        {
+          "number": 29,
+          "line": "Which was the son of Jose, which was the son of Eliezer, which was the son of Jorim, which was the son of Matthat, which was the son of Levi,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "matthat-father-of-jorum",
+      "titleEn": "Matthat",
+      "titleKa": null
+    },
+    {
+      "slug": "eliezer",
+      "titleEn": "Eliezer",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "AncestorOfJesusColor.jpg",
+      "caption": "Ancestor of Jesus"
+    }
+  ],
+  "videos": []
 }

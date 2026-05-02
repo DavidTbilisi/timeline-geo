@@ -2,20 +2,55 @@
   "slug": "wicked-are-resurrected-in-bodily-form",
   "id": 1259,
   "period": 13,
-  "titleEn": "Wicked are Resurrected in Bodily Form",
+  "titleEn": "Wicked are Resurrected in Bodily Form ",
   "titleKa": null,
-  "datesEn": "After Millenium",
+  "datesEn": "<span class=\"small\">After Millenium</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "At the end of the millennium when Christ and His people return to the earth, the wicked are resurrected. This is the great white throne judgment where the wicked are judged. It gives Satan one last opportunity to deceive.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Bible teaches that there will be two general resurrections&#8212;one of the just, to life, and the other of the unjust, to condemnation (John 5:28, 29 Acts 24:15). These two general resurrections are separated by the &#34;thousand years&#34; of Rev. 20:4, 5. Those who have part in the first resurrection are &#34;blessed and holy&#34; (v. 6) and over them the &#34;second death,&#34; &#34;the lake of fire&#34; at the close of the millennium (v. 14), has no power. The first resurrection&#8212;&#34;the resurrection of the just&#34; (Luke 14:14)&#8212;takes place in connection with the Second Advent (1 Cor. 15:22, 23 1 Thess. 4:15&#8212;18).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Revelation 20:5",
+      "verses": [
+        {
+          "number": 5,
+          "line": "But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection."
+        }
+      ]
+    },
+    {
+      "reference": "John 5:29",
+      "verses": [
+        {
+          "number": 29,
+          "line": "And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation."
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 20:13",
+      "verses": [
+        {
+          "number": 13,
+          "line": "And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "millennium",
+      "titleEn": "Millennium",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/wicked-resurrected_8-5-2013 1-21-14 PM.jpg",
-      "caption": ""
+      "file": "wicked-resurrected_8-5-2013 1-21-14 PM.jpg",
+      "caption": "The wicked of all ages are resurrected, still shot from the Final Events of Bible Prophecy DVD produced by Amazing Facts."
     }
-  ]
+  ],
+  "videos": []
 }

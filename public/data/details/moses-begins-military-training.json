@@ -2,20 +2,67 @@
   "slug": "moses-begins-military-training",
   "id": 727,
   "period": 4,
-  "titleEn": "Moses Begins Military Training",
+  "titleEn": "Moses Begins Military Training ",
   "titleKa": null,
-  "datesEn": "1513 BC",
+  "datesEn": "1513 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Moses is adopted by Pharaoh&#39;s daughter when she discovers him in the Nile. Jochebed becomes his &#34;nurse,&#34; but when he is weaned, he comes to Pharaoh&#39;s daughter and he becomes her son. Thus he grows to manhood in the courts of Pharaoh.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jochebed had saved her son&#39;s life by transferring her rights as mother to Pharaoh&#39;s daughter. Now she received him back, on loan as it were, and merely as a nurse hired for his years of infancy. She gave him up that she might keep him, lost him that she might find him again, stooped that she might conquer. The time the child was with its mother, not stated in the Bible but given as 2 or 3 years by most commentators, was actually about 12 years. <BR /><BR />During these years of childhood the foundations of character and later religious experience were laid. Instruction neglected now could not be made up later. Moses&#39; afterlife shows clearly that his parents used well the years allotted them for bringing him up in the way in which he should go.<BR /><BR />Many commentators have expressed the view that Moses&#39; mother took her son to the palace of her own volition as soon as he was weaned, at the age of perhaps two or three years. As noted above, this actually occurred at about the age of 12. The idea that she surrendered him voluntarily is based on the absence of any indication that she was forced to give him up. <BR /><BR />Unless she took him to the palace at a time previously agreed upon, to do so on her own initiative would seem to show a strange lack of motherly affection. Would Jochebed have given up a son she loved so dearly without being required to do so? She must have kept him as long as she could. Her surrender of Moses at the age of 12 would imply that her term of service as &#34;nurse&#34; was to expire with the close of what was generally considered the period of childhood.<BR /><BR />When Moses was returned to the court of Pharaoh he received the highest military and civil training as a son of the ruler in order to prepare him to be a successor to the throne (see Acts 7:22).<BR /><BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Exodus 2:10",
+      "verses": [
+        {
+          "number": 10,
+          "line": "And the child grew, and she brought him unto Pharaoh's daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water."
+        }
+      ]
+    },
+    {
+      "reference": "Exodus 2:10",
+      "verses": [
+        {
+          "number": 10,
+          "line": "And the child grew, and she brought him unto Pharaoh's daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water."
+        }
+      ]
+    },
+    {
+      "reference": "Hebrews 11:24-26",
+      "verses": [
+        {
+          "number": 24,
+          "line": "By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter;"
+        },
+        {
+          "number": 25,
+          "line": "Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;"
+        },
+        {
+          "number": 26,
+          "line": "Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "moses",
+      "titleEn": "Moses",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas5055_8-6-2013 12-58-58 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas5055_8-6-2013 12-58-58 PM.jpg",
+      "caption": "Moses being taught in Egypt"
+    },
+    {
+      "file": "GoodSalt-prcas1684_8-13-2013 2-58-54 PM.jpg",
+      "caption": "Moses in school"
     }
-  ]
+  ],
+  "videos": []
 }

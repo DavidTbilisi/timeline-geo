@@ -6,11 +6,71 @@
   "titleKa": null,
   "datesEn": "Future",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Before Christ comes, the work of the &#34;beast from the earth&#34; and the &#34;beast from the sea&#34; will combine (Rev. 13:12, 15) to bring global persecution upon God&#39;s people, insisting on everyone worshiping the image of the beast.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The symbolical image John saw in vision became animated by the miracle&#8212;working power of the second beast. The new organization begins to function, and like its predecessor, threatens with extinction those who refuse compliance. The first thing this newly formed image does is to &#34;speak,&#34; undoubtedly through its laws and enactments. Having spoken officially through its laws, the image next puts them into effect. Since these are religious laws, they will cut across the conscientious convictions of many. Force will be exercised in the carrying out of these enactments. This is the story of the ages. <BR /><BR />Legislation in matters of religion has ever been followed by persecution. It was so during the Middle Ages: witness the massacre of the Albigenses, Waldenses, and others&#8212;by the civil power, to be sure, but prompted by the dominant church of the day. In its attempt to make all earth&#39;s inhabitants give allegiance to the first beast (see on v. 8) second beast will issue a decree threatening with death all who maintain their loyalty to God. Everyone is affected by this legislation. Apparently only the faithful remnant refuse compliance (see v. 8 cf. ch. 12:17).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Revelation 13:14-18",
+      "verses": [
+        {
+          "number": 14,
+          "line": "And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live."
+        },
+        {
+          "number": 15,
+          "line": "And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed."
+        },
+        {
+          "number": 16,
+          "line": "And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:"
+        },
+        {
+          "number": 17,
+          "line": "And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name."
+        },
+        {
+          "number": 18,
+          "line": "Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six."
+        }
+      ]
+    },
+    {
+      "reference": "Mark 13:20",
+      "verses": [
+        {
+          "number": 20,
+          "line": "And except that the Lord had shortened those days, no flesh should be saved: but for the elect's sake, whom he hath chosen, he hath shortened the days."
+        }
+      ]
+    },
+    {
+      "reference": "Matthew 24:22",
+      "verses": [
+        {
+          "number": 22,
+          "line": "And except those days should be shortened, there should no flesh be saved: but for the elect's sake those days shall be shortened."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "prophecies-of-the-end-of-time",
+      "titleEn": "Prophecies of the End of Time",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-mmmas0005_8-7-2013 10-16-10 AM.jpg",
+      "caption": "The beasts of Revelation"
+    },
+    {
+      "file": "_98A1499_DTK_Z_2-27-2013 4-53-13 PM.jpg",
+      "caption": "John the Revelator on the island of Patmos."
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,69 @@
   "period": 9,
   "titleEn": "Call of Levi Matthew",
   "titleKa": null,
-  "datesEn": "29 AD",
+  "datesEn": "29 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Matthew, a tax collector, despised by many fellow Jews, especially the Pharisees, is called by Jesus to become a disciple. Christ is less concerned with image and more concerned with saving all people. Matthew leaves all and follows Jesus.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Christ called Levi Matthew to be His disciples. Luke uses the name Levi (ch. 5:27), but Matthew in the same story prefers the name Matthew (ch. 9:9). That the two names refer to the same man is indicated further by the fact that Matthew also is called &#34;the publican [taxgatherer]&#34; (ch. 10:3), and by the fact that in their lists of the Twelve, the other Gospels have Matthew and not Levi (Mark 3:18 Luke 6:15 cf. Acts 1:13). It was common for Jews to have more than one name, as Simon Peter and John Mark.<BR /><BR />Matthew was a tax collector and his tax office apparently was &#34;by the sea side&#34; (v. 13), and was probably an office at which Herod Antipas collected revenue from caravans and travelers passing along the main highway from Damascus and the East to Ptolemais (Accho) on the Mediterranean (see on Isa. 9:1), or over the Lake of Galilee from the territory of Herod Philip. In popular opinion tax collectors were considered disreputable. Not only were they frequently agents of Roman oppression, they also were often extortioners on their own account, who made use of their official power to oppress and defraud the people. They were hated and despised by all, as social and religious outcasts.<BR /><BR />When Christ sees Matthew, He says to him, &#34;Follow Me.&#34; The usual language Christ used in extending His invitation to discipleship (see Matt. 4:19 John 1:43). Called upon to make the great decision of his life on a moment&#39;s notice, Matthew was ready such a decision would presuppose his having had previous contact with Jesus. In his heart there must have been already a longing to follow Him. But since he knew full well the attitude of the rabbis toward tax collectors, it doubtless did not occur to him that this great Rabbi would condescend to have him among His disciples. Luke (ch. 5:28) adds that Matthew &#34;left all&#34; in order to follow Jesus he left a profitable business to serve without pay.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 9:9",
+      "verses": [
+        {
+          "number": 9,
+          "line": "And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him, Follow me. And he arose, and followed him."
+        }
+      ]
+    },
+    {
+      "reference": "Mark 2:13-14",
+      "verses": [
+        {
+          "number": 13,
+          "line": "And he went forth again by the sea side; and all the multitude resorted unto him, and he taught them."
+        },
+        {
+          "number": 14,
+          "line": "And as he passed by, he saw Levi the son of Alphaeus sitting at the receipt of custom, and said unto him, Follow me. And he arose and followed him."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 5:27-28",
+      "verses": [
+        {
+          "number": 27,
+          "line": "And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me."
+        },
+        {
+          "number": 28,
+          "line": "And he left all, rose up, and followed him."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "galilean-ministry",
+      "titleEn": "Galilean Ministry",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Calling_of_Saint_Matthew_001_8-1-2013 10-44-08 AM.jpg",
+      "caption": "&#34;Call of Matthew&#34; James Tissot"
+    },
+    {
+      "file": "Ancient Coins_3-20-2013 10-22-44 AM.jpg",
+      "caption": "Matthew, a tax collector, despised by many fellow Jews, especially the Pharisees, is called by Jesus to become a disciple."
+    },
+    {
+      "file": "Saint Matthew_3-20-2013 10-22-44 AM.jpg",
+      "caption": "Statue of Saint Matthew, one of the sculptures of the Twelve Apostles inside the Basilica of St. John Lateran. Rome, Italy. Sculpture by Camillo Rusconi (1658, Milano - 1728, Roma)."
+    }
+  ],
+  "videos": []
 }

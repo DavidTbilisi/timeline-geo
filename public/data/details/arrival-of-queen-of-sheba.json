@@ -4,13 +4,140 @@
   "period": 6,
   "titleEn": "Arrival of Queen of Sheba",
   "titleKa": null,
-  "datesEn": "945 BC",
+  "datesEn": "945 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The Queen of Sheba from the ancient kingdom of Sabea hears of Solomon&#39;s great wealth and wisdom. She pays a visit and tests him with difficult questions. She sees all his fame and fortune and leaves very impressed.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In 1 Kings 10 we read of the visit of the Queen of Sheba to see Solomon&#39;s glorious kingdom. There has been considerable difference of opinion as to the country over which this queen ruled. Both Arabia and Ethiopia have claims to such a name and such a queen. The expression &#34;queen of the south,&#34; applied to the queen of Sheba in Matt. 12:42, would apply equally well to a queen of either Arabia or Ethiopia. Results of recent archeological researches in southern Arabia tend to identify the queen with this territory and her capital with Marib, in Yemen. The Arabian Sheba was a great spice country, and many are inclined to believe that this was the Sheba whose queen made a visit to Solomon.<BR /><BR />She arrived with quite a load of gifts for the king. The spices of Arabia have long been famous. In Eze. 27:22 Sheba is mentioned as trading with Tyre in spices, precious stones, and gold. The Bible says she had many questions for Solomon. Doubtless questions that had to do with diversified fields of learning. To these questions Solomon gave helpful, intelligent answers, which directed the queen&#39;s mind to the true source of his wisdom and prosperity.<BR /><BR />After the queen of Sheba had witnessed Solomon&#39;s wisdom and works, she answered, not in words that showed a mere formal appreciation for the hospitality that had been accorded her, but in words that revealed that her heart had been deeply moved. In her response she touched but lightly on all the external magnificence and evidence of worldly prosperity and placed the main emphasis on extolling the God of Solomon, who had given him his wisdom and prosperity, and his fame, which had gone throughout the world. Instead of extolling the human agent she had rightfully been led to give glory to God. <BR /><BR />Her visit may have led to her conversion. There is reason to believe that the queen will be among the saved in the kingdom of God (Matt. 12:24). God intended that many such conversions should result from Israel playing her role among the peoples of earth. From here and there throughout the nations, men were to go to Israel and there become acquainted with Israel&#39;s God. By such means light was to go out among all nations.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 10:1-13",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions."
+        },
+        {
+          "number": 2,
+          "line": "And she came to Jerusalem with a very great train, with camels that bare spices, and very much gold, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart."
+        },
+        {
+          "number": 3,
+          "line": "And Solomon told her all her questions: there was not any thing hid from the king, which he told her not."
+        },
+        {
+          "number": 4,
+          "line": "And when the queen of Sheba had seen all Solomon's wisdom, and the house that he had built,"
+        },
+        {
+          "number": 5,
+          "line": "And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel, and his cupbearers, and his ascent by which he went up unto the house of the LORD; there was no more spirit in her."
+        },
+        {
+          "number": 6,
+          "line": "And she said to the king, It was a true report that I heard in mine own land of thy acts and of thy wisdom."
+        },
+        {
+          "number": 7,
+          "line": "Howbeit I believed not the words, until I came, and mine eyes had seen it: and, behold, the half was not told me: thy wisdom and prosperity exceedeth the fame which I heard."
+        },
+        {
+          "number": 8,
+          "line": "Happy are thy men, happy are these thy servants, which stand continually before thee, and that hear thy wisdom."
+        },
+        {
+          "number": 9,
+          "line": "Blessed be the LORD thy God, which delighted in thee, to set thee on the throne of Israel: because the LORD loved Israel for ever, therefore made he thee king, to do judgment and justice."
+        },
+        {
+          "number": 10,
+          "line": "And she gave the king an hundred and twenty talents of gold, and of spices very great store, and precious stones: there came no more such abundance of spices as these which the queen of Sheba gave to king Solomon."
+        },
+        {
+          "number": 11,
+          "line": "And the navy also of Hiram, that brought gold from Ophir, brought in from Ophir great plenty of almug trees, and precious stones."
+        },
+        {
+          "number": 12,
+          "line": "And the king made of the almug trees pillars for the house of the LORD, and for the king's house, harps also and psalteries for singers: there came no such almug trees, nor were seen unto this day."
+        },
+        {
+          "number": 13,
+          "line": "And king Solomon gave unto the queen of Sheba all her desire, whatsoever she asked, beside that which Solomon gave her of his royal bounty. So she turned and went to her own country, she and her servants."
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 9:1-12",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And when the queen of Sheba heard of the fame of Solomon, she came to prove Solomon with hard questions at Jerusalem, with a very great company, and camels that bare spices, and gold in abundance, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart."
+        },
+        {
+          "number": 2,
+          "line": "And Solomon told her all her questions: and there was nothing hid from Solomon which he told her not."
+        },
+        {
+          "number": 3,
+          "line": "And when the queen of Sheba had seen the wisdom of Solomon, and the house that he had built,"
+        },
+        {
+          "number": 4,
+          "line": "And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel; his cupbearers also, and their apparel; and his ascent by which he went up into the house of the LORD; there was no more spirit in her."
+        },
+        {
+          "number": 5,
+          "line": "And she said to the king, It was a true report which I heard in mine own land of thine acts, and of thy wisdom:"
+        },
+        {
+          "number": 6,
+          "line": "Howbeit I believed not their words, until I came, and mine eyes had seen it: and, behold, the one half of the greatness of thy wisdom was not told me: for thou exceedest the fame that I heard."
+        },
+        {
+          "number": 7,
+          "line": "Happy are thy men, and happy are these thy servants, which stand continually before thee, and hear thy wisdom."
+        },
+        {
+          "number": 8,
+          "line": "Blessed be the LORD thy God, which delighted in thee to set thee on his throne, to be king for the LORD thy God: because thy God loved Israel, to establish them for ever, therefore made he thee king over them, to do judgment and justice."
+        },
+        {
+          "number": 9,
+          "line": "And she gave the king an hundred and twenty talents of gold, and of spices great abundance, and precious stones: neither was there any such spice as the queen of Sheba gave king Solomon."
+        },
+        {
+          "number": 10,
+          "line": "And the servants also of Huram, and the servants of Solomon, which brought gold from Ophir, brought algum trees and precious stones."
+        },
+        {
+          "number": 11,
+          "line": "And the king made of the algum trees terraces to the house of the LORD, and to the king's palace, and harps and psalteries for singers: and there were none such seen before in the land of Judah."
+        },
+        {
+          "number": 12,
+          "line": "And king Solomon gave to the queen of Sheba all her desire, whatsoever she asked, beside that which she had brought unto the king. So she turned, and went away to her own land, she and her servants."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "solomon",
+      "titleEn": "Solomon",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas1821_8-6-2013 10-47-46 AM.jpg",
+      "caption": "Solomon greeting the Queen of Sheba."
+    },
+    {
+      "file": "Sheba_demin.jpg",
+      "caption": "Solomon and the Queen of Sheba by Giovanni Demin 19th century."
+    }
+  ],
+  "videos": []
 }

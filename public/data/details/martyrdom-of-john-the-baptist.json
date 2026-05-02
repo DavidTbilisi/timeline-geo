@@ -4,13 +4,173 @@
   "period": 9,
   "titleEn": "Martyrdom of John the Baptist",
   "titleKa": null,
-  "datesEn": "30 AD",
+  "datesEn": "30 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "John the Baptist speaks out against the adulterous relationship of Herod the tetrarch and his brother&#39;s wife, Herodias. She devises a plan to get Herod to destroy John, who is beheaded.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The extensive labors of the Twelve during the course of the Third Galilean Tour were evidently sufficient to call widespread attention to Jesus and His work, and to stir the fear of Herod that Jesus was John risen from the dead. Whereas on the two previous evangelistic expeditions there had been but one group going from village to village, now there were seven. Evidently the reports coming to Herod, from all quarters, revealed a rapid extension of the gospel. Whereas in the past Jesus may have appeared to the authorities to be no more than a solitary itinerant preacher accompanied by a motley group of followers, it was now evident that He represented a far larger movement. Herod could no longer help hearing of him. He wondered if Jesus was John the Baptist risen from the dead. It seems to have been superstition combined with a guilty conscience that led Herod to this conclusion.<BR /><BR />John had spoken against Herod&#39;s sin of taking Philip&#39;s wife, Herodias, and marrying her. For his part, Herod had divorced the daughter of Aretas, king of Arabia. Thus Herod and Herodias each had a living spouse. As a result of Herod&#39;s divorcing his former wife, her father, Aretas, made war on Herod and defeated him. This defeat was looked upon by the Jews as a divine judgment upon Herod because of his indefensible alliance with Herodias (Josephus Antiquities xviii. 5. 1, 2).<BR /><BR />Undoubtedly Herod had personally listened to the preaching of John, and for a time it seemed that he would yield to the call to repentance. The law of Moses strictly prohibited a marriage such as that between Herod and Herodias (Lev. 18:16 20:21), and, according to Josephus, the Jews thoroughly disapproved of the union (Antiquities xviii. 5. 4). Herodias hated John and bided her time to kill him. Knowing of the influence that John had exercised over the mind of Herod Antipas (see on v. 20), Herodias probably feared that the tetrarch might divorce her as John had advised. Her wicked devisings finally came to fruition when Herod held a banquet at which Herodias&#39; daughter, Salome, danced. He rashly promised her anything she wanted. When she asked her mother, she said to ask for the head of John the Baptist. Thus ended the life of the greatest of the prophets.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 14:1-12",
+      "verses": [
+        {
+          "number": 1,
+          "line": "At that time Herod the tetrarch heard of the fame of Jesus,"
+        },
+        {
+          "number": 2,
+          "line": "And said unto his servants, This is John the Baptist; he is risen from the dead; and therefore mighty works do shew forth themselves in him."
+        },
+        {
+          "number": 3,
+          "line": "For Herod had laid hold on John, and bound him, and put him in prison for Herodias' sake, his brother Philip's wife."
+        },
+        {
+          "number": 4,
+          "line": "For John said unto him, It is not lawful for thee to have her."
+        },
+        {
+          "number": 5,
+          "line": "And when he would have put him to death, he feared the multitude, because they counted him as a prophet."
+        },
+        {
+          "number": 6,
+          "line": "But when Herod's birthday was kept, the daughter of Herodias danced before them, and pleased Herod."
+        },
+        {
+          "number": 7,
+          "line": "Whereupon he promised with an oath to give her whatsoever she would ask."
+        },
+        {
+          "number": 8,
+          "line": "And she, being before instructed of her mother, said, Give me here John Baptist's head in a charger."
+        },
+        {
+          "number": 9,
+          "line": "And the king was sorry: nevertheless for the oath's sake, and them which sat with him at meat, he commanded it to be given her."
+        },
+        {
+          "number": 10,
+          "line": "And he sent, and beheaded John in the prison."
+        },
+        {
+          "number": 11,
+          "line": "And his head was brought in a charger, and given to the damsel: and she brought it to her mother."
+        },
+        {
+          "number": 12,
+          "line": "And his disciples came, and took up the body, and buried it, and went and told Jesus."
+        }
+      ]
+    },
+    {
+      "reference": "Mark 6:14-29",
+      "verses": [
+        {
+          "number": 14,
+          "line": "And king Herod heard of him; (for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him."
+        },
+        {
+          "number": 15,
+          "line": "Others said, That it is Elias. And others said, That it is a prophet, or as one of the prophets."
+        },
+        {
+          "number": 16,
+          "line": "But when Herod heard thereof, he said, It is John, whom I beheaded: he is risen from the dead."
+        },
+        {
+          "number": 17,
+          "line": "For Herod himself had sent forth and laid hold upon John, and bound him in prison for Herodias' sake, his brother Philip's wife: for he had married her."
+        },
+        {
+          "number": 18,
+          "line": "For John had said unto Herod, It is not lawful for thee to have thy brother's wife."
+        },
+        {
+          "number": 19,
+          "line": "Therefore Herodias had a quarrel against him, and would have killed him; but she could not:"
+        },
+        {
+          "number": 20,
+          "line": "For Herod feared John, knowing that he was a just man and an holy, and observed him; and when he heard him, he did many things, and heard him gladly."
+        },
+        {
+          "number": 21,
+          "line": "And when a convenient day was come, that Herod on his birthday made a supper to his lords, high captains, and chief estates of Galilee;"
+        },
+        {
+          "number": 22,
+          "line": "And when the daughter of the said Herodias came in, and danced, and pleased Herod and them that sat with him, the king said unto the damsel, Ask of me whatsoever thou wilt, and I will give it thee."
+        },
+        {
+          "number": 23,
+          "line": "And he sware unto her, Whatsoever thou shalt ask of me, I will give it thee, unto the half of my kingdom."
+        },
+        {
+          "number": 24,
+          "line": "And she went forth, and said unto her mother, What shall I ask? And she said, The head of John the Baptist."
+        },
+        {
+          "number": 25,
+          "line": "And she came in straightway with haste unto the king, and asked, saying, I will that thou give me by and by in a charger the head of John the Baptist."
+        },
+        {
+          "number": 26,
+          "line": "And the king was exceeding sorry; yet for his oath's sake, and for their sakes which sat with him, he would not reject her."
+        },
+        {
+          "number": 27,
+          "line": "And immediately the king sent an executioner, and commanded his head to be brought: and he went and beheaded him in the prison,"
+        },
+        {
+          "number": 28,
+          "line": "And brought his head in a charger, and gave it to the damsel: and the damsel gave it to her mother."
+        },
+        {
+          "number": 29,
+          "line": "And when his disciples heard of it, they came and took up his corpse, and laid it in a tomb."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 9:7-9",
+      "verses": [
+        {
+          "number": 7,
+          "line": "Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;"
+        },
+        {
+          "number": 8,
+          "line": "And of some, that Elias had appeared; and of others, that one of the old prophets was risen again."
+        },
+        {
+          "number": 9,
+          "line": "And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "john-the-baptist-imprisoned",
+      "titleEn": "John the Baptist Imprisoned",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-stdas0094_8-6-2013 4-14-04 PM.jpg",
+      "caption": "&#34;Daughter of Herodias Dancing&#34; James Tissot"
+    },
+    {
+      "file": "Samaria Herodian temple, tb050106508 copy_3-19-2013 3-11-58 PM.jpg",
+      "caption": "Herodian Temple in Samaria"
+    },
+    {
+      "file": "Samaria from north, tb070507860_3-19-2013 3-11-58 PM.jpg",
+      "caption": "View of Samaria"
+    }
+  ],
+  "videos": []
 }

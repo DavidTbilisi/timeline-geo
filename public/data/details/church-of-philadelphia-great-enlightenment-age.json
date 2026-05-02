@@ -4,18 +4,63 @@
   "period": 12,
   "titleEn": "Church of Philadelphia, Great Enlightenment Age",
   "titleKa": null,
-  "datesEn": "1755–1844 AD",
+  "datesEn": "1755&ndash;1844 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The message to the church of Philadelphia is one that represents the advancement of the gospel in the 19th century when the church was small but growing. It represents the church of the great second advent awakening.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Philadelphia is the sixth of seven churches to which Christ sent special messages in the book of Revelation. The name for this city means &#34;brotherly love&#34; and describes a church that receives no condemnation, only encouragement. For people who were probably cast out of their local Jewish synagogues for being Christians, Jesus gives assurance of their security in the temple above. The period of church history described by Philadelphia fits the missionary movements of the 19th century when a passion to spread the gospel created a bond of love among those anticipating Christ&#39;s soon return.<BR /><BR /><B>Brotherly Love</B><BR />Philadelphia, the city of brotherly love, was located about 25 miles southeast of Sardis in Asia Minor. It was founded in 138 B.C. and destroyed by an earthquake in A.D. 17. Tiberius, the Roman emperor, rebuilt the city. Because of its beauty, ancient writers referred to the new city as &#34;Little Athens.&#34; The fact that John&#39;s letter from Patmos contains no rebuke indicates the beautiful spirit of this church. Even today, the city, now called Alashehir, is known for its kind people.<BR /><BR />Christ is described as &#34;holy and true&#34; to this faithful church. Jesus is divine and genuine. He is described as &#34;He who has the key of David, He who opens and no one shuts, and shuts and no one opens&#34; (Revelation 3:7). This picture emphasizes the eminence of Christ as controlling the gates of heaven and the temple of God. If the &#34;synagogue of Satan&#34; (v. 9) speaks of those who cast Christians out, then the message of assurance given to this church is appropriate. &#34;You may have been cast out on earth, but you are not cast out in heaven.&#34; Jesus even says these persecutors will someday &#34;worship before your feet, and to know that I have loved you&#34; (v. 9).<BR /><BR />It is especially meaningful that overcomers are told &#34;I will make him a pillar in the temple of My God, and he shall go out no more&#34; (v. 12). The central and most important place in the universe is God&#39;s throne room. To be assured of continual access to God, never to &#34;go out&#34; (or be cast out) gives these believers a sense of how much the Lord desires them to be close. Furthermore there are three references to &#34;writing&#34; of God&#39;s city, God&#39;s name, and a new name. What greater mark of acceptance could Jesus give His precious servants than to clearly identify them as His own.<BR /><BR /><B>A Missionary Fervor</B><BR />The great missionary movement of the last part of the 18th century and the early part of the 19th century is captured by the church of Philadelphia. The advancement of the gospel during this time shows a church faithful to its calling. These evangelical movements in Europe and the United States stressed practical godliness and revived people&#39;s faith in preparing for Christ&#39;s coming. Such fervor had not existed since the early days of the Reformation.<BR /><BR />There is a deeper application of the &#34;shut door&#34; and &#34;open door&#34; language for this period of church history. When we study the great illustration of salvation found in the sanctuary, we see two phases of work: the daily service for ministering to individuals seeking cleansing from sin and the yearly service (Day of Atonement) which was a day of judgment. The daily service was tied to the holy place and the yearly to the most holy place. Students of Bible prophecy have discovered that a change of Christ&#39;s work in the heavenly sanctuary took place in 1844 A.D. (see the prophecy of Daniel 8:14). Just as Christ entered the most holy place upon His ascension to heaven, so now our High Priest has &#34;closed&#34; the door of work in one compartment and &#34;opened&#34; a door into the most holy. The language to the Philadelphia church speaks of this special transition which prepares us for Jesus&#39; soon coming.<BR /><BR />Churches today need to regain the missionary fervor of spreading the gospel in light of the Second Advent. Individual Christians who seek truth wherever it leads, even if they are cast out of their churches, will continue to follow Jesus with the assurance that a door is held open by a loving hand. Christ says, &#34;Behold, I am coming quickly! Hold fast what you have, that no one may take your crown&#34; (v. 11). When we are patient and persevering, just as Christ was while on earth, we can be assured of a place in God&#39;s heavenly temple where we will never be cast out.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Revelation 3:7-13",
+      "verses": [
+        {
+          "number": 7,
+          "line": "And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;"
+        },
+        {
+          "number": 8,
+          "line": "I know thy works: behold, I have set before thee an open door, and no man can shut it: for thou hast a little strength, and hast kept my word, and hast not denied my name."
+        },
+        {
+          "number": 9,
+          "line": "Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee."
+        },
+        {
+          "number": 10,
+          "line": "Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth."
+        },
+        {
+          "number": 11,
+          "line": "Behold, I come quickly: hold that fast which thou hast, that no man take thy crown."
+        },
+        {
+          "number": 12,
+          "line": "Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name."
+        },
+        {
+          "number": 13,
+          "line": "He that hath an ear, let him hear what the Spirit saith unto the churches."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "prophecies-of-the-end-of-time",
+      "titleEn": "Prophecies of the End of Time",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas2121_8-13-2013 2-05-30 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas2121_8-13-2013 2-05-30 PM.jpg",
+      "caption": "Believers in worship"
+    },
+    {
+      "file": "GoodSalt-7 churches_8-5-2013 4-07-50 PM.jpg",
+      "caption": "Faithful believers"
     }
-  ]
+  ],
+  "videos": []
 }

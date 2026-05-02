@@ -4,13 +4,47 @@
   "period": 7,
   "titleEn": "Assyria Conquers World, Sennacherib Invades Judah",
   "titleKa": null,
-  "datesEn": "701 BC",
+  "datesEn": "701 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "During the reign of King Hezekiah of Judah, Sennacherib takes 46 fortified cities. Hezekiah pays tribute to him. But Isaiah predicts they will not take Jerusalem. God will protect a remnant.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In 2 Kings 18 we read of the first of Sennacherib&#39;s famous campaigns against Hezekiah. The narrative runs from chs. 18:13 to 19:37. The same account, in practically identical language, is found in the 36th and 37th chs. of Isaiah. This would suggest that Isaiah was the author of this portion of 2 Kings. A somewhat abbreviated history in 2 Chron. 32:1&#8212;22 gives details of Hezekiah&#39;s war preparations.<BR /><BR />Scholars disagree as to whether the narrative describes one or two campaigns. The majority of modern commentators have held that the account describes one campaign and that the events all belong in Hezekiah&#39;s 14th year, 701 b.c. Others have held that the account blends the records of two Assyrian campaigns, the first in the 14th year of Hezekiah&#39;s reign, in which the fenced cities of Judah were taken, and the second late in Hezekiah&#39;s reign when a large section of the Assyrian army was destroyed (ch. 19:35). In favor of the former view is the fact that there seems to be no natural break in the Bible narrative. Furthermore Assyrian sources describe a campaign of Sennacherib generally dated in the year 701 b.c., but make no positive mention of a later campaign, against Judah, although the records may be incomplete, or it may be Sennacherib purposely omitted from his annals a record of his defeat. Concerning the campaign of 701 b.c., Sennacherib claims that he shut up &#34;Hezekiah like a caged bird,&#34; a description that equally fits a campaign over&#8212;running the fenced cities of Judah as well as one more definitely threatening Jerusalem.<BR /><BR />Hezekiah&#39;s extensive preparations for defense (see 2 Chron. 32:2&#8212;6) suggest some considerable interval between the two campaigns also the fact that the Bible narrative seems to indicate that the death of Sennacherib took place shortly after his return from his unsuccessful attempt against Jerusalem. If there was only the one campaign in 701 b.c. his assassination would come some 20 years after his return to Assyria. Furthermore, inscriptions in which Tirhakah (ch. 19:9) gives his age as 20 years at the time when he became coregent with his brother in 690 b.c., indicate that he was born about the year 709 b.c. This would make it impossible for him to have taken part in the events described if they occurred in the year 701 b.c. It was formerly held that though he did not become king of Egypt till about 690 b.c., he might have been a general of the army. If Tirhakah&#39;s statements concerning his age are correct the only way to synchronize the statement of ch. 19:9 with its context is to assume a second campaign toward the close of Hezekiah&#39;s reign. Evidently the fenced cities were taken and tribute paid in the first campaign, and Jerusalem saved by divine interposition in the second. It is inconsequential that opinions differ as to where the division comes in the narrative, which was written to show God&#39;s overruling care for those who seek Him, not to furnish a chronological outline. Sennacherib claims the capture of 46 walled cities of Judah.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 18:13",
+      "verses": [
+        {
+          "number": 13,
+          "line": "Now in the fourteenth year of king Hezekiah did Sennacherib king of Assyria come up against all the fenced cities of Judah, and took them."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "sennacherib",
+      "titleEn": "Sennacherib",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Assyrian Army_7-31-2013 12-08-53 PM.jpg",
+      "caption": "Assyrian Army"
+    },
+    {
+      "file": "Sennacherib_4-2-2013 5-44-38 PM.jpg",
+      "caption": "Sennacherib during his Babylonian war, relief from his palace in Nineveh. Located in the public domain. "
+    },
+    {
+      "file": "Isaiah_4-2-2013 5-44-38 PM.jpg",
+      "caption": "Prophet Isaiah statue in Rome, Italy. Famous Spanish Square (Piazza di Spagna)."
+    },
+    {
+      "file": "i33-sennacherib-besieged-judah_8-6-2013 4-00-40 PM.jpg",
+      "caption": "Sennecherib besieging Judah"
+    }
+  ],
+  "videos": []
 }

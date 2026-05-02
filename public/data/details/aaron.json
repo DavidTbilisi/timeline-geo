@@ -4,18 +4,91 @@
   "period": 4,
   "titleEn": "Aaron",
   "titleKa": null,
-  "datesEn": "1529–1406 BC (123)",
+  "datesEn": "1529&ndash;1406 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name possibly means &#34;mountaineer&#34; or &#34;mountain of strength.&#34; He is the eldest son of Amram & Jochebed and brother to Moses. He marries Elisheba and has 4 sons. He is appointed Moses&#39; spokesman and anointed as the first high priest in the sanctuary.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Aaron. Son of Amram and Jochebed (Ex 6:20), and descendant of Levi (1 Chr 6:1&#8212;3). He had an older sister, Miriam (Ex 7:7 cf. ch 2:4), and a younger brother, Moses (ch 7:7). He married Elisheba, a daughter of Amminadab, of the tribe of Judah, who bore him four sons, Nadab, Abihu, Eleazar, and Ithamar (ch 6:23). Aaron enters the Bible narrative when the Lord commissioned him to go from Egypt to meet his brother Moses at Mount Horeb (Ex 4:27). There the two conferred together about returning to Egypt to effect the release of their people from bondage (v 28). <BR /><BR />The Lord had already appeared to Moses, and had indicated to him that Aaron was to be his spokesman in the new assignment (vs 14&#8212;16). From that time forth the two brothers labored side by side to secure freedom for their oppressed kinsmen (vs 29, 30 etc.). Even after the departure from Egypt Aaron continued, at least at times, as Moses&#39; spokesman to the children of Israel (ch 16:9, 10). At Rephidim, a short distance from the Wilderness of Sin, Aaron and Hur sustained the uplifted arms of Moses in the successful battle with a band of Amalekites (ch 17:12).<BR /><BR />During the encampment at Mount Sinai, Aaron and his sons Nadab and Abihu, together with 70 of the elders of Israel, were accorded the special privilege of accompanying Moses beyond the bounds at the foot of the mountain which the people generally might not pass (Ex 24:1&#8212;11). During Moses&#39; prolonged absence from camp, Aaron acquiesced in the demand of the people for visible &#34;gods&#34; by making a golden calf and leading in its worship (ch 32). While the Israelites were still encamped at Sinai, Aaron and his sons were appointed and consecrated to serve as priests in the sanctuary (Ex 28:40 to 29:37 40:13&#8212;16 Lev 8). Aaron served as high priest for 38 years, until within a few months of the entry into Canaan (Num 20:22&#8212;29).<BR /><BR />Soon after the departure from Sinai, Aaron and Miriam united in opposing Moses as supreme commander of Israel, under God, and claimed for themselves a voice in the administration of the nation. God decisively silenced the two who had presumed to challenge the one whom He had appointed leader (Num 12:1&#8212;15). Somewhat later a group of disaffected Levites united forces with certain men of the tribe of Reuben, and others, in revolt against the leadership of Moses and Aaron, and once more God vindicated His chosen leaders (ch 16). <BR /><BR />Lest there should be any lingering doubt concerning the fact that it was God who had appointed Aaron to have charge of the religious life of the nation, God gave dramatic proof by causing Aaron&#39;s rod to bud, blossom, and bear almonds overnight (ch 17). Toward the close of the 40 years in the wilderness, almost on the borders of Canaan, Aaron joined with Moses in a demonstration of impatience at Kadesh, where the latter impetuously struck the rock from which water was to flow forth for the people. As a result, the two brothers were barred from entering the Land of Promise (ch 20:7&#8212;13).<BR /><BR />Not long after the experience at Kadesh the people of Israel broke camp and journeyed around the borders of Edom, having been refused permission to take a more direct route through that country. On the way the Lord directed Moses and Aaron that the latter should prepare to lay down his duties and to die (Num 20:22&#8212;24 cf. Deut 10:6). <BR /><BR />By divine order the high&#8212;priestly robes were taken from Aaron and placed on his son Eleazar, in token of his succession to Aaron as high priest (Num 20:25&#8212;28). Aaron died at the age of 123 (cf. Ex 7:7 Deut 34:7), and was buried on Mount Hor on the border of Edom (Num 20:27, 28 33:37&#8212;39 Deut 32:50). He was mourned by Israel for a period of 30 days (Num 20:29).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Exodus 6:20",
+      "verses": [
+        {
+          "number": 20,
+          "line": "And Amram took him Jochebed his father's sister to wife; and she bare him Aaron and Moses: and the years of the life of Amram were an hundred and thirty and seven years."
+        }
+      ]
+    },
+    {
+      "reference": "Numbers 20:22-29",
+      "verses": [
+        {
+          "number": 22,
+          "line": "And the children of Israel, even the whole congregation, journeyed from Kadesh, and came unto mount Hor."
+        },
+        {
+          "number": 23,
+          "line": "And the LORD spake unto Moses and Aaron in mount Hor, by the coast of the land of Edom, saying,"
+        },
+        {
+          "number": 24,
+          "line": "Aaron shall be gathered unto his people: for he shall not enter into the land which I have given unto the children of Israel, because ye rebelled against my word at the water of Meribah."
+        },
+        {
+          "number": 25,
+          "line": "Take Aaron and Eleazar his son, and bring them up unto mount Hor:"
+        },
+        {
+          "number": 26,
+          "line": "And strip Aaron of his garments, and put them upon Eleazar his son: and Aaron shall be gathered unto his people, and shall die there."
+        },
+        {
+          "number": 27,
+          "line": "And Moses did as the LORD commanded: and they went up into mount Hor in the sight of all the congregation."
+        },
+        {
+          "number": 28,
+          "line": "And Moses stripped Aaron of his garments, and put them upon Eleazar his son; and Aaron died there in the top of the mount: and Moses and Eleazar came down from the mount."
+        },
+        {
+          "number": 29,
+          "line": "And when all the congregation saw that Aaron was dead, they mourned for Aaron thirty days, even all the house of Israel."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "amram",
+      "titleEn": "Amram",
+      "titleKa": null
+    },
+    {
+      "slug": "eleazar",
+      "titleEn": "Eleazar",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Aaron w golden calf 19-144_7-22-2013 2-57-17 PM.jpg",
-      "caption": ""
+      "file": "Aaron w golden calf 19-144_7-22-2013 2-57-17 PM.jpg",
+      "caption": "The three-arched Fontana dell&#39;Acqua Felice (designed by Domenico Fontana, 1587). Aaron guides his people towards the spring water located in Rome, Italy."
+    },
+    {
+      "file": "Moses-and-Aaron-before-Pharaoh-001_7-31-2013 4-25-53 PM.jpg",
+      "caption": "Moses and Aaron come before Pharaoh to let him know what God commands.  &#34;Moses and Aaron before Pharaoh&#34; William Hole"
+    },
+    {
+      "file": "GoodSalt-AaronGoldenCalf_8-1-2013 5-27-38 PM.jpg",
+      "caption": "Aaron Constructing the Golden Calf"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Lessons from Moses- Into the Promised Land",
+      "caption": "This is a continued part of a series on the life of Moses. This sermon focuses on Moses trip up Mt. Sinai and the restlessness of the people who bowed down to a golden calf. The other failure looked at the sin of Nadab and Abihu and unholy fire brought before the Lord while they were drunk. Also the dissension of Aaron and Miriam, and more.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg7107.mp4"
     }
   ]
 }

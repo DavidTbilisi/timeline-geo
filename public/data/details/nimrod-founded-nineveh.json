@@ -4,13 +4,51 @@
   "period": 2,
   "titleEn": "Nimrod Founded Nineveh",
   "titleKa": null,
-  "datesEn": "2195 BC",
+  "datesEn": "2195 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Excavations have shown that Nineveh was one of the oldest cities of Upper Mesopotamia",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Out of that land went forth Asshur. Even though this translation is possible, the sentence construction in Hebrew favors that given by the RSV, which retains Nimrod as the subject and reads, &#34;From that land he went into Assyria.&#34; In Micah 5:6 Assyria is called &#34;the land of Nimrod.&#34; Nimrod&#39;s move into Assyria and his renewed building activity there constituted an extension of his empire in a northerly direction. What Assyria lacked in geographical size it made up in political power later in its history.<BR /><BR /><b>Nineveh.</b> For centuries Nineveh was famous as the capital of Assyria. The Assyrians themselves called it Ninua, apparently dedicating it to the Babylonian goddess Nina. This points to Babylon as Nimrod&#39;s previous home and agrees with the Biblical report that he, the first king of Babylon, was also founder of Nineveh. Excavations have shown that Nineveh was one of the oldest cities of Upper Mesopotamia. Lying at the intersection of busy international trade routes, Nineveh early became an important commercial center. <BR /><BR />It changed hands repeatedly during the second millennium b.c., belonging in turn to the Babylonians, Hittites, and Mitannians before being brought under Assyrian control in the 14th century b.c. Later, as capital of the Assyrian Empire, it was embellished with magnificent palaces and temples and strongly fortified. In 612 b.c. the city was destroyed by the Medes and Babylonians, and has since then remained a heap of ruins. <BR /><BR />In its famous library, established by Ashurbanipal, have been found thousands of baked clay tablets containing invaluable historical, religious, and business documents and letters. Above all others, this discovery has enriched our knowledge of ancient Assyria and Babylonia.  Nichol, Francis D.: The Seventh&#8212;day Adventist Bible Commentary, Volume 1. Review and Herald Publishing Association, 1978 2002, S. 276<BR /><BR /><BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 10:8-12",
+      "verses": [
+        {
+          "number": 8,
+          "line": "And Cush begat Nimrod: he began to be a mighty one in the earth."
+        },
+        {
+          "number": 9,
+          "line": "He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD."
+        },
+        {
+          "number": 10,
+          "line": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar."
+        },
+        {
+          "number": 11,
+          "line": "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,"
+        },
+        {
+          "number": 12,
+          "line": "And Resen between Nineveh and Calah: the same is a great city."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "nimrod",
+      "titleEn": "Nimrod",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Nuremberg_chronicles_-_f_20r_8-5-2013 2-39-31 PM.jpg",
+      "caption": "The town of Nineveh, Hartmann Schedel, 1493"
+    }
+  ],
+  "videos": []
 }

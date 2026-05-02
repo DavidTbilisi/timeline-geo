@@ -4,13 +4,35 @@
   "period": 3,
   "titleEn": "Famine in the Land",
   "titleKa": null,
-  "datesEn": "1871 BC",
+  "datesEn": "1871 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Genesis 12 says that a &#34;severe&#34; famine came to Canaan so Abram &#34;went down to Egypt.&#34;",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Abram had scarcely passed through the Promised Land when a severe famine compelled him to leave it. Canaan, though naturally fertile, was subject to visitations of drought, especially in those years when the November and December rains, on which the country depended, either failed or were scanty (Gen. 26:1 41:56 1 Kings 17:1 Haggai 1:10, 11). The occurrence of this famine just at the time of Abram&#39;s entering the land was an additional trial of his faith. It was to teach him lessons of submission, faith, and patience. He was to realize that even in the Promised Land food and blessings come from the Lord alone. <BR /><BR />Being in the south of Canaan, Abram found it natural to turn to Egypt, the country of plenty, to find sustenance. Although Egypt itself occasionally suffered from famine, because of failure of the Nile to overflow, it was known to surrounding countries as a haven of refuge in times of need. Ancient Egyptian records repeatedly mention the fact that Asiatics entered the country to feed their starving flocks.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 12:10",
+      "verses": [
+        {
+          "number": 10,
+          "line": "And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine was grievous in the land."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "abraham",
+      "titleEn": "Abraham",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-pppas0193_8-5-2013 3-13-35 PM.jpg",
+      "caption": "Genesis 12 says that a &#34;severe&#34; famine came to Canaan so Abram &#34;went down to Egypt.&#34;"
+    }
+  ],
+  "videos": []
 }

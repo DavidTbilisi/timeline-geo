@@ -4,13 +4,40 @@
   "period": 7,
   "titleEn": "Matthat",
   "titleKa": null,
-  "datesEn": "767–687 BC",
+  "datesEn": "767&ndash;687 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;gift.&#34; He is the son of Levi and father of Jorim, a Judahite, listed in Luke&#39;s genealogy of Christ. There is another Matthat who is also the son of another Levi listed later as father of Heli.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:29",
+      "verses": [
+        {
+          "number": 29,
+          "line": "Which was the son of Jose, which was the son of Eliezer, which was the son of Jorim, which was the son of Matthat, which was the son of Levi,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "levi-son-of-simeon",
+      "titleEn": "Levi",
+      "titleKa": null
+    },
+    {
+      "slug": "jorim",
+      "titleEn": "Jorim",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-stdas0056_8-7-2013 2-02-54 PM.jpg",
+      "caption": "Matthat."
+    }
+  ],
+  "videos": []
 }

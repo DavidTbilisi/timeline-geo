@@ -4,13 +4,40 @@
   "period": 7,
   "titleEn": "Sennacherib Razes Babylon",
   "titleKa": null,
-  "datesEn": "689 BC",
+  "datesEn": "689 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "This Assyrian king succeeds his father Sargon II and rules for 25 years. He tires of Babylon rebelling and ruthlessly destroys the city.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 19:9",
+      "verses": [
+        {
+          "number": 9,
+          "line": "And when he heard say of Tirhakah king of Ethiopia, Behold, he is come out to fight against thee: he sent messengers again unto Hezekiah, saying,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "sennacherib",
+      "titleEn": "Sennacherib",
+      "titleKa": null
+    },
+    {
+      "slug": "babylon-rebuilding",
+      "titleEn": "Babylon Rebuilding",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "i33-sennacherib-besieged-judah_8-6-2013 4-08-41 PM.jpg",
+      "caption": "Sennachirb&#39;s Army"
+    }
+  ],
+  "videos": []
 }

@@ -2,15 +2,31 @@
   "slug": "sack-of-rome",
   "id": 1352,
   "period": 12,
-  "titleEn": "Sack of Rome",
+  "titleEn": "Sack of Rome ",
   "titleKa": null,
-  "datesEn": "1527 AD",
+  "datesEn": "1527 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Attack on the city of Rome by mutinous troops, which was blamed on Emperor Charles V.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Although some scholars believe Emperor Charles V was responsible for the sacking of Rome in 1527, this connection cannot be firmly established. Previously, Charles V had been loyal to the papacy, but due to the work of Martin Luther the German Princes were becoming more persuaded toward Protestantism and began resisting the Emperor&#39;s authority. Because of the Protestant sympathies in Germany, Charles V could not find much support from the papacy. The Emperor was fighting to keep his lands together and the pope was trying to keep the Church together. As a result, the relationship between Pope Clement VII and Emperor Charles V was shaky at best.<BR /><BR />In any case, Rome was attacked on May 6, 1527, and there was complete chaos for more than a week. During that time, Rome, the &#34;Eternal City,&#34; was ruled by anarchy and barbarism.<BR /><BR />Due to the poor relations between the Emperor and the pope, Charles V was blamed for the attack. He quickly absolved himself from any involvement, but Clement VII and Charles V continued to struggle until the popes&#39; death. However, the new pope, Paul III, took more strides to achieve unity with the emperor.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Sack_of_Rome_of_1527_by_Johannes_Lingelbach_17th_century_2-26-2013 3-16-35 PM.jpg",
+      "caption": "The sack of Rome in 1527 paintyby Johannes Lingelbach in the17th century"
+    },
+    {
+      "file": "iStock_000017218179Medium_2-26-2013 3-16-35 PM.jpg",
+      "caption": "Closeup of the Statue of Charles V, located in the Puerta del Sol, Madrid, Spain."
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,49 @@
   "period": 7,
   "titleEn": "Ahaziah",
   "titleKa": null,
-  "datesEn": "878–852 BC",
+  "datesEn": "878&ndash;852 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;held by God.&#34; He is the successor of Ahab and is the 9th king of Israel&#39;s northern kingdom whose reign lasts 2 years. He does evil in God&#39;s sight. He falls through a lattice and inquires of Baal&#8212;Zebub when he will die. Elijah intercepts.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Ahaziah, name means &#34;Yahweh has grasped (my hand).&#34; The 9th king of Israel, the northern kingdom (if Tibni is included in the count). Ahaziah followed his father Ahab on the throne and reigned less than 2 years (c. 853&#8212;852 b.c.). It is unusual that his mother, probably Jezebel, is not mentioned by name. True to the family tradition he &#34;did evil in the sight of the Lord&#34; and served Baal (1 Ki 22:40, 51&#8212;53). He joined Jehoshaphat of Judah in building a fleet of ships to be sent out to Ophir for gold. The ships were wrecked at Eziongeber on the Gulf of Aqabah, probably in one of the dangerous storms that come up very suddenly there. <BR /><BR />Ahaziah apparently proposed a second attempt, but Jehoshaphat declined after being warned by a prophet against joining the wicked king of Israel (1 Ki 22:48, 49 2 Chr 20:35&#8212;37). The rebellion of Moab seems to have occurred during his reign, but nothing was done to force that country back into subjection (2 Ki 1:1). Ahaziah was seriously injured when he &#34;fell down through a lattice&#34; in his palace. When he sent messengers to Baal&#8212;zebub, god of Ekron, to request healing, his men were intercepted by Elijah, who sent them back with word that the king would die of his injuries (vs 2&#8212;4). Since he died without a son, the throne passed to his brother Jehoram, or Joram (v 17).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 22:51",
+      "verses": [
+        {
+          "number": 51,
+          "line": "Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 1:17",
+      "verses": [
+        {
+          "number": 17,
+          "line": "So he died according to the word of the LORD which Elijah had spoken. And Jehoram reigned in his stead in the second year of Jehoram the son of Jehoshaphat king of Judah; because he had no son."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ahab",
+      "titleEn": "Ahab",
+      "titleKa": null
+    },
+    {
+      "slug": "joram",
+      "titleEn": "Joram",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Ahaziah_of_Israel_8-26-2013 5-35-25 PM.jpg",
+      "caption": "Ahaziah or &#39;Ochozias&#39;, Guillaume Rouille, 1553"
+    }
+  ],
+  "videos": []
 }

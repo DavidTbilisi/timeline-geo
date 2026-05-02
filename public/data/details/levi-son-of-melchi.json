@@ -4,13 +4,40 @@
   "period": 8,
   "titleEn": "Levi",
   "titleKa": null,
-  "datesEn": "105–50 BC",
+  "datesEn": "105&ndash;50 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;joined&#34; or &#34;attached.&#34; He is the son of Melki or Melchi and father of Matthat, a Judahite listed in Luke&#39;s genealogy of Jesus Christ. Note, there are two Levi&#39;s listed in Luke&#39;s genealogy, plus a few others in Scripture.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:24",
+      "verses": [
+        {
+          "number": 24,
+          "line": "Which was the son of Matthat, which was the son of Levi, which was the son of Melchi, which was the son of Janna, which was the son of Joseph,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "melchi-or-melki",
+      "titleEn": "Melchi (or Melki)",
+      "titleKa": null
+    },
+    {
+      "slug": "matthat-father-of-heli",
+      "titleEn": "Matthat",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "AncestorOfJesusColor.jpg",
+      "caption": "Ancestor of Jesus"
+    }
+  ],
+  "videos": []
 }

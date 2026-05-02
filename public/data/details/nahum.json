@@ -4,18 +4,40 @@
   "period": 7,
   "titleEn": "Nahum",
   "titleKa": null,
-  "datesEn": "683–610 BC (~73)",
+  "datesEn": "683&ndash;610 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;consolation&#34; or &#34;comforted one.&#34; A minor prophet of Judah from the 7th century BC and is identified as an Elkoshite in the Old Testament book which bears his name. His prophecy is primarily focused on the doom of the Assyrian empire.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Seventh of the so&#8212;called Minor Prophets. Reference in Nah 3:8&#8212;10 to the fall of No (Thebes), which was destroyed by Ashurbanipal of Assyria in 663 b.c., suggests that Nahum wrote his book shortly after that date. Nahum foretells the desolation of Nineveh (ch 3:7), the Assyrian capital, an event that took place in 612 b.c., and his book may therefore be dated between 663 and 612 b.c., perhaps c. 640 b.c. The book of Nahum announces the doom of the great Assyrian Empire at the very time when the nation was at the crest of its power (see Assyria). Jerusalem and Judah had been suffering repeated Assyrian invasions and had been forced to pay tribute intermittently for 3/4 of a century. Assyria appeared invincible, but God prophesied through Nahum that He would break the Assyrian yoke (ch 1:13). This message assured the faithful in Judah that God was still watching over His people and that He would visit justice upon their oppressors. During Ashurbanipal&#39;s reign (669&#8212;627? b.c.) most of the nations of the Fertile Crescent, from Mesopotamia to Egypt, either were subject to the Assyrians or were under tribute to them. However, before his death, possibly in 627 b.c., the situation had already begun to change. Soon thereafter the empire disintegrated, and Nineveh itself fell in 612 b.c. to the Medes and the Babylonians.<BR /><BR />The book of Nahum is concerned exclusively with the coming fate of Nineveh. About a century and a half before Nahum, Jonah went to the city with a call to repentance, and for a time king and people alike humbled themselves before God (Jon 3:5&#8212;10). Accordingly, for a time, the city was spared. But the reformation did not last, and Nahum now predicted the imminent destruction of the &#34;bloody city&#34; (Nah 3:1). A century prior to Nahum&#39;s time Assyria had been the &#34;rod&#34; of God&#39;s anger (Is 10:5) against the northern kingdom, Israel, whose 10 tribes it took captive. A few years later, under Sennacherib, God used the same rod to chasten the people of Jerusalem and Judah (chs 36; 37; cf. 8:7, 8). But by their monumental pride and unabashed cruelty the Assyrians had now filled their cup of iniquity. They were defying the sovereignty of the God of heaven and were abasing the Creator of the universe to a level with idols (ch 36:7, 14&#8212;20). Assyria had refused to cooperate with God&#39;s purpose for her as a nation and therefore lost her mandate to rule.<BR />The prophecy of Nahum is written in poetic style, its 1st chapter being an alphabetic psalm (see Acrostic) of unusual form. Although in the text as it has come down to us some letters of the alphabet are missing and others appear out of sequence, it is quite possible that originally the alphabetical arrangement was complete. Each letter of the alphabet introduces a new thought. Thus in v 5 the 1st member of the poetic parallelism, &#34;the mountains quake at him, and the hills melt,&#34; begins with the Hebrew letter he&#39;, while the 2d, &#34;and the earth is burned at his presence, yea, the world, and all that dwell therein,&#34; begins with waw, the next letter in the Hebrew alphabet.<BR /><BR />The prophecy logically falls into 2 parts: (1) an ascription of praise, extolling God as merciful and just, as the ruler of the world and arbiter of national destiny (Nah 1:1&#8212;10), and (2) a vivid description of the fall of Nineveh (chs 1:11 to 3:19). Nahum entitles his prophecy &#34;The burden of Nineveh.&#34; God takes the enemies of His people to be His own &#34;adversaries&#34; (ch 1:2). Though He is &#34;slow to anger&#34; He will not forever countenance their wickedness (v 3). The forces of nature&#8212;the sea, the rivers, the mountains, the earth itself&#8212;are subject to His pleasure (vs 4&#8212;6). To His own people He is &#34;a strong hold in the day of trouble; and he knoweth them that trust him&#34; (v 7). When He sets His hand to punish the Assyrians &#34;he will make an utter end,&#34; and never again will the Assyrians rise to oppress His people (v 9). For some time God has permitted them to prosper (v 12), but the time is at hand when He will break the Assyrian yoke and restore peace to Judah (vs 13&#8212;15). The destroyer is depicted as laying siege to Nineveh, and in irony God summons its garrison to prepare to defend the city (ch 2:1). The shields of the defenders are red, apparently with blood, and the chariots rumble through the streets to the point of attack (vs 3, 4). The warriors stumble at their appointed places on the city wall (v 5), the sluice gates are opened, and the palace is inundated (v 6). As its inhabitants tremble in fear, the invaders rush into the city, and take its spoil (vs 7&#8212;10). ch 3 pictures the horsemen lifting their spears and swords in battle and multitudes falling down slain (ch 3:1&#8212;3). God is against Nineveh because of her crimes, her immorality, and her oppression of others (vs 4&#8212;6), and therefore lays the city waste (v 7). It is no better than the city of No (Thebes) of Egypt or of other nations that have fallen (vs 7&#8212;9). Its people are taken captive or scattered leaderless upon the mountains, and the &#34;shepherds,&#34; the leaders of Assyria, are laid to rest in the dust. Nineveh&#39;s wound is a mortal one, and &#34;there is no healing&#34; of the bruise it now suffers (vs 10&#8212;19).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Nahum 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "The burden of Nineveh. The book of the vision of Nahum the Elkoshite."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "nahum-refers-to-fall-of-thebes",
+      "titleEn": "Nahum Refers to Fall of Thebes",
+      "titleKa": null
+    },
+    {
+      "slug": "nahum-predicts-fall-of-ninevah",
+      "titleEn": "Nahum Predicts Fall of Ninevah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Nahum-prophet.jpg",
-      "caption": ""
+      "file": "Nahum-prophet.jpg",
+      "caption": "Prophet Nahum, old Russian Orthodox icon 18th century icon painter"
     }
-  ]
+  ],
+  "videos": []
 }

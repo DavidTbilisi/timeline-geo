@@ -4,13 +4,48 @@
   "period": 3,
   "titleEn": "Rebekah",
   "titleKa": null,
-  "datesEn": "1825 BC",
+  "datesEn": "1825 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;yoke&#34; or &#34;team.&#34; She is the daughter of Bethuel and the wife of Isaac. She is found by Abraham&#39;s servant who is sent to find a wife for Isaac among his people. She exhibited some of the same deception as her brother Laban.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Daughter of Bethuel, Abraham&#39;s nephew (Gen 22:23). She lived in Paddan&#8212;aram until persuaded by Abraham&#39;s servant, who had been sent by his master to seek a wife for Isaac, to accompany him to Canaan to become the wife of Isaac (ch 24:1&#8212;67). Finally, 20 years after her marriage, she bore twins, Esau and Jacob (ch 25:19&#8212;26). On one occasion when the family dwelt in Gerar, Isaac attempted to pass off Rebekah as his sister (ch 26:6&#8212;11), as Abraham his father had done with Sarah many years earlier (ch 12:1&#8212;20). <BR /><BR />Rebekah favored her younger son, Jacob (ch 25:28), and directed him to deceive his blind father so as to obtain the parental blessing that Isaac planned to pronounce upon Esau (ch 27:1&#8212;29). Learning that Esau planned to kill his brother for having robbed him of his rights, Rebekah planned Jacob&#39;s departure for Paddan&#8212;aram and assisted him in his flight (vs 41&#8212;46). She seems to have died during the 20 years of Jacob&#39;s absence, but the circumstances of her death are not recorded. However, Jacob speaks of his mother as being buried in the Cave of Machpelah (ch 49:31).",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 22:23",
+      "verses": [
+        {
+          "number": 23,
+          "line": "And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham's brother."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 49:31",
+      "verses": [
+        {
+          "number": 31,
+          "line": "There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah."
+        }
+      ]
+    }
+  ],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "GoodSalt-pppas0037_8-13-2013 2-32-23 PM.jpg",
+      "caption": "Rebekah watering Eliezer&#39;s camels."
+    },
+    {
+      "file": "Rebekah_and_Eliezer_001_7-31-2013 4-05-13 PM.jpg",
+      "caption": "Abraham&#39;s servant Eliezer and Rebecca, Providence Lithograph Company, 1908"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Abraham Part 12: Finding the Right Bride",
+      "caption": "The last in a 12 part series on the life of Abraham. This sermon focuses on the search for a bride for Isaac.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2422.mp4"
+    }
+  ]
 }

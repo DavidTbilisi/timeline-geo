@@ -4,13 +4,48 @@
   "period": 7,
   "titleEn": "Elah",
   "titleKa": null,
-  "datesEn": "912–885 BC",
+  "datesEn": "912&ndash;885 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Baal roars.&#34; He is the son of Baasha and 4th king of Israel in the northern kingdom. He is killed by Zimri, a commander of his chariotry, in fulfillment of a prophecy by Jehu to Baasha. He reigns for no more than a year.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Name means &#34;oak&#34; or &#34;strength.&#34; He is the son of Baasha and 4th king of Israel in the northern kingdom. He is killed by Zimri, a commander of his chariotry, in fulfillment of a prophecy by Jehu to Baasha. He reigns for no more than a year.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 16:8",
+      "verses": [
+        {
+          "number": 8,
+          "line": "In the twenty and sixth year of Asa king of Judah began Elah the son of Baasha to reign over Israel in Tirzah, two years."
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 16:12-13",
+      "verses": [
+        {
+          "number": 12,
+          "line": "Thus did Zimri destroy all the house of Baasha, according to the word of the LORD, which he spake against Baasha by Jehu the prophet,"
+        },
+        {
+          "number": 13,
+          "line": "For all the sins of Baasha, and the sins of Elah his son, by which they sinned, and by which they made Israel to sin, in provoking the LORD God of Israel to anger with their vanities."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "baasha",
+      "titleEn": "Baasha",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Elah_Rex_8-26-2013 5-17-35 PM.jpg",
+      "caption": "Illustration of Elah in 1553 published by Guillaume Rouille"
+    }
+  ],
+  "videos": []
 }

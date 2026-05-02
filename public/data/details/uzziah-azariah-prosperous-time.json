@@ -4,18 +4,71 @@
   "period": 7,
   "titleEn": "Uzziah Azariah, Prosperous Time",
   "titleKa": null,
-  "datesEn": "790–770 BC (~20)",
+  "datesEn": "790&ndash;770 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Uzziah, 10th ruler of the kingdom of Judah for 52 years (also called Azariah) is very prosperous early in his reign, building the army, promoting agriculture, and reorganizing its defense. He has a number of military victories, but he becomes proud.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In 2 Chronicles 26 we read of Uzziah&#39;s military adventures, his public works, and his strength in arms. This section is found only in Chronicles and is an important contribution to information regarding the nature of Uzziah&#39;s reign. It is thought that &#34;Azriau of Iauda&#34; in the Assyrian records was Azariah (Uzziah) of Judah. If so, these records (see 2 Kings 14:28 16:5) confirm the picture given in the Bible of Uzziah&#39;s military importance. Tiglath&#8212;pileser III has a number of references to &#34;Azriau of Iauda&#34; (see v. 13).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Chronicles 26:6-15",
+      "verses": [
+        {
+          "number": 6,
+          "line": "And he went forth and warred against the Philistines, and brake down the wall of Gath, and the wall of Jabneh, and the wall of Ashdod, and built cities about Ashdod, and among the Philistines."
+        },
+        {
+          "number": 7,
+          "line": "And God helped him against the Philistines, and against the Arabians that dwelt in Gurbaal, and the Mehunims."
+        },
+        {
+          "number": 8,
+          "line": "And the Ammonites gave gifts to Uzziah: and his name spread abroad even to the entering in of Egypt; for he strengthened himself exceedingly."
+        },
+        {
+          "number": 9,
+          "line": "Moreover Uzziah built towers in Jerusalem at the corner gate, and at the valley gate, and at the turning of the wall, and fortified them."
+        },
+        {
+          "number": 10,
+          "line": "Also he built towers in the desert, and digged many wells: for he had much cattle, both in the low country, and in the plains: husbandmen also, and vine dressers in the mountains, and in Carmel: for he loved husbandry."
+        },
+        {
+          "number": 11,
+          "line": "Moreover Uzziah had an host of fighting men, that went out to war by bands, according to the number of their account by the hand of Jeiel the scribe and Maaseiah the ruler, under the hand of Hananiah, one of the king's captains."
+        },
+        {
+          "number": 12,
+          "line": "The whole number of the chief of the fathers of the mighty men of valour were two thousand and six hundred."
+        },
+        {
+          "number": 13,
+          "line": "And under their hand was an army, three hundred thousand and seven thousand and five hundred, that made war with mighty power, to help the king against the enemy."
+        },
+        {
+          "number": 14,
+          "line": "And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and habergeons, and bows, and slings to cast stones."
+        },
+        {
+          "number": 15,
+          "line": "And he made in Jerusalem engines, invented by cunning men, to be on the towers and upon the bulwarks, to shoot arrows and great stones withal. And his name spread far abroad; for he was marvellously helped, till he was strong."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "uzziah",
+      "titleEn": "Uzziah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/_GoodSalt-stdas0031_8-27-2013 1-27-15 PM.jpg",
-      "caption": ""
+      "file": "_GoodSalt-stdas0031_8-27-2013 1-27-15 PM.jpg",
+      "caption": "Uzziah&#39;s pride and punishment"
     }
-  ]
+  ],
+  "videos": []
 }

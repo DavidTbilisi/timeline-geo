@@ -4,13 +4,30 @@
   "period": 8,
   "titleEn": "Eliakim",
   "titleKa": null,
-  "datesEn": "455–392 BC",
+  "datesEn": "455&ndash;392 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A descendant of Zerubbabel (KJV &#34;Zorobabel&#34;) who appears in Matthew&#39;s genealogy of Jesus Christ (Mt 1:13).",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Eliakim (e?&#8212;li`a&#8212;kim). [Heb. &#39;Elyaq&#238;m, &#34;God establishes.&#34; <BR /> A descendant of Zerubbabel (KJV &#34;Zorobabel&#34;) who appears in Matthew&#39;s genealogy of Jesus Christ (Mt 1:13).<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "abiud",
+      "titleEn": "Abiud",
+      "titleKa": null
+    },
+    {
+      "slug": "azor",
+      "titleEn": "Azor",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-eliakim_8-6-2013 3-04-12 PM.jpg",
+      "caption": "And Zorobabel begat Abiud; and Abiud begat <b>Eliakim</b>; and Eliakim begat Azor; (Matthew 1:13)"
+    }
+  ],
+  "videos": []
 }

@@ -4,18 +4,76 @@
   "period": 3,
   "titleEn": "Esau",
   "titleKa": null,
-  "datesEn": "1786–1650 BC",
+  "datesEn": "1786&ndash;1650 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;hairy.&#34; He is the first born of twin sons of Rebekah and Isaac. Also called &#34;Edom.&#34; He sells birthright to his brother for a bowl of stew. His enmity with Jacob grows after Jacob&#39;s deception. He marries Canaanite women and an Ishmaelite.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The firstborn of the twin sons of Isaac (Gen 25:25). He grew up and became a hunter, endearing himself to his father with his venison, whereas his brother Jacob, as a herdsman, was his mother&#39;s favorite. Jacob, not satisfied with being the younger son, schemed to obtain the rights belonging to the first&#8212;born, and therefore was glad when an opportunity arose to obtain the coveted birthright in exchange for a meal of red pottage. <BR /><BR />Esau, a carefree man, did not realize in a moment of hunger what his rash action involved. For selling his birthright for a dish of red pottage, he received the nickname Edom, the &#34;red one&#34; (Gen 25:27&#8212;34 Heb 12:16, 17). His marriage at the age of 40 to two Hittite girls grieved his parents (Gen 26:34, 35, 36:1, 2). In order to please them in this respect he later took as an additional wife one of Ishmael&#39;s daughters (chs 28:9 36:3).<BR /><BR />When the time came for Isaac, who was old and almost blind, to confer upon his favored son the blessings due to the first&#8212;born, Jacob, induced by his mother, impersonated his older brother and fraudulently obtained the blessings, while Esau was out hunting (Gen 27:1&#8212;40). Highly incensed, Esau planned the murder of his brother as soon as his father had passed away, but his parents sent Jacob to Mesopotamia to escape the wrath of Esau (chs 27:41 to 28:5). When Jacob returned after 20 years, he found that Esau had forgiven him, and the two brothers met peacefully near the river Jabbok in Transjordan. <BR /><BR />Later they were together again at the burial of their father (chs 32:3&#8212;8, 13&#8212;23 33:1&#8212;16 35:29). Esau had in the meantime made his abode in the mountainous area of Seir, which lay south of the Dead Sea, and when his descendants increased they dispossessed the inhabitants of Mount Seir and became the powerful nation of the Edomites (Gen 33:16 Deut 2:4, 12, 22). Afterward that area was also called simply the Mount of Esau (Ob 8:1, 9, 19, 21). Esau&#39;s loss of the right of the first&#8212;born is repeatedly discussed in the Bible (Mal 1:2, 3 Rom 9:12, 13 Heb 12:17).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 25:21-26",
+      "verses": [
+        {
+          "number": 21,
+          "line": "And Isaac intreated the LORD for his wife, because she was barren: and the LORD was intreated of him, and Rebekah his wife conceived."
+        },
+        {
+          "number": 22,
+          "line": "And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the LORD."
+        },
+        {
+          "number": 23,
+          "line": "And the LORD said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger."
+        },
+        {
+          "number": 24,
+          "line": "And when her days to be delivered were fulfilled, behold, there were twins in her womb."
+        },
+        {
+          "number": 25,
+          "line": "And the first came out red, all over like an hairy garment; and they called his name Esau."
+        },
+        {
+          "number": 26,
+          "line": "And after that came his brother out, and his hand took hold on Esau's heel; and his name was called Jacob: and Isaac was threescore years old when she bare them."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "isaac",
+      "titleEn": "Isaac",
+      "titleKa": null
+    },
+    {
+      "slug": "esau-sells-birthright-to-jacob",
+      "titleEn": "Esau Sells Birthright to Jacob",
+      "titleKa": null
+    },
+    {
+      "slug": "esau-marries-two-wives",
+      "titleEn": "Esau Marries Two Wives",
+      "titleKa": null
+    },
+    {
+      "slug": "esau-marries-third-wife",
+      "titleEn": "Esau Marries Third Wife",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas0680_8-7-2013 1-46-50 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas0680_8-7-2013 1-46-50 PM.jpg",
+      "caption": "Esau&#39;s despair at not getting the birthright blessing"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Birthright and Bad Bargains",
+      "caption": "This sermon looks at the story of Isaac who intended to bless his eldest son Esau, but is tricked and blesses his younger son Jacob. The dynamics of Isaac blessing Jacob speak to us about Christ&#39;s sacrifice and blessing on God&#39;s people.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg7277.mp4"
     }
   ]
 }

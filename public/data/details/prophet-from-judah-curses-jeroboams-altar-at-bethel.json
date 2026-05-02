@@ -4,13 +4,71 @@
   "period": 7,
   "titleEn": "Unknown Prophet Curses Jeroboam's Altar",
   "titleKa": null,
-  "datesEn": "930 BC",
+  "datesEn": "930 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Jeroboam sets up new centers of worship in the divided northern kingdom in Dan & Bethel and creates two golden calves for people to worship. An unknown prophet of Judah condemns the altar in Bethel and Jeroboam&#39;s hand withers and the altar splits.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jeroboam was officiating as priest at the dedication of the new altar at Bethel, endeavoring to invest it with a sanctity that would win for it the homage and respect of the people, God could not allow the king&#39;s bold defiance to go unrebuked. An unknown prophet from Judah steps on the scene.  <BR /><BR />So that Jeroboam and the people might be impressed that the man of God was a true phophet and that his message of warning carried weight, he gave a striking prophecy, which would be immediately fulfilled. It is dangerous for anyone, whoever he be, to lift up his hand against a man sent with a solemn message from God. The stretched&#8212;forth arm was immediately smitten, to strike terror into the hearts of both king and people, and to impress them anew that they had before them a true prophet of God. <BR /><BR />The altar also split in two. This manifestation of the Lord&#39;s presence and power was something that could not be successfully gainsaid. Instead of being persuaded of the solemnity of the altar and the sanctity of their priestly king, the people now realized that Jeroboam was acting in direct defiance of Heaven and bringing upon himself the divine rebuke.<BR /><BR />The king had been humbled. He had also been brought to a realization that he was dealing with a man of God, who, under the circumstances, alone could release him from his present plight. The restoration of the arm on the submission of the king and the prayer of the prophet was designed to give Jeroboam another opportunity for repentance. He had not yet gone too far for the Lord to forgive. If the king had been willing to go all the way, and had asked for a restoration of heart as well as of hand, the way would have been opened for a return of the nation of God and a mighty reform throughout the land of Israel.<BR /><BR />The offer of the king was prompted not by gratitude but by policy. An acceptance of hospitality and reward would in the eyes of the people imply that the prophet condoned the king&#39;s course and would serve to destroy the solemn impression that he had made. He would also have created an unfavorable impression regarding his character and mission. The resolute refusal to receive the king&#39;s proffered reward placed the prohet on vantage ground and made a deep impression upon both king and people.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 13:1-10",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And, behold, there came a man of God out of Judah by the word of the LORD unto Bethel: and Jeroboam stood by the altar to burn incense."
+        },
+        {
+          "number": 2,
+          "line": "And he cried against the altar in the word of the LORD, and said, O altar, altar, thus saith the LORD; Behold, a child shall be born unto the house of David, Josiah by name; and upon thee shall he offer the priests of the high places that burn incense upon thee, and men's bones shall be burnt upon thee."
+        },
+        {
+          "number": 3,
+          "line": "And he gave a sign the same day, saying, This is the sign which the LORD hath spoken; Behold, the altar shall be rent, and the ashes that are upon it shall be poured out."
+        },
+        {
+          "number": 4,
+          "line": "And it came to pass, when king Jeroboam heard the saying of the man of God, which had cried against the altar in Bethel, that he put forth his hand from the altar, saying, Lay hold on him. And his hand, which he put forth against him, dried up, so that he could not pull it in again to him."
+        },
+        {
+          "number": 5,
+          "line": "The altar also was rent, and the ashes poured out from the altar, according to the sign which the man of God had given by the word of the LORD."
+        },
+        {
+          "number": 6,
+          "line": "And the king answered and said unto the man of God, Intreat now the face of the LORD thy God, and pray for me, that my hand may be restored me again. And the man of God besought the LORD, and the king's hand was restored him again, and became as it was before."
+        },
+        {
+          "number": 7,
+          "line": "And the king said unto the man of God, Come home with me, and refresh thyself, and I will give thee a reward."
+        },
+        {
+          "number": 8,
+          "line": "And the man of God said unto the king, If thou wilt give me half thine house, I will not go in with thee, neither will I eat bread nor drink water in this place:"
+        },
+        {
+          "number": 9,
+          "line": "For so was it charged me by the word of the LORD, saying, Eat no bread, nor drink water, nor turn again by the same way that thou camest."
+        },
+        {
+          "number": 10,
+          "line": "So he went another way, and returned not by the way that he came to Bethel."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jeroboam-i",
+      "titleEn": "Jeroboam I",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "_GoodSalt-prcas0875_8-26-2013 5-09-12 PM.jpg",
+      "caption": "Jeroboam&#39;s apostasy."
+    }
+  ],
+  "videos": []
 }

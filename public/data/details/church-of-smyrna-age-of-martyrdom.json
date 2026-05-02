@@ -4,18 +4,51 @@
   "period": 10,
   "titleEn": "Church of Smyrna, Age of Martyrdom",
   "titleKa": null,
-  "datesEn": "100–313 AD (~213)",
+  "datesEn": "100&ndash;313 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The message to the church of Smyrna is to a persecuted church and represents a time of persecution in the church (2nd and 3rd centuries). Smyrna was also a seaport city. This church received no correction, but was encouraged to be faithful to death.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Smyrna was the second of the seven churches listed in the book of Revelation that received a special message from Christ. Though it was an ancient city located about 50 miles north of Ephesus in Asia Minor that suffered persecution, it is also a church which represents a period of history during which God&#39;s people suffered much bloodshed. The letter to the church of Smyrna is a letter to all Christians suffering for their faith. Unlike most of the other letters to the churches, this church does not receive a rebuke.<BR /><BR /><B>Tribulation in Smyrna</B><BR />The name &#34;Smyrna&#34; is possibly derived from the word &#34;myrrh&#34;. This old city at one time produced an aromatic gum used in embalming the dead. Others believe the name comes from an ancient goddess named Samorna. The purpose of the letter to Smyrna is to provide hope and courage to a church whose members were dying for their belief in Jesus. The letter begins with reference to Jesus Christ as the &#34;First and the Last, who was dead, and came to life&#34; (Revelation 2:8). These are meaningful words to a church whose members were giving up their lives for Christ. Jesus says He knows of their &#34;tribulation.&#34; <BR />The period of church history represented by Smyrna stretches from the end of the first century (about A.D. 100) to the time when Constantine spoke favorably about Christians (about A.D. 313). This 200 year slice of time is marked by major bloodshed among Christians. Roman rulers such as Trajan, Hadrian, and Marcus Aurelius began persecutions which became more systematic under Decius and Valerian. The worst oppression happened under Diocletian (284&#8212;305). Smyrna rightfully represents the &#34;Age of Martyrdom&#34; in Christian church history.<BR /><BR />The letter suggests that some &#34;who say they are Jews and are not, but are a synagogue of Satan&#34; may indicate some Jews (or people who figuratively called themselves Jews) were reporting Christians to the authorities. From the book of Acts we know there were Jews who maligned Christians. Smyrna held a large Jewish population during the time of John. The word Satan means &#34;accuser&#34; and plots against Christians could have been made in the Jewish synagogues. But Jesus says, &#34;Do not fear any of those things which you are about to suffer. Indeed, the devil is about to throw some of you into prison, that you may be tested...&#34; (v. 10). From Trajan to Constantine, the arrest and imprisonment of Christians grew more and more extensive. Historical records outline procedures in Roman government for executing followers of Christ.<BR /><BR /><B>Ten Days</B><BR />An interesting reference in this letter says, &#34;...you will have tribulation ten days&#34; (v. 10). This has been taken to mean by some as a &#34;general period of time.&#34; But many Bible students have applied the &#34;day for a year&#34; principle of prophetic interpretation (see Daniel 7:25) to mean 10 years. That application certainly fits the most severe time of persecution for Christians begun under Diocletian from A.D. 303&#8212;313. During this period an effort was made to completely wipe out Christians. The Scriptures were gathered and burned and a special focus was made to capture and destroy the clergy. Jesus said in the letter to Smyrna, &#34;Be faithful until death, and I will give you the crown of life&#34; (v. 10). The word &#34;crown&#34; speaks of the garland of victory given to winners in the Greek games. Though some would be put to death, Christ assures all who are victors in faith that they will receive the crown of eternal life.<BR /><BR /><B>No Second Death</B><BR />As with the letter to Ephesus, this letter also concludes with &#34;He who has an ear, let him hear what the Spirit says to the churches. He who overcomes shall not be hurt by the second death&#34; (v. 11). The &#34;first death&#34; is a temporary ending of life. The &#34;second death&#34; speaks of an eternal death from which no one will be resurrected (see Acts 24:15 and Revelation 20:14).<BR /><BR />If you have experienced trials because of your faith in Jesus, you may find hope in the message to the church of Smyrna. Christ knows about your tribulations. The Lord is aware of the challenges you face and assures you that even in the face of death you may have the assurance of eternal life. Be faithful! The One who is the First and Last, who was dead and is alive, holds you in His hands. Jesus will not allow you to be hurt by the second death.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Revelation 2:8-11",
+      "verses": [
+        {
+          "number": 8,
+          "line": "And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;"
+        },
+        {
+          "number": 9,
+          "line": "I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan."
+        },
+        {
+          "number": 10,
+          "line": "Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life."
+        },
+        {
+          "number": 11,
+          "line": "He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "prophecies-of-the-end-of-time",
+      "titleEn": "Prophecies of the End of Time",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/BambergApocalypseFolio004vJohnWritesToEphesusAndSmyrna_8-8-2013 3-43-29 PM.JPG",
-      "caption": ""
+      "file": "BambergApocalypseFolio004vJohnWritesToEphesusAndSmyrna_8-8-2013 3-43-29 PM.JPG",
+      "caption": "John writing to Smyrna and Ephesus, Auftraggeber: Otto III. oder Heinrich II."
+    },
+    {
+      "file": "GoodSalt-7 churches_8-5-2013 4-08-22 PM.jpg",
+      "caption": "The Seven Churches of Asia Minor."
     }
-  ]
+  ],
+  "videos": []
 }

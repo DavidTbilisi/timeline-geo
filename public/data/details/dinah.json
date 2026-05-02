@@ -4,13 +4,35 @@
   "period": 3,
   "titleEn": "Dinah",
   "titleKa": null,
-  "datesEn": "1695–1585 BC",
+  "datesEn": "1695&ndash;1585 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;judged.&#34; She is the daughter of Jacob through Leah. She is seduced by Shechem, the son of King Hamor, when Jacob&#39;s family lives in the area. Simeon and Levi kill all the males of the city of Shechem in revenge and rescue their sister.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A daughter of Jacob by Leah (Gen 30:21). She was violated by Shechem, the son of King Hamor of the city of Shechem, when Jacob&#39;s family lived in the area after their return from Haran. For this shameful act, Simeon and Levi, Dinah&#39;s full brothers, killed all the males of Shechem and rescued their sister, who had been taken into Shechem&#39;s house to become his wife (ch 34). Jacob did not approve of his [sons&#39;] crime (v 30), and denounced it on his deathbed (ch 49:5&#8212;7). Of Dinah&#39;s later life nothing is known.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 30:21",
+      "verses": [
+        {
+          "number": 21,
+          "line": "And afterwards she bare a daughter, and called her name Dinah."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Dinah_8-7-2013 2-07-12 PM.jpg",
+      "caption": "&#34;Dinah&#34; James Tissot"
+    }
+  ],
+  "videos": []
 }

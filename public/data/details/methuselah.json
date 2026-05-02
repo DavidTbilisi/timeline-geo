@@ -4,18 +4,55 @@
   "period": 1,
   "titleEn": "Methuselah",
   "titleKa": null,
-  "datesEn": "3267–2298 BC (969)",
+  "datesEn": "3267&ndash;2298 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Methuselah died the same year as the flood. Deep etymological study of his name reveals a meaning similar to &#34;When he dies, it shall come,&#34; lending credence to his father Enoch&#39;s status as a prophet. He was the son of Enoch and grandfather of Noah.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 5:21",
+      "verses": [
+        {
+          "number": 21,
+          "line": "And Enoch lived sixty and five years, and begat Methuselah:"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 5:27",
+      "verses": [
+        {
+          "number": 27,
+          "line": "And all the days of Methuselah were nine hundred sixty and nine years: and he died."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "enoch",
+      "titleEn": "Enoch",
+      "titleKa": null
+    },
+    {
+      "slug": "lamech",
+      "titleEn": "Lamech",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/tissot-Building_the_Ark_7-31-2013 9-22-14 AM.jpg",
-      "caption": ""
+      "file": "tissot-Building_the_Ark_7-31-2013 9-22-14 AM.jpg",
+      "caption": "Methuselah lived during the time of the building of the ark and it is believed by some Biblical scholars that he and his family may have helped Noah in the construction of it."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Walking With God",
+      "caption": "This New Year&#39;s sermon calls us to resolve to deepen our walk with God. Is your life entirely consecrated to God? Two Bible characters walked with God irrespective of an evil environment, Enoch and Noah. Pastor Batchelor shares seven tips to improve your walk with God.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg7017.mp4"
     }
   ]
 }

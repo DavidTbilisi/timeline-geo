@@ -4,13 +4,25 @@
   "period": 7,
   "titleEn": "Shalmaneser III Defeats Hazael",
   "titleKa": null,
-  "datesEn": "841 BC",
+  "datesEn": "841 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The king of Assyria is finally able to defeat the coalition of kings that included Syria and Israel. Assyria becomes the new predominant power in the region and Israel is forced to pay tribute to them.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Shalmaneser III 859&#8212;834 b.c., a son of Ashurnasirpal II. He was a great warrior and the first Assyrian king to come in contact with Israel. In his first year he waged an aggressive war in northern Syria, causing several kings of Syria and Palestine to form a league to meet his menace. Twelve kings in all joined the league whom Shalmaneser met in his 6th year 853 b.c. at Qarqar in central Syria. <BR /><BR />The allied armies were led by Ben&#8212;hadad of Damascus and the king of Hamath. Ahab of Israel furnished 10,000 foot soldiers and 2,000 chariots, about half of all the chariots of the allied armies. Shalmaneser claims to have won a victory, but the truthfulness of his claim is doubted, because he returned at once to Assyria, and therefore must have been weakened. He returned after 5 years, but was again stopped by the allies, and again during the following campaign. However, he was finally able to break the power of the league in his 14th year 845 b.c., and in his 18th year 841 b.c. he defeated King Hazael of Damascus at Mount Hermon. <BR /><BR />The kings of Tyre and Sidon, as well as King Jehu of Israel, paid tribute and at once became Assyrian vassals. On the famous Black Obelisk, found in 1845 by Henry Layard at Nimrud, and now in the British Museum, the payment of Jehu&#39;s tribute is depicted in sculpture. On the 2d of the 5 rows of relief King Jehu is seen kissing the ground at the feet of Shalmaneser and offering him, as tribute, bars and vessels of precious metals, which are carried by Israelite courtiers.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "shalmaneser-iii",
+      "titleEn": "Shalmaneser III",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Shalmaneser III_4-3-2013 5-25-11 PM.jpg",
+      "caption": "Black Obelisk of Shalmaneser III, erected in 825 B.C. Located in the British Museum."
+    }
+  ],
+  "videos": []
 }

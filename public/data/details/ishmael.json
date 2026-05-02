@@ -4,18 +4,59 @@
   "period": 3,
   "titleEn": "Ishmael",
   "titleKa": null,
-  "datesEn": "1860–1723 BC (~137)",
+  "datesEn": "1860&ndash;1723 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;God hears.&#34; He is Abraham&#39;s eldest son through Hagar, Sarah&#39;s handmaid. After a conflict between Isaac and Ishmael breaks out, Sarah requests Hagar and Ishmael be sent away. He also becomes the father of a great nation of Ishmaelites.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Ishmael.The son born to Abram by his Egyptian slave Hagar, as the result of Sarai&#39;s plan to obtain a child through giving her maidservant to her husband (Gen 16:1&#8212;3). This method was in harmony with Mesopotamian custom in the patriarchal age. However, it showed a lack of faith on the part of Sarai and Abram, to whom God had promised an heir (ch 15:4), and was productive of much trouble in the household (ch 16:4&#8212;9). <BR /><BR />Abram was 86 years of age when Ishmael was born, and 11 years had passed since he had come to Canaan (chs 12:4 16:16). When Ishmael was 13 years old, the institution of circumcision was given to Abraham, and all male members of his household, including Ishmael, were circumcised (cf. chs 17:23&#8212;27). A year later Isaac was born (cf. chs 17:24 21:5). Later, because of jealousy toward Isaac, Ishmael and his mother were expelled from Abraham&#39;s household (ch 21:10&#8212;14). <BR /><BR />Wandering aimlessly in the southern wilderness, they almost perished of thirst, but were saved when an angel showed them a well of water (vs 15&#8212;19). Ishmael later settled in the Wilderness of Paran, which lies to the south of Palestine. He lived by his bow, and in the course of time married a girl from his mother&#39;s homeland (vs 20, 21). <BR /><BR />God repeatedly promised to make Ishmael the progenitor of a great nation (chs 16:10&#8212;12 17:20 21:13, 18), which promise was later fulfilled (ch 25:12&#8212;16). See Ishmaelite. Although expelled from Abraham&#39;s household, Ishmael seems to have maintained good relations with his relatives in Palestine, as shown by the fact that one of his daughters was later married to Esau (ch 28:9), and that he took part in the funeral rites for his father (ch 25:9). He died at the age of 137 (v 17).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 16:16",
+      "verses": [
+        {
+          "number": 16,
+          "line": "And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 25:17",
+      "verses": [
+        {
+          "number": 17,
+          "line": "And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "abraham",
+      "titleEn": "Abraham",
+      "titleKa": null
+    },
+    {
+      "slug": "ishmael-mocks-isaac",
+      "titleEn": "Ishmael Mocks Isaac",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Navez_Agar_et_Ismael.jpg",
-      "caption": ""
+      "file": "Navez_Agar_et_Ismael.jpg",
+      "caption": "Painting of Hagar and Ishmael in the desert by Fran&#231;ois-Joseph Navez in 1820. Located at the Royal Museums of Fine Arts in Belgium."
+    },
+    {
+      "file": "Wilderness of Paran_5-15-2013 4-18-17 PM.jpg",
+      "caption": "Wilderness of Paran."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Abraham, Part 6: The Surrogate Son",
+      "caption": "This is the sixth in a 12 part series on the life of Abraham. This sermon focuses on Hagar and Ishmael and Genesis 16. God permits us to pursue answers to our problems in order to teach us our need of the Lord.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2411.mp4"
     }
   ]
 }

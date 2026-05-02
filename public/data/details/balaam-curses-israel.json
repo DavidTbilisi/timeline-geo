@@ -4,18 +4,346 @@
   "period": 5,
   "titleEn": "Balaam Curses Israel",
   "titleKa": null,
-  "datesEn": "1408 BC",
+  "datesEn": "1408 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Balak, king of Moab, hires Balaam to curse Israel. God instructs Balaam not to go, but he desires the payment and goes, but God&#39;s Spirit works through Balaam and he prophesies good toward Israel, much to the displeasure of Balak.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "God had made known His mind to Balaam. But the Lord allowed him to go. This was merely a permissive directive, based not on God&#39;s will but on Balaam&#39;s self&#8212;will. Had the prophet desired God&#39;s will the words recorded would have settled the matter. But when a man is rebellious at heart God may permit him to follow his desires and suffer the consequences (see Ps. 81:11, 12 Hosea 4:17). Balaam is an example of a prophet who prostitutes his calling, seeking to make gain of his divine gift. <BR /><BR />Accordingly, we read of the &#34;doctrine of Balaam&#34; (Rev. 2:14), the &#34;error of Balaam&#34; (Jude 11), and the &#34;way of Balaam&#34; (2 Peter 2:15). After Balaam&#39;s &#34;talking donkey&#34; tried to persuade him not to go, he still went. When Balaam tried to curse Israel, only blessing came from his lips. Balak&#39;s anger was kindled. Upon arriving at his home Balaam conceived a scheme by which the downfall of Israel might be brought about (see ch. 31:16), and returned immediately to Moab to lay his plan before the king. King Balak died soon after in battle (ch. 31:8).",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Numbers 22:22-41",
+      "verses": [
+        {
+          "number": 22,
+          "line": "And God's anger was kindled because he went: and the angel of the LORD stood in the way for an adversary against him. Now he was riding upon his ass, and his two servants were with him."
+        },
+        {
+          "number": 23,
+          "line": "And the ass saw the angel of the LORD standing in the way, and his sword drawn in his hand: and the ass turned aside out of the way, and went into the field: and Balaam smote the ass, to turn her into the way."
+        },
+        {
+          "number": 24,
+          "line": "But the angel of the LORD stood in a path of the vineyards, a wall being on this side, and a wall on that side."
+        },
+        {
+          "number": 25,
+          "line": "And when the ass saw the angel of the LORD, she thrust herself unto the wall, and crushed Balaam's foot against the wall: and he smote her again."
+        },
+        {
+          "number": 26,
+          "line": "And the angel of the LORD went further, and stood in a narrow place, where was no way to turn either to the right hand or to the left."
+        },
+        {
+          "number": 27,
+          "line": "And when the ass saw the angel of the LORD, she fell down under Balaam: and Balaam's anger was kindled, and he smote the ass with a staff."
+        },
+        {
+          "number": 28,
+          "line": "And the LORD opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times?"
+        },
+        {
+          "number": 29,
+          "line": "And Balaam said unto the ass, Because thou hast mocked me: I would there were a sword in mine hand, for now would I kill thee."
+        },
+        {
+          "number": 30,
+          "line": "And the ass said unto Balaam, Am not I thine ass, upon which thou hast ridden ever since I was thine unto this day? was I ever wont to do so unto thee? And he said, Nay."
+        },
+        {
+          "number": 31,
+          "line": "Then the LORD opened the eyes of Balaam, and he saw the angel of the LORD standing in the way, and his sword drawn in his hand: and he bowed down his head, and fell flat on his face."
+        },
+        {
+          "number": 32,
+          "line": "And the angel of the LORD said unto him, Wherefore hast thou smitten thine ass these three times? behold, I went out to withstand thee, because thy way is perverse before me:"
+        },
+        {
+          "number": 33,
+          "line": "And the ass saw me, and turned from me these three times: unless she had turned from me, surely now also I had slain thee, and saved her alive."
+        },
+        {
+          "number": 34,
+          "line": "And Balaam said unto the angel of the LORD, I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again."
+        },
+        {
+          "number": 35,
+          "line": "And the angel of the LORD said unto Balaam, Go with the men: but only the word that I shall speak unto thee, that thou shalt speak. So Balaam went with the princes of Balak."
+        },
+        {
+          "number": 36,
+          "line": "And when Balak heard that Balaam was come, he went out to meet him unto a city of Moab, which is in the border of Arnon, which is in the utmost coast."
+        },
+        {
+          "number": 37,
+          "line": "And Balak said unto Balaam, Did I not earnestly send unto thee to call thee? wherefore camest thou not unto me? am I not able indeed to promote thee to honour?"
+        },
+        {
+          "number": 38,
+          "line": "And Balaam said unto Balak, Lo, I am come unto thee: have I now any power at all to say any thing? the word that God putteth in my mouth, that shall I speak."
+        },
+        {
+          "number": 39,
+          "line": "And Balaam went with Balak, and they came unto Kirjathhuzoth."
+        },
+        {
+          "number": 40,
+          "line": "And Balak offered oxen and sheep, and sent to Balaam, and to the princes that were with him."
+        },
+        {
+          "number": 41,
+          "line": "And it came to pass on the morrow, that Balak took Balaam, and brought him up into the high places of Baal, that thence he might see the utmost part of the people."
+        }
+      ]
+    },
+    {
+      "reference": "Numbers 23:1-30",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams."
+        },
+        {
+          "number": 2,
+          "line": "And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a ram."
+        },
+        {
+          "number": 3,
+          "line": "And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the LORD will come to meet me: and whatsoever he sheweth me I will tell thee. And he went to an high place."
+        },
+        {
+          "number": 4,
+          "line": "And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon every altar a bullock and a ram."
+        },
+        {
+          "number": 5,
+          "line": "And the LORD put a word in Balaam's mouth, and said, Return unto Balak, and thus thou shalt speak."
+        },
+        {
+          "number": 6,
+          "line": "And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab."
+        },
+        {
+          "number": 7,
+          "line": "And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east, saying, Come, curse me Jacob, and come, defy Israel."
+        },
+        {
+          "number": 8,
+          "line": "How shall I curse, whom God hath not cursed? or how shall I defy, whom the LORD hath not defied?"
+        },
+        {
+          "number": 9,
+          "line": "For from the top of the rocks I see him, and from the hills I behold him: lo, the people shall dwell alone, and shall not be reckoned among the nations."
+        },
+        {
+          "number": 10,
+          "line": "Who can count the dust of Jacob, and the number of the fourth part of Israel? Let me die the death of the righteous, and let my last end be like his!"
+        },
+        {
+          "number": 11,
+          "line": "And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed them altogether."
+        },
+        {
+          "number": 12,
+          "line": "And he answered and said, Must I not take heed to speak that which the LORD hath put in my mouth?"
+        },
+        {
+          "number": 13,
+          "line": "And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence."
+        },
+        {
+          "number": 14,
+          "line": "And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on every altar."
+        },
+        {
+          "number": 15,
+          "line": "And he said unto Balak, Stand here by thy burnt offering, while I meet the LORD yonder."
+        },
+        {
+          "number": 16,
+          "line": "And the LORD met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus."
+        },
+        {
+          "number": 17,
+          "line": "And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said unto him, What hath the LORD spoken?"
+        },
+        {
+          "number": 18,
+          "line": "And he took up his parable, and said, Rise up, Balak, and hear; hearken unto me, thou son of Zippor:"
+        },
+        {
+          "number": 19,
+          "line": "God is not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do it? or hath he spoken, and shall he not make it good?"
+        },
+        {
+          "number": 20,
+          "line": "Behold, I have received commandment to bless: and he hath blessed; and I cannot reverse it."
+        },
+        {
+          "number": 21,
+          "line": "He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israel: the LORD his God is with him, and the shout of a king is among them."
+        },
+        {
+          "number": 22,
+          "line": "God brought them out of Egypt; he hath as it were the strength of an unicorn."
+        },
+        {
+          "number": 23,
+          "line": "Surely there is no enchantment against Jacob, neither is there any divination against Israel: according to this time it shall be said of Jacob and of Israel, What hath God wrought!"
+        },
+        {
+          "number": 24,
+          "line": "Behold, the people shall rise up as a great lion, and lift up himself as a young lion: he shall not lie down until he eat of the prey, and drink the blood of the slain."
+        },
+        {
+          "number": 25,
+          "line": "And Balak said unto Balaam, Neither curse them at all, nor bless them at all."
+        },
+        {
+          "number": 26,
+          "line": "But Balaam answered and said unto Balak, Told not I thee, saying, All that the LORD speaketh, that I must do?"
+        },
+        {
+          "number": 27,
+          "line": "And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from thence."
+        },
+        {
+          "number": 28,
+          "line": "And Balak brought Balaam unto the top of Peor, that looketh toward Jeshimon."
+        },
+        {
+          "number": 29,
+          "line": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams."
+        },
+        {
+          "number": 30,
+          "line": "And Balak did as Balaam had said, and offered a bullock and a ram on every altar."
+        }
+      ]
+    },
+    {
+      "reference": "Numbers 24:1-25",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness."
+        },
+        {
+          "number": 2,
+          "line": "And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him."
+        },
+        {
+          "number": 3,
+          "line": "And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:"
+        },
+        {
+          "number": 4,
+          "line": "He hath said, which heard the words of God, which saw the vision of the Almighty, falling into a trance, but having his eyes open:"
+        },
+        {
+          "number": 5,
+          "line": "How goodly are thy tents, O Jacob, and thy tabernacles, O Israel!"
+        },
+        {
+          "number": 6,
+          "line": "As the valleys are they spread forth, as gardens by the river's side, as the trees of lign aloes which the LORD hath planted, and as cedar trees beside the waters."
+        },
+        {
+          "number": 7,
+          "line": "He shall pour the water out of his buckets, and his seed shall be in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted."
+        },
+        {
+          "number": 8,
+          "line": "God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce them through with his arrows."
+        },
+        {
+          "number": 9,
+          "line": "He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed is he that blesseth thee, and cursed is he that curseth thee."
+        },
+        {
+          "number": 10,
+          "line": "And Balak's anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed them these three times."
+        },
+        {
+          "number": 11,
+          "line": "Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the LORD hath kept thee back from honour."
+        },
+        {
+          "number": 12,
+          "line": "And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,"
+        },
+        {
+          "number": 13,
+          "line": "If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do either good or bad of mine own mind; but what the LORD saith, that will I speak?"
+        },
+        {
+          "number": 14,
+          "line": "And now, behold, I go unto my people: come therefore, and I will advertise thee what this people shall do to thy people in the latter days."
+        },
+        {
+          "number": 15,
+          "line": "And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:"
+        },
+        {
+          "number": 16,
+          "line": "He hath said, which heard the words of God, and knew the knowledge of the most High, which saw the vision of the Almighty, falling into a trance, but having his eyes open:"
+        },
+        {
+          "number": 17,
+          "line": "I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth."
+        },
+        {
+          "number": 18,
+          "line": "And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly."
+        },
+        {
+          "number": 19,
+          "line": "Out of Jacob shall come he that shall have dominion, and shall destroy him that remaineth of the city."
+        },
+        {
+          "number": 20,
+          "line": "And when he looked on Amalek, he took up his parable, and said, Amalek was the first of the nations; but his latter end shall be that he perish for ever."
+        },
+        {
+          "number": 21,
+          "line": "And he looked on the Kenites, and took up his parable, and said, Strong is thy dwellingplace, and thou puttest thy nest in a rock."
+        },
+        {
+          "number": 22,
+          "line": "Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive."
+        },
+        {
+          "number": 23,
+          "line": "And he took up his parable, and said, Alas, who shall live when God doeth this!"
+        },
+        {
+          "number": 24,
+          "line": "And ships shall come from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he also shall perish for ever."
+        },
+        {
+          "number": 25,
+          "line": "And Balaam rose up, and went and returned to his place: and Balak also went his way."
+        }
+      ]
+    }
+  ],
   "related": [],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-pppas0292_8-6-2013 2-12-02 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-pppas0292_8-6-2013 2-12-02 PM.jpg",
+      "caption": "Balaam tries to curse Israel"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Balaam: Part 1",
+      "caption": "Balaam was paid by the king of Moab to curse the Israelites. His life of covetousness is a warning to us.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2515.mp4"
+    },
+    {
+      "title": "Balaam: Part 2",
+      "caption": "The story of Balaam following a covetous heart teaches us how God protects His people against evil. Just as Israel was on the borders of the Promised Land, so we are about to cross over into heaven. In the end, seduction broke down Israel to worship other idols",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2516.mp4"
     }
   ]
 }

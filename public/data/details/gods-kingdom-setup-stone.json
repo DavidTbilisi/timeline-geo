@@ -6,11 +6,33 @@
   "titleKa": null,
   "datesEn": "Future",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The image in Nebuchadnezzar&#39;s dream that represented kingdoms is destroyed by a stone that becomes a mountain and fills the whole earth. The stone is cut out of a mountain without hands (i.e. God&#39;s kingdom that will rule forever).",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The word &#34;stone&#34; used in Daniel 2:45 is used to describe slabs, sling stones, hewn stones, stone vessels, precious stones. The word &#34;rock&#34; is frequently used of God (Deut. 32:4, 18 1 Sam. 2:2 etc.), and the interpretation offered by Daniel is of itself sufficient to identify the symbol as God&#39;s kingdom. The reference to this kingdom being cut out &#34;without hands&#34; show it has a superhuman origin. It is to be founded, not by the ingenious hands of man, but by the mighty hand of God.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Daniel 2:45",
+      "verses": [
+        {
+          "number": 45,
+          "line": "Forasmuch as thou sawest that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "daniel-2-nebuchadnezzars-dream",
+      "titleEn": "Daniel 2 - Nebuchadnezzar's Dream",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-stone_8-5-2013 12-19-26 PM.jpg",
+      "caption": "The image in Nebuchadnezzar&#39;s dream that represented kingdoms is destroyed by a stone that becomes a mountain and fills the whole earth. The stone is cut out of a mountain without hands (i.e. God&#39;s kingdom that will rule forever)."
+    }
+  ],
+  "videos": []
 }

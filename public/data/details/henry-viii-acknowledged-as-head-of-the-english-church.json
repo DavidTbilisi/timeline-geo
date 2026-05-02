@@ -2,15 +2,27 @@
   "slug": "henry-viii-acknowledged-as-head-of-the-english-church",
   "id": 1356,
   "period": 12,
-  "titleEn": "Henry VIII Accepted as Head of the English Church",
+  "titleEn": "Henry VIII Accepted as Head of the English Church ",
   "titleKa": null,
-  "datesEn": "1534 AD",
+  "datesEn": "1534 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "As a result of the Act of Supremacy and Henry VIII&#39;s excommunication, the king was acknowledged as supreme head of the Church of England.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "iStock_000008858855Small_2-26-2013 2-55-54 PM.jpg",
+      "caption": "King Henry VIII of England reigned from 1509 to 1547. One of the most famous monarchs of England, he launched of the English Reformation and broke with the Church in Rome, creating the Church of England. He had six wives including Anne Boleyn. Note engraving from 1855 photo and toning by D walker"
+    }
+  ],
+  "videos": []
 }

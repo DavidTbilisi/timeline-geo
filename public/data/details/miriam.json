@@ -4,18 +4,58 @@
   "period": 4,
   "titleEn": "Miriam",
   "titleKa": null,
-  "datesEn": "1531–1405 BC (~126)",
+  "datesEn": "1531&ndash;1405 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;the beloved one.&#34; She is the daughter of Amram and the sister of Aaron and Moses. Miriam is described as a prophetess who leads the women in praise after the Red Sea experience. She also expresses jealousy with Aaron of Moses&#39; leadership.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The sister of Aaron and Moses (Ex 15:20 Num 26:59). She watched over the ark containing the infant Moses, which was placed by the river&#39;s brink, and negotiated his care (Ex 2:4&#8212;9). After the safe crossing of the Red Sea, Miriam, now called a prophetess, led the Israelite women in praise to God for the miraculous deliverance (Ex 15:20, 21 Mic 6:4). Later, with her brother Aaron, she is described as being jealous of Moses&#39; place of leadership. <BR /><BR />The two voiced their dissatisfaction to Moses, using his marriage to a Cushite woman, by which they probably meant Zipporah, the Midianitess, as a pretext for their discontent. They also claimed equality with him, stating that God had spoken through them as well as through him. For her rebellion against God&#39;s will and His chosen instrument Miriam was punished by leprosy, but was healed after Moses interceded for her (Num 12:1&#8212;16 Deut 24:9). She died in Kadesh, and was buried there (Num 20:1).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Numbers 26:59",
+      "verses": [
+        {
+          "number": 59,
+          "line": "And the name of Amram's wife was Jochebed, the daughter of Levi, whom her mother bare to Levi in Egypt: and she bare unto Amram Aaron and Moses, and Miriam their sister."
+        }
+      ]
+    },
+    {
+      "reference": "Numbers 20:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Then came the children of Israel, even the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "amram",
+      "titleEn": "Amram",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Miriam_5-7-2013 10-25-30 AM.jpg",
-      "caption": ""
+      "file": "Miriam_5-7-2013 10-25-30 AM.jpg",
+      "caption": "Miriam watching over the infant moses drawing by Paul Delaroche in 1857."
+    },
+    {
+      "file": "GoodSalt-prcas0878_8-8-2013 11-05-19 AM.jpg",
+      "caption": "And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances. (Exodus 15:20)"
+    },
+    {
+      "file": "422px-Miriam_Shut_Out_from_the_Camp_8-8-2013 11-05-19 AM.jpg",
+      "caption": "And Miriam was shut out from the camp seven days: and the people journeyed not till Miriam was brought in again. (Numbers 12:15)James Jacques Joseph Tissot, c. 1896 - 1902"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Baby in A Basket",
+      "caption": "This story is about the faith of the mother of Moses. She deeply loved her baby who was a type of Christ. He was put in a papyri basket, enclosed, as it were, in the word. Moses was eventually found and cared for by the Egyptians whom he some day conquered.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2919.mp4"
     }
   ]
 }

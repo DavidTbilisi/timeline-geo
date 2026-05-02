@@ -4,13 +4,152 @@
   "period": 8,
   "titleEn": "Jerusalem Temple Resume Building",
   "titleKa": null,
-  "datesEn": "520 BC",
+  "datesEn": "520 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After resistance to the rebuilding of the Temple in Jerusalem stalls the work, an investigation is made by Darius who orders the construction to begin once more.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Prophecy seems to have been silent for about 16 years, ever since the &#34;third year of Cyrus,&#34; Daniel uttered his last message (Dan. 10:1). Now it was revived. Since we have the actual writings of the two prophets here mentioned, Haggai and Zechariah, we are well informed as to what they contributed by way of encouragement and guidance in the resumption of work on the Temple. It is evident from their words that the long delay in realizing the ardent hopes in regard to the rebuilding of the Temple had had an adverse effect on the spirit of the people. Experiencing opposition to their pious efforts to please God and to re&#8212;establish the Temple and its services, they allowed their enthusiasm to fade away. A selfish desire for comfort had taken the place of zeal for the honor of God.<BR /><BR />Instead of watching for an opportunity to begin the work anew, and taking advantage of it, the people acquiesced in the indefinite postponement and said among themselves, &#34;The time is not come, the time that the Lord&#39;s house should be built&#34; (Haggai 1:2). Laying aside the idea of pressing forward with the work, they had turned their energies to the practical object of establishing themselves in comfortable homes (Haggai 1:4, 9). The result of this complacency had been divine judgments, consisting of poor harvests, economic distress (Haggai 1:6, 1:9&#8212;11), and great political insecurity (Zech. 1:12 to 2:9). These conditions had not been recognized by the people as signs of God&#39;s displeasure. Human agents were therefore raised up by God to interpret to the people the meaning of the circumstances in which they found themselves and to inspire them with new zeal.<BR /><BR />The data given by Haggai reveal the successive stages that marked the resumption of building activity. The first call for action was sounded Aug. 29, 520 b.c. (Haggai 1:1). This appeal proved successful, for the leaders apparently began laying plans immediately, and actually set to work about three weeks later, Sept. 21, 520 b.c. (Haggai 1:15). When the site was cleared and the trenches were being dug for the new foundation, it again became apparent that the new Temple would not compare well in size and beauty with that of Solomon&#39;s, and some expressions of disappointment were heard (Haggai 2:3, 9 cf. Ezra 3:12, 13). For this reason Haggai addressed another message of encouragement, this time to the people, on October 17 (Haggai 2:1). Two months later everything was ready for the laying of the foundation, and that great occasion, Dec. 18, 520 b.c. (Haggai 2:10, 18), was celebrated, in keeping with Oriental custom. On that day Haggai delivered two speeches, the last of which we have any record. In the meantime, two months after Haggai delivered his first recorded message, Zechariah joined him (Zech. 1:1). A study of the books of Haggai and Zechariah emphasizes the accuracy of the statement of Ezra 5:2, that &#34;the prophets of God&#34; were &#34;helping them&#34; in rebuilding the Temple. Their stirring messages of exhortation, instruction, and encouragement contributed much to the task in fact, except for their inspired ministry, the Temple might have continued to lie desolate.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Ezra 5:1-17",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that were in Judah and Jerusalem in the name of the God of Israel, even unto them."
+        },
+        {
+          "number": 2,
+          "line": "Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which is at Jerusalem: and with them were the prophets of God helping them."
+        },
+        {
+          "number": 3,
+          "line": "At the same time came to them Tatnai, governor on this side the river, and Shetharboznai, and their companions, and said thus unto them, Who hath commanded you to build this house, and to make up this wall?"
+        },
+        {
+          "number": 4,
+          "line": "Then said we unto them after this manner, What are the names of the men that make this building?"
+        },
+        {
+          "number": 5,
+          "line": "But the eye of their God was upon the elders of the Jews, that they could not cause them to cease, till the matter came to Darius: and then they returned answer by letter concerning this matter."
+        },
+        {
+          "number": 6,
+          "line": "The copy of the letter that Tatnai, governor on this side the river, and Shetharboznai, and his companions the Apharsachites, which were on this side the river, sent unto Darius the king:"
+        },
+        {
+          "number": 7,
+          "line": "They sent a letter unto him, wherein was written thus; Unto Darius the king, all peace."
+        },
+        {
+          "number": 8,
+          "line": "Be it known unto the king, that we went into the province of Judea, to the house of the great God, which is builded with great stones, and timber is laid in the walls, and this work goeth fast on, and prospereth in their hands."
+        },
+        {
+          "number": 9,
+          "line": "Then asked we those elders, and said unto them thus, Who commanded you to build this house, and to make up these walls?"
+        },
+        {
+          "number": 10,
+          "line": "We asked their names also, to certify thee, that we might write the names of the men that were the chief of them."
+        },
+        {
+          "number": 11,
+          "line": "And thus they returned us answer, saying, We are the servants of the God of heaven and earth, and build the house that was builded these many years ago, which a great king of Israel builded and set up."
+        },
+        {
+          "number": 12,
+          "line": "But after that our fathers had provoked the God of heaven unto wrath, he gave them into the hand of Nebuchadnezzar the king of Babylon, the Chaldean, who destroyed this house, and carried the people away into Babylon."
+        },
+        {
+          "number": 13,
+          "line": "But in the first year of Cyrus the king of Babylon the same king Cyrus made a decree to build this house of God."
+        },
+        {
+          "number": 14,
+          "line": "And the vessels also of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that was in Jerusalem, and brought them into the temple of Babylon, those did Cyrus the king take out of the temple of Babylon, and they were delivered unto one, whose name was Sheshbazzar, whom he had made governor;"
+        },
+        {
+          "number": 15,
+          "line": "And said unto him, Take these vessels, go, carry them into the temple that is in Jerusalem, and let the house of God be builded in his place."
+        },
+        {
+          "number": 16,
+          "line": "Then came the same Sheshbazzar, and laid the foundation of the house of God which is in Jerusalem: and since that time even until now hath it been in building, and yet it is not finished."
+        },
+        {
+          "number": 17,
+          "line": "Now therefore, if it seem good to the king, let there be search made in the king's treasure house, which is there at Babylon, whether it be so, that a decree was made of Cyrus the king to build this house of God at Jerusalem, and let the king send his pleasure to us concerning this matter."
+        }
+      ]
+    },
+    {
+      "reference": "Ezra 6:1-12",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon."
+        },
+        {
+          "number": 2,
+          "line": "And there was found at Achmetha, in the palace that is in the province of the Medes, a roll, and therein was a record thus written:"
+        },
+        {
+          "number": 3,
+          "line": "In the first year of Cyrus the king the same Cyrus the king made a decree concerning the house of God at Jerusalem, Let the house be builded, the place where they offered sacrifices, and let the foundations thereof be strongly laid; the height thereof threescore cubits, and the breadth thereof threescore cubits;"
+        },
+        {
+          "number": 4,
+          "line": "With three rows of great stones, and a row of new timber: and let the expenses be given out of the king's house:"
+        },
+        {
+          "number": 5,
+          "line": "And also let the golden and silver vessels of the house of God, which Nebuchadnezzar took forth out of the temple which is at Jerusalem, and brought unto Babylon, be restored, and brought again unto the temple which is at Jerusalem, every one to his place, and place them in the house of God."
+        },
+        {
+          "number": 6,
+          "line": "Now therefore, Tatnai, governor beyond the river, Shetharboznai, and your companions the Apharsachites, which are beyond the river, be ye far from thence:"
+        },
+        {
+          "number": 7,
+          "line": "Let the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in his place."
+        },
+        {
+          "number": 8,
+          "line": "Moreover I make a decree what ye shall do to the elders of these Jews for the building of this house of God: that of the king's goods, even of the tribute beyond the river, forthwith expenses be given unto these men, that they be not hindered."
+        },
+        {
+          "number": 9,
+          "line": "And that which they have need of, both young bullocks, and rams, and lambs, for the burnt offerings of the God of heaven, wheat, salt, wine, and oil, according to the appointment of the priests which are at Jerusalem, let it be given them day by day without fail:"
+        },
+        {
+          "number": 10,
+          "line": "That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons."
+        },
+        {
+          "number": 11,
+          "line": "Also I have made a decree, that whosoever shall alter this word, let timber be pulled down from his house, and being set up, let him be hanged thereon; and let his house be made a dunghill for this."
+        },
+        {
+          "number": 12,
+          "line": "And the God that hath caused his name to dwell there destroy all kings and people, that shall put to their hand to alter and to destroy this house of God which is at Jerusalem. I Darius have made a decree; let it be done with speed."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "darius-the-mede",
+      "titleEn": "Darius the Mede",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-templeRebuild_8-6-2013 2-22-40 PM.jpg",
+      "caption": "temple rebuilt"
+    }
+  ],
+  "videos": []
 }

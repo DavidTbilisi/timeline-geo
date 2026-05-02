@@ -4,13 +4,55 @@
   "period": 6,
   "titleEn": "David in Cave at Adullam",
   "titleKa": null,
-  "datesEn": "1018 BC",
+  "datesEn": "1018 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "While running for his life, David flees to the cave of Adullam. His family and others join him and he becomes captain over a small army of about 400 men. These include those who are &#34;discontent&#34; with Saul&#39;s reign.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "According to Josephus (Antiquities vi. 12. 3), the place where David fled from Saul was a cave near the city of Adullam. Adullam has been identified with Khirbet esh&#8212; Sheikh Madhk&#252;r, 16 1/4 mi. (26 km.) southwest of Jerusalem on the western slope as the mountains fall off toward the Shephelah. The town is at the eastern end of the Valley of Elah, where David met the Philistine giant. Many caves are found in these hills, some of which are very large. The sandstone formation is so soft that the walls can be cut down with shells. Even centuries have not erased the marks of these shells. <BR /><BR />In some of these caverns the shepherds kept their flocks. In some, a few miles south of Adullam, the early Christians are reported to have lived at the time persecution drove them out of the cities of Palestine. Some of the caves contain burial vaults and crypts similar to those in the catacombs at Rome. Adullam was the hiding place of David when he longed for a drink from the well at Bethlehem. Three of his valiant men risked their lives to thread through the lines of the Philistines, who had raided the Valley of Rephaim near Jerusalem, and to bring their beloved leader a drink. So overcome was David by their loyalty that he poured out the water as a libation before the Lord (2 Sam. 23:13&#8212;17 1 Chron. 11:15&#8212;19). This incident occurred in the time of harvest (2 Sam. 23:13 cf. 1 Sam. 23:1), the spring and early summer of the year. David had probably spent the winter in this cave.<BR /><BR />While in the cave of Adullam David wrote the 57th psalm, according to its heading. Recovering his faith and courage, he now expressed his confidence in God&#39;s deliverance, even though he found himself &#34;among lions: and even among ... men, whose teeth are spears and arrows, and their tongue a sharp sword&#34; (Ps. 57:4). His changed attitude may in part be accounted for by the presence of the prophet Gad, who, as some have suggested, joined David and his companions at the cave (see on v. 5).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Samuel 22:1-5",
+      "verses": [
+        {
+          "number": 1,
+          "line": "David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father's house heard it, they went down thither to him."
+        },
+        {
+          "number": 2,
+          "line": "And every one that was in distress, and every one that was in debt, and every one that was discontented, gathered themselves unto him; and he became a captain over them: and there were with him about four hundred men."
+        },
+        {
+          "number": 3,
+          "line": "And David went thence to Mizpeh of Moab: and he said unto the king of Moab, Let my father and my mother, I pray thee, come forth, and be with you, till I know what God will do for me."
+        },
+        {
+          "number": 4,
+          "line": "And he brought them before the king of Moab: and they dwelt with him all the while that David was in the hold."
+        },
+        {
+          "number": 5,
+          "line": "And the prophet Gad said unto David, Abide not in the hold; depart, and get thee into the land of Judah. Then David departed, and came into the forest of Hareth."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas1256_8-7-2013 3-44-20 PM.jpg",
+      "caption": "David and his men hiding in a cave."
+    },
+    {
+      "file": "Cave of Adullam, tb021900210_5-1-2013 3-04-33 PM.jpg",
+      "caption": "Cave of Adullam"
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,44 @@
   "period": 7,
   "titleEn": "Joram",
   "titleKa": null,
-  "datesEn": "877–840 BC",
+  "datesEn": "877&ndash;840 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "10th king of the northern kingdom of Israel, sometimes called Jehoram. He was the son of Ahab and Jezebel and followed his elder brother Ahaziah as the last king of the dynasty of Omri.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Joram (jo`ram) means &#34;Yahweh is exalted&#34;. Joram was the 10th king of the northern kingdom of Israel (if Tibni is included in the count), sometimes called Jehoram. He was the son of Ahab and Jezebel and followed his elder brother Ahaziah as the last king of the dynasty of Omri. He reigned for twelve years. He was somewhat less idolatrous than his father and removed the pillar of Baal, though Baal worship seems to have continued until the time of Jehu though in a less official form. <BR /><BR />Joram was probably the king to whom Ben&#8212;hadad II of Damascus sent his commander Naaman to be cured from leprosy (2 Ki 5:1&#8212;7), and the unidentified king to whom Elisha revealed the movements of the Syrian army, and who fed the enemy soldiers after they had been smitten with blindness at Dothan (2ki 6:8&#8212;23). He was assassinated by Jehu while he was recovering from of a wound he received in a war against the Syrians.<BR /><BR /><BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 3:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 9:24",
+      "verses": [
+        {
+          "number": 24,
+          "line": "And Jehu drew a bow with his full strength, and smote Jehoram between his arms, and the arrow went out at his heart, and he sunk down in his chariot."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ahaziah-9th-king",
+      "titleEn": "Ahaziah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Joram_of_Israel.jpg",
+      "caption": "Illustration of Joram of Judah in 1553 published by Guillaume Rouille"
+    }
+  ],
+  "videos": []
 }

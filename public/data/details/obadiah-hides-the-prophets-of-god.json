@@ -4,18 +4,43 @@
   "period": 7,
   "titleEn": "Obadiah Hides the Prophets of God",
   "titleKa": null,
-  "datesEn": "870 BC",
+  "datesEn": "870 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;the Lord&#39;s servant.&#34; Obadiah is like a prime minister for the evil King Ahab. He is a devout follower of God and when Jezebel massacres the prophets, Obadiah hides 100 in two caves and cares for them.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The character of Obadiah was in keeping with the meaning of his name (the Lord&#39;s servant). It is significant that the king would keep a man in so important an office whom he knew to be a servant of the Lord. But Ahab knew that this man who was faithful to God would also be faithful in administering the affairs of the royal household. Jezebel&#39;s treacherous hatred for the Lord and His servants is clearly outlined in 1 Kings 18. <BR /><BR />Not until here is the picture given us of the severity of the persecution against God&#39;s people, and who was its leading spirit. Queen Jezebel, enraged over Elijah&#39;s message shutting up the heavens that they might not rain, was determined that the prophet and all who associated themselves with him in the service of Jehovah should be slain. Indeed, quite apart from the famine, Jezebel&#39;s devotion to Baal would make her hostile to the prophets of God.<BR /><BR />Obadiah hides 100 prophets from her in a cave. The prophets here mentioned were evidently members of the schools of the prophets. They were a group of prophet scholars and prophet preachers who were originally trained under the prophets and dedicated their lives to a promulgation of the message of righteous and holy living. The fact that 100 of them were hid by Obadiah shows that they must have been quite numerous even in Israel, which for so long a period had been going contrary to the ways of the Lord. Hiding them in a cave was not too difficult. <BR /><BR />Caves were common in Palestine. In the Mt. Carmel region alone over 2,000 caves have been counted. Caves in Palestine were both natural and man made, and served as homes, tombs, storehouses, cisterns, or stables for cattle. In times of war and oppression they afforded excellent places of refuge (Joshua 10:16&#8212;27 Judges 6:2 1 Sam. 13:6 22:1 24:3&#8212;10 2 Sam. 23:13).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Kings 18:3-4",
+      "verses": [
+        {
+          "number": 3,
+          "line": "And Ahab called Obadiah, which was the governor of his house. (Now Obadiah feared the LORD greatly:"
+        },
+        {
+          "number": 4,
+          "line": "For it was so, when Jezebel cut off the prophets of the LORD, that Obadiah took an hundred prophets, and hid them by fifty in a cave, and fed them with bread and water.)"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ahab",
+      "titleEn": "Ahab",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Obadiah_hides_prophets_8-26-2013 5-48-34 PM.jpg",
-      "caption": ""
+      "file": "Obadiah_hides_prophets_8-26-2013 5-48-34 PM.jpg",
+      "caption": "Obadiah hiding the Prophets of God, Johann Christoph Weigel, 1695"
+    },
+    {
+      "file": "obadiah_tissot_640x425_8-6-2013 1-56-36 PM.jpg",
+      "caption": "Obadiah by James Tissot"
     }
-  ]
+  ],
+  "videos": []
 }

@@ -2,15 +2,31 @@
   "slug": "thirty-years-war",
   "id": 1382,
   "period": 12,
-  "titleEn": "Thirty Years' War",
+  "titleEn": "Thirty Years' War ",
   "titleKa": null,
-  "datesEn": "1618–1648 AD",
+  "datesEn": "1618&ndash;1648 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A war in Europe between Protestant and Catholic forces, lasting from 1618 to 1648.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In 1617 Ferdinand of Styria was elected king of Bohemia (essentially modern&#8212;day Czech Republic). At this time, Bohemia was Protestant, but the Jesuits had educated the new king. The Protestants reacted against his election on May 23, 1618, when they marched to the royal palace in Prague and threw members of the king&#39;s staff out of the windows (a 50&#8212;foot fall). This brought about the beginning of the Thirty Year&#39;s War.<BR /><BR />Protestant forces quickly organized and eradicated all of the Jesuits from Bohemia and confiscated various Catholic properties. They also rejected Ferdinand of Styria as their king and elected Frederick V in his stead. However, in 1620, less than a year after his election, Frederick V lost a major battle at White Mountain and was deposed as king.<BR /><BR />The Battle of White Mountain could have ended the war, but numerous mercenaries had vested interests in the ongoing struggle. This prolonged the war until 1625, when the Danish (Protestant) king, Christian IV (1588&#8212;1648), got involved in the conflict. However, Christian IV suffered a devastating defeat at the Battle of Lutter in 1626. As a result of this tremendous victory for Catholic forces, the Edict of Restitution was passed. This edict required Lutherans to return Church properties and turned the followers of John Calvin into outlaws. Various cities were also forced to accept the Catholic faith again upon pain of death.<BR /><BR />Just as the emperor was about to reinstate Catholicism throughout the European lands, the Swedish came to the rescue. Gustavus Adolphus (1594&#8212;1632) was the Protestant king of Sweden and a fantastic military strategist. In 1631 he led the Protestants to victory at the Battle of Breitenfield. However, Adolphus was killed the next year in the Battle of Lutzen (1532).<BR /><BR />Eventually, the French joined with the Swedish Protestants and the war lingered on for another 13 years. The Treaty of Westphalia finally ended the war in 1648. There was no real winner between the Catholic and Protestant forces. Rather, the Treaty of Westphalia promoted the idea of religious toleration. As a result, Catholicism, Calvinism, and Lutheranism were all legally recognized religions in their respected areas.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Strasbourg_walter_gustave_adolphe_2-26-2013 11-58-51 AM.JPG",
+      "caption": "The victory of Gustavus Adolphus at the Battle of Breitenfeld, Johann Walter, 1632"
+    },
+    {
+      "file": "421px-Gerard_van_Honthorst_006_8-7-2013 9-40-25 AM.jpg",
+      "caption": "Frederick V, Gerard van Honthorst, 1634"
+    }
+  ],
+  "videos": []
 }

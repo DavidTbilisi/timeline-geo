@@ -4,13 +4,23 @@
   "period": 7,
   "titleEn": "Babylon taken by Chaldeans",
   "titleKa": null,
-  "datesEn": "732–539 BC",
+  "datesEn": "732&ndash;539 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Chaldeans succeeded more than once in taking over control of Babylon, eventually founding the Chaldean Empire of the Neo&#8212;Babylonian period.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A tribe of Lower Mesopotamia closely related to the Aramaeans. They appear for the first time in Assyrian records of the time of Ashurnasirpal II 884&#8212;859 b.c., which show that they were founders of several tribes, of which the best known was that of B&#238;tÂ¯Yakin, which settled on the western side of the Tigris River at the head of the Persian Gulf, and which constantly threatened Babylon. Chaldeans succeeded several times in gaining control of Babylonia before the founding of the Chaldean Empire. For example, Ukinzer made himself king of Babylon 732/31&#8212;729 b.c., and Mardukapaliddina, the Merodach&#8212;baladan of the Bible, accomplished this feat twice 721&#8212;710/09 and 703&#8212;702 b.c.. Nabopolassar 626&#8212;605 b.c., the founder of the Neo&#8212;Babylonian Empire, was a Chaldean. It is to this Chaldean or Neo&#8212;Babylonian Empire that the Bible refers when speaking of the Chaldean nation Jer 21:4 Eze 1:3 etc..<BR /><BR /><BR /><BR />",
   "articleKa": null,
   "scriptures": [],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "Neo-Babylonian_Empire_4-3-2013 2-17-52 PM.jpg",
+      "caption": "The Neo-Babylonion empire."
+    },
+    {
+      "file": "Ishtar Gate_4-3-2013 2-17-52 PM.jpg",
+      "caption": "The Ishtar Gate of Babylon as reconstructed in the Pergamon Museum in Berlin."
+    }
+  ],
+  "videos": []
 }

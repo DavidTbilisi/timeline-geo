@@ -4,13 +4,29 @@
   "period": 6,
   "titleEn": "David Consults Ephod, Flees to Wilderness of Ziph",
   "titleKa": null,
-  "datesEn": "1017 BC",
+  "datesEn": "1017 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "David consults the ephod and inquires of the Lord whether to stay in Keilah. He then escapes to the Wilderness of Ziph. Jonathan meets David and encourages him. Saul discovers David&#39;s location and seeks to kill him, but David escapes once more.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "David continues to escape Saul. After consulting the ephod, he flees to the Wilderness of Ziph. This district is a barren, sun&#8212;scorched desert, full of deep wadies that make excellent hiding places. The &#34;strong holds,&#34; or fortresses, were lookouts commanding large areas of country, and placed near enough together so that it was impossible for anyone to traverse this section without being noticed. Probably David placed his men at various strategic positions, and every day word reached him of the location of Saul&#39;s forces. <BR /><BR />Water and food were almost unobtainable. Jonathan heard of David&#39;s location and found some means of arranging a meeting with David. Perhaps some of the soldiers sent out on these searching parties gave Jonathan information that was kept from Saul. If so, David would be convinced of sympathy on the part of many. He needed the encouragement that such a visit could give. Although the title of the 11th psalm does not give the time of its composition, its tone of confidence has caused some to feel that after Jonathan&#39;s visit, David expressed his trust in the providential openings of the Lord in its lines (see Ps. 11).",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "370px-Breast_Plate_001_8-22-2013 12-59-37 PM.jpg",
+      "caption": "Breastplate with 12 stones representing the 12 tribes of Israel, 1890 Holman Bible "
+    },
+    {
+      "file": "Kohen_Gadol_-_High_Priest_01_8-22-2013 12-59-37 PM.jpg",
+      "caption": "High Priest wearing an ephod, Providence Lithograph Company, 1907"
+    }
+  ],
+  "videos": []
 }

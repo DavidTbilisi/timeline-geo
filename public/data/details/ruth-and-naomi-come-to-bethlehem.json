@@ -4,18 +4,39 @@
   "period": 5,
   "titleEn": "Ruth and Naomi Come to Bethlehem",
   "titleKa": null,
-  "datesEn": "1230 BC",
+  "datesEn": "1230 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Naomi, after her husband dies, returns to Bethlehem from Moab. One of her daughters&#8212;in&#8212;law comes with her, Ruth. The other, Orpah, returns to Moab. God blesses Ruth with her marriage to Boaz.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "We do not know where in Moab, Naomi and her family sojourned, nor whether they entered Moab from the north or from the south. In any event, the return to Bethlehem meant a descent of about 4,500 ft. (1,372 m.) from the highlands of Moab to the level of the Dead Sea, and an ascent of about 3,750 ft. (1,143.3 m.) to Bethlehem&#8212;in a distance of perhaps 75 mi. (120 km.). How fast Ruth and Naomi could travel, and how much they could carry, we do not know. But in those days women were accustomed to travel on foot, and to carry much heavier loads than women of Western lands would think of trying to carry now.<BR /><BR />Though Naomi had been absent for perhaps ten years, she still had many friends and relatives in Bethlehem. This was, after all, her home. In Bible times any town surrounded by a wall was called a &#34;city&#34;&#8212;even though it might be very small by modern standards (see Joshua 6:1&#8212;3). Joshua enumerates 124 such &#34;cities&#34; (ch. 15:21&#8212;62). Bethlehem apparently had a wall around it, for mention is made of a gate where the official business of the city was transacted (Ruth 4:1). When she came to the city, people asked, &#34;Is this Naomi?&#34; <BR /><BR />The question the townsfolk of Bethlehem asked does not necessarily infer that they had difficulty in recognizing her, though the experiences through which she had passed may have appreciably affected her appearance. In her reply Naomi spoke of the bitterness (v. 20) of her affliction (v. 21), particularly with respect to the fact that she &#34;went out full&#34; and returned &#34;home again empty&#34; (v. 21). Naomi was not so much concerned with material possessions as with the fact that she returned alone. Therefore when the townsfolk asked, &#34;Is this Naomi?&#34; they were in effect exclaiming, &#34;Is this Naomi, returning alone, as a widow?&#34; It seemed incredible that not only her husband but also both sons had died.",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Ruth 1:19",
+      "verses": [
+        {
+          "number": 19,
+          "line": "So they two went until they came to Bethlehem. And it came to pass, when they were come to Bethlehem, that all the city was moved about them, and they said, Is this Naomi?"
+        }
+      ]
+    }
+  ],
   "related": [],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-stdas0718_8-6-2013 3-00-22 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-stdas0718_8-6-2013 3-00-22 PM.jpg",
+      "caption": "Ruth, Naomi, and Orpah."
+    },
+    {
+      "file": "GoodSalt-prcas2857_8-13-2013 3-18-12 PM.jpg",
+      "caption": "Ruth and Naomi."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Redeemed: Lesson from the Story of Ruth",
+      "caption": "The story of Ruth is full of symbolism about Christ, the gospel, and salvation. For instance, a woman is a symbol of the church in Scripture. Pastor Batchelor explores the entire book of Ruth. The principal redeemer in the book who represents Christ is the man Boaz.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg5367.mp4"
     }
   ]
 }

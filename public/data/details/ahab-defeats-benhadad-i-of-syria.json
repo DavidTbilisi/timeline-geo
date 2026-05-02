@@ -4,13 +4,115 @@
   "period": 7,
   "titleEn": "Ahab Defeats Benhadad I of Syria",
   "titleKa": null,
-  "datesEn": "853 BC",
+  "datesEn": "853 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Benhadad I from Damascus attacks Samaria. Ahab pushes him back and a year later does so even more severely in the battle of Aphek and captures him. But Ahab foolishly releases him and spares his life.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "This chapter (1 Kings 20) is quite different in contents and spirit from most of the material in Kings. It gives an interesting and valuable picture of the political life of the times. Benhadad had grown to be a powerful king and now occupied the dominant position among the rulers of western Asia, as is evidenced by the fact that the Assyrian records list him first among the western allies who fought against Shalmaneser III at Qarqar. <BR /><BR />When Behadad besieges Samaria, he demands Ahab surrender. Amidst threats a prophet of the Lord approaches Ahab and assures him victory through the young men of Israel. Seven thousand gather at noon when at the heat of the day the attackers were probably resting unarmed, with no expectation of being attacked. Benhadad at this time was probably well under the influence of liquor, unable to evaluate the situation or to make wise decisions. Since the sortie was made at noon, the approach was detected and there was not complete surprise. <BR /><BR />Word was sent to the king that a group of Hebrews was seen approaching. In his haughtiness Benhadad ordered all the Hebrews to be seized, whether they had come out to negotiate terms of peace, whether they were offering to surrender, or whatever their purpose might be. The men attacked. They fought man to man and hand to hand. An alert group of archers or spearmen might have been able to keep the little band of Hebrews at bay, but the Syrians did not awake to the situation till it was too late. Panic seized the host, and they turned and fled.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 20:1-21",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Benhadad the king of Syria gathered all his host together: and there were thirty and two kings with him, and horses, and chariots; and he went up and besieged Samaria, and warred against it."
+        },
+        {
+          "number": 2,
+          "line": "And he sent messengers to Ahab king of Israel into the city, and said unto him, Thus saith Benhadad,"
+        },
+        {
+          "number": 3,
+          "line": "Thy silver and thy gold is mine; thy wives also and thy children, even the goodliest, are mine."
+        },
+        {
+          "number": 4,
+          "line": "And the king of Israel answered and said, My lord, O king, according to thy saying, I am thine, and all that I have."
+        },
+        {
+          "number": 5,
+          "line": "And the messengers came again, and said, Thus speaketh Benhadad, saying, Although I have sent unto thee, saying, Thou shalt deliver me thy silver, and thy gold, and thy wives, and thy children;"
+        },
+        {
+          "number": 6,
+          "line": "Yet I will send my servants unto thee to morrow about this time, and they shall search thine house, and the houses of thy servants; and it shall be, that whatsoever is pleasant in thine eyes, they shall put it in their hand, and take it away."
+        },
+        {
+          "number": 7,
+          "line": "Then the king of Israel called all the elders of the land, and said, Mark, I pray you, and see how this man seeketh mischief: for he sent unto me for my wives, and for my children, and for my silver, and for my gold; and I denied him not."
+        },
+        {
+          "number": 8,
+          "line": "And all the elders and all the people said unto him, Hearken not unto him, nor consent."
+        },
+        {
+          "number": 9,
+          "line": "Wherefore he said unto the messengers of Benhadad, Tell my lord the king, All that thou didst send for to thy servant at the first I will do: but this thing I may not do. And the messengers departed, and brought him word again."
+        },
+        {
+          "number": 10,
+          "line": "And Benhadad sent unto him, and said, The gods do so unto me, and more also, if the dust of Samaria shall suffice for handfuls for all the people that follow me."
+        },
+        {
+          "number": 11,
+          "line": "And the king of Israel answered and said, Tell him, Let not him that girdeth on his harness boast himself as he that putteth it off."
+        },
+        {
+          "number": 12,
+          "line": "And it came to pass, when Ben-hadad heard this message, as he was drinking, he and the kings in the pavilions, that he said unto his servants, Set yourselves in array. And they set themselves in array against the city."
+        },
+        {
+          "number": 13,
+          "line": "And, behold, there came a prophet unto Ahab king of Israel, saying, Thus saith the LORD, Hast thou seen all this great multitude? behold, I will deliver it into thine hand this day; and thou shalt know that I am the LORD."
+        },
+        {
+          "number": 14,
+          "line": "And Ahab said, By whom? And he said, Thus saith the LORD, Even by the young men of the princes of the provinces. Then he said, Who shall order the battle? And he answered, Thou."
+        },
+        {
+          "number": 15,
+          "line": "Then he numbered the young men of the princes of the provinces, and they were two hundred and thirty two: and after them he numbered all the people, even all the children of Israel, being seven thousand."
+        },
+        {
+          "number": 16,
+          "line": "And they went out at noon. But Benhadad was drinking himself drunk in the pavilions, he and the kings, the thirty and two kings that helped him."
+        },
+        {
+          "number": 17,
+          "line": "And the young men of the princes of the provinces went out first; and Benhadad sent out, and they told him, saying, There are men come out of Samaria."
+        },
+        {
+          "number": 18,
+          "line": "And he said, Whether they be come out for peace, take them alive; or whether they be come out for war, take them alive."
+        },
+        {
+          "number": 19,
+          "line": "So these young men of the princes of the provinces came out of the city, and the army which followed them."
+        },
+        {
+          "number": 20,
+          "line": "And they slew every one his man: and the Syrians fled; and Israel pursued them: and Benhadad the king of Syria escaped on an horse with the horsemen."
+        },
+        {
+          "number": 21,
+          "line": "And the king of Israel went out, and smote the horses and chariots, and slew the Syrians with a great slaughter."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ahab",
+      "titleEn": "Ahab",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "_GoodSalt-pppas0190_8-27-2013 9-51-41 AM.jpg",
+      "caption": "Soldiers in battle"
+    }
+  ],
+  "videos": []
 }

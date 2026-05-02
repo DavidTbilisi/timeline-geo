@@ -4,18 +4,85 @@
   "period": 2,
   "titleEn": "Tower of Babel, Division of Earth",
   "titleKa": null,
-  "datesEn": "2197 BC",
+  "datesEn": "2197 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Genesis 11 tells how people gathered on the plain of Shinar after the flood to &#34;make a name&#34; for themselves and build a city and tower &#34;whose top is in the heavens.&#34; Babel means &#34;confusion.&#34; Elsewhere in Scripture the city of Babel is called Babylon.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Tower of Babel. A term not found in the OT, but it is the name generally given to the structure that the early inhabitants of Shinar began to build, the progress of which was halted by divine intervention bringing confusion of tongues (Gen 11:1&#8212;8). The builders used bricks, because their country was completely void of stones. &#34;Slime,&#34; or asphalt, as mortar has been found in many Babylonian public buildings . It was obtained from open pitch wells at H&#238;t, 120 mi. (c. 190 km.) north of Babylon. Of the Biblical tower nothing remains, but the idea of erecting towers was popular among the early Mesopotamians. <BR /><BR />Practically every city of importance had at least one. These towers were called ziggurats, and were usually built in progressively smaller stages, and had on the top a shrine dedicated to the principal god of the city or of the land. The ruins of some of the ziggurats are still standing the best preserved are those of Ur in southern Iraq and of Choga Zambil near Susa in Iran, but even the remains of the ziggurats at Nimr&#252;d, Qal&#39;a Sherqat, &#39;Aqarquf, Birs Nimr&#252;d, and Warka are impressive ruins. The temple tower of Babylon, mentioned in historical records from the beginning of the 2d millennium b.c., which was the highest and largest of all such structures which stood in historical times in Mesopotamia, has completely vanished. <BR /><BR />Excavators found no more of it than its foundations and a few steps of its stairway. However, an ancient cuneiform tablet describes this tower, and Herodotus mentions it hence it is possible to get a fairly accurate picture of this famous structure. We know that it was about 300 ft. (c. 91 m.) square at its base, and more than 300 ft. (c. 91 m.) high, and that it was built in 7 stages, having on top as its 7th stage a shrine dedicated to the god Marduk.<BR /> <BR />Cain had built the first city (ch. 4:17), in an attempt, perhaps, to avoid the nomadic life God had marked out for him. God&#39;s original plan called for men to spread over the face of the earth and to cultivate the soil (see ch. 1:28). The building of cities represented opposition to this plan. The concentration of human beings has always encouraged laziness, immorality, and other vices. Cities have ever been hotbeds of crime, for in such an environment Satan finds less resistance to his attacks than in smaller communities where people live in close touch with nature. <BR /><BR />God had told Noah to replenish, or fill, the earth (ch. 9:1). In fear of unknown or suspected dangers, however, men wanted to build a city, in the hope of finding security through the works of their hands. They chose to forget that true security comes only in trusting and obeying God. The rapidly increasing descendants of Noah must have departed very soon from the worship of the true God. In the fear that their evil ways would again invite catastrophe, they sought protection.<BR /><BR />Building a tower would give inhabitants of the city the desired feeling of security. Such a citadel would protect them against attack, and enable them, they believed, to escape another flood&#8212;which God had promised should never be. The Flood had covered the highest mountains of the antediluvian world, but had not reached &#34;unto heaven.&#34; If, therefore, a structure higher than the mountains could be erected, men reasoned, they would be safe whatever God might do. Archeological excavations reveal that the earliest inhabitants of Lower Mesopotamia erected many towerlike temples dedicated to the worship of various idol deities.<BR /><BR />The Tower of Babel was to have been a monument to the superior wisdom and skill of its builders. To establish a &#34;name,&#34; or reputation, for themselves, men have been willing to endure hardship, danger, and privation. The desire for renown was apparently one of the impelling motives for building the tower, and pride in such a structure would, in turn, tend to maintain unity in the accomplishment of other unsanctified schemes. According to the divine purpose, men were to have preserved unity through the bond of true religion. <BR /><BR />When idolatry and polytheism broke this inner spiritual bond, they lost not only unity of religion but also the spirit of brotherhood. A project such as the tower, to preserve by outward means the inward unity which had been lost, could never succeed. Obviously, only those who had forsaken God took part in these activities.  The Tower of Babel represented doubt of God&#39;s word and defiance of His will. It was designed as monument to apostasy and as a citadel of rebellion against Him. This was but the first step in an evil master plan to control the world. Prompt and decisive action was called for, to warn men of God&#39;s displeasure and to frustrate their wicked schemes. <BR /><BR />That men may be assured that God is not arbitrary in His dealings and does not act on sudden impulse, He is represented as taking counsel with Himself. The reason for His intervention is clearly stated. Except for the restraining power of God exercised from time to time in the course of history, the evil designs of men would be carried forward to success, and society would become wholly corrupt. The comparative order in society today is due to the restraining power of God. Satan&#39;s power is definitely limited (see Job 1:12 2:6 Rev. 7:1).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 11:1-9",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And the whole earth was of one language, and of one speech."
+        },
+        {
+          "number": 2,
+          "line": "And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there."
+        },
+        {
+          "number": 3,
+          "line": "And they said one to another, Go to, let us make brick, and burn them thoroughly. And they had brick for stone, and slime had they for morter."
+        },
+        {
+          "number": 4,
+          "line": "And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth."
+        },
+        {
+          "number": 5,
+          "line": "And the LORD came down to see the city and the tower, which the children of men builded."
+        },
+        {
+          "number": 6,
+          "line": "And the LORD said, Behold, the people is one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do."
+        },
+        {
+          "number": 7,
+          "line": "Go to, let us go down, and there confound their language, that they may not understand one another's speech."
+        },
+        {
+          "number": 8,
+          "line": "So the LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city."
+        },
+        {
+          "number": 9,
+          "line": "Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth: and from thence did the LORD scatter them abroad upon the face of all the earth."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "migration-to-plain-of-shinar",
+      "titleEn": "Migration to Plain of Shinar",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Cleve-van_construction-tower-babel_8-7-2013 10-25-44 AM.jpg",
-      "caption": ""
+      "file": "Cleve-van_construction-tower-babel_8-7-2013 10-25-44 AM.jpg",
+      "caption": "Construction of the Tower of Babel, Hendrick van Cleve,  c. 1525-1589)"
+    },
+    {
+      "file": "Tour_de_babel_8-7-2013 10-29-16 AM.jpeg",
+      "caption": "Tower of Babel, Lucas van Valckenborch, 1594"
+    },
+    {
+      "file": "Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_8-7-2013 1-08-36 PM.jpg",
+      "caption": "Tower of Babel, Pieter Brueghel the Elder, 1563"
+    },
+    {
+      "file": "GoodSalt-Tower of Babel_8-5-2013 3-58-27 PM.jpg",
+      "caption": "Tower of Babel"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Iraq and Babylon in Prophecy",
+      "caption": "Many Bible prophecies about the Middle East, including Babylon, sound like they are literally being fulfilled today. But do these prophecies point to specific dictators today? What does the land of Babylon have to do with us? The tower of Babel represents man&#39;s effort to live without God. The Lord calls His people out of spiritual Babylon.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2315.mp4"
     }
   ]
 }

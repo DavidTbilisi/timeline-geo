@@ -4,13 +4,46 @@
   "period": 3,
   "titleEn": "Laban",
   "titleKa": null,
-  "datesEn": "1860–1760 BC",
+  "datesEn": "1860&ndash;1760 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;white.&#34; He is the son of Bethuel, who was the son of Nahor, Abraham&#39;s brother. Laban lived in Haran in Mesopotamia. His sister, Rebekah, became Isaac&#39;s wife. Jacob later fled to Laban and married his daughters, Leah and Rachel.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The son of Bethuel, and grandson of Abraham&#39;s brother Nahor. He lived in Haran in Paddan&#8212;aram (Gen 24:10, 15 28:5, 10 29:4, 5). When Abraham&#39;s servant came to Haran and asked for Laban&#39;s sister Rebekah as a wife for Isaac, Laban and his father Bethuel consented, especially when they saw the rich presents sent by Abraham (ch 24:28&#8212;31, 50&#8212;60). <BR /><BR />The fact that Laban is mentioned before his father (v 50) may indicate that Laban had become head of the household, possibly through incapacity on the part of his father. When Jacob was forced to flee from his brother Esau he found a refuge with his uncle Laban, who owned slaves and large flocks of sheep and goats (chs 29:16, 24, 29 31:38). Here Jacob fell in love with Rachel, the younger of Laban&#39;s 2 daughters, but having no dowry he worked as shepherd for Laban for 7 years in order to obtain her as his wife (ch 29:15&#8212;20). <BR /><BR />However, Laban fraudulently tricked him into marrying her older sister Leah first, then gave him Rachel also on condition that he work another 7 years (vs 21&#8212;28). Afterward he stayed 6 years longer with Laban, and received sheep and goats in payment for his services (ch 30:25&#8212;43). When Laban and his sons became jealous because of Jacob&#39;s rapidly increasing wealth, Jacob left his father&#8212;in&#8212;law&#39;s house and fled toward Canaan with his family and flocks. <BR /><BR />Laban pursued him and overtook him in Mount Gilead (ch 31:1&#8212;23). He intended to force Jacob to return to Paddan&#8212;aram, but God forbade him to punish Jacob (v 24). Hence the 2 men concluded a treaty of friendship and then parted, Jacob going on to Canaan, and Laban returning to his home in Haran (chs 31:25 to 32:1). Laban at least paid lip service to Yahweh, the God of Abraham (chs 24:50 30:27), although he worshiped other gods, for he had figurines of pagan deities (Heb. teraph&#238;m) in his house (ch 31:30, 32&#8212;35 cf. 35:4). He also practiced divination as the Hebrew text of ch 30:27 indicates (see RSV).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 24:29",
+      "verses": [
+        {
+          "number": 29,
+          "line": "And Rebekah had a brother, and his name was Laban: and Laban ran out unto the man, unto the well."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "leah",
+      "titleEn": "Leah",
+      "titleKa": null
+    },
+    {
+      "slug": "rachel",
+      "titleEn": "Rachel",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Laban_Searching_for_his_Stolen_Household_gods_8-5-2013 3-34-26 PM.JPG",
+      "caption": "Laban searching for his stolen idols, Bartolom&#233; Esteban Murillo, 1670"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Abraham Part 12: Finding the Right Bride",
+      "caption": "The last in a 12 part series on the life of Abraham. This sermon focuses on the search for a bride for Isaac.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2422.mp4"
+    }
+  ]
 }

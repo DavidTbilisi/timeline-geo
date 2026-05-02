@@ -4,13 +4,217 @@
   "period": 10,
   "titleEn": "Paul's Journey to Rome",
   "titleKa": null,
-  "datesEn": "60 AD",
+  "datesEn": "60 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Paul, accused by Jewish leaders, makes an appeal to Caesar and is taken by ship to Rome. Along the way they are shipwrecked in Malta. Three months later they sailed to Rome.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The decision being made to send Paul to Rome (probably in the spring of A.D. 60), he, with other prisoners scheduled for the same journey, was placed in the custody of a centurion named Julius, who was charged with taking them to the capital (Acts 27:1). During this trip Paul had at least 2 Christian companions, Aristarchus (v 2), and Luke, the writer of Acts, as is shown by Luke&#39;s frequent use of &#34;we&#34; in the narrative. Soon after departure the vessel stopped at Sidon. There Paul, who was well treated by the centurion, was permitted to visit the believers. From Sidon  the ship sailed between the island of Cyprus and the mainland and finally reached Myra in Lycia (vs 3&#8212;5), where the whole company boarded another ship bound for Italy (v 6). This ship then had 276 people aboard (v 37). At length the ship reached the island of Crete (B&#8212;3/4) and with difficulty sailed to a place called Fair Havens (vs 7, 8). There they spent some time, debating whether, because of the lateness of the season, the voyage should be continued. Paul counseled against doing so, but the shipowner and the captain spoke in favor of it, and the centurion was influenced by the latter. Because Fair Havens was not suitable to winter in, they decided to try to reach Phoenix (Phenice), farther along the coast of Crete (vs 9&#8212;12). Consequently, as soon as a suitable wind arose they left Fair Havens and headed toward Phoenix.<BR /><BR />Shortly afterward, however, a great tempest arose, blowing from the east or east&#8212;northeast, which drove the ship before it. When they found temporary shelter under the lee of a small island named Cauda (Clauda), they succeeded in hoisting aboard the ship&#39;s boat, which had heretofore been towed. On the following day, since the storm continued unabated, it was deemed necessary to lighten the ship by jettisoning some of the cargo (cf. v 38). The tempest persisted for several days until all hope was abandoned (Acts 27:20). At about this time Paul was given a vision, in which he was shown that no lives would be lost and that he would have the opportunity of standing before Caesar. He related this experience to his companions, exhorting them to be of good courage (vs 21&#8212;26). At last, one night, 2 weeks after the storm struck, the sailors suspected that they were nearing land. Dawn revealed unfamiliar land with a bay. Into this they decided to try to run the ship. They raised the anchors and endeavored to steer into the bay. Drawing close to land, they were caught by violent crosscurrents, which hurled the ship upon the rocks, where it grounded. The stern was then broken off by the pounding waves. The soldiers, obviously considering that they were responsible for the prisoners with their own lives, now urged that the prisoners be killed lest they escape. However, the centurion, wanting to save Paul, forbade this. Instead he commanded all to attempt to get ashore as best they could, and all on board reached land safely (vs 39&#8212;44). The land proved to be the island of Malta. <BR /><BR />The people of Malta  treated the castaway group hospitably, and endeavored to care for their needs. Finally, after spending 3 months on the island (v 11), the shipwrecked company sailed for Rome, probably in the spring of A.D. 61 on an Alexandrian ship that had wintered there (vs 8&#8212;11).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Acts 27:1-44",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto one named Julius, a centurion of Augustus' band."
+        },
+        {
+          "number": 2,
+          "line": "And entering into a ship of Adramyttium, we launched, meaning to sail by the coasts of Asia; one Aristarchus, a Macedonian of Thessalonica, being with us."
+        },
+        {
+          "number": 3,
+          "line": "And the next day we touched at Sidon. And Julius courteously entreated Paul, and gave him liberty to go unto his friends to refresh himself."
+        },
+        {
+          "number": 4,
+          "line": "And when we had launched from thence, we sailed under Cyprus, because the winds were contrary."
+        },
+        {
+          "number": 5,
+          "line": "And when we had sailed over the sea of Cilicia and Pamphylia, we came to Myra, a city of Lycia."
+        },
+        {
+          "number": 6,
+          "line": "And there the centurion found a ship of Alexandria sailing into Italy; and he put us therein."
+        },
+        {
+          "number": 7,
+          "line": "And when we had sailed slowly many days, and scarce were come over against Cnidus, the wind not suffering us, we sailed under Crete, over against Salmone;"
+        },
+        {
+          "number": 8,
+          "line": "And, hardly passing it, came unto a place which is called The fair havens; nigh whereunto was the city of Lasea."
+        },
+        {
+          "number": 9,
+          "line": "Now when much time was spent, and when sailing was now dangerous, because the fast was now already past, Paul admonished them,"
+        },
+        {
+          "number": 10,
+          "line": "And said unto them, Sirs, I perceive that this voyage will be with hurt and much damage, not only of the lading and ship, but also of our lives."
+        },
+        {
+          "number": 11,
+          "line": "Nevertheless the centurion believed the master and the owner of the ship, more than those things which were spoken by Paul."
+        },
+        {
+          "number": 12,
+          "line": "And because the haven was not commodious to winter in, the more part advised to depart thence also, if by any means they might attain to Phenice, and there to winter; which is an haven of Crete, and lieth toward the south west and north west."
+        },
+        {
+          "number": 13,
+          "line": "And when the south wind blew softly, supposing that they had obtained their purpose, loosing thence, they sailed close by Crete."
+        },
+        {
+          "number": 14,
+          "line": "But not long after there arose against it a tempestuous wind, called Euroclydon."
+        },
+        {
+          "number": 15,
+          "line": "And when the ship was caught, and could not bear up into the wind, we let her drive."
+        },
+        {
+          "number": 16,
+          "line": "And running under a certain island which is called Clauda, we had much work to come by the boat:"
+        },
+        {
+          "number": 17,
+          "line": "Which when they had taken up, they used helps, undergirding the ship; and, fearing lest they should fall into the quicksands, strake sail, and so were driven."
+        },
+        {
+          "number": 18,
+          "line": "And we being exceedingly tossed with a tempest, the next day they lightened the ship;"
+        },
+        {
+          "number": 19,
+          "line": "And the third day we cast out with our own hands the tackling of the ship."
+        },
+        {
+          "number": 20,
+          "line": "And when neither sun nor stars in many days appeared, and no small tempest lay on us, all hope that we should be saved was then taken away."
+        },
+        {
+          "number": 21,
+          "line": "But after long abstinence Paul stood forth in the midst of them, and said, Sirs, ye should have hearkened unto me, and not have loosed from Crete, and to have gained this harm and loss."
+        },
+        {
+          "number": 22,
+          "line": "And now I exhort you to be of good cheer: for there shall be no loss of any man's life among you, but of the ship."
+        },
+        {
+          "number": 23,
+          "line": "For there stood by me this night the angel of God, whose I am, and whom I serve,"
+        },
+        {
+          "number": 24,
+          "line": "Saying, Fear not, Paul; thou must be brought before Caesar: and, lo, God hath given thee all them that sail with thee."
+        },
+        {
+          "number": 25,
+          "line": "Wherefore, sirs, be of good cheer: for I believe God, that it shall be even as it was told me."
+        },
+        {
+          "number": 26,
+          "line": "Howbeit we must be cast upon a certain island."
+        },
+        {
+          "number": 27,
+          "line": "But when the fourteenth night was come, as we were driven up and down in Adria, about midnight the shipmen deemed that they drew near to some country;"
+        },
+        {
+          "number": 28,
+          "line": "And sounded, and found it twenty fathoms: and when they had gone a little further, they sounded again, and found it fifteen fathoms."
+        },
+        {
+          "number": 29,
+          "line": "Then fearing lest we should have fallen upon rocks, they cast four anchors out of the stern, and wished for the day."
+        },
+        {
+          "number": 30,
+          "line": "And as the shipmen were about to flee out of the ship, when they had let down the boat into the sea, under colour as though they would have cast anchors out of the foreship,"
+        },
+        {
+          "number": 31,
+          "line": "Paul said to the centurion and to the soldiers, Except these abide in the ship, ye cannot be saved."
+        },
+        {
+          "number": 32,
+          "line": "Then the soldiers cut off the ropes of the boat, and let her fall off."
+        },
+        {
+          "number": 33,
+          "line": "And while the day was coming on, Paul besought them all to take meat, saying, This day is the fourteenth day that ye have tarried and continued fasting, having taken nothing."
+        },
+        {
+          "number": 34,
+          "line": "Wherefore I pray you to take some meat: for this is for your health: for there shall not an hair fall from the head of any of you."
+        },
+        {
+          "number": 35,
+          "line": "And when he had thus spoken, he took bread, and gave thanks to God in presence of them all: and when he had broken it, he began to eat."
+        },
+        {
+          "number": 36,
+          "line": "Then were they all of good cheer, and they also took some meat."
+        },
+        {
+          "number": 37,
+          "line": "And we were in all in the ship two hundred threescore and sixteen souls."
+        },
+        {
+          "number": 38,
+          "line": "And when they had eaten enough, they lightened the ship, and cast out the wheat into the sea."
+        },
+        {
+          "number": 39,
+          "line": "And when it was day, they knew not the land: but they discovered a certain creek with a shore, into the which they were minded, if it were possible, to thrust in the ship."
+        },
+        {
+          "number": 40,
+          "line": "And when they had taken up the anchors, they committed themselves unto the sea, and loosed the rudder bands, and hoised up the mainsail to the wind, and made toward shore."
+        },
+        {
+          "number": 41,
+          "line": "And falling into a place where two seas met, they ran the ship aground; and the forepart stuck fast, and remained unmoveable, but the hinder part was broken with the violence of the waves."
+        },
+        {
+          "number": 42,
+          "line": "And the soldiers' counsel was to kill the prisoners, lest any of them should swim out, and escape."
+        },
+        {
+          "number": 43,
+          "line": "But the centurion, willing to save Paul, kept them from their purpose; and commanded that they which could swim should cast themselves first into the sea, and get to land:"
+        },
+        {
+          "number": 44,
+          "line": "And the rest, some on boards, and some on broken pieces of the ship. And so it came to pass, that they escaped all safe to land."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Saint_Paul_shipwrecked_8-1-2013 11-39-50 AM.jpg",
+      "caption": "Paul shipwrecked on the island of Melita"
+    },
+    {
+      "file": "78254686_2-28-2013 11-20-41 AM.jpg",
+      "caption": "View of the Azure Window in Dwejra, Gozo, Malta. This is possibly the most beautiful natural view in the Maltese islands, visited by thousand of people every year. "
+    }
+  ],
+  "videos": [
+    {
+      "title": "Secure in the Midst of a Storm",
+      "caption": "God promises that we can be secure, even in the midst of the storms in our lives. Paul experience of a storm and shipwreck teaches us about the watchfulness of the Lord on our lives as well as our church in the end times.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2906.mp4"
+    }
+  ]
 }

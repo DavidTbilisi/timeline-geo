@@ -4,18 +4,37 @@
   "period": 8,
   "titleEn": "Daniel's Babylon Prophecies",
   "titleKa": null,
-  "datesEn": "605–539 BC (~66)",
+  "datesEn": "605&ndash;539 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "In the book of Daniel, the kingdom of Babylon is symbolized by both a lion with eagle&#39;s wings (Daniel 7) and as the head of gold in the prophet&#39;s great vision of the statue (Daniel 2).",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "According to Genesis, the city of Babylon was part of the kingdom founded by Nimrod, the great&#8212;grandson of Noah (Genesis 10:8&#8212;10). A number of independent city&#8212;states existed in the valleys of the Tigris and Euphrates at this early time period. Over hundreds of years, the territory would come under control of various tribes and kingdoms, and Babylon&#39;s influence waxed and waned depending on those who controlled it.<BR /><BR />Then, after a period of Assyrian domination, Babylon became independent again under Chaldean rule and eventually took over the leadership of the world. Nabopolassar (626&#8212;605 B.C.) was the founder of what is termed the Chaldean, or Neo&#8212;Babylonian, Empire, which had its golden age in the days of King Nebuchadnezzar (605&#8212;562 B.C.), and lasted until Babylon fell to the Medes and Persians in 539.<BR /><BR />In the vision of Daniel chapter 2, the head of gold refers to the city&#8212;state kingdom of Babylon. Daniel speaks of Nebuchadnezzar as a &#34;king of kings.&#34; In his inscriptions, Nebuchadnezzar attributes this regal success to his god Marduk, but Daniel corrects this mistaken idea, affirming that it is the God of heaven who has bestowed such power upon the king.<BR /><BR />In Daniel 7, the lion with eagle&#39;s wings is an appropriate symbol for Babylon. The winged lion is found on Babylonian objects of art and is one of the forms often pictured in combat with Marduk, the patron god of the city of Babylon. Other prophets referred to King Nebuchadnezzar by similar figures (Jer. 4:7; Jer. 50:17, 44 Lam. 4:19; Eze. 17:3, 12; Hab. 1:8).<BR /><BR />The lion as the king of beasts and the eagle as the king of birds fittingly represented the empire of Babylon at the height of its glory. Nebuchadnezzar&#39;s power was felt from the Mediterranean to the Persian Gulf, and from Asia Minor to Egypt.<BR /><BR />When its wings were plucked, the lion was no longer able to fly like an eagle upon its prey. This doubtless refers to the time when less powerful rulers followed Nebuchadnezzar in Babylon, rulers under whose administration Babylon lost glory and power. Some have suggested a possible reference also to Nebuchadnezzar&#39;s later life, when for seven years he was deprived not only of his power but also of his reason (Daniel 4:31&#8212;33).<BR /><BR />The reference to a lion standing like a man is indicative of the loss of lion&#8212;like qualities. In its declining years, Babylon became weak and enfeebled through wealth and luxury, and fell a prey to the Medo&#8212;Persian kingdom. Some see in the expression &#34;man&#39;s heart&#34; the disappearance of the animal characteristic of greed and ferocity and the humanizing of the king of Babylon. Such could apply to Nebuchadnezzar after his humiliating experience, but would not be a fitting representation of the kingdom in its closing years.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Statue_Babylon_8-22-2013 12-11-00 PM.jpg",
-      "caption": ""
+      "file": "Statue_Babylon_8-22-2013 12-11-00 PM.jpg",
+      "caption": "Kingdom of Babylon- A head made of gold"
+    },
+    {
+      "file": "Lions_cmyk_8-22-2013 12-11-00 PM.jpg",
+      "caption": "A lion with eagle&#39;s wings is an appropriate symbol for Babylon. The winged lion is found on Babylonian objects of art. The combination of lion and eagle was a common motif-more often a lion with eagle&#39;s wings, sometimes with claws or a beak a similar composite was the eagle with a lion&#39;s head. The winged lion is one of the forms of the beast often pictured in combat with Marduk, the patron god of the city of Babylon."
+    },
+    {
+      "file": "Human_headed_winged_bull_profile_8-22-2013 12-11-00 PM.jpg",
+      "caption": "The winged lion, or lamassu, was a common decorative motif in Babylon and has been identified on many archaeological finds."
+    },
+    {
+      "file": "babylon_map_8-22-2013 12-11-00 PM.jpg",
+      "caption": "The Babylonian Empire 606 - 536 B.C."
     }
-  ]
+  ],
+  "videos": []
 }

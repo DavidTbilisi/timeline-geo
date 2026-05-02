@@ -4,18 +4,87 @@
   "period": 8,
   "titleEn": "Jerusalem Rebuilt",
   "titleKa": null,
-  "datesEn": "536–444 BC (~92)",
+  "datesEn": "536&ndash;444 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The reconstruction of Jerusalem took more than 90 years. The first group of exiles started reconstructing the Temple in 536 BC, but only finished in 515 BC.The walls were not completed until the arrival of Nehemiah in 444 BC.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "After Jerusalem laid in ruins for about 50 years, the first large group of exiles returned from Babylon, led by Zerubbabel. This was probably in 536 BC, which was 70 years, inclusive, from the first deportation in 605 BC. Immediately they set out to rebuild the temple, but experienced so much opposition from the Samaritans, and other difficulties that this did not really get into full swing until the 2nd year of Darius I 520/519BC. <BR /><BR />The temple was finally completed and dedicated in 515 BC, in the 6th year of Darius I. In the 7th year of Artaxerxes I, Ezra was authorized to take a 2nd group of exiles to Jerusalem. He reorganized the province and set up an administration based on Jewish law, in 457 BC. It was probably during the next years that the Jews of Jerusalem began again to rebuild their wall. However they were once again hindered by their enemies until Nehemiah succeeded in having himself appointed as governor by Artaxerxes I. He went to Jerusalem in 444 BC and completed the rebuilding and repair work in a few weeks in spite of many hindrances.",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Ezra 1:1-5",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,"
+        },
+        {
+          "number": 2,
+          "line": "Thus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah."
+        },
+        {
+          "number": 3,
+          "line": "Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD God of Israel, (he is the God,) which is in Jerusalem."
+        },
+        {
+          "number": 4,
+          "line": "And whosoever remaineth in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that is in Jerusalem."
+        },
+        {
+          "number": 5,
+          "line": "Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of the LORD which is in Jerusalem."
+        }
+      ]
+    },
+    {
+      "reference": "Nehemiah 2:1-6",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it unto the king. Now I had not been beforetime sad in his presence."
+        },
+        {
+          "number": 2,
+          "line": "Wherefore the king said unto me, Why is thy countenance sad, seeing thou art not sick? this is nothing else but sorrow of heart. Then I was very sore afraid,"
+        },
+        {
+          "number": 3,
+          "line": "And said unto the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers' sepulchres, lieth waste, and the gates thereof are consumed with fire?"
+        },
+        {
+          "number": 4,
+          "line": "Then the king said unto me, For what dost thou make request? So I prayed to the God of heaven."
+        },
+        {
+          "number": 5,
+          "line": "And I said unto the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers' sepulchres, that I may build it."
+        },
+        {
+          "number": 6,
+          "line": "And the king said unto me, (the queen also sitting by him,) For how long shall thy journey be? and when wilt thou return? So it pleased the king to send me; and I set him a time."
+        }
+      ]
+    },
+    {
+      "reference": "Nehemiah 6:15",
+      "verses": [
+        {
+          "number": 15,
+          "line": "So the wall was finished in the twenty and fifth day of the month Elul, in fifty and two days."
+        }
+      ]
+    }
+  ],
   "related": [],
   "images": [
     {
-      "file": "media/images/t/Zerubabbel_3-21-2013 10-15-56 AM.jpg",
-      "caption": ""
+      "file": "Zerubabbel_3-21-2013 10-15-56 AM.jpg",
+      "caption": "Zerubbabel displays a plan of Jerusalem to Cyrus the Great painting by Jacob van Loo between 1640 and 1670."
+    },
+    {
+      "file": "GoodSalt-NehemiahRebuildWall_8-5-2013 4-28-58 PM.jpg",
+      "caption": "Nehemiah working on rebuilding Jerusalem."
     }
-  ]
+  ],
+  "videos": []
 }

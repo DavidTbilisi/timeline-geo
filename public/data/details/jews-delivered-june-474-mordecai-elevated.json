@@ -4,13 +4,99 @@
   "period": 8,
   "titleEn": "Jews Delivered, Mordecai Elevated",
   "titleKa": null,
-  "datesEn": "474 BC",
+  "datesEn": "474 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After much fasting, Queen Esther approaches the king and uncovers Haman&#39;s plot to destroy the Jews. Mordecai is honored and Haman is hanged. The Jews are given permission to defend themselves.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "When a criminal was executed all his property was forfeited to the king, who disposed of it according to his pleasure. It pleased Ahasuerus to bestow upon Esther all the possessions of Haman, who seems to have been a man of vast wealth (see on ch. 3:9). Mordecai was appointed to the position that had been Haman&#39;s. He was made grand vizier, or prime minister&#8212;a high official who ministered to the king personally and was in constant attendance upon him. <BR /><BR />The possessions of Haman had been forfeited to the crown and assigned to the custody of Esther (see on v. 1). She was not at liberty to give away what she had received in trust from the king and held by virtue of her position as queen. Thus Esther did not make Mordecai a gift of the house but set him over it. For all practical purposes this was equivalent to a gift. He was thus provided with a residence suitable to his new dignity as prime minister.<BR /><BR />Though Mordecai was in possession of the royal signet, he would not dare to use it to give authority to a new decree that would countermand one already issued by the king personally. So Esther once more approached the king. The king probably extended his scepter on this occasion not only as a token of favor toward Esther and of willingness to give her an audience but also as an indication of willingness to do as Esther desired and thereby undo the evil effected by the decree of Haman. In her petition Esther unites an appeal to the king&#39;s sense of right and justice with an even more effective appeal to his regard for her personally. He would not refuse her request.<BR /><BR />Ahasuerus proposes a solution, after first reminding Esther and Mordecai of evidence of his favorable attitude toward the Jews. The new decree was to be addressed to the Jews rather than to the Persians, as was that of Haman. In deference to the Persian legal custom by which a royal edict was unalterable, Mordecai successfully devised a means of counteracting the effects of Haman&#39;s decree without actually revoking it. The resulting decree was published in every language, copies being made by the royal stenographers (see ch. 3:12). Cooperative effort on the part of the Jews would make of them a formidable force. The Jews have sometimes been spoken of as aggressors on the 13th of Adar, but of this there is no evidence. The edict clearly allowed them to stand only on the defensive.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Esther 8:1-17",
+      "verses": [
+        {
+          "number": 1,
+          "line": "On that day did the king Ahasuerus give the house of Haman the Jews' enemy unto Esther the queen. And Mordecai came before the king; for Esther had told what he was unto her."
+        },
+        {
+          "number": 2,
+          "line": "And the king took off his ring, which he had taken from Haman, and gave it unto Mordecai. And Esther set Mordecai over the house of Haman."
+        },
+        {
+          "number": 3,
+          "line": "And Esther spake yet again before the king, and fell down at his feet, and besought him with tears to put away the mischief of Haman the Agagite, and his device that he had devised against the Jews."
+        },
+        {
+          "number": 4,
+          "line": "Then the king held out the golden sceptre toward Esther. So Esther arose, and stood before the king,"
+        },
+        {
+          "number": 5,
+          "line": "And said, If it please the king, and if I have found favour in his sight, and the thing seem right before the king, and I be pleasing in his eyes, let it be written to reverse the letters devised by Haman the son of Hammedatha the Agagite, which he wrote to destroy the Jews which are in all the king's provinces:"
+        },
+        {
+          "number": 6,
+          "line": "For how can I endure to see the evil that shall come unto my people? or how can I endure to see the destruction of my kindred?"
+        },
+        {
+          "number": 7,
+          "line": "Then the king Ahasuerus said unto Esther the queen and to Mordecai the Jew, Behold, I have given Esther the house of Haman, and him they have hanged upon the gallows, because he laid his hand upon the Jews."
+        },
+        {
+          "number": 8,
+          "line": "Write ye also for the Jews, as it liketh you, in the king's name, and seal it with the king's ring: for the writing which is written in the king's name, and sealed with the king's ring, may no man reverse."
+        },
+        {
+          "number": 9,
+          "line": "Then were the king's scribes called at that time in the third month, that is, the month Sivan, on the three and twentieth day thereof; and it was written according to all that Mordecai commanded unto the Jews, and to the lieutenants, and the deputies and rulers of the provinces which are from India unto Ethiopia, an hundred twenty and seven provinces, unto every province according to the writing thereof, and unto every people after their language, and to the Jews according to their writing, and according to their language."
+        },
+        {
+          "number": 10,
+          "line": "And he wrote in the king Ahasuerus' name, and sealed it with the king's ring, and sent letters by posts on horseback, and riders on mules, camels, and young dromedaries:"
+        },
+        {
+          "number": 11,
+          "line": "Wherein the king granted the Jews which were in every city to gather themselves together, and to stand for their life, to destroy, to slay, and to cause to perish, all the power of the people and province that would assault them, both little ones and women, and to take the spoil of them for a prey,"
+        },
+        {
+          "number": 12,
+          "line": "Upon one day in all the provinces of king Ahasuerus, namely, upon the thirteenth day of the twelfth month, which is the month Adar."
+        },
+        {
+          "number": 13,
+          "line": "The copy of the writing for a commandment to be given in every province was published unto all people, and that the Jews should be ready against that day to avenge themselves on their enemies."
+        },
+        {
+          "number": 14,
+          "line": "So the posts that rode upon mules and camels went out, being hastened and pressed on by the king's commandment. And the decree was given at Shushan the palace."
+        },
+        {
+          "number": 15,
+          "line": "And Mordecai went out from the presence of the king in royal apparel of blue and white, and with a great crown of gold, and with a garment of fine linen and purple: and the city of Shushan rejoiced and was glad."
+        },
+        {
+          "number": 16,
+          "line": "The Jews had light, and gladness, and joy, and honour."
+        },
+        {
+          "number": 17,
+          "line": "And in every province, and in every city, whithersoever the king's commandment and his decree came, the Jews had joy and gladness, a feast and a good day. And many of the people of the land became Jews; for the fear of the Jews fell upon them."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "mordecai",
+      "titleEn": "Mordecai",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "800px-Pieter_Pietersz._Lastman_-_The_Triumph_of_Mordechai_8-28-2013 12-59-46 PM.jpg",
+      "caption": "The Triumph of Mordecai painting by Pieter Lastman in 1624. Located at the Rembrandt House Museum."
+    }
+  ],
+  "videos": []
 }

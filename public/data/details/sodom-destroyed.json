@@ -4,13 +4,161 @@
   "period": 3,
   "titleEn": "Sodom Destroyed",
   "titleKa": null,
-  "datesEn": "1845 BC",
+  "datesEn": "1845 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Sodom and sister city Gomorrah are destroyed by fire from heaven because of the wickedness of their inhabitants. Lot&#39;s wife and two daughters barely escape, but Lot&#39;s wife looks back and becomes a pillar of salt. The Bible often alludes to Sodom.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Sodom. Burning the walled, a city in the vale of Siddim (Gen. 13:10 14:1&#8212;16). The wickedness of its inhabitants brought down upon it fire from heaven, by which it was destroyed (18:16&#8212;33 19:1&#8212;29 Deut. 23:17). This city and its awful destruction are frequently alluded to in Scripture (Deut. 29:23 32:32 Isa. 1:9, 10 3:9 13:19 Jer. 23:14 Ezek. 16:46&#8212;56 Zeph. 2:9 Matt. 10:15 Rom. 9:29 2 Pet. 2:6, etc.). <BR /><BR />No trace of it or of the other cities of the plain has been discovered, so complete was their destruction. Just opposite the site of Zoar, on the south&#8212;west coast of the Dead Sea, is a range of low hills, forming a mass of mineral salt called Jebel Usdum, &#34;the hill of Sodom.&#34; It has been concluded, from this and from other considerations, that the cities of the plain stood at the southern end of the Dead Sea. Others, however, with much greater probability, contend that they stood at the northern end of the sea. [in 1897].",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 19:1-29",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing them rose up to meet them; and he bowed himself with his face toward the ground;"
+        },
+        {
+          "number": 2,
+          "line": "And he said, Behold now, my lords, turn in, I pray you, into your servant's house, and tarry all night, and wash your feet, and ye shall rise up early, and go on your ways. And they said, Nay; but we will abide in the street all night."
+        },
+        {
+          "number": 3,
+          "line": "And he pressed upon them greatly; and they turned in unto him, and entered into his house; and he made them a feast, and did bake unleavened bread, and they did eat."
+        },
+        {
+          "number": 4,
+          "line": "But before they lay down, the men of the city, even the men of Sodom, compassed the house round, both old and young, all the people from every quarter:"
+        },
+        {
+          "number": 5,
+          "line": "And they called unto Lot, and said unto him, Where are the men which came in to thee this night? bring them out unto us, that we may know them."
+        },
+        {
+          "number": 6,
+          "line": "And Lot went out at the door unto them, and shut the door after him,"
+        },
+        {
+          "number": 7,
+          "line": "And said, I pray you, brethren, do not so wickedly."
+        },
+        {
+          "number": 8,
+          "line": "Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do ye to them as is good in your eyes: only unto these men do nothing; for therefore came they under the shadow of my roof."
+        },
+        {
+          "number": 9,
+          "line": "And they said, Stand back. And they said again, This one fellow came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, even Lot, and came near to break the door."
+        },
+        {
+          "number": 10,
+          "line": "But the men put forth their hand, and pulled Lot into the house to them, and shut to the door."
+        },
+        {
+          "number": 11,
+          "line": "And they smote the men that were at the door of the house with blindness, both small and great: so that they wearied themselves to find the door."
+        },
+        {
+          "number": 12,
+          "line": "And the men said unto Lot, Hast thou here any besides? son in law, and thy sons, and thy daughters, and whatsoever thou hast in the city, bring them out of this place:"
+        },
+        {
+          "number": 13,
+          "line": "For we will destroy this place, because the cry of them is waxen great before the face of the LORD; and the LORD hath sent us to destroy it."
+        },
+        {
+          "number": 14,
+          "line": "And Lot went out, and spake unto his sons in law, which married his daughters, and said, Up, get you out of this place; for the LORD will destroy this city. But he seemed as one that mocked unto his sons in law."
+        },
+        {
+          "number": 15,
+          "line": "And when the morning arose, then the angels hastened Lot, saying, Arise, take thy wife, and thy two daughters, which are here; lest thou be consumed in the iniquity of the city."
+        },
+        {
+          "number": 16,
+          "line": "And while he lingered, the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters; the LORD being merciful unto him: and they brought him forth, and set him without the city."
+        },
+        {
+          "number": 17,
+          "line": "And it came to pass, when they had brought them forth abroad, that he said, Escape for thy life; look not behind thee, neither stay thou in all the plain; escape to the mountain, lest thou be consumed."
+        },
+        {
+          "number": 18,
+          "line": "And Lot said unto them, Oh, not so, my LORD:"
+        },
+        {
+          "number": 19,
+          "line": "Behold now, thy servant hath found grace in thy sight, and thou hast magnified thy mercy, which thou hast shewed unto me in saving my life; and I cannot escape to the mountain, lest some evil take me, and I die:"
+        },
+        {
+          "number": 20,
+          "line": "Behold now, this city is near to flee unto, and it is a little one: Oh, let me escape thither, (is it not a little one?) and my soul shall live."
+        },
+        {
+          "number": 21,
+          "line": "And he said unto him, See, I have accepted thee concerning this thing also, that I will not overthrow this city, for the which thou hast spoken."
+        },
+        {
+          "number": 22,
+          "line": "Haste thee, escape thither; for I cannot do anything till thou be come thither. Therefore the name of the city was called Zoar."
+        },
+        {
+          "number": 23,
+          "line": "The sun was risen upon the earth when Lot entered into Zoar."
+        },
+        {
+          "number": 24,
+          "line": "Then the LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven;"
+        },
+        {
+          "number": 25,
+          "line": "And he overthrew those cities, and all the plain, and all the inhabitants of the cities, and that which grew upon the ground."
+        },
+        {
+          "number": 26,
+          "line": "But his wife looked back from behind him, and she became a pillar of salt."
+        },
+        {
+          "number": 27,
+          "line": "And Abraham gat up early in the morning to the place where he stood before the LORD:"
+        },
+        {
+          "number": 28,
+          "line": "And he looked toward Sodom and Gomorrah, and toward all the land of the plain, and beheld, and, lo, the smoke of the country went up as the smoke of a furnace."
+        },
+        {
+          "number": 29,
+          "line": "And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in the which Lot dwelt."
+        }
+      ]
+    }
+  ],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "lot_fleeing_sodom_benjaminwest_1810_8-7-2013 10-45-30 AM.jpg",
+      "caption": "Lot Fleeing from Sodom, Benjamin West, 1810"
+    },
+    {
+      "file": "John_Martin_-_Sodom_and_Gomorrah.jpg",
+      "caption": "The Destruction of Sodom and Gomorrah, painting by John Martin in 1852 at the Laing Art Gallery"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Abraham, Part 8: Entertain and Intercede",
+      "caption": "This is part 8 of a sermon series on Abraham and deals with Genesis 18 and 19. The topic is on hospitality, entertaining, and interceding. Christians ought to be hospitable. Abraham earnestly prayed for the cities of Sodom and Gomorrah and interceded, just as Christ interceded for us.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2414.mp4"
+    },
+    {
+      "title": "Cities of Ash, Pt. 1",
+      "caption": "What does the Bible teach about hell? Is there really a hell? Where is it located and who is in charge of hell? We learn that people receive their just rewards &#34;at the last day&#34;, not immediately when they die. The dead are currently in their graves.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp78.mp4"
+    },
+    {
+      "title": "Cities of Ash, Pt. 2",
+      "caption": "What does the Bible teach about hell? Is there really a hell? Where is it located and who is in charge of hell? We learn that people receive their just rewards &#34;at the last day&#34;, not immediately when they die. The dead are currently in their graves.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp79.mp4"
+    }
+  ]
 }

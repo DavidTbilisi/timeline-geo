@@ -4,18 +4,54 @@
   "period": 7,
   "titleEn": "Jonah",
   "titleKa": null,
-  "datesEn": "823–720 BC (~103)",
+  "datesEn": "823&ndash;720 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;dove.&#34; He is the son of Amittai, a prophet in Israel, northern kingdom, during the reign of Jeroboam II. God calls him to prophesy to Nineveh, a foreign city. He runs away but after being swallowed by a whale he ends up in Nineveh.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jonah, name means &#34;dove&#34;. A prophet of the northern kingdom of Israel whose ministry came probably before or during the early part of the reign of Jeroboam II (c. 793&#8212;c. 753 b.c., nearly 11/2 cent. after the death of Solomon and the division of the kingdom c. 931 b.c. He was the son of Amittai (Jon 1:1), and his home was Gath&#8212;hepher in Galilee (2 Ki 14:25). <BR /><BR />Aside from the information given in the book of Jonah, the only fact known about him is that at some time during the reign of Jeroboam, or earlier, he predicted the restoration of the northern border of Israel (v 25). Somewhat in the manner of Elijah the Tishbite, Jonah appears suddenly on the scene when God sends him to Nineveh (Jon 1:2). Having no desire to go as a prophet to a foreign city such as Nineveh, and being unconcerned about the conversion of its inhabitants, Jonah sets out in the opposite direction, for Tarshish, probably the classical Tartessus on the southern coast of Spain (v 3). <BR /><BR />As the ship sails most probably northward within sight of the coast, it encounters a violent storm, which its master attributes to the anger of the gods against someone on board. By the casting of lots Jonah is revealed as the guilty person (Jon 1:7&#8212;11). With remarkable physical courage he proposes that he be cast overboard, in order that the storm may abate and the ship be saved (v 12). This demonstration of physical courage stands in sharp contrast with Jonah&#39;s moral cowardice in attempting to run away from God. Although Jonah is cast overboard, his life is spared by &#34;a great fish&#34; (v 17), in whose belly he spends the next &#34;three days and three nights&#34;&#8212;one 24&#8212;hour period, together with unspecified portions of the day preceding and the day following. <BR /><BR />Jonah&#39;s prayer of repentance is honored, and the fish deposits him &#34;upon the dry land&#34; (ch 2:1, 10). He may now have found himself opposite the island of Cyprus, as much as 150 mi. (c. 240 km.) nearer to Nineveh than when he had boarded the ship. God once more commissions him to go to Nineveh, and he responds without further question (ch 3:1&#8212;3). The Ninevites repent and God spares the city (vs 5&#8212;10). Despite the mercy shown him, Jonah resents God&#39;s mercy extended to the people of Nineveh (ch 4:1, 2), and is &#34;very angry.&#34; But by an object lesson God shows Jonah the folly of his attitude and justifies the decision to spare the people of Nineveh (vs 4&#8212;11).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Jonah 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now the word of the LORD came unto Jonah the son of Amittai, saying,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jonah-to-ninevah",
+      "titleEn": "Jonah to Ninevah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Jonah_7-31-2013 11-11-16 AM.jpg",
-      "caption": ""
+      "file": "Jonah_7-31-2013 11-11-16 AM.jpg",
+      "caption": "The Prophet Jonah, as depicted by Michelangelo in the Sistine Chapel in 1461-1484."
+    },
+    {
+      "file": "Jonah overboard_7-31-2013 11-11-16 AM.jpg",
+      "caption": "Illustration of prophet Jonah swimming away from open mouth of large whale"
+    },
+    {
+      "file": "Jonah water_7-31-2013 11-11-16 AM.jpg",
+      "caption": "Jonah whose name means &#34;dove.&#34;"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Incredible Influence",
+      "caption": "This is on the Bible story of the life and calling of Jonah whose life had an influence on those around him. Our reluctance to accept God&#39;s call on our lives will impact others.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2304.mp4"
+    },
+    {
+      "title": "Mercy at the Bottom",
+      "caption": "We often get the best glimpse of God when we are at the bottom, in difficult situations. The stories of Jonah and the Prodigal Son both teach us how God reaches us when we are at the bottom. Many more stories are covered.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2121.mp4"
     }
   ]
 }

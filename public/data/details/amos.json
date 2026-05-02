@@ -4,13 +4,44 @@
   "period": 8,
   "titleEn": "Amos",
   "titleKa": null,
-  "datesEn": "230–170 BC",
+  "datesEn": "230&ndash;170 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;burden&#34; or &#34;burden bearer.&#34; He is the son of Nahum (or Naum) and father of Mattathias as listed in Luke&#39;s genealogy of Jesus Christ.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:25",
+      "verses": [
+        {
+          "number": 25,
+          "line": "Which was the son of Mattathias, which was the son of Amos, which was the son of Naum, which was the son of Esli, which was the son of Nagge,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "naum-or-nahum",
+      "titleEn": "Naum (or Nahum)",
+      "titleKa": null
+    },
+    {
+      "slug": "mattathias-son-of-amos",
+      "titleEn": "Mattathias",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Amos-prophet.jpg",
+      "caption": "Prophet Amos, Russian icon from first quarter of 18th cen."
+    },
+    {
+      "file": "tissot-Amos_7-31-2013 9-28-02 AM.jpg",
+      "caption": "Amos. Artist: James Jacques Joseph Tissot, c. 1902"
+    }
+  ],
+  "videos": []
 }

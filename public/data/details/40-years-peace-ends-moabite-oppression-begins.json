@@ -4,18 +4,25 @@
   "period": 5,
   "titleEn": "Ehud Slays King Eglon",
   "titleKa": null,
-  "datesEn": "1297 BC",
+  "datesEn": "1297 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The Israelites once more turn away from God. The Lord strengthens Eglon, king of the Moabites, to oppress the children of Israel for 18 years. Then they cry to the Lord and God raises up Ehud, from the tribe of Benjamin, to deliver them.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Upon the death of the faithful judge Othniel, the Israelites gradually succumbed to their propensity for idolatry. Thus it is seen how powerful the presence of one good man in a church or state may be. When Othniel was gone and the nation had returned to its sinful ways, God allowed other peoples to oppress the Hebrews again. The oppression was designed to be salutary and came from King Eglon. <BR /><BR />The Moabites were close relatives of the Hebrews (Gen. 19:36&#8212;38). Prior to this time the two peoples had never engaged in active warfare with each other. Eglon allied himself with the Ammonites (whose kingdom lay to the north of Moab) and with the Amalekites (migrant Bedouins to the south). The first attack of Eglon was launched against Jericho, the city of palm trees and resulted in his conquering that city and the territory of Benjamin round about.<BR /><BR />After serving this foreign king for 18 years the Israelites became sufficiently weary of their status to realize again that their troubles were due to their religious apostasy, and with a degree of contrition they cried to God for help. Although they had betrayed His trust once, God responded by raising up a deliverer for them from the tribe of Benjamin. The first judge had been from Judah, the leading tribe. <BR /><BR />Now Judah seemingly has no champion for the oppressed people. At least the Lord used a man from the smallest tribe, the tribe that had borne the brunt of the Moabite oppression. Ehud, whom the Lord chose as deliverer, is described as left&#8212;handed (literally, &#34;bound as to his right hand&#34;). This fact has a bearing on what follows, for a left&#8212;handed person would bind his dagger on the opposite side to that on which it was usually carried, a distinct aid in concealing the weapon.<BR /><BR />After having delivered the tribute Ehud and the Israelite carriers who were with him departed for home. When they were a safe distance away, Ehud sent the porters on while he returned to try to carry out his dangerous mission. Ehud supposedly came back to deliver a secret message. The pretext appeared valid, and the king probably accepted it without suspicion inasmuch as Ehud had brought the tribute and the king probably supposed that he was about to betray some secret concerning conditions among the Israelites. <BR /><BR />Naturally Ehud could not have been expected to deliver such a message at the earlier public audience. The king&#39;s attendants were dismissed. When Ehud came forward, being left&#8212;handed helped prevent the king from getting suspicious as he reached under his robe to remove the dagger. The mighty thrust pierced the monarch&#39;s abdomen with such force that the whole dagger disappeared from view. The king&#39;s extreme obesity, probably due to lasciviousness and luxury, rendered him incapable of defending himself. Since the door was locked, Ehud was able to escape and not get caught.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
+  "related": [
+    {
+      "slug": "ehud",
+      "titleEn": "Ehud",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Speculum_Darmstadt_2505_55r_cropped_8-6-2013 3-28-49 PM.jpg",
-      "caption": ""
+      "file": "Speculum_Darmstadt_2505_55r_cropped_8-6-2013 3-28-49 PM.jpg",
+      "caption": "Ehud and Eglon, Speculum Humanae Salvationis"
     }
-  ]
+  ],
+  "videos": []
 }

@@ -2,20 +2,27 @@
   "slug": "jacobus-arminius",
   "id": 1375,
   "period": 12,
-  "titleEn": "Jacobus Arminius",
+  "titleEn": "Jacobus Arminius ",
   "titleKa": null,
-  "datesEn": "1560–1609 AD",
+  "datesEn": "1560&ndash;1609 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Opposed the predestination doctrines of John Calvin, giving rise to Arminianism.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jacobus Arminius was a Dutchman born on October 10, 1560. He studied theology in Geneva under Theodore Beza, who was the first rector of the Geneva Academy. In 1603 Arminius became a professor of theology at the University of Leiden. He was a popular professor but quickly came into conflict with Franciscus Gomarus, who disagreed with Jacobus on predestination. Gomarus, like John Calvin, believed that God had elected beforehand those to be saved and those to be lost. However, according to Arminius, humans were saved according to their response to God, not according to God&#39;s divine election. Arminius rejection of predestination began to cause division within the Calvinist churches.<BR /><BR />Arminius died in 1609. However, just prior to his death, he called for a synod to revise the Belgic Confession. By the time of the Synod of Dort in 1618, extreme opposition had formed. On one side, the Remonstrants (or Arminians) took a stand against predestination, and on the other side, the Counter&#8212;Remonstrants (or Calvinists) strongly advocated it. According to Counter&#8212;Remonstrantist arguments, they believed the Arminians (or Remonstrants) were returning to Catholicism because Remonstrants believed humans had a role in their own salvation. Therefore, as the Synod of Dort progressed, the Remonstrant leaders were ejected from the council and the Canons of Dordrecht proclaimed the Calvinist faith in opposition to Arminianism.<BR /><BR />Prior to Arminius, groups like the Anabaptists and Waldensians held similar views concerning the free will of mankind. Moreover, other Christian denominations have grown out of the faith traditions started by Arminius. Some of these denominations include the Baptists, Methodists, and Seventh&#8212;day Adventists.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/James_Arminius_2_2-26-2013 12-18-25 PM.jpg",
-      "caption": ""
+      "file": "James_Arminius_2_2-26-2013 12-18-25 PM.jpg",
+      "caption": "Portrait of Jacobus Arminius by David Bailly (1584-1657) in 1620."
     }
-  ]
+  ],
+  "videos": []
 }

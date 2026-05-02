@@ -4,18 +4,35 @@
   "period": 7,
   "titleEn": "Invasion of Philistines",
   "titleKa": null,
-  "datesEn": "710 BC",
+  "datesEn": "710 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Hezekiah makes plans to throw off Assyria, so he seeks to bring the coastal cities into a coalition against the Assyrians. The Philistines are under Assyrian control and pay tribute to Sargon.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 18:8",
+      "verses": [
+        {
+          "number": 8,
+          "line": "He smote the Philistines, even unto Gaza, and the borders thereof, from the tower of the watchmen to the fenced city."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "hezekiah",
+      "titleEn": "Hezekiah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas1040_8-7-2013 3-36-57 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas1040_8-7-2013 3-36-57 PM.jpg",
+      "caption": "Invasion of the Philistines"
     }
-  ]
+  ],
+  "videos": []
 }

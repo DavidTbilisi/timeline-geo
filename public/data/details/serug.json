@@ -4,13 +4,49 @@
   "period": 2,
   "titleEn": "Serug",
   "titleKa": null,
-  "datesEn": "2135–1905 BC",
+  "datesEn": "2135&ndash;1905 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name possibly means &#34;branch.&#34; He is the son of Reu, father of Nahor, and great grandfather of Abraham. He lived 230 years. Also &#34;Saruch&#34; (Luke 3:35).",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Son of Reu, and father of Nahor in the ancestral line of Abraham (Gen 11:20&#8212;23 1 Chr 1:26 Lk 3:35). The city of Sarugi near Haran is believed to have been named after him.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 11:20",
+      "verses": [
+        {
+          "number": 20,
+          "line": "And Reu lived two and thirty years, and begat Serug:"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 11:23",
+      "verses": [
+        {
+          "number": 23,
+          "line": "And Serug lived after he begat Nahor two hundred years, and begat sons and daughters."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "reu",
+      "titleEn": "Reu",
+      "titleKa": null
+    },
+    {
+      "slug": "nahor",
+      "titleEn": "Nahor",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Serug_7-31-2013 12-34-46 PM.jpg",
+      "caption": "Serug son of Reu. Published: Guillaume Rouille, Source:  &#34;Promptuarii Iconum Insigniorum &#34;, c. 1553"
+    }
+  ],
+  "videos": []
 }

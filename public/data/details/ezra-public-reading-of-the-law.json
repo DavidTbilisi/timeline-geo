@@ -4,13 +4,79 @@
   "period": 8,
   "titleEn": "Ezra, Public Reading of the Law",
   "titleKa": null,
-  "datesEn": "444 BC",
+  "datesEn": "444 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After the Jews return from Babylon and, under the leadership of Ezra & Nehemiah, reconstruct the Temple and the city walls, the people request that Ezra read to them from the book of the Law. All gather in an open square to listen carefully.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The introduction to the narrative of Nehemiah 8 is identical with that of Ezra 3 (Neh. 7:73 to 8:1 cf. Ezra 3:1). The same matter, the assembling of the people on the approach of the seventh month, is described in the same words. But the object of this assembling of the people was different from that mentioned in Ezra 3. In Ezra, they met to restore the altar of burnt offering and the sacrificial worship now they gather for the purpose of celebrating the great feasts of the 7th month and for religious instruction. It does not seem that the people were summoned for this gathering, but habitually arrived at the Temple at that time. It is therefore likely that Ezra had instituted such meetings after his return from Babylon 13 years earlier, and that it had become a habit in Judea to gather in Jerusalem at the beginning of the civil year for instruction and for the celebration of the three great feasts of that month.<BR /><BR />It is remarkable that the people came asking for instruction. Though many of them were negligent in observing the law, they nevertheless felt a desire to hear it read. Not content with existing conditions, they desired to reach a higher level in their spiritual experience and were convinced that the hearing of God&#39;s Word would benefit them. The people were acquainted with the Pentateuch, here referred to, and knew that Ezra was versed in it. <BR /><BR />The reading began on the New Year&#39;s Day of the civil calendar. This first day of the 7th month was distinguished above the other new moons of the year as the Feast of Trumpets, and celebrated as a high festival by a solemn assembly and cessation from labor (Lev. 23:23&#8212;25 Num. 29:1&#8212;6). The instruction lasted five or six hours. That it did not consist of incessant reading is apparent from vs. 4&#8212;8, which explain that the reading went on alternately with explanatory interpretations of the law by the Levites.<BR /><BR />The portion read must have deeply impressed the assembled throng. The portions of Scripture read consisted of certain sections of Deuteronomy, together with other parts of the Torah, selected to convict the people of their sin in transgressing the commands of the Lord, and to remind them of the punishments to which may they thus exposed themselves. They were so moved that they mourned and wept. This induced Nehemiah, Ezra, and the Levites to encourage and comfort them.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Nehemiah 8:1-12",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel."
+        },
+        {
+          "number": 2,
+          "line": "And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month."
+        },
+        {
+          "number": 3,
+          "line": "And he read therein before the street that was before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people were attentive unto the book of the law."
+        },
+        {
+          "number": 4,
+          "line": "And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, and Meshullam."
+        },
+        {
+          "number": 5,
+          "line": "And Ezra opened the book in the sight of all the people; (for he was above all the people;) and when he opened it, all the people stood up:"
+        },
+        {
+          "number": 6,
+          "line": "And Ezra blessed the LORD, the great God. And all the people answered, Amen, Amen, with lifting up their hands: and they bowed their heads, and worshipped the LORD with their faces to the ground."
+        },
+        {
+          "number": 7,
+          "line": "Also Jeshua, and Bani, and Sherebiah, Jamin, Akkub, Shabbethai, Hodijah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites, caused the people to understand the law: and the people stood in their place."
+        },
+        {
+          "number": 8,
+          "line": "So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading."
+        },
+        {
+          "number": 9,
+          "line": "And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto the LORD your God; mourn not, nor weep. For all the people wept, when they heard the words of the law."
+        },
+        {
+          "number": 10,
+          "line": "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our LORD: neither be ye sorry; for the joy of the LORD is your strength."
+        },
+        {
+          "number": 11,
+          "line": "So the Levites stilled all the people, saying, Hold your peace, for the day is holy; neither be ye grieved."
+        },
+        {
+          "number": 12,
+          "line": "And all the people went their way to eat, and to drink, and to send portions, and to make great mirth, because they had understood the words that were declared unto them."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ezra",
+      "titleEn": "Ezra",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas1757_8-28-2013 1-44-29 PM.jpg",
+      "caption": "Ezra reading the law"
+    }
+  ],
+  "videos": []
 }

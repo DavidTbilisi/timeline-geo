@@ -4,13 +4,99 @@
   "period": 3,
   "titleEn": "Abram Delivers Sodom from Four Kings",
   "titleKa": null,
-  "datesEn": "1866 BC",
+  "datesEn": "1866 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Four kings from Mesopotamia invade Canaan and eventually carry off Lot and his family and goods. When Abraham hears this, he takes 318 men and rescues Lot and all the people and possessions are returned. He then pays tithe to Melchizedek.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "His trained servants. Abram is the only patriarch to appear in the role of military leader. He lost no time in making preparations to rescue his nephew, but set out in pursuit immediately, with his own retainers and those of his Amorite friends (v. 24). The Hebrew word here translated &#34;trained servants&#34; occurs nowhere else in the Bible, but is identified in a letter from Taanach in the 15th century b.c. as a Canaanite word meaning &#34;retainers.&#34; <BR /><BR />Born in Abram&#39;s house, his 318 &#34;trained servants&#34; could be trusted. This suggests that Abram possessed more than 318 male servants, if those obtained during his recent sojourn in Egypt (ch. 12:16 16:1) are not included. How many followers and servants of Abram&#39;s three friends followed him on his rescue mission is unknown, but they probably constituted a substantial addition to his army. The idea that Abram&#39;s forces could defeat so powerful an enemy has often been the target of criticism. History records, however, many examples of great armies being defeated by smaller forces. Furthermore, ancient armies were very small by modern standards.<BR /><BR />Smote them. In a false sense of security the undefeated Mesopotamian army had relaxed its vigilance. Approaching the enemy, Abram divided his forces into several groups and surprised them by a night attack. As Abram&#39;s raiders fell upon the enemy&#39;s camp from different directions, so much confusion resulted that the powerful Mesopotamian army fled, leaving all the spoil and captives behind.<BR /><BR />Pursued them unto Hobah. Hobah has not been definitely identified, but Damascus lies some 40 mi. northeast of Dan. Abram pursued the fleeing enemies far enough to prevent them from regrouping their forces and turning again to attack him. His victory was complete.<BR /><BR />He brought back all. Though apparently possessing military genius, Abram certainly did not set out in pursuit of the professional armies of the conquering kings without first placing himself under the direction and protection of God. His fearless faith and unselfish spirit were amply rewarded. Whether Paul included Abram when he spoke of heroes of faith who &#34;waxed valiant in fight&#34; (Heb. 11:34) is not certain.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 14:1-17",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;"
+        },
+        {
+          "number": 2,
+          "line": "That these made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar."
+        },
+        {
+          "number": 3,
+          "line": "All these were joined together in the vale of Siddim, which is the salt sea."
+        },
+        {
+          "number": 4,
+          "line": "Twelve years they served Chedorlaomer, and in the thirteenth year they rebelled."
+        },
+        {
+          "number": 5,
+          "line": "And in the fourteenth year came Chedorlaomer, and the kings that were with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim,"
+        },
+        {
+          "number": 6,
+          "line": "And the Horites in their mount Seir, unto Elparan, which is by the wilderness."
+        },
+        {
+          "number": 7,
+          "line": "And they returned, and came to Enmishpat, which is Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazezontamar."
+        },
+        {
+          "number": 8,
+          "line": "And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar;) and they joined battle with them in the vale of Siddim;"
+        },
+        {
+          "number": 9,
+          "line": "With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five."
+        },
+        {
+          "number": 10,
+          "line": "And the vale of Siddim was full of slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain."
+        },
+        {
+          "number": 11,
+          "line": "And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way."
+        },
+        {
+          "number": 12,
+          "line": "And they took Lot, Abram's brother's son, who dwelt in Sodom, and his goods, and departed."
+        },
+        {
+          "number": 13,
+          "line": "And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these were confederate with Abram."
+        },
+        {
+          "number": 14,
+          "line": "And when Abram heard that his brother was taken captive, he armed his trained servants, born in his own house, three hundred and eighteen, and pursued them unto Dan."
+        },
+        {
+          "number": 15,
+          "line": "And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which is on the left hand of Damascus."
+        },
+        {
+          "number": 16,
+          "line": "And he brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people."
+        },
+        {
+          "number": 17,
+          "line": "And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that were with him, at the valley of Shaveh, which is the king's dale."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "abraham",
+      "titleEn": "Abraham",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-stdas0385_8-5-2013 3-29-06 PM.jpg",
+      "caption": "Abram rescues Lot and the other captives"
+    }
+  ],
+  "videos": []
 }

@@ -4,18 +4,33 @@
   "period": 9,
   "titleEn": "Stoning of Stephen",
   "titleKa": null,
-  "datesEn": "34 AD",
+  "datesEn": "34 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Stephen stands before the Jewish council and speaks boldly about Jesus Christ. The council is &#34;cut to the heart&#34; and angry with him. They cast him out of the city and stone him. This is a final sealing of the Jewish nation&#39;s rejection of Christ.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Stephen&#39;s speech aroused the indignation of the people and rulers. He was arrested and arraigned before the council (v 12). He was there confronted with charges of having spoken against the Temple and the Law, and of having taught that Jesus would destroy the Temple (chs 6:13&#8212;15 7:1). In his defense Stephen presented a re&#39;sume&#39; of the history of God&#39;s chosen people beginning with Abraham (ch 7:2), and endeavored to show that the Hebrews had consistently rejected God&#39;s leadership and had now rejected His Messiah.<BR /><BR />Sensing, evidently by the reaction of his listeners, that his defense had failed and that his enemies were determined to take his life, Stephen abruptly ended his line of reasoning and began a severe indictment of his accusers (Acts 7:51&#8212;53). Finally, as his enemies manifested hottest anger (v 54), he, &#34;being full of the Holy Ghost,&#34; was given a vision of Jesus at God&#39;s right hand (v 55). He described this vision to his audience, who stopped their ears at what they considered blasphemy, dragged him out of the city, and stoned him (vs 56&#8212;58). &#34;And devout men carried Stephen to his burial, and made great lamentation over him&#34; (ch 8:2). Stephen&#39;s death, which took place only a few years after the earthly life of Jesus, began the first wave of persecution to overtake the church. The believers were forced to leave Jerusalem, and thus the seed of the gospel of Jesus Christ was spread farther afield (v 1).",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Acts 7:59",
+      "verses": [
+        {
+          "number": 59,
+          "line": "And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit."
+        }
+      ]
+    }
+  ],
   "related": [],
   "images": [
     {
-      "file": "media/images/t/StStephen_GiacomoCavedone_2-28-2013 2-06-41 PM.jpg",
-      "caption": ""
+      "file": "StStephen_GiacomoCavedone_2-28-2013 2-06-41 PM.jpg",
+      "caption": "Painting of Saint Stephen in Glory by Giacomo Cavedone in 1601."
+    },
+    {
+      "file": "Vittore_Carpaccio_084_2-28-2013 2-06-41 PM.jpg",
+      "caption": "The Stoning of St Stephen by Vittore Carpaccio in 1520."
     }
-  ]
+  ],
+  "videos": []
 }

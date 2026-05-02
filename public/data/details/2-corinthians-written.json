@@ -4,13 +4,39 @@
   "period": 10,
   "titleEn": "2 Corinthians Written",
   "titleKa": null,
-  "datesEn": "57 AD",
+  "datesEn": "57 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Paul wrote the book of 2 Corinthians from Macedonia within a year of writing the book of 1 Corinthians as can be seen within the letter itself (2 Cor. 7:5). False teachers made Paul&#39;s second visit to Corinth challenging. His letter addresses this.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Paul made at least three visits, and wrote three, perhaps four, epistles to the church at Corinth. The first visit, about A.D. 51, during the course of his Second Missionary Journey, continued for a year and a half (Acts 18:11). At this time Paul founded and organized the church. He continued to keep in touch with it from time to time through representatives (2 Cor. 12:17). His first written contact with it is mentioned in 1 Cor. 5:9. This document is now presumed lost. Toward the close of more than two years spent at Ephesus, on the third journey, he wrote what is now known as First Corinthians (ch. 16:8).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Corinthians 7:5",
+      "verses": [
+        {
+          "number": 5,
+          "line": "For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "95266347_2-28-2013 11-33-53 AM.jpg",
+      "caption": "The second epistle of Paul the apostle to the Corinthians."
+    },
+    {
+      "file": "156361886_2-28-2013 11-33-53 AM.jpg",
+      "caption": "Statue of Paul the Apostle in Vatican."
+    }
+  ],
+  "videos": []
 }

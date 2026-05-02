@@ -4,13 +4,25 @@
   "period": 4,
   "titleEn": "Egyptians Drive out Hyksos, New Kingdom Egyptian",
   "titleKa": null,
-  "datesEn": "1561 BC",
+  "datesEn": "1561 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The New Kingdom of Egyptian history begins with the expulsion of the Hyksos from the northern part of Egypt where they had been ruling as the fifteenth Egyptian dynasty.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "amarna-letters-end-date",
+      "titleEn": "Amarna Letters, End Date",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Karnak Temple, Kamose stele, wars against Hyksos, tb011105957_5-7-2013 3-32-35 PM.jpg",
+      "caption": "Karnak Temple, Kamose stele, wars against Hyksos"
+    }
+  ],
+  "videos": []
 }

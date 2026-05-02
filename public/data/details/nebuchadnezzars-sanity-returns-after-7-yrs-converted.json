@@ -4,13 +4,35 @@
   "period": 8,
   "titleEn": "Nebuchadnezzar's Sanity Returns",
   "titleKa": null,
-  "datesEn": "563 BC",
+  "datesEn": "563 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Nebuchadnezzar has a dream after which he becomes insane for 7 years. Then he lifts his eyes to heaven and his understanding returns to him and he praises God.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The king testified that at the end of my days, that is, the end of the &#34;seven times,&#34; or seven years, predicted for the continuation of Nebuchadnezzar&#39;s madness, he lifted up his eyes. It is significant to notice that the return of reason is said to have come to the king with his recognition of the true God. When the humbled king prayerfully looked up to heaven he was elevated from the condition of a brute beast to that of a being bearing the image of God. <BR /><BR />The one who for years had helplessly lain on the ground in his debasement was once more lifted up to the dignity of manhood which God has granted His creatures formed after His likeness. The essential feature of the miracle that occurred in Nebuchadnezzar&#39;s case is still repeated&#8212;even if in a less spectacular manner&#8212;in the conversion of every sinner. Nebuchadnezzar &#34;blessed the most High.&#34; It speaks well for the once proud king, that after his dreadful experience his first desire was to thank God, to praise Him as the everliving One, and to recognize the eternity of His rulership.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Daniel 4:34",
+      "verses": [
+        {
+          "number": 34,
+          "line": "And at the end of the days I Nebuchadnezzar lifted up mine eyes unto heaven, and mine understanding returned unto me, and I blessed the most High, and I praised and honoured him that liveth for ever, whose dominion is an everlasting dominion, and his kingdom is from generation to generation:"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "nebuchadnezzar-ii",
+      "titleEn": "Nebuchadnezzar II",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-pppas0421_8-28-2013 11-25-29 AM.jpg",
+      "caption": "Nebuchanezzar&#39;s Sanity Returns"
+    }
+  ],
+  "videos": []
 }

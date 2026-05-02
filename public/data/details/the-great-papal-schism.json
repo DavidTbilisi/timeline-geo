@@ -2,15 +2,35 @@
   "slug": "the-great-papal-schism",
   "id": 1314,
   "period": 11,
-  "titleEn": "The Great Papal Schism",
+  "titleEn": "The Great Papal Schism ",
   "titleKa": null,
-  "datesEn": "1378–1417 AD",
+  "datesEn": "1378&ndash;1417 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Papal Schism that lasted nearly four decades. At one point there were three popes all claiming to be the Vicar of Christ.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Great Papal Schism began after the death of Pope Gregory XI. When the conclave of cardinals gathered in April 1378 to elect a new pope, they were practically forced by an angry mob to choose an Italian. A cardinal archbishop named Prignano was selected and became the new pope&#8212;Urban VI.<BR /><BR />Urban VI quickly showed himself to have a violent temper and an autocratic style of leadership. He began insulting the French cardinals, demanding they stop their &#34;stupid babbling.&#34; Soon the crisis reached a breaking point. The majority of cardinals called a gathering on August 9, 1378, and annulled the election of Pope Urban VI. In turn, they elected Robert of Geneva, a Frenchman, as the new pope in September 1378. The cardinals further decided that Avignon would again be recognized as the papal headquarters and Robert took the name Clement VII.<BR /><BR />Now with two rival popes, the Western church was divided. Neither pope was willing to give in to the other, and both were ready to fight to keep their position. For 11 years Urban VI and Clement VII struggled for complete papal power. Urban VI died on October 15, 1389. The next pope in this line was Boniface IX (1389&#8212;1404). Innocent VII (1404&#8212;1406) came after Boniface, followed by Gregory XII (1406&#8212;1415). The other line of popes continued after the death of Clement VII (1394) by Benedict XIII (1394&#8212;1422).<BR /><BR />The Great Papal Schism became the concern of the entire Western church. Since the popes were not willing to give up their power, the solution had to come from outside the papacy. The universities were heavily involved. The prominent theory used is known today as the conciliar theory, which essentially suggested that a general council should have supremacy over the pope. This led to the Council of Pisa, which began on March 25, 1409.<BR /><BR />The Council of Pisa hoped to provide the solution, but it actually added to the controversy. During the council, Pierre Philargis was elected as pope in order to dispel the other two claimants. But the Council of Pisa merely added another pope to the conquest for power. Now there were three rival popes, all claiming to be the successor of Peter and the true Vicar of Christ.<BR /><BR />Philargis didn&#39;t survive long and died within a year of his election. Balthasar Cossa was elected to replace him, becoming John XXIII. On November 5, 1414, the Council of Constance was opened to again attempt a resolution. All three popes were invited to attend, but John XXIII was the only one who came. As a result of the council, John XXIII was deposed, Gregory XII reluctantly resigned, and Benedict XIII fled to Spain and lived in exile until his death. In their place, the council elected Otto Colonna, who became Pope Martin V in November 1417. After 39 years, the Great Papal Schism was ended.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Pope_Clement_VII_8-1-2013 5-47-59 PM.JPG",
+      "caption": "Pope Clement VII"
+    },
+    {
+      "file": "Papa_Urbanus_VI_8-1-2013 5-47-59 PM.jpg",
+      "caption": "Pope Urban VI"
+    },
+    {
+      "file": "Palace of popes small_2-26-2013 5-47-17 PM.jpg",
+      "caption": "Palace of the Popes in Avignon, Provence, France. The new papal headquarters in France."
+    }
+  ],
+  "videos": []
 }

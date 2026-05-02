@@ -4,18 +4,305 @@
   "period": 9,
   "titleEn": "John the Baptist's Ministry",
   "titleKa": null,
-  "datesEn": "25–27 AD",
+  "datesEn": "25&ndash;27 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "John the Baptist was a forerunner of Christ, preparing the way for Jesus&#39; ministry. He was rugged in appearance and character and spoke the truth in a straightforward manner. His ministry reached its height when Jesus was baptized.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "John was about six months older than Jesus, and it is reasonable to think that his ministry began about six months prior to that of Christ. Thus John may have begun in the spring of the same year, perhaps about the Passover season. Great throngs would be approaching or leaving Jerusalem in the vicinity of the very spot where John was preaching. The apt illustrations John used in his preaching imply that the time of the (spring) harvest was not far away.<BR /><BR />&#34;In those days&#34; the Jews living in Palestine, particularly in Judea, were on the verge of revolution. Since the assignment of Roman procurators to govern Judea in a.d. 6, upon the banishment of Archelaus by Augustus, the presence of Roman officers and soldiers, the exercise of Roman authority, and the resulting influx of heathen customs had resulted in one uprising after another. Thousands of the bravest men of Israel had paid for their patriotism with their blood. Conditions were such that the people longed for a strong leader to deliver them from the cruel bondage of Rome.<BR /><BR />John the Baptist. Jesus said of John that &#34;among those that are born of women there is not a greater prophet&#34; (Luke 7:28). He was &#34;more than a prophet&#34; (see on Matt. 11:9). John&#39;s influence with the people eventually became so great that Herod Antipas at first hesitated to harm him (Matt. 14:1, 5 Mark 11:32), and the Jewish leaders did not dare speak openly against him (Matt. 21:26 Luke 20:6). Josephus gives a vivid account of John the Baptist that closely parallels that of the Gospels (Antiquities xviii. 5. 2).<BR /><BR />Wilderness of Judaea. This expression generally refers to the rugged, barren hills between the Dead Sea and the crest of the central mountain range of Palestine, a region of little rainfall and few inhabitants. John had spent much of his time as a youth and young man in the wilderness (Luke 1:80). His parents had probably lived in or near Hebron, not far from the western borders of this &#34;wilderness.&#34; In New Testament times the term wilderness was used to refer to both the rugged hills west of the Dead Sea and the lower part of the Jordan valley. According to Luke 3:3, John went from place to place, up and down the Jordan valley. Between Jericho and the Dead Sea the wilderness of Judea met that of the Jordan. John&#39;s ministry apparently began in this vicinity.<BR /><BR />John not only proclaims the establishment of the &#34;kingdom of heaven&#34; (v. 2) but announces the imminent arrival of its king. The figure of speech employed represents the preparations to be made in advance of the announced coming of the king. When an Oriental monarch intended to visit parts of his realm he would dispatch messengers to each district to be visited, announcing his anticipated visit and summoning the inhabitants to prepare for his arrival. The local inhabitants of each district were expected to &#34;prepare&#34; the highway over which he would travel, inasmuch as little was ordinarily done to maintain roads. In some Oriental lands it is still customary to repair the roads over which the king or some other celebrity is about to travel.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Matthew 3:1-12",
+      "verses": [
+        {
+          "number": 1,
+          "line": "In those days came John the Baptist, preaching in the wilderness of Judaea,"
+        },
+        {
+          "number": 2,
+          "line": "And saying, Repent ye: for the kingdom of heaven is at hand."
+        },
+        {
+          "number": 3,
+          "line": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+        },
+        {
+          "number": 4,
+          "line": "And the same John had his raiment of camel's hair, and a leathern girdle about his loins; and his meat was locusts and wild honey."
+        },
+        {
+          "number": 5,
+          "line": "Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,"
+        },
+        {
+          "number": 6,
+          "line": "And were baptized of him in Jordan, confessing their sins."
+        },
+        {
+          "number": 7,
+          "line": "But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?"
+        },
+        {
+          "number": 8,
+          "line": "Bring forth therefore fruits meet for repentance:"
+        },
+        {
+          "number": 9,
+          "line": "And think not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham."
+        },
+        {
+          "number": 10,
+          "line": "And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire."
+        },
+        {
+          "number": 11,
+          "line": "I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:"
+        },
+        {
+          "number": 12,
+          "line": "Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire."
+        }
+      ]
+    },
+    {
+      "reference": "Mark 1:1-8",
+      "verses": [
+        {
+          "number": 1,
+          "line": "The beginning of the gospel of Jesus Christ, the Son of God;"
+        },
+        {
+          "number": 2,
+          "line": "As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee."
+        },
+        {
+          "number": 3,
+          "line": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+        },
+        {
+          "number": 4,
+          "line": "John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins."
+        },
+        {
+          "number": 5,
+          "line": "And there went out unto him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins."
+        },
+        {
+          "number": 6,
+          "line": "And John was clothed with camel's hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;"
+        },
+        {
+          "number": 7,
+          "line": "And preached, saying, There cometh one mightier than I after me, the latchet of whose shoes I am not worthy to stoop down and unloose."
+        },
+        {
+          "number": 8,
+          "line": "I indeed have baptized you with water: but he shall baptize you with the Holy Ghost."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 3:2-18",
+      "verses": [
+        {
+          "number": 2,
+          "line": "Annas and Caiaphas being the high priests, the word of God came unto John the son of Zacharias in the wilderness."
+        },
+        {
+          "number": 3,
+          "line": "And he came into all the country about Jordan, preaching the baptism of repentance for the remission of sins;"
+        },
+        {
+          "number": 4,
+          "line": "As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+        },
+        {
+          "number": 5,
+          "line": "Every valley shall be filled, and every mountain and hill shall be brought low; and the crooked shall be made straight, and the rough ways shall be made smooth;"
+        },
+        {
+          "number": 6,
+          "line": "And all flesh shall see the salvation of God."
+        },
+        {
+          "number": 7,
+          "line": "Then said he to the multitude that came forth to be baptized of him, O generation of vipers, who hath warned you to flee from the wrath to come?"
+        },
+        {
+          "number": 8,
+          "line": "Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto you, That God is able of these stones to raise up children unto Abraham."
+        },
+        {
+          "number": 9,
+          "line": "And now also the axe is laid unto the root of the trees: every tree therefore which bringeth not forth good fruit is hewn down, and cast into the fire."
+        },
+        {
+          "number": 10,
+          "line": "And the people asked him, saying, What shall we do then?"
+        },
+        {
+          "number": 11,
+          "line": "He answereth and saith unto them, He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise."
+        },
+        {
+          "number": 12,
+          "line": "Then came also publicans to be baptized, and said unto him, Master, what shall we do?"
+        },
+        {
+          "number": 13,
+          "line": "And he said unto them, Exact no more than that which is appointed you."
+        },
+        {
+          "number": 14,
+          "line": "And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse any falsely; and be content with your wages."
+        },
+        {
+          "number": 15,
+          "line": "And as the people were in expectation, and all men mused in their hearts of John, whether he were the Christ, or not;"
+        },
+        {
+          "number": 16,
+          "line": "John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:"
+        },
+        {
+          "number": 17,
+          "line": "Whose fan is in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable."
+        },
+        {
+          "number": 18,
+          "line": "And many other things in his exhortation preached he unto the people."
+        }
+      ]
+    },
+    {
+      "reference": "John 1:15-36",
+      "verses": [
+        {
+          "number": 15,
+          "line": "John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me."
+        },
+        {
+          "number": 16,
+          "line": "And of his fulness have all we received, and grace for grace."
+        },
+        {
+          "number": 17,
+          "line": "For the law was given by Moses, but grace and truth came by Jesus Christ."
+        },
+        {
+          "number": 18,
+          "line": "No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him."
+        },
+        {
+          "number": 19,
+          "line": "And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?"
+        },
+        {
+          "number": 20,
+          "line": "And he confessed, and denied not; but confessed, I am not the Christ."
+        },
+        {
+          "number": 21,
+          "line": "And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No."
+        },
+        {
+          "number": 22,
+          "line": "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?"
+        },
+        {
+          "number": 23,
+          "line": "He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias."
+        },
+        {
+          "number": 24,
+          "line": "And they which were sent were of the Pharisees."
+        },
+        {
+          "number": 25,
+          "line": "And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?"
+        },
+        {
+          "number": 26,
+          "line": "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;"
+        },
+        {
+          "number": 27,
+          "line": "He it is, who coming after me is preferred before me, whose shoe's latchet I am not worthy to unloose."
+        },
+        {
+          "number": 28,
+          "line": "These things were done in Bethabara beyond Jordan, where John was baptizing."
+        },
+        {
+          "number": 29,
+          "line": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world."
+        },
+        {
+          "number": 30,
+          "line": "This is he of whom I said, After me cometh a man which is preferred before me: for he was before me."
+        },
+        {
+          "number": 31,
+          "line": "And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water."
+        },
+        {
+          "number": 32,
+          "line": "And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him."
+        },
+        {
+          "number": 33,
+          "line": "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost."
+        },
+        {
+          "number": 34,
+          "line": "And I saw, and bare record that this is the Son of God."
+        },
+        {
+          "number": 35,
+          "line": "Again the next day after John stood, and two of his disciples;"
+        },
+        {
+          "number": 36,
+          "line": "And looking upon Jesus as he walked, he saith, Behold the Lamb of God!"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "christs-early-ministry",
+      "titleEn": "Christ's Early Ministry",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas0793_8-28-2013 2-48-58 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas0793_8-28-2013 2-48-58 PM.jpg",
+      "caption": "The birth of John the Baptist"
+    },
+    {
+      "file": "GoodSalt-stdas0068_8-28-2013 2-48-58 PM.jpg",
+      "caption": "The ministry of John the Baptist"
+    },
+    {
+      "file": "GoodSalt-stdas0069_8-28-2013 2-48-58 PM.jpg",
+      "caption": "John the Baptist baptizing Jesus"
+    },
+    {
+      "file": "GoodSalt-prcas1431_8-28-2013 2-48-58 PM.jpg",
+      "caption": "John the Baptist in prison"
+    }
+  ],
+  "videos": [
+    {
+      "title": "John the Baptist Part 1: Spirit & Power of Elijah",
+      "caption": "The first of a two part series on John the Baptist, known by Jesus as the greatest prophet in all the Scriptures. There is a parallel in the lives of Elijah and John the Baptist. The most central point of John&#39;s life was pointing to Jesus, the Lamb of God. So are we to point people to Jesus.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2543.mp4"
+    },
+    {
+      "title": "John the Baptist Part 2: A Voice in the Wilderness",
+      "caption": "The second in a two part series on the life of John the Baptist. Many parallels between the life of John and Elijah. Like John, the most important thing you can possess is truth.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2544.mp4"
     }
   ]
 }

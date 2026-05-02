@@ -4,13 +4,43 @@
   "period": 8,
   "titleEn": "Ezekiel Taken Captive",
   "titleKa": null,
-  "datesEn": "597 BC",
+  "datesEn": "597 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Ezekiel, a priest from Judah, is taken captive to Babylon, along with Jehoiachin and many others when he is about 25 years old.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "With the characteristic accuracy of a faithful historian, Ezekiel begins his prophetic dissertation (Ezekiel 1:1) with a careful dating of the events concerned. It was the 30th year. However, he does not specify the particular event that marks the beginning of this period. Many believe that he refers to the 30th year of his life. The age of 30 was significant from the point of view that at this age the Hebrew youth were considered to have reached maturity. This was the year in which the Levites originally began their Temple functions (Num. 4:3). <BR /><BR />It was in or about their 30th year that both our Lord and John the Baptist began their public ministry (see on Matt. 3:1). Since this 30th year is equated with the 5th year of Jehoiachin&#39;s captivity (see on Eze. 1:2), the 1st year of the 30 would be (according to two of the possible reckonings) a significant year, the 18th of Josiah for it was then the book of the law was discovered in the Temple (2 Kings 22:3&#8212;8). This event marked the beginning of a reformation that, if successfully followed up, would have done much to alter the future history of Judah. It is possible that Ezekiel had this important incident in mind when he designated the 30th year.<BR /><BR />He then speaks of the &#34;fourth month.&#34; Numbered from the spring month Nisan, regardless of whether the calendar year was reckoned from spring or fall. The 4th month would begin in our June or July, 593 or 592. Ezekiel was in the midst of the region where the captives were settled. A vision came to him privately, and was later to be delivered publicly (ch. 3:1, 4).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Ezekiel 1:1-3",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God."
+        },
+        {
+          "number": 2,
+          "line": "In the fifth day of the month, which was the fifth year of king Jehoiachin's captivity,"
+        },
+        {
+          "number": 3,
+          "line": "The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ezekiel",
+      "titleEn": "Ezekiel",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas3306_8-28-2013 10-37-36 AM.jpg",
+      "caption": "The prophet Ezekiel"
+    }
+  ],
+  "videos": []
 }

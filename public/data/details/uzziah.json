@@ -4,18 +4,54 @@
   "period": 7,
   "titleEn": "Uzziah",
   "titleKa": null,
-  "datesEn": "808–739 BC (~69)",
+  "datesEn": "808&ndash;739 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;God is my strength.&#34; Son of Amaziah, king of Judah, southern kingdom, for 52 years. He is a good king but tolerates some idol worship. His success leads him to enter the temple to presume to do priestly functions, but he gets leprosy.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Uzziah, name means &#34;Yahweh is my strength&#34;. The 10th ruler of the kingdom of Judah, who reigned for 52 years (c. 790&#8212;c. 739 b.c.). He was also called Azariah. This was probably his original name and Uzziah his throne name (2 Ki 15:1 cf. 2 Chr 26:1). Uzziah seems to have been elevated to the position of coregent with his father after his father Amaziah suffered a serious defeat by Jehoash of Israel. <BR /><BR />This conclusion can be drawn not only from an interpretation of the chronological data given in the Bible but also from the remark that &#34;he [Azariah] built Elath, ... after that the king [Amaziah] slept with his fathers&#34; (2 Ki 14:22 2 Chr 26:2). Apparently his sole reign did not begin until the 27th year (c. 767 b.c.) of Jeroboam II&#39;s reign (2 Ki 15:1), so that the coregency seems to have lasted for about 24 years. Uzziah is known for rebuilding Judah&#39;s army, promoting his country&#39;s agriculture, and reorganizing its defenses (2 Chr 26:9&#8212;15). He was also responsible for restoring his nation&#39;s military fame by a number of victories over Philistine cities and Arabian tribes, and by forcing the Ammonites to pay tribute to him (vs 6&#8212;8). <BR /><BR />He is described as a good king, although he tolerated the worship of other gods on the high places (2 Ki 15:3, 4 2 Chr 26:4, 5). Finally, however, his success and power led him to presume to enter the Temple in order to exercise priestly functions by offering incense. The high priest Azariah and 80 priests protested against this presumption, and God punished the king with incurable leprosy. From that time until his death he lived as a leper in a separate house, while his son Jotham reigned as coregent (2 Ki 15:5 2 Chr 26:16&#8212;21). During Uzziah&#39;s reign the prophets Amos, Hosea, and Isaiah began their ministry (Amos 1:1 Hos 1:1 Is 1:1). A severe earthquake occurred in his time (Amos 1:1 Zec 14:5). <BR /><BR />Dr. E. L. Sukenik found a stone tablet in the Russian Archeological Museum on the Mount of Olives in 1931 with the following Aramaic inscription: &#34;Hither were brought the bones of Uzziah king of Judah&#8212;do not open&#34;. Since this inscription dates from about the time of Christ, it shows that in the beginning of the Christian Era the king&#39;s original tomb, apparently still known to the people at Jerusalem, had been disturbed, and that his bones had been moved to a new resting place, where this tablet seems to have been set up. (W. F. Albright, BASOR 44 [1931], 8&#8212;10 E. L. Sukenik, QSPEF 63 [1931], 217&#8212;221.)<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 15:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "In the twenty and seventh year of Jeroboam king of Israel began Azariah son of Amaziah king of Judah to reign."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 15:7",
+      "verses": [
+        {
+          "number": 7,
+          "line": "So Azariah slept with his fathers; and they buried him with his fathers in the city of David: and Jotham his son reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "amaziah",
+      "titleEn": "Amaziah",
+      "titleKa": null
+    },
+    {
+      "slug": "uzziah-azariah-prosperous-time",
+      "titleEn": "Uzziah Azariah, Prosperous Time",
+      "titleKa": null
+    },
+    {
+      "slug": "jotham",
+      "titleEn": "Jotham",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Rembrandt_Harmensz_van_Rijn_032.jpg",
-      "caption": ""
+      "file": "Rembrandt_Harmensz_van_Rijn_032.jpg",
+      "caption": "King Uzziah as painted by Rembrandt in 1635."
     }
-  ]
+  ],
+  "videos": []
 }

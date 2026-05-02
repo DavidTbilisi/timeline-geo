@@ -4,13 +4,63 @@
   "period": 7,
   "titleEn": "Jehoshaphat",
   "titleKa": null,
-  "datesEn": "907–848 BC",
+  "datesEn": "907&ndash;848 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;God has judged.&#34; He is the son of Asa and Azubah, the 4th king of the southern kingdom of Judah. He reigns 25 years partly with his father, and is a righteous king who teaches the Law. Sometimes joined with Ahab, for which he is rebuked.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jehoshaphat, name means &#34;Yahweh has judged. The 4th king of the southern kingdom of Judah, who reigned 25 years (c. 872&#8212;c. 848 b.c.). There is reason to believe that he was associated with his father Asa on the throne during Asa&#39;s last regnal years when the elder monarch was plagued by a foot disease. <BR /><BR />Jehoshaphat&#39;s son, Jehoram was coregent with his father toward the end of Jehoshaphat&#39;s reign (2 Ki 8:16 cf. ch 1:17 2 Chr 20:31). Jehoshaphat&#39;s sole rule lasted only about 17 years. He is described as a good king who did not serve foreign gods, although many of his subjects still worshiped at high places that had not been removed (1 Ki 22:43 2 Chr 17:3). In his 3rd year he sent princes, Levites, and priests through the country of Judah to teach the people the principles of the Law of God (2 Chr 17:7&#8212;9). God blessed him because of these things. He was able to make peace with Israel and also to gain the respect and favor of the surrounding nations, some of whom sent him gifts (1 Ki 22:44 2 Chr 17:11). It was regrettable that he connected his house with that of Omri of Israel, by taking Athaliah, the idolatrous daughter of Ahab, as wife for his son (2 Ki 8:18).<BR /><BR />While visiting Ahab after the battle of Qarqar in 853 b.c. Jehoshaphat was induced by the Israelite king to accompany him on a campaign to regain Ramoth&#8212;gilead from the Syrians. The campaign was unsuccessful and in the ensuing battle Ahab was mortally wounded, but Jehoshaphat escaped (1 Ki 22:1&#8212;38 2 Chr 18:1&#8212;34). Jehoshaphat&#39;s fraternization with the wicked king of Israel was severely rebuked by the prophet Jehu, son of Hanani (2 Chr 19:1, 2). Returning from the north, Jehoshaphat continued the religious and judicial reforms started by his father (1 Ki 22:46 2 Chr 17:6). He also instituted a judicial body in Jerusalem to act as the highest court in the country (2 Chr 19:4&#8212;11). He is called Josaphat in Mt 1:18, KJV.<BR /><BR />Later in his reign the Ammonites, Moabites, and Edomites joined forces and invaded Judah from the south. Jehoshaphat sought the Lord for deliverance, and the Lord honored his request. The enemy allies began quarreling among themselves and in a bloody battle destroyed one another (2 Chr 20:1&#8212;30). It was probably this disaster that gave Jehoshaphat access to the Edomite fort of Ezion&#8212;geber, seemingly not occupied by Judah since the time of Solomon. <BR /><BR />Ahaziah of Israel joined him in an enterprise to build a fleet of ships to be used for trading expeditions. But the ships were wrecked, presumably in a gale. Ahaziah seems to have suggested a second attempt, but Jehoshaphat refused, for he had been rebuked by the prophet Eliezer for uniting himself with the wicked king of Israel (1 Ki 22:48, 49 2 Chr 20:35&#8212;37). Later, Jehoshaphat joined Jehoram, another son of Ahab, in a campaign against Moab which met with a measure of success (2 Ki 3:4&#8212;27). Jehoshaphat was buried in the royal tombs of Jerusalem (2 Chr 21:1).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 22:41",
+      "verses": [
+        {
+          "number": 41,
+          "line": "And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel."
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:50",
+      "verses": [
+        {
+          "number": 50,
+          "line": "And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoram his son reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "asa",
+      "titleEn": "Asa",
+      "titleKa": null
+    },
+    {
+      "slug": "jehoshaphat-sends-levites-out-to-teach-the-law",
+      "titleEn": "Jehoshaphat Sends Levites Out to Teach the Law",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas0289_8-6-2013 11-57-48 AM.jpg",
+      "caption": "Good King Jehoshaphat."
+    },
+    {
+      "file": "Jehoshaphat Allies with Ahab_4-17-2013 4-42-42 PM.jpg",
+      "caption": "Jehoshaphat and Ahab ask the Prophets (2 Chronicles, Chapter 18). Woodcut after a drawing by Julius Schnorr von Carolsfeld (German painter, 1794 - 1872) "
+    },
+    {
+      "file": "Tell er-Rumeith, possible Ramoth Gilead, from east, tb060503012_4-17-2013 4-42-42 PM.jpg",
+      "caption": "Tell er-Rumeith, possible Ramoth-gilead"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Where is Micaiah?",
+      "caption": "This sermon deals with the story of Jehoshaphat making an alliance with Ahab and calling in Micaiah the prophet for advice.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2742.mp4"
+    }
+  ]
 }

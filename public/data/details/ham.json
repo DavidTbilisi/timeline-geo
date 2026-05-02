@@ -4,18 +4,45 @@
   "period": 2,
   "titleEn": "Ham",
   "titleKa": null,
-  "datesEn": "2343–1743 BC (~600)",
+  "datesEn": "2343&ndash;1743 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;hot&#34; or &#34;warm.&#34; He is probably the second of Noah&#39;s three sons and was cursed for being disrespectful when discovering his father was uncovered when Noah was drunk (Gen. 9:18&#8212;27). The curse was on his son Canaan.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The youngest son of Noah, born after his father was 500 years old (Gen 5:32 9:24). During his father&#39;s drunkenness Ham acted shamefully and thus incurred the displeasure of Noah and brought a curse upon Canaan, Ham&#39;s son , who seems to have been involved in his father&#39;s sin (ch 9:22&#8212;27). To Ham&#39;s descendants belong the African and Arabian Cushites (Ethiopians see Ethiopia), the Egyptians, and the Canaanites.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 5:32",
+      "verses": [
+        {
+          "number": 32,
+          "line": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "noah",
+      "titleEn": "Noah",
+      "titleKa": null
+    },
+    {
+      "slug": "hams-sin-and-curse",
+      "titleEn": "Ham's Sin and Curse",
+      "titleKa": null
+    },
+    {
+      "slug": "cush",
+      "titleEn": "Cush",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Noah Sacrifice_5-20-2013 5-44-48 PM.jpg",
-      "caption": ""
+      "file": "Noah's Building Ark 1032-3_7-22-2013 2-38-37 PM.jpg",
+      "caption": "And Noah begat three sons, Shem, <b>Ham</b>, and Japheth. (Genesis 6:10)"
     }
-  ]
+  ],
+  "videos": []
 }

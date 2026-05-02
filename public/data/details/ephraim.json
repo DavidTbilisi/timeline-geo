@@ -4,13 +4,63 @@
   "period": 3,
   "titleEn": "Ephraim",
   "titleKa": null,
-  "datesEn": "1660–1570 BC",
+  "datesEn": "1660&ndash;1570 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;double fruitfulness.&#34; He is the second of two sons born to Joseph through Asenath. His grandfather, Jacob, crosses his arms and gives a greater blessing to him though he is not the eldest. He and his brother become heirs as Jacob&#39;s sons.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The second son of Joseph (Gen 41:50&#8212;52). Although younger than Manasseh, Ephraim was given preeminence over his older brother in the blessing of their dying grandfather Jacob. Jacob declared that these two grandsons should be reckoned as his heirs, along with his own sons, and he indicated the prominent position of Ephraim&#39;s descendants (ch 48:5&#8212;20).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 41:45-52",
+      "verses": [
+        {
+          "number": 45,
+          "line": "And Pharaoh called Joseph's name Zaphnathpaaneah; and he gave him to wife Asenath the daughter of Potipherah priest of On. And Joseph went out over all the land of Egypt."
+        },
+        {
+          "number": 46,
+          "line": "And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt."
+        },
+        {
+          "number": 47,
+          "line": "And in the seven plenteous years the earth brought forth by handfuls."
+        },
+        {
+          "number": 48,
+          "line": "And he gathered up all the food of the seven years, which were in the land of Egypt, and laid up the food in the cities: the food of the field, which was round about every city, laid he up in the same."
+        },
+        {
+          "number": 49,
+          "line": "And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number."
+        },
+        {
+          "number": 50,
+          "line": "And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Potipherah priest of On bare unto him."
+        },
+        {
+          "number": 51,
+          "line": "And Joseph called the name of the firstborn Manasseh: For God, said he, hath made me forget all my toil, and all my father's house."
+        },
+        {
+          "number": 52,
+          "line": "And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "joseph",
+      "titleEn": "Joseph",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-stdas0733_8-6-2013 11-17-04 AM.jpg",
+      "caption": "And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction. (Genesis 41:52)"
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,58 @@
   "period": 5,
   "titleEn": "Jesse",
   "titleKa": null,
-  "datesEn": "1140–1020 BC",
+  "datesEn": "1140&ndash;1020 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;firm&#34; or &#34;a gift.&#34; He is the son of Obed and grandson of Boaz and Ruth. Jesse is the father of King David and the ancestor of Jesus Christ. He has eight sons. Jesse&#39;s family is from Bethlehem but David later moves his parents to Moab.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jesse. A descendant of Judah, and grandson of Boaz and Ruth (Ruth 4:18&#8212;22 Mt 1:2&#8212;5 Lk 3:32). Jesse had 8 sons, of whom David was the youngest (1 Sa 17:12&#8212;14). The list in 1 Chr 2:13&#8212;15 names only 7, but the 8th seems to have been Elihu, who may have died without leaving any progeny (ch 27:18). Jesse also had 2 daughters, or possibly stepdaughters (1 Chr 2:16 cf. 2 Sa 17:25). Jesse and his family lived at Bethlehem when Samuel, by divine command, came to anoint David as future king of Israel (1 Sa 16:1&#8212;13). Later, when fleeing from Saul, David, fearing for the safety of his relatives, took his parents to Moab and placed them under the protection of the king of that country (1 Sa 22:3, 4). The Scriptures do not mention Jesse&#39;s death.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Ruth 4:22",
+      "verses": [
+        {
+          "number": 22,
+          "line": "And Obed begat Jesse, and Jesse begat David."
+        }
+      ]
+    },
+    {
+      "reference": "Matthew 1:5",
+      "verses": [
+        {
+          "number": 5,
+          "line": "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;"
+        }
+      ]
+    },
+    {
+      "reference": "Luke 3:32",
+      "verses": [
+        {
+          "number": 32,
+          "line": "Which was the son of Jesse, which was the son of Obed, which was the son of Booz, which was the son of Salmon, which was the son of Naasson,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "obed",
+      "titleEn": "Obed",
+      "titleKa": null
+    },
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "800px-Michelangelo_lunetta_Jesse_-_David_-_Solomon_01_8-6-2013 4-43-10 PM.jpg",
+      "caption": "Jesse and David from the Sistine Chapel, Michelangelo Buonarroti, 1511-1512"
+    }
+  ],
+  "videos": []
 }

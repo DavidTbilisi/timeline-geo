@@ -4,13 +4,23 @@
   "period": 8,
   "titleEn": "Cambyses II",
   "titleKa": null,
-  "datesEn": "553–522 BC",
+  "datesEn": "553&ndash;522 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Cyrus died in 530 b.c., probably while on some eastern campaign and was succeeded by his son, Cambyses II. This ambitious young man, to make secure his crown, murdered his brother and sister. After eight years of apparent success, he died in 522 b.c.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "<BR />",
   "articleKa": null,
   "scriptures": [],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "Cambyses kills the Apis_8-1-2013 9-27-31 AM.jpg",
+      "caption": "Cambyses kills the Apis"
+    },
+    {
+      "file": "Cambyses_II.jpg",
+      "caption": "Illustration of Cambyses II in 1553 published by Guillaume Rouille"
+    }
+  ],
+  "videos": []
 }

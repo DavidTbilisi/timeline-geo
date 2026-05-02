@@ -4,13 +4,59 @@
   "period": 9,
   "titleEn": "Peter",
   "titleKa": null,
-  "datesEn": "1 BC–65 AD",
+  "datesEn": "1 <span>BC</span>&ndash;65 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;stone&#34; or &#34;rock.&#34; He is the son of Jona (John). His original name was Simon until Jesus changed it to Peter. He is one of the 12 apostles of Jesus. A man of action, he could be boastful and impulsive. He is crucified in Rome upside down.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Peter (pe`ter). [Gr. Petros, &#34;stone,&#34; a translation of the Aramaic K&#234;pha&#39;, &#34;Cephas,&#34; &#34;rock,&#34; or &#34;stone.&#34; See Jn 1:42.] One of the Twelve, also called Simon (Gr. Simon and Sumeon, from Heb. Shim&#39;&#244;n, &#34;Simeon&#34;), a son of Jona (Jn 1:42), or, on the basis of textual evidence, John (see chs 1:42 21:15&#8212;17 RSV). Peter&#39;s name appears 1st in all 4 New Testament lists of the Twelve (Mt 10:2 Mk 3:16 Lk 6:14 Acts 1:13). Jesus gave Simon his new name, Peter, when Peter&#39;s brother, Andrew, first brought him to Christ (Jn 1:40&#8212;42). Peter was thus the 1st Christian convert resulting from what might be called a layman&#39;s efforts. <BR /><BR />His eagerness, earnestness, courage, vigor, and organizing ability apparently earned him a place of leadership among the disciples from the very beginning. He was preeminently a man of action, and his enthusiastic disposition was his outstanding character trait. He was also a man of pronounced extremes, possessing marked virtues and serious defects&#8212;seemingly contradictory traits of character that existed side by side. He was usually warm&#8212;hearted, generous, bold, and daring, but again he might be selfish, boastful, impulsive, or reckless. In a moment of crisis he might prove to be weak, cowardly, and vacillating, and no one could ever be sure which side of his character and personality would prevail.<BR /><BR />Peter was a native of Bethsaida Julias (see Jn 1:44 Jos. Ant. xviii. 2. 1), on the northeastern shore of the Sea of Galilee, and was a fisherman by occupation (Mt 4:18). He was married (Mt 8:14 1 Cor 9:5) and lived with his family at Capernaum, where Jesus, on one occasion, restored Peter&#39;s mother&#8212;in&#8212;law to health (Mt 8:5, 14 Mk 1:29&#8212;31 Lk 4:31, 38). On the night of the betrayal he was foremost in professing loyalty to the Saviour (Mt 26:33), but also the first to deny his Master and confirm his thrice&#8212;repeated denial with an oath (vs 69&#8212;74). Realizing, too late, what he had done, he &#34;went out, and wept bitterly&#34; (v 75). <BR /><BR />After the resurrection the first of the twelve to whom Jesus appeared was Peter (Lk 24:34 1 Cor 15:5), and early one morning when Jesus met with His disciples by the shores of Galilee, Peter was the first ashore to greet his Master (Jn 21:7). Upon this occasion Jesus gave Peter a threefold opportunity to confess his faith and love, and thus to remove any lingering doubt in the minds of his fellow disciples as to his loyalty (vs 15&#8212;17). Thereupon Jesus foretold Peter&#39;s death as a martyr (vs 18, 19) and a few moments later rebuked his inquisitiveness as to John&#39;s fate (vs 21&#8212;24).<BR /><BR />At Pentecost, fully converted, Peter delivered the great sermon recorded in the 2nd chapter of Acts (vs 14&#8212;36), an inspired address that led some 3,000 to believe in Jesus as the Messiah (v 41). Together with John, Peter healed the lame man at the Gate Beautiful (ch 3:1&#8212;11), and later, surrounded by a throng in the Temple, eloquently testified to the death, resurrection, and power of Christ (vs 12&#8212;26). He was arrested for healing the lame man, and when brought before the Sanhedrin for an investigation, he again boldly testified concerning Jesus (ch 4:1&#8212;12), and when commanded not to speak further in the name of Jesus, Peter and John declared that they could not &#34;but speak the things&#34; which they had &#34;seen and heard&#34; (vs 19, 20). <BR /><BR />He glorified God by a martyr&#39;s death (cf. Jn 21:18, 19). Peter&#39;s 1st epistle was written from the city of Rome (see 1 Pe 5:13, where Babylon is undoubtedly used as a cryptic name for Rome), in which he seems to have labored for a while shortly before his martyrdom, at about the time Paul sealed his testimony with his blood. According to tradition, he was crucified with his head downward, at Rome, about a.d. 67.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "John 1:42",
+      "verses": [
+        {
+          "number": 42,
+          "line": "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "1-peter-written",
+      "titleEn": "1 Peter Written",
+      "titleKa": null
+    },
+    {
+      "slug": "2-peter-written",
+      "titleEn": "2 Peter Written",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-pppas0016_8-28-2013 2-39-15 PM.jpg",
+      "caption": "Peter&#39;s denial of Christ"
+    },
+    {
+      "file": "GoodSalt-prcas3969_8-28-2013 2-39-15 PM.jpg",
+      "caption": "Peter at Pentecost"
+    },
+    {
+      "file": "GoodSalt-pppas0440_8-28-2013 2-39-15 PM.jpg",
+      "caption": "Peter being crucified upside down"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Prison Break",
+      "caption": "Like being in prison, God wants to set us free from sin. Several Bible stories share of people who were set free--which is the story of salvation. Peter&#39;s liberation from prison is the focus of this sermon. We are freed when we humble ourselves and cry out in prayer to God.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2042.mp4"
+    },
+    {
+      "title": "Cornelius",
+      "caption": "There are many references in Scripture to centurions. Many were faithful and some were open to Jesus. Acts 10 gives the story of Cornelius, a Roman centurion, who was searching for truth. He was the first Gentile convert to Christianity. He symbolizes a true soldier for Christ.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2135.mp4"
+    }
+  ]
 }

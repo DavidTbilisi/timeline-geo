@@ -4,13 +4,44 @@
   "period": 8,
   "titleEn": "Darius II",
   "titleKa": null,
-  "datesEn": "457–405 BC",
+  "datesEn": "457&ndash;405 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Darius II is referred to in the Bible as Darius the Persian. He is the son of Artaxerxes I.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Darius the Persian (Neh 12:22) is probably Darius II (424/23&#8212;405/04 b.c.), the son and successor of Artaxerxes I. The various lists of ecclesiastical officers given in the book of Nehemiah seem to have their terminal point in his reign. Many commentators identify him with Darius III (336&#8212;331 b.c.), who was defeated by Alexander the Great, on the basis of identifying Jaddua of Josephus (Ant. xi. 8. 4, 5) with the Jaddua of Neh 12:11 and 22. This identification, however, is very uncertain.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Nehemiah 12:22",
+      "verses": [
+        {
+          "number": 22,
+          "line": "The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, were recorded chief of the fathers: also the priests, to the reign of Darius the Persian."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "artaxerxes-i",
+      "titleEn": "Artaxerxes I",
+      "titleKa": null
+    },
+    {
+      "slug": "artaxerxes-ii",
+      "titleEn": "Artaxerxes II",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Naghshe_Rostam_ZPan_8-1-2013 10-18-12 AM.jpg",
+      "caption": "Prospective tomb of Darius II in Naqsh-e Rustam, Iran by Anatoly Terentiev. Photography by Ipaat at en.wikipedia."
+    },
+    {
+      "file": "772px-Lion_Darius_Palace_Louvre_Sb3298_8-1-2013 10-18-12 AM.jpg",
+      "caption": "Lion from Darius Palace"
+    }
+  ],
+  "videos": []
 }

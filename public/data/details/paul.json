@@ -4,13 +4,164 @@
   "period": 9,
   "titleEn": "Paul",
   "titleKa": null,
-  "datesEn": "14–67 AD",
+  "datesEn": "14&ndash;67 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Paul, the great apostle to the Gentiles is introduced in the book of Acts as Saul who persecuted the church. After his conversion on the road to Damascus he carries the gospel to non&#8212;Jews, raising up many new churches in Asia Minor.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Name means &#34;little,&#34; or &#34;small.&#34; The great apostle to the Gentiles. He is introduced in the Bible as Saul (Gr. Saulos, from the Heb. Sha&#39;&#252;l, &#34;asked [of God],&#34; or &#34;lent [to God]&#34; Acts 7:58) and is referred to by that name in the narrative of the book of Acts through ch 13:9. There has been considerable speculation as to why, halfway through the book of Acts, Saul is abruptly referred to as Paul, and is called by that name exclusively from that point on, except when he himself relates the story of his conversion (chapters 22:7, 13 26:14). A simple and plausible answer is that he, like others (Acts 1:23 13:1 Col 4:11 etc.), had more than one name in his case a Hebrew name, Saul, and a Grecized Roman name, Paulos, or Paul. <BR /><BR />His Hebrew name was probably commonly used in his home and in his intercourse with Jews. His Greco&#8212;Roman name would be in keeping with the Hellenistic influence and environment of the city where he was born, and with his enviable status as a Roman citizen. Later, when he began his work among the Gentiles, it was to his advantage to be known as Paul. It is worthy of note that up to Acts 13 Paul is mentioned only in reference to his contact with the Jews. But in that chapter the record of his activities among the Gentiles begins, as does also the use of his Gentile name, Paul.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Acts 7:58",
+      "verses": [
+        {
+          "number": 58,
+          "line": "And cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man's feet, whose name was Saul."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    },
+    {
+      "slug": "conversion-of-paul",
+      "titleEn": "Conversion of Paul",
+      "titleKa": null
+    },
+    {
+      "slug": "paul-in-damascus-and-arabia",
+      "titleEn": "Paul in Damascus and Arabia",
+      "titleKa": null
+    },
+    {
+      "slug": "pauls-escape-from-damascus",
+      "titleEn": "Paul's Escape from Damascus",
+      "titleKa": null
+    },
+    {
+      "slug": "barnabas-and-pauls-mission-in-antioch",
+      "titleEn": "Barnabas and Paul's Mission in Antioch",
+      "titleKa": null
+    },
+    {
+      "slug": "barnabas-and-paul-take-famine-relief-to-jerusalem",
+      "titleEn": "Barnabas and Paul take Famine Relief to Jerusalem",
+      "titleKa": null
+    },
+    {
+      "slug": "pauls-first-missionary-journey-ending-in-antioch",
+      "titleEn": "Paul's First Missionary Journey Ending in Antioch",
+      "titleKa": null
+    },
+    {
+      "slug": "pauls-second-missionary-journey",
+      "titleEn": "Paul's Second Missionary Journey",
+      "titleKa": null
+    },
+    {
+      "slug": "paul-arrives-at-corinth",
+      "titleEn": "Paul Arrives at Corinth",
+      "titleKa": null
+    },
+    {
+      "slug": "1-thessalonians-written",
+      "titleEn": "1 Thessalonians Written",
+      "titleKa": null
+    },
+    {
+      "slug": "2-thessalonians-written",
+      "titleEn": "2 Thessalonians Written",
+      "titleKa": null
+    },
+    {
+      "slug": "end-of-pauls-second-missionary-journey",
+      "titleEn": "End of Paul's Second Missionary Journey",
+      "titleKa": null
+    },
+    {
+      "slug": "pauls-third-missionary-journey",
+      "titleEn": "Paul's Third Missionary Journey",
+      "titleKa": null
+    },
+    {
+      "slug": "1-corinthians-written",
+      "titleEn": "1 Corinthians Written",
+      "titleKa": null
+    },
+    {
+      "slug": "2-corinthians-written",
+      "titleEn": "2 Corinthians Written",
+      "titleKa": null
+    },
+    {
+      "slug": "romans-written",
+      "titleEn": "Romans Written",
+      "titleKa": null
+    },
+    {
+      "slug": "paul-imprisoned-two-years-at-caesarea",
+      "titleEn": "Paul Imprisoned Two Years at Caesarea",
+      "titleKa": null
+    },
+    {
+      "slug": "pauls-journey-to-rome",
+      "titleEn": "Paul's Journey to Rome",
+      "titleKa": null
+    },
+    {
+      "slug": "ephesians-colossians-philemon-written",
+      "titleEn": "Ephesians, Colossians, Philemon Written",
+      "titleKa": null
+    },
+    {
+      "slug": "paul-imprisoned-in-rome-two-years",
+      "titleEn": "Paul Imprisoned in Rome Two Years",
+      "titleKa": null
+    },
+    {
+      "slug": "philippians-written",
+      "titleEn": "Philippians Written",
+      "titleKa": null
+    },
+    {
+      "slug": "paul-travels-in-crete-asia-minor-and-macedonia",
+      "titleEn": "Paul Travels in Crete, Asia Minor, and Macedonia",
+      "titleKa": null
+    },
+    {
+      "slug": "1-timothy-written",
+      "titleEn": "1 Timothy Written",
+      "titleKa": null
+    },
+    {
+      "slug": "titus-written",
+      "titleEn": "Titus Written",
+      "titleKa": null
+    },
+    {
+      "slug": "2-timothy-written",
+      "titleEn": "2 Timothy Written",
+      "titleKa": null
+    },
+    {
+      "slug": "death-of-paul",
+      "titleEn": "Death of Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-pppas0205_8-6-2013 4-32-53 PM.jpg",
+      "caption": "The apostle Paul"
+    },
+    {
+      "file": "GoodSalt-prcas2539_8-28-2013 2-44-27 PM.jpg",
+      "caption": "Paul the tentmaker"
+    }
+  ],
+  "videos": []
 }

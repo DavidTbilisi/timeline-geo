@@ -4,13 +4,70 @@
   "period": 2,
   "titleEn": "Terah",
   "titleKa": null,
-  "datesEn": "2076–1871 BC (205)",
+  "datesEn": "2076&ndash;1871 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;station&#34; or &#34;wanderer.&#34; He is the son of Nahor and the father of Abraham and two other sons, Nahor and Haran. He left Ur of the Chaldees and migrated to Haran where he died at the age of 205 years. Terah worshiped idols (Joshua 24:2).",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The father of Abraham, Nahor, and Haran. After having lived some time in Ur of the Chaldees, he migrated with his family to Haran, where he died at the age of 205 years (Gen 11:24&#8212;32 1 Chr 1:26 Lk 3:34). He had served other gods than Yahweh (Jos 24:2), probably the moon&#8212;god, since both Ur and Haran were centers of moon worship. The ancient city Til&#8212;sha&#8212;Tur&#226;hi, located in the neighborhood of Haran, may have been named after him.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 11:24",
+      "verses": [
+        {
+          "number": 24,
+          "line": "And Nahor lived nine and twenty years, and begat Terah:"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 11:32",
+      "verses": [
+        {
+          "number": 32,
+          "line": "And the days of Terah were two hundred and five years: and Terah died in Haran."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "nahor",
+      "titleEn": "Nahor",
+      "titleKa": null
+    },
+    {
+      "slug": "haran",
+      "titleEn": "Haran",
+      "titleKa": null
+    },
+    {
+      "slug": "abraham",
+      "titleEn": "Abraham",
+      "titleKa": null
+    },
+    {
+      "slug": "sarah",
+      "titleEn": "Sarah",
+      "titleKa": null
+    },
+    {
+      "slug": "terah-leaves-ur-for-city-of-haran",
+      "titleEn": "Terah Leaves Ur for City of Haran",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Terah.jpg",
+      "caption": "Illustration of Terah in 1553 published by Guillaume Rouille"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Abraham, Part 1: Going by Faith",
+      "caption": "This is the first in a 12 part series on the life of Abraham. He is a prime example of giving up all and following God wherever the Lord leads. God calls us out of Babylon to the promised land as well.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2405.mp4"
+    }
+  ]
 }

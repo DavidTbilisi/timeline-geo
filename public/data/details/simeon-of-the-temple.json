@@ -4,18 +4,69 @@
   "period": 9,
   "titleEn": "Simeon",
   "titleKa": null,
-  "datesEn": "90 BC–3 AD (~93)",
+  "datesEn": "90 <span>BC</span>&ndash;3 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;answering of prayer.&#34; He is a pious man who receives a promise from the Holy Spirit that he will see the Lord&#39;s Christ before he dies. When Mary and Joseph bring Jesus to the Temple, Simeon recognizes Him and prophesies.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Simeon. A pious man who waited for the salvation of Israel. Having received the promise from the Holy Spirit that he would not die until he had seen the Messiah, he was present at the Temple when Joseph and Mary were there to present the infant Jesus to the Lord according to Hebrew law. Simeon recognized in Him the Christ and made predictions concerning the Child and His mother, at the same time expressing his willingness to die now that his most fervent desire had been fulfilled (Lk 2:25&#8212;35).",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Luke 2:25-35",
+      "verses": [
+        {
+          "number": 25,
+          "line": "And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him."
+        },
+        {
+          "number": 26,
+          "line": "And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord's Christ."
+        },
+        {
+          "number": 27,
+          "line": "And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,"
+        },
+        {
+          "number": 28,
+          "line": "Then took he him up in his arms, and blessed God, and said,"
+        },
+        {
+          "number": 29,
+          "line": "Lord, now lettest thou thy servant depart in peace, according to thy word:"
+        },
+        {
+          "number": 30,
+          "line": "For mine eyes have seen thy salvation,"
+        },
+        {
+          "number": 31,
+          "line": "Which thou hast prepared before the face of all people;"
+        },
+        {
+          "number": 32,
+          "line": "A light to lighten the Gentiles, and the glory of thy people Israel."
+        },
+        {
+          "number": 33,
+          "line": "And Joseph and his mother marvelled at those things which were spoken of him."
+        },
+        {
+          "number": 34,
+          "line": "And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;"
+        },
+        {
+          "number": 35,
+          "line": "(Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed."
+        }
+      ]
+    }
+  ],
   "related": [],
   "images": [
     {
-      "file": "media/images/t/Yegorov-Simeon_the_Righteous.jpg",
-      "caption": ""
+      "file": "Yegorov-Simeon_the_Righteous.jpg",
+      "caption": "Painting of Simeon the Righteous in 1830-1840&#39;s by Alexey Yegorov."
     }
-  ]
+  ],
+  "videos": []
 }

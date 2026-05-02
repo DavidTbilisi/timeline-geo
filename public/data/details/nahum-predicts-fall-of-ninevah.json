@@ -4,13 +4,35 @@
   "period": 7,
   "titleEn": "Nahum Predicts Fall of Ninevah",
   "titleKa": null,
-  "datesEn": "662 BC",
+  "datesEn": "662 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Nahum predicts in his book (3:7) the fall of Nineveh, the Assyrian capital. His prophecy takes place at the peak of Assyrian power, probably around 50 years earlier.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Nahum 3:7",
+      "verses": [
+        {
+          "number": 7,
+          "line": "And it shall come to pass, that all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "nahum",
+      "titleEn": "Nahum",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt- Nahum_8-6-2013 10-43-15 AM.jpg",
+      "caption": "Prophet Nahum"
+    }
+  ],
+  "videos": []
 }

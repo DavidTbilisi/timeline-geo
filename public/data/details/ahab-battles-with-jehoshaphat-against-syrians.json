@@ -4,13 +4,83 @@
   "period": 7,
   "titleEn": "Ahab Battles with Jehoshaphat Against Syrians",
   "titleKa": null,
-  "datesEn": "853 BC",
+  "datesEn": "853 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Ahab desires to gain back Ramoth&#8212;gilead and invites his ally, Jehoshaphat of Judah to join him in attacking the Syrians. Micaiah the prophet of Yahweh predicts their doom and failure and death, which comes to pass.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "It might have been expected that Jehoshaphat, who had asked for a prophet of the Lord (v. 5), would heed the prophet&#39;s message and refuse to go upon the expedition Micaiah had foretold would end in disaster. He had, it is true, rashly committed himself, by a solemn promise (v. 4), to take part in the war, and he was evidently bound to Ahab by a military alliance, yet he could have made it clear to Ahab that he could not go contrary to the will of the Lord. Indeed, by so doing he might have dissuaded Ahab from undertaking the war. By his willingness to accompany Ahab, Jehoshaphat was encouraging Ahab to court disaster. As it was, Jehoshaphat received a severe rebuke from the Lord for having joined in this enterprise (2 Chron. 19:2).<BR /><BR />The precaution of Ahab (disguising himself) is characteristic of his temper of half belief and half unbelief. In his heart of hearts he knew Micaiah to be a true prophet, and he had a fear that his prophecy would be fulfilled. But he would do everything he could to avert the fulfillment of the prediction. Life&#39;s greatest victories and its greatest defeats at times hang upon causes that seem small indeed. The Syrian bowman, drawing his bow at a venture, killed a king and won a battle. It is unlikely that the man who fired the arrow knew the result of his shot. <BR /><BR />Shots of venture are sometimes shots of destiny. But it is good to know that no arrow of fate can strike without the knowledge of Him who is overruling all. The driver could turn the chariot, but he could not turn the hands on the clock of fate. Ahab&#39;s last hour had come, and he knew that the prophecy of Micaiah was true. Ahab made a brave attempt to carry on, allowing himself to be supported in his chariot till the very end. The death of the king at even was the death of Israel&#39;s hopes for victory. Not only did Ahab by his stubbornness bring himself down to an inglorious grave he brought tragedy and defeat to an entire nation.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 22:29-40",
+      "verses": [
+        {
+          "number": 29,
+          "line": "So the king of Israel and Jehoshaphat the king of Judah went up to Ramothgilead."
+        },
+        {
+          "number": 30,
+          "line": "And the king of Israel said unto Jehoshaphat, I will disguise myself, and enter into the battle; but put thou on thy robes. And the king of Israel disguised himself, and went into the battle."
+        },
+        {
+          "number": 31,
+          "line": "But the king of Syria commanded his thirty and two captains that had rule over his chariots, saying, Fight neither with small nor great, save only with the king of Israel."
+        },
+        {
+          "number": 32,
+          "line": "And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, Surely it is the king of Israel. And they turned aside to fight against him: and Jehoshaphat cried out."
+        },
+        {
+          "number": 33,
+          "line": "And it came to pass, when the captains of the chariots perceived that it was not the king of Israel, that they turned back from pursuing him."
+        },
+        {
+          "number": 34,
+          "line": "And a certain man drew a bow at a venture, and smote the king of Israel between the joints of the harness: wherefore he said unto the driver of his chariot, Turn thine hand, and carry me out of the host; for I am wounded."
+        },
+        {
+          "number": 35,
+          "line": "And the battle increased that day: and the king was stayed up in his chariot against the Syrians, and died at even: and the blood ran out of the wound into the midst of the chariot."
+        },
+        {
+          "number": 36,
+          "line": "And there went a proclamation throughout the host about the going down of the sun, saying, Every man to his city, and every man to his own country."
+        },
+        {
+          "number": 37,
+          "line": "So the king died, and was brought to Samaria; and they buried the king in Samaria."
+        },
+        {
+          "number": 38,
+          "line": "And one washed the chariot in the pool of Samaria; and the dogs licked up his blood; and they washed his armour; according unto the word of the LORD which he spake."
+        },
+        {
+          "number": 39,
+          "line": "Now the rest of the acts of Ahab, and all that he did, and the ivory house which he made, and all the cities that he built, are they not written in the book of the chronicles of the kings of Israel?"
+        },
+        {
+          "number": 40,
+          "line": "So Ahab slept with his fathers; and Ahaziah his son reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ahab",
+      "titleEn": "Ahab",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "_GoodSalt-prcas4903_8-27-2013 11-04-43 AM.jpg",
+      "caption": "Micaiah&#39;s prophecy"
+    },
+    {
+      "file": "Josaphat_rex_8-27-2013 11-04-43 AM.jpg",
+      "caption": "Jehoshaphat, Guillaume Rouille, &#34;Promptuarii Iconum Insigniorum&#34;, 1553"
+    }
+  ],
+  "videos": []
 }

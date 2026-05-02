@@ -4,13 +4,84 @@
   "period": 6,
   "titleEn": "Solomon Completes His Palace",
   "titleKa": null,
-  "datesEn": "946 BC",
+  "datesEn": "946 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The Bible records that Solomon &#34;took thirteen years to build his own house so he finished all his house&#34; (1 Kings 7:1). It goes on to list other buildings he also built. His &#34;house&#34; might better be termed &#34;palace.&#34;",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In 1 Kings 7 we find a brief description of Solomon&#39;s building activities in connection with his own palace. The word &#34;house&#34; as here used no doubt means not a single structure but the complex of buildings connected with the palace. There were many of these, the exact nature or purpose of which is largely a matter of conjecture. <BR /><BR />Undoubtedly they included most of the structures usually connected with a royal palace, such as halls of state, judgment halls, the royal residence, residence for the queen, armory, etc. These must have constituted a large group of buildings enclosed in a great court. All structures of the time of Solomon were built on the two hills between the Kidron and Tyropoeon valleys&#8212;Mt. Moriah and Mt. Zion&#8212;in fact, there were no buildings west of the Tyropoeon Valley until the later kings.<BR /><BR />The Bible says he took 13 years to complete his work. The 13 years are to be counted from the end of the 7 years when the Temple was completed, in Solomon&#39;s 11th year of reign (ch. 6:38). His whole period of building thus occupied 20 years (1 Kings 9:10 2 Chron. 8:1), from the 4th year of his reign to the 24th. The building of the Temple took only seven years because it was a single structure, and a long period of preparation had preceded the actual building (1 Chron. 22:2&#8212;4). However, the palace complex consisted of a large range of buildings for which previous preparation could not have been made to any extent.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 7:1-12",
+      "verses": [
+        {
+          "number": 1,
+          "line": "But Solomon was building his own house thirteen years, and he finished all his house."
+        },
+        {
+          "number": 2,
+          "line": "He built also the house of the forest of Lebanon; the length thereof was an hundred cubits, and the breadth thereof fifty cubits, and the height thereof thirty cubits, upon four rows of cedar pillars, with cedar beams upon the pillars."
+        },
+        {
+          "number": 3,
+          "line": "And it was covered with cedar above upon the beams, that lay on forty five pillars, fifteen in a row."
+        },
+        {
+          "number": 4,
+          "line": "And there were windows in three rows, and light was against light in three ranks."
+        },
+        {
+          "number": 5,
+          "line": "And all the doors and posts were square, with the windows: and light was against light in three ranks."
+        },
+        {
+          "number": 6,
+          "line": "And he made a porch of pillars; the length thereof was fifty cubits, and the breadth thereof thirty cubits: and the porch was before them: and the other pillars and the thick beam were before them."
+        },
+        {
+          "number": 7,
+          "line": "Then he made a porch for the throne where he might judge, even the porch of judgment: and it was covered with cedar from one side of the floor to the other."
+        },
+        {
+          "number": 8,
+          "line": "And his house where he dwelt had another court within the porch, which was of the like work. Solomon made also an house for Pharaoh's daughter, whom he had taken to wife, like unto this porch."
+        },
+        {
+          "number": 9,
+          "line": "All these were of costly stones, according to the measures of hewed stones, sawed with saws, within and without, even from the foundation unto the coping, and so on the outside toward the great court."
+        },
+        {
+          "number": 10,
+          "line": "And the foundation was of costly stones, even great stones, stones of ten cubits, and stones of eight cubits."
+        },
+        {
+          "number": 11,
+          "line": "And above were costly stones, after the measures of hewed stones, and cedars."
+        },
+        {
+          "number": 12,
+          "line": "And the great court round about was with three rows of hewed stones, and a row of cedar beams, both for the inner court of the house of the LORD, and for the porch of the house."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "solomon",
+      "titleEn": "Solomon",
+      "titleKa": null
+    },
+    {
+      "slug": "hiram-inspects-his-payment-in-cities",
+      "titleEn": "Hiram Inspects His Payment in Cities",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "_GoodSalt-prcas0410_8-26-2013 4-18-24 PM.jpg",
+      "caption": "Palace construction"
+    }
+  ],
+  "videos": []
 }

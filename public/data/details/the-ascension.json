@@ -4,13 +4,70 @@
   "period": 9,
   "titleEn": "The Ascension",
   "titleKa": null,
-  "datesEn": "31 AD",
+  "datesEn": "31 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Jesus meets one last time with His disciples on the slopes of the Mount of Olives near Bethany. He lifts His hands to bless them as He ascends up into heaven. The disciples then return to Jerusalem to begin their great work of spreading the gospel.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The ascension of our Lord, which took place 40 days after the resurrection. By inclusive reckoning 40 days from a Sunday would end on a Thursday, which for centuries Christians have taken as the day of the ascension (Acts 1:3&#8212;11). The place from which Jesus ascended was the Mount of Olives (v 12), a spot in the vicinity of Bethany (Lk 24:50). The event was witnessed by the Eleven (Acts 1:12, 13) and possibly others. The ascension marks the close of our Lord&#39;s earthly ministry and the beginning of His ministry in heaven on our behalf (Heb 4:14&#8212;16 9:24). As a historical event the ascension stands as an assurance that Christ will return to receive us (Acts 1:11 cf. Jn 14:1&#8212;3).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Mark 16:19-20",
+      "verses": [
+        {
+          "number": 19,
+          "line": "So then after the Lord had spoken unto them, he was received up into heaven, and sat on the right hand of God."
+        },
+        {
+          "number": 20,
+          "line": "And they went forth, and preached every where, the Lord working with them, and confirming the word with signs following. Amen."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 24:50-53",
+      "verses": [
+        {
+          "number": 50,
+          "line": "And he led them out as far as to Bethany, and he lifted up his hands, and blessed them."
+        },
+        {
+          "number": 51,
+          "line": "And it came to pass, while he blessed them, he was parted from them, and carried up into heaven."
+        },
+        {
+          "number": 52,
+          "line": "And they worshipped him, and returned to Jerusalem with great joy:"
+        },
+        {
+          "number": 53,
+          "line": "And were continually in the temple, praising and blessing God. Amen."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "resurrection-through-ascension",
+      "titleEn": "Resurrection through Ascension",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "499px-Jesus_returns_to_the_Father_7-31-2013 5-49-04 PM.jpg",
+      "caption": "Jesus ascending into heaven"
+    },
+    {
+      "file": "GoodSalt-prcas5050_8-7-2013 10-12-24 AM.jpg",
+      "caption": "The disciples watching Christ&#39;s ascension."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Days of Destiny,Part 6: Parting Words",
+      "caption": "This is the last of a six part series on the high points of Jesus&#39; last days on earth. This sermon covers the time from the resurrection to Christ&#39;s ascension. There is a focus on the disciples who walked with Christ on the road to Emmaus. So much of our sadness is being slow to believe like the disciples who doubted.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2624.mp4"
+    }
+  ]
 }

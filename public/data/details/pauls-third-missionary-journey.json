@@ -4,13 +4,68 @@
   "period": 10,
   "titleEn": "Paul's Third Missionary Journey",
   "titleKa": null,
-  "datesEn": "53–57 AD",
+  "datesEn": "53&ndash;57 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Paul begins his third missionary journey from Antioch (as with his first two journeys). He travels through Asia minor, spends three years at Ephesus, goes through Macedonia, and is three months at Corinth before returning to Jerusalem.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The length of Paul&#39;s stay at Antioch after his 2d Missionary Journey is not known. It is likely that some months, at least, elapsed before he started from there on his 3d Missionary Journey. He &#34;went over all the country of Galatia and Phrygia,&#34; strengthening the churches he had earlier established (Acts 18:23). Having passed through the &#34;upper coasts,&#34; he at length arrived at Ephesus (ch 19:1), which was to be his chief center during this itinerary.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Acts 18:23",
+      "verses": [
+        {
+          "number": 23,
+          "line": "And after he had spent some time there, he departed, and went over all the country of Galatia and Phrygia in order, strengthening all the disciples."
+        }
+      ]
+    },
+    {
+      "reference": "Acts 19:1-7",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,"
+        },
+        {
+          "number": 2,
+          "line": "He said unto them, Have ye received the Holy Ghost since ye believed? And they said unto him, We have not so much as heard whether there be any Holy Ghost."
+        },
+        {
+          "number": 3,
+          "line": "And he said unto them, Unto what then were ye baptized? And they said, Unto John's baptism."
+        },
+        {
+          "number": 4,
+          "line": "Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus."
+        },
+        {
+          "number": 5,
+          "line": "When they heard this, they were baptized in the name of the Lord Jesus."
+        },
+        {
+          "number": 6,
+          "line": "And when Paul had laid his hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied."
+        },
+        {
+          "number": 7,
+          "line": "And all the men were about twelve."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas3982_8-6-2013 5-11-27 PM.jpg",
+      "caption": "Statue of Paul the Apostle in Vatican."
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,63 @@
   "period": 6,
   "titleEn": "David King over United Israel",
   "titleKa": null,
-  "datesEn": "1003–970 BC",
+  "datesEn": "1003&ndash;970 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After Saul&#39;s death David becomes king over Judah. After a civil war and Abner is murdered and Ishbosheth is murdered, the tribes of Israel come to David and ask him to be king over all Israel. David reigns for 40 years, 33 over all Judah & Israel.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In 2 Samuel, chapters 5 to 10, the writer deals with the establishment of the kingdom and the early part of David&#39;s reign over the whole nation. Chronicles adds certain interesting details of the manner in which various tribes from both sides of the Jordan came to Hebron to make David king, and of the joyous festivities on that occasion. Not only did the elders come as representatives of the people (ch. 5:3) but numerous bands of armed men participated (1 Chron. 12:23&#8212;38), and 4,600 Levites, with Jehoiada as the leader of the Aaronites and Zadok as a &#34;young man mighty of valour&#34; (1 Chron. 12:26&#8212;28). The events in Samuel are not arranged with a strict regard to chronology. The writer of this book describes first the internal development of the kingdom, and then the external development of the realm.<BR /><BR />More than perhaps any other people on earth, the Hebrews were bound together by ties of kinship. They were all children of Abraham, all of the same bone and flesh as was David himself (see Gen. 29:14 Judges 9:2 2 Sam. 19:12). The same tie still binds the Jews of all lands. The people were not selecting their new leader blindly. Even while Saul was king the outstanding ability of David as a leader had manifested itself. The people had confidence in his prowess and sagacity. The main reason David should be king was that the Lord had chosen him for that position. <BR /><BR />Why the elders mentioned this point last is not revealed. With such a general confidence in the valiant and virtuous son of Jesse, with the house of Saul having practically come to an end, and with the divine will having so clearly manifested itself in behalf of David, it was obviously to the best interests of the people to unite under his leadership. The elders acted as the representatives and spokesmen of the people. With them came many of the warriors and the priests to acknowledge their allegiance to the son of Jesse (1 Chron. 12:23&#8212;38). <BR /><BR />Many thousands thronged to Hebron for the coronation ceremonies. The details of the agreement are not given, but there was evidently some understanding as to the prerogatives of the king and the rights of the subjects. There may have been reference to such matters as leadership in war, freedom from tribal partiality, political asylum for the remnant of the house of Saul, the size of the national army, and the manner of securing recruits, etc.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Samuel 5:1-5",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh."
+        },
+        {
+          "number": 2,
+          "line": "Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the LORD said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel."
+        },
+        {
+          "number": 3,
+          "line": "So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the LORD: and they anointed David king over Israel."
+        },
+        {
+          "number": 4,
+          "line": "David was thirty years old when he began to reign, and he reigned forty years."
+        },
+        {
+          "number": 5,
+          "line": "In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-YoungKingDavid_8-5-2013 4-16-06 PM.jpg",
+      "caption": "Young King David."
+    },
+    {
+      "file": "City of David and Kidron Valley from north, tb042306047_5-1-2013 12-44-21 PM.jpg",
+      "caption": "City of David and Kidron Valley "
+    },
+    {
+      "file": "King David statue on Mount Zion, tb010312629_5-1-2013 12-44-21 PM.jpg",
+      "caption": "King David statue on Mount Zion"
+    },
+    {
+      "file": "David becomes King 1003-98_7-24-2013 12-13-53 PM.jpg",
+      "caption": "Michelangelo&#39;s David statue located at Piazza della Signoria in Florence, Italy. "
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,65 @@
   "period": 7,
   "titleEn": "Ahaziah",
   "titleKa": null,
-  "datesEn": "863–841 BC",
+  "datesEn": "863&ndash;841 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh has grasped my hand.&#34; He is the youngest son of Jehoram and Athaliah, the 6th king of Judah. He reigns for less than one year. He joins his uncle Joram of Israel to war against Hazael. He flees but is fatally wounded.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Ahaziah, name means &#34;Yahweh has grasped (my hand).&#34; The 6th king of the southern kingdom of Judah, who reigned for less than one year (c. 841 b.c.). In 2 Chr 21:17 he is called Jehoahaz, a name in which the two component parts of Ahaziah are simply reversed, leaving the meaning unchanged. &#34;Azariah&#34; in 2 Chr 22:6 should doubtless be read &#34;Ahaziah,&#34; in harmony with the LXX, the Syriac, and 15 Hebrew manuscripts. Ahaziah was the youngest son of Jehoram and Athaliah, and followed his father in wickedness. He came to the throne at the age of 22 (2 Ki 8:26 2 Chr 22:1&#8212;4). <BR /><BR />He joined his uncle Joram (or Jehoram) of Israel to fight against Hazael of Damascus at Ramoth&#8212;gilead. Jehoram was wounded in this battle and retired to Jezreel to recover from his wounds. While he was there Ahaziah paid him a visit (2 Ki 8:28, 29 2 Chr 22:5, 6), and it was during their stay in Jezreel that Jehu revolted. Upon arriving at Jezreel this new aspirant to the throne slew Jehoram. Ahaziah fled but was fatally wounded. His body was taken to Jerusalem for burial (2 Ki 9:27&#8212;29 2 Chr 22:7&#8212;9). After his death his mother Athaliah slew his heirs (except the infant Joash, who was hidden away) and took the throne (2 Ki 11:1&#8212;3).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 8:26",
+      "verses": [
+        {
+          "number": 26,
+          "line": "Two and twenty years old was Ahaziah when he began to reign; and he reigned one year in Jerusalem. And his mother's name was Athaliah, the daughter of Omri king of Israel."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 9:27-29",
+      "verses": [
+        {
+          "number": 27,
+          "line": "But when Ahaziah the king of Judah saw this, he fled by the way of the garden house. And Jehu followed after him, and said, Smite him also in the chariot. And they did so at the going up to Gur, which is by Ibleam. And he fled to Megiddo, and died there."
+        },
+        {
+          "number": 28,
+          "line": "And his servants carried him in a chariot to Jerusalem, and buried him in his sepulchre with his fathers in the city of David."
+        },
+        {
+          "number": 29,
+          "line": "And in the eleventh year of Joram the son of Ahab began Ahaziah to reign over Judah."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jehoram-of-judah",
+      "titleEn": "Jehoram of Judah",
+      "titleKa": null
+    },
+    {
+      "slug": "joash-or-jehoash",
+      "titleEn": "Joash (or Jehoash)",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "jehu-ahaziah-joram_8-6-2013 2-08-32 PM.jpg",
+      "caption": "Ahaziah mortally wounded."
+    },
+    {
+      "file": "Tell er-Rumeith, possible Ramoth Gilead, from east, tb060503012_4-17-2013 11-59-25 AM.jpg",
+      "caption": "Tell er-Rumeith, possible Ramoth-gilead"
+    },
+    {
+      "file": "Ramoth Gilead plains, tb031701151_4-17-2013 11-59-25 AM.jpg",
+      "caption": "Ramoth-gilead plains"
+    }
+  ],
+  "videos": []
 }

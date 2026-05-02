@@ -4,13 +4,33 @@
   "period": 11,
   "titleEn": "Peter Waldo Establishes â€œWaldensesâ€ Church",
   "titleKa": null,
-  "datesEn": "1177 AD",
+  "datesEn": "1177 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Peter Waldo is the commonly accepted founder of the Waldensian church.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Different sources attribute the establishment of the Waldensian movement to various people and historical periods, but the Waldenses themselves credit Peter Waldo. Waldo&#39;s street preaching began in Lyon in the year 1177A.D.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "WaldoAtLutherDenkmal_2-27-2013 12-18-17 PM.jpg",
+      "caption": "Statue of Peter Waldo at the Luther Memorial at Worms, Germany"
+    },
+    {
+      "file": "wal_8-6-2013 12-24-44 PM.jpg",
+      "caption": "Waldensian"
+    },
+    {
+      "file": "wal2_8-6-2013 12-24-44 PM.jpg",
+      "caption": "Waldensian"
+    }
+  ],
+  "videos": []
 }

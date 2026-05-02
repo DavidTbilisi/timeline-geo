@@ -2,15 +2,27 @@
   "slug": "guillaume-briconnet",
   "id": 1321,
   "period": 11,
-  "titleEn": "Guillaume Briconnet",
+  "titleEn": "Guillaume Briconnet ",
   "titleKa": null,
-  "datesEn": "1470–1534 AD",
+  "datesEn": "1470&ndash;1534 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The Bishop of Meaux from 1516 to 1534. He implemented reform in his diocese with the help of well&#8212;known evangelical humanists William Farel and Jacques Lefevre.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Guillaume Briconnet was the bishop of Meaux and lived from 1470&#8212;1534. Briconnet worked closely with early reformers, including Jacques Lefevre. Briconnet was also fearlessly devoted to the Bible and even financed a translation of the New Testament into the French language. In addition, this bishop of Meaux encouraged the people within his diocese to read the Scriptures.<BR /><BR />After Emperor Charles V captured King Francis I of France, Briconnet was accused of heresy. As a result, Briconnet did not join with the Protestant Reformation but began openly contradicting Luther in 1523.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Guillaume_Briconnet_2-26-2013 5-11-36 PM.jpg",
+      "caption": "Portrait of Guillaume Bri&#231;onnet in the 16th century."
+    }
+  ],
+  "videos": []
 }

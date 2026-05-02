@@ -4,13 +4,139 @@
   "period": 4,
   "titleEn": "Giving of the Ten Commandments",
   "titleKa": null,
-  "datesEn": "1446 BC",
+  "datesEn": "1446 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "When the Israelites come to Mt. Sinai after leaving Egypt God asks Moses to prepare the people for a revelation of Himself. God&#39;s holiness is emphasized in the preparations of this amazing appearing in thunder, lightning, earthquake, smoke, and fire.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The law recorded in Ex 20:2&#8212;17, also called the Decalogue, which sums up what God requires of man, and defines his duty toward God and toward his fellow men (cf. Mt 22:34&#8212;40). The principles enunciated by the Ten Commandments are eternal, for they are based upon the character of God, but the form in which these principles were uttered at Sinai was adapted to the understanding and instruction of men in their state of sinfulness and natural nonconformity to the divine will. The 10 commands of the Decalogue have the unique distinction of being the only words addressed audibly by God to the entire congregation of Israel (see Ex 20:1, 18, 19 Deut 4:10&#8212;13 5:22). <BR /><BR />All of the other laws and regulations God ordained at that time were communicated through Moses as an intermediary (see Ex 20:19&#8212;22 Deut 4:14 Deut 6:1). Subsequent to the oral delivery of the law God inscribed these 10 commands upon 2 tables of stone which He gave to Moses to be preserved in the ark (Ex 31:18 32:19 34:1&#8212;4 Deut 5:22 10:1&#8212;5). Moses&#39; original account of the law as proclaimed by God, and later engraved upon the tables of stone, gives the Decalogue in the wording of Ex 20:1&#8212;17. Later Moses repeated the law in oral form with slight variations in wording (Deut 5:6&#8212;21). <BR /><BR />The only noteworthy difference in this repetition of the law is the reason assigned for the observance of the 7th&#8212;day Sabbath&#8212; deliverance from Egyptian bondage, in place of the creation of the world in 6 days, as in the original form. The many civil regulations enacted at Mount Sinai were an application of the principles of the second table of the Decalogue to the society and needs of the Jewish people. The ceremonial law, which sets forth a divinely ordained system of worship appropriate to the period of earth&#39;s history when that law was given, was an extension and development of the principles enunciated in the Decalogue particularly with respect to man&#39;s relationship to his God.",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Exodus 20:1-21",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And God spake all these words, saying,"
+        },
+        {
+          "number": 2,
+          "line": "I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage."
+        },
+        {
+          "number": 3,
+          "line": "Thou shalt have no other gods before me."
+        },
+        {
+          "number": 4,
+          "line": "Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth:"
+        },
+        {
+          "number": 5,
+          "line": "Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;"
+        },
+        {
+          "number": 6,
+          "line": "And shewing mercy unto thousands of them that love me, and keep my commandments."
+        },
+        {
+          "number": 7,
+          "line": "Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain."
+        },
+        {
+          "number": 8,
+          "line": "Remember the sabbath day, to keep it holy."
+        },
+        {
+          "number": 9,
+          "line": "Six days shalt thou labour, and do all thy work:"
+        },
+        {
+          "number": 10,
+          "line": "But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:"
+        },
+        {
+          "number": 11,
+          "line": "For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it."
+        },
+        {
+          "number": 12,
+          "line": "Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee."
+        },
+        {
+          "number": 13,
+          "line": "Thou shalt not kill."
+        },
+        {
+          "number": 14,
+          "line": "Thou shalt not commit adultery."
+        },
+        {
+          "number": 15,
+          "line": "Thou shalt not steal."
+        },
+        {
+          "number": 16,
+          "line": "Thou shalt not bear false witness against thy neighbour."
+        },
+        {
+          "number": 17,
+          "line": "Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour's."
+        },
+        {
+          "number": 18,
+          "line": "And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw it, they removed, and stood afar off."
+        },
+        {
+          "number": 19,
+          "line": "And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die."
+        },
+        {
+          "number": 20,
+          "line": "And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not."
+        },
+        {
+          "number": 21,
+          "line": "And the people stood afar off, and Moses drew near unto the thick darkness where God was."
+        }
+      ]
+    }
+  ],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "Tissot_Moses_and_the_Ten_Commandments_8-6-2013 1-39-07 PM.jpg",
+      "caption": "Moses and the Ten Commandments, James Tissot"
+    },
+    {
+      "file": "GoodSalt-pppas0041_8-6-2013 1-39-07 PM.jpg",
+      "caption": "Moses and the tables of stone"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Law of the King, Pt. 1",
+      "caption": "This sermon speaks about the law and the 10 commandments. Are they important and relevant today? What is the purpose of God&#39;s law? Were they done away with after Jesus came? Is the law eternal or has it changed? We are not under the law but under grace, but does that mean we have freedom to break the law?",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp80.mp4"
+    },
+    {
+      "title": "The Law of the King, Pt. 2",
+      "caption": "This sermon speaks about the law and the 10 commandments. Are they important and relevant today? What is the purpose of God&#39;s law? Were they done away with after Jesus came? Is the law eternal or has it changed? We are not under the law but under grace, but does that mean we have freedom to break the law?",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp81.mp4"
+    },
+    {
+      "title": "Obeying God or Man",
+      "caption": "God gave us the 10 commandments as a covenant between Him and His people. He wrote these commandments in stone to signify they are unchangeable. The 4th commandment - which tells us to &#34;remember&#34; the Sabbath day, is a special commandment which will be of special issue in the last days and will be something which will prove our allegiance to God.  We need to be strong enough to choose to obey God rather than men. Obedience to God&#39;s law demonstrates our love for God. ",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8287.mp4"
+    },
+    {
+      "title": "Advindication Part 1: Is Obedience Legalism?",
+      "caption": "This is the beginning of a sermon series titled &#34;Advendication&#34; which is a play on words between &#34;Adventist&#34; and &#34;Vindication.&#34; The series discusses common accusations against Seventh-day Adventists truly being a Christian church or not. This talk focuses on the question, &#34;Is obedience legalism?&#34;",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8467.mp4"
+    },
+    {
+      "title": "Fulfilling the Law",
+      "caption": "Many interpret Jesus words in Matthew 5 that the law was set aside. But this is not consistent with the passage or the rest of Scripture. God commands us to obey Him. Those who do the will of God will be in the kingdom of God. Pastor Batchelor also deals with challenging Scriptures from the Apostle Paul on the law.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg6187.mp4"
+    }
+  ]
 }

@@ -4,13 +4,49 @@
   "period": 7,
   "titleEn": "Jehoahaz",
   "titleKa": null,
-  "datesEn": "850–798 BC",
+  "datesEn": "850&ndash;798 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh has grasped my hand.&#34; He is the son and successor of Jehu, king of Israel for 17 years. He follows the evil ways of Jeroboam but cries out to God when the Syrians oppress them and they are eventually driven back by his son Jehoash.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jehoahaz, name means &#34;Yahweh has grasped (my hand).&#34; The 12th king of Israel (if Tibni is included in the count), son and successor of Jehu. He ruled 17 years (c. 814&#8212;c. 798 b.c.). The weakened kingdom which he inherited from his father suffered numerous disasters as penalty for his own apostasy (2 Ki 13:1&#8212;3). Two kings of Damascus, first Hazael and later Ben&#8212;hadad III, oppressed Israel, reducing its defenses to 50 horsemen, 10 chariots, and 10,000 foot soldiers (vs 3, 7). <BR /><BR />If we remember that Ahab was able to muster 2,000 chariots less than 50 years earlier, the extent of the military decline of the kingdom is clearly evident. In desperation Jehoahaz turned to the Lord, and as a result of a partial conversion received some unexpected relief through a &#34;saviour&#34; (vs 4, 5), by which the Assyrian king Adadnirari III (c. 810&#8212;782 b.c.) is probably indicated. Adadnirari invaded Syria in 806 and forced the king of Damascus to pay tribute, impoverishing the kingdom to such an extent that for some time the kings of Damascus were unable to molest Israel. <BR /><BR />Some see evidence of this identification of the &#34;saviour&#34; in the fact that the second part of the name the Adadnirari, which is derived from the Akkadian verb nar&#226;ru, &#34;to help,&#34; means &#34;helper,&#34; a word closely related to &#34;saviour.&#34; Jehoahaz was buried in Samaria and was succeeded on the throne by his son Jehoash, or Joash (v 9).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 13:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "In the three and twentieth year of Joash the son of Ahaziah king of Judah Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 13:9",
+      "verses": [
+        {
+          "number": 9,
+          "line": "And Jehoahaz slept with his fathers; and they buried him in Samaria: and Joash his son reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jehu",
+      "titleEn": "Jehu",
+      "titleKa": null
+    },
+    {
+      "slug": "jehoash",
+      "titleEn": "Jehoash",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Jehoahaz_of_Israel_8-6-2013 2-46-18 PM.jpg",
+      "caption": "Jehoahaz"
+    }
+  ],
+  "videos": []
 }

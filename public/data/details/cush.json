@@ -4,13 +4,45 @@
   "period": 2,
   "titleEn": "Cush",
   "titleKa": null,
-  "datesEn": "2295–1898 BC",
+  "datesEn": "2295&ndash;1898 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;black.&#34; He is probably the eldest son of Ham and the father of Nimrod. The land of Cush probably came from his name and refers to territories south of Israel.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A son of Ham and ancestor of 5 principal peoples: Seba, Havilah, Sabtah, Raamah (from whom Sheba and Dedan descended), and Sabteca (Gen 10:6&#8212;8 1 Chr 1:8). These peoples lived for the most part in Nubia, south of Egypt, and in southern and western Arabia.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 10:6",
+      "verses": [
+        {
+          "number": 6,
+          "line": "And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ham",
+      "titleEn": "Ham",
+      "titleKa": null
+    },
+    {
+      "slug": "nimrod",
+      "titleEn": "Nimrod",
+      "titleKa": null
+    },
+    {
+      "slug": "nimrod-founded-babylon",
+      "titleEn": "Nimrod Founded Babylon",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Noahsworld_map_8-5-2013 2-11-38 PM.jpg",
+      "caption": "Map of Noah&#39;s world including territories of Cush, Lyman Coleman, 1854"
+    }
+  ],
+  "videos": []
 }

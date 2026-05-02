@@ -2,15 +2,31 @@
   "slug": "leipzig-debate",
   "id": 1342,
   "period": 12,
-  "titleEn": "Leipzig Debate",
+  "titleEn": "Leipzig Debate ",
   "titleKa": null,
-  "datesEn": "1519 AD",
+  "datesEn": "1519 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "This debate took place in Leipzig in 1519 and included issues such as free will, grace, indulgences, and papal authority.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Leipzig Debate began as a result of Luther colleague Karlstadt&#39;s written debates with Johann Eck (a Catholic theologian) over Luther&#39;s Ninety&#8212;five Theses. As a result of their dialogue, Luther was brought into the argument. Things continued to escalate until a formal debate was proposed. The Leipzig Debate was held at the University of Leipzig between June 27 and July 16, 1519.<BR /><BR />The debates opened with the discussion of free will and the relation of grace and works. Eck was winning the debates before Luther showed up on July 4. When Luther arrived, Eck began a new strategy. He wanted to bring Luther down and attempted to corner him. John Huss was not popular in Leipzig (because of the Hussite wars and his condemnation as a heretic) and Eck was attempting to get Luther to say something that would identify him with Huss. If a link in theology between Luther and Huss could be established, then the citizens of Leipzig would take care of Eck&#39;s problem&#8212;Luther. Since John Tetzel had previously associated Luther with John Huss and both reformers spoke out strongly against the papacy, Eck&#39;s tactic of guilt by association was easy.<BR /><BR />As a result of the Leipzig Debate, Luther began to realize, perhaps for the first time, that the authority of councils must also be subject to Scripture. Therefore, in this manner, the Leipzig Debate helped Luther truly understand that every earthly authority must be subject to the Word of God.<BR /><BR />Johann Eck continued to fight against Luther after the Leipzig Debate and was the man who actually wrote most of Exsurge Domine, the papal bull that threatened Luther with excommunicated.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "iStock_000020888696Small_2-26-2013 3-53-42 PM.jpg",
+      "caption": "Gewandhaus concert hall with Mende fountain and the new university campus at Augustusplatz in Leipzig, Germany."
+    },
+    {
+      "file": "92831905_2-26-2013 3-53-42 PM.jpg",
+      "caption": "Portrait of Martin Luther by Lucas Cranach the Elder."
+    }
+  ],
+  "videos": []
 }

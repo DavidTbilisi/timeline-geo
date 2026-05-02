@@ -4,13 +4,44 @@
   "period": 3,
   "titleEn": "Leah",
   "titleKa": null,
-  "datesEn": "1726–1660 BC",
+  "datesEn": "1726&ndash;1660 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;weary.&#34; She is the daughter of Laban and the older sister of Rachel. She has &#34;weary&#34; or &#34;delicate&#34; eyes and is less attractive. Laban deceives Jacob who marries her and Rachel. She becomes mother of six of Jacob&#39;s sons.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The elder daughter of Laban, who through a deception was given to Jacob in place of Rachel, her younger sister, for whom he had served 7 years. Leah was less attractive than her sister, having &#34;tender&#34; (Heb. rak, &#34;weak&#34;) eyes (Gen 29:16&#8212;26). She became the mother of 6 of Jacob&#39;s sons, Reuben, Simeon, Levi, Judah, Issachar, and Zebulun, and of Dinah, a daughter (chs 31&#8212;35 30:17&#8212;21). She was buried in the family sepulcher of Machpelah (ch 49:31). In Ruth 4:11 Leah is mentioned equally with Rachel as an honored founder of Israel.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 29:16",
+      "verses": [
+        {
+          "number": 16,
+          "line": "And Laban had two daughters: the name of the elder was Leah, and the name of the younger was Rachel."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 49:31",
+      "verses": [
+        {
+          "number": 31,
+          "line": "There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "laban",
+      "titleEn": "Laban",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Michelangelo-Leah.jpg",
+      "caption": "Michelangelo&#39;s Leah at Michelangelo&#39;s grave for Julius II at San Pietro in Vincoli. Photo by Yair Haklai, 2009."
+    }
+  ],
+  "videos": []
 }

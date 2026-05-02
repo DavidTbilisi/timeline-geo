@@ -4,13 +4,53 @@
   "period": 3,
   "titleEn": "Benjamin",
   "titleKa": null,
-  "datesEn": "1680 BC",
+  "datesEn": "1680 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means son of my right hand. The youngest of Jacob&#39;s twelve sons whose mother, Rachel, dies giving birth. She names him Benoni, son of my sorrow, but Jacob renames him Benjamin. Jacob reluctantly allows him to go to Egypt for he has &#34;lost&#34; Joseph",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The youngest of Jacob&#39;s twelve sons, who was born to Rachel on the road from Bethel to Ephrath. His dying mother called him Ben&#8212;oni, &#34;son of my sorrow,&#34; but his father gave him the name Benjamin (Gen 35:16&#8212;19). It was with great reluctance that Jacob allowed Benjamin to go to Egypt on the second journey of his sons to that country to purchase food during the famine. Joseph also deeply loved Benjamin (chs 43:29 to 44:34). The blessing of Jacob for Benjamin is recorded in ch 49:27. Benjamin had numerous descendants (Gen 46:21 Num 26:38&#8212;41 1 Chr 7:6&#8212;12 1 Chr 8:1&#8212;40).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 35:16-18",
+      "verses": [
+        {
+          "number": 16,
+          "line": "And they journeyed from Bethel; and there was but a little way to come to Ephrath: and Rachel travailed, and she had hard labour."
+        },
+        {
+          "number": 17,
+          "line": "And it came to pass, when she was in hard labour, that the midwife said unto her, Fear not; thou shalt have this son also."
+        },
+        {
+          "number": 18,
+          "line": "And it came to pass, as her soul was in departing, (for she died) that she called his name Benoni: but his father called him Benjamin."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "BenjaminandJoseph.jpg",
+      "caption": "Benjamin embraces Joseph in 1789 by Charles Thevenin"
+    },
+    {
+      "file": "Tribe_of_Benjamin_Symbol_001_8-6-2013 9-27-09 AM.jpg",
+      "caption": "The symbol of the tribe of Benjamin"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Contrasting Kingdoms Part 1",
+      "caption": "A kingdom is a territorial unit ruled by a sovereign. Jesus said, &#34;My kingdom is not of this world.&#34; But someday it will be. Until then there is a conflict between two kingdoms. This sermon looks at Bible passages that explain this conflict and its resolution.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg7387.mp4"
+    }
+  ]
 }

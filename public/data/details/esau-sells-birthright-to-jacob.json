@@ -4,18 +4,65 @@
   "period": 3,
   "titleEn": "Esau Sells Birthright to Jacob",
   "titleKa": null,
-  "datesEn": "1755 BC",
+  "datesEn": "1755 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Esau comes in weary and famished from hunting. Jacob offers him stew if Esau will &#34;sell&#34; his birthright. Esau agrees and makes an oath.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The difference in character between the two brothers was soon apparent in a singular situation, one which proved to be a turning point in their lives. Jacob had cooked a meal of lentils (v. 34). Red lentils are to the present day a favorite food in Palestine, where they are prepared with onions, garlic, rice, and olive oil. Occasionally, meat is added also. Esau asks Jacob to &#34;feed&#34; him. The word translated &#34;feed&#34; occurs only in this passage, and means &#34;to eat greedily&#34; or &#34;to devour.&#34;<BR /><BR />Jacob knew of the angel&#39;s prophecy concerning himself and his brother, made prior to their birth. Now he took advantage of what appeared to him to be a fair, though unusual, opportunity. Under the Mosaic legislation the privileges of the first&#8212;born were: (1) succession to the official authority of the father, (2) the inheritance of a double portion of the father&#39;s property, (3) the privilege of becoming the family priest (see Ex. 22:29 Num. 8:14&#8212;17 Deut. 21:17). <BR /><BR />To the descendants of Abraham the birthright also implied: (1) succession to the promise of the earthly Canaan and other covenant blessings, (2) the honor of being a progenitor of the promised Seed. Jacob&#39;s proposal was unscrupulous and contemptible. It reveals, as well, a spirit of impatience, and a lack of confidence in the overruling providence of God, similar to that manifested by Abraham in his marriage to Hagar (Gen. 16:3). Jacob&#39;s conditions of sale were exacting, selfish, and base. The theory that the end justifies the means does not have the approval of Heaven (see Matt. 4:3, 4). God could not approve the act, but He did overrule it to the eventual accomplishment of His purpose.<BR /><BR />The KJV leaves the impression that Esau meant, &#34;I shall die of hunger if I do not get food immediately. In that case my birthright would be of no profit to me. It is therefore better for me to get food and live on without a birthright than to die now while I am in possession of it.&#34; Many commentators have followed this line of reasoning. Another explanation understands this expression to mean, &#34;Earlier or later I must die anyway, and then it will not matter whether I possess the birthright or not.&#34; <BR /><BR />The latter interpretation seems more plausible in the light of the words of v. 34, that he &#34;despised his birthright.&#34; Being indifferent about the blessings that were to be his, Esau regarded them lightly and was therefore unworthy of them. Jacob&#39;s conduct in this transaction is difficult to defend. His attitude and words reveal premeditation. It is a dangerous and sometimes fatal mistake to anticipate and run ahead of Providence, which in due time and without human conniving will accomplish the divine purpose.<BR /><BR />To Esau the only thing of value was the momentary satisfaction of appetite future spiritual blessings seemed remote and unreal. In this he showed himself to be a &#34;profane [irreligious] person&#34; (Heb. 12:16), insensible to spiritual things. He cared for nothing but the gratification of sensual desire. Like the dumb brute, he based his decisions only on sense considerations of the moment. <BR /><BR />The extent to which a person is willing to sacrifice present desires for future good is an accurate measure of emotional and spiritual maturity. On this basis, only the Christian can ever become fully mature, for he alone is ready and willing to forfeit all this life has to offer in order that he may be accounted worthy of the life to come (see 2 Cor. 4:17, 18 Phil. 3:7&#8212;15 Acts 20:24 Luke 20:34, 35 Heb. 11:10). <BR /><BR />The trifling way in which Esau sold his birthright for a dish of lentils demonstrated his unfitness to become heir to the gracious promises of God. While Jacob&#39;s conduct cannot be condoned, that of Esau is deserving of the most severe condemnation. Jacob repented and was forgiven Esau was beyond forgiveness, because his repentance consisted only of regret for the results of his rash act, not for the act itself (Heb. 12:16, 17).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 25:29-34",
+      "verses": [
+        {
+          "number": 29,
+          "line": "And Jacob sod pottage: and Esau came from the field, and he was faint:"
+        },
+        {
+          "number": 30,
+          "line": "And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom."
+        },
+        {
+          "number": 31,
+          "line": "And Jacob said, Sell me this day thy birthright."
+        },
+        {
+          "number": 32,
+          "line": "And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?"
+        },
+        {
+          "number": 33,
+          "line": "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob."
+        },
+        {
+          "number": 34,
+          "line": "Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "esau",
+      "titleEn": "Esau",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas2699_8-13-2013 2-38-44 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas2699_8-13-2013 2-38-44 PM.jpg",
+      "caption": "Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright. (Genesis 25:34)"
+    },
+    {
+      "file": "Esau_Despised_His_Birthright_001_7-31-2013 4-11-23 PM.jpg",
+      "caption": "Esau selling his birthright for lentils, Richard Andre, 1884"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Birthright and Bad Bargains",
+      "caption": "This sermon looks at the story of Isaac who intended to bless his eldest son Esau, but is tricked and blesses his younger son Jacob. The dynamics of Isaac blessing Jacob speak to us about Christ&#39;s sacrifice and blessing on God&#39;s people.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg7277.mp4"
     }
   ]
 }

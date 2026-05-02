@@ -4,13 +4,104 @@
   "period": 7,
   "titleEn": "Solomon's Temple Sacked by Shishak",
   "titleKa": null,
-  "datesEn": "926 BC",
+  "datesEn": "926 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "With Rehoboam&#39;s kingdom divided, Shishak I, the king of Egypt invades Palestine and takes away the treasuries of Jerusalem built up during the time of David and Solomon. He leaves records of his exploits on the temple walls of Karnak.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "<b>Shishak.</b> Known in Egyptian history as Sheshonk I. He was the founder of Egypt&#39;s Twenty&#8212;second Dynasty. He made his famous raid against Judah in the fifth year of Rehoboam. This record is remarkably confirmed by the celebrated inscription at Karnak, enumerating the conquests of Sheshonk and listing cities captured on that campaign. Among the places that can be identified are many within the borders of Israel, chiefly in the plain of Esdraelon, such as Taanach, Megiddo, Beth&#8212;shan, Shunem, and others. Socoh and Arad are the only well&#8212;known towns in Judah whose names have been read. <BR /><BR />Some have thought that at the time of this attack, the aforenamed cities in Israel had been captured and were being held by Rehoboam, with the result that Jeroboam invited his former protector to effect a rescue. It is more probable that Sheshonk had certain grievances against Jeroboam, who may not have fulfilled promises made before he became king over Israel. The fragment of a victory stele found in the excavation of Megiddo indicates that Sheshonk dealt with that city as conquered and not liberated. <BR /><BR />There is a touch of pathos in this looting of the Temple treasures, which David and Solomon had so laboriously gathered and which were the glory of all Israel. But this sad experience was only a foretaste of sadder days yet to come. The fact that the shields of brass were committed to the chief of the guard indicates that the golden shields had been for the use of the guard on state occasions.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Chronicles 12:1-12",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And it came to pass, when Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of the LORD, and all Israel with him."
+        },
+        {
+          "number": 2,
+          "line": "And it came to pass, that in the fifth year of king Rehoboam Shishak king of Egypt came up against Jerusalem, because they had transgressed against the LORD,"
+        },
+        {
+          "number": 3,
+          "line": "With twelve hundred chariots, and threescore thousand horsemen: and the people were without number that came with him out of Egypt; the Lubims, the Sukkiims, and the Ethiopians."
+        },
+        {
+          "number": 4,
+          "line": "And he took the fenced cities which pertained to Judah, and came to Jerusalem."
+        },
+        {
+          "number": 5,
+          "line": "Then came Shemaiah the prophet to Rehoboam, and to the princes of Judah, that were gathered together to Jerusalem because of Shishak, and said unto them, Thus saith the LORD, Ye have forsaken me, and therefore have I also left you in the hand of Shishak."
+        },
+        {
+          "number": 6,
+          "line": "Whereupon the princes of Israel and the king humbled themselves; and they said, The LORD is righteous."
+        },
+        {
+          "number": 7,
+          "line": "And when the LORD saw that they humbled themselves, the word of the LORD came to Shemaiah, saying, They have humbled themselves; therefore I will not destroy them, but I will grant them some deliverance; and my wrath shall not be poured out upon Jerusalem by the hand of Shishak."
+        },
+        {
+          "number": 8,
+          "line": "Nevertheless they shall be his servants; that they may know my service, and the service of the kingdoms of the countries."
+        },
+        {
+          "number": 9,
+          "line": "So Shishak king of Egypt came up against Jerusalem, and took away the treasures of the house of the LORD, and the treasures of the king's house; he took all: he carried away also the shields of gold which Solomon had made."
+        },
+        {
+          "number": 10,
+          "line": "Instead of which king Rehoboam made shields of brass, and committed them to the hands of the chief of the guard, that kept the entrance of the king's house."
+        },
+        {
+          "number": 11,
+          "line": "And when the king entered into the house of the LORD, the guard came and fetched them, and brought them again into the guard chamber."
+        },
+        {
+          "number": 12,
+          "line": "And when he humbled himself, the wrath of the LORD turned from him, that he would not destroy him altogether: and also in Judah things went well."
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 14:25-28",
+      "verses": [
+        {
+          "number": 25,
+          "line": "And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:"
+        },
+        {
+          "number": 26,
+          "line": "And he took away the treasures of the house of the LORD, and the treasures of the king's house; he even took away all: and he took away all the shields of gold which Solomon had made."
+        },
+        {
+          "number": 27,
+          "line": "And king Rehoboam made in their stead brasen shields, and committed them unto the hands of the chief of the guard, which kept the door of the king's house."
+        },
+        {
+          "number": 28,
+          "line": "And it was so, when the king went into the house of the LORD, that the guard bare them, and brought them back into the guard chamber."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "rehoboam",
+      "titleEn": "Rehoboam",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Shishak_4-18-2013 11-40-09 AM.jpg",
+      "caption": "The relief of Shishak I&#39;s campaign to Canaan list at the southern exterior walls of the temple of Karnak, north of Luxor, Egypt."
+    },
+    {
+      "file": "_GoodSalt-prcas4559_8-26-2013 5-14-15 PM.jpg",
+      "caption": "The Temple."
+    }
+  ],
+  "videos": []
 }

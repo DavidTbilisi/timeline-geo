@@ -2,20 +2,31 @@
   "slug": "william-tyndale",
   "id": 1331,
   "period": 11,
-  "titleEn": "William Tyndale",
+  "titleEn": "William Tyndale ",
   "titleKa": null,
-  "datesEn": "1492–1536 AD (44)",
+  "datesEn": "1492&ndash;1536 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "An English reformer who became known for translating the Bible into English.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "William Tyndale was born in 1495 in a town called Gloucestershire. In 1512 he attended Oxford University and earned a master&#39;s degree. Tyndale was very educated, especially in linguistics. He spoke seven different languages. As a result, he began to translate the Bible into English from Greek and Hebrew. However, this was an illegal act. According to the Constitution of Oxford on 1408, it was illegal for an individual to translate the Bible into English. Nevertheless, Tyndale resorted to illegal means and left for Germany in 1524 to work on his translation.<BR /><BR />In early 1526, William Tyndale&#39;s version of the New Testament was printed in Worms. It wasn&#39;t long before copies were illegally brought back to England. Tyndale then moved to Antwerp to work on translating the Old Testament. By 1535 he had translated the Pentateuch and the book of Jonah, but he was double&#8212;crossed before the completion of the Old Testament. Henry Phillips, Tyndale&#39;s supposed disciple, betrayed Tyndale to the authorities, who put him into prison. <BR /><BR />While Tyndale was in prison, Miles Coverdale (1488&#8212;1568) finished translating the Old Testament, but not from Hebrew sources. Coverdale did not know Hebrew and used Latin sources, which incorporated some mistakes. Nevertheless, Coverdale printed the first complete edition of the English Bible in 1535.<BR /><BR />The following October (1536), Tyndale was hanged and then burned at the stake. According to John Foxe, as he was dying, Tyndale cried out in a loud voice, &#34;Lord, open the King of England&#39;s eyes!&#34; Amazingly enough, the king&#39;s eyes were eventually opened, for in 1538 the English Bible was placed in every church in England by royal law. That Bible, called the &#34;Great Bible,&#34; was essentially built off the work of William Tyndale.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/494px-William_Tyndale_8-5-2013 9-25-02 AM.jpg",
-      "caption": ""
+      "file": "494px-William_Tyndale_8-5-2013 9-25-02 AM.jpg",
+      "caption": "William Tyndale, Foxe&#39;s Book of Martyrs"
+    },
+    {
+      "file": "tyndale-death_8-5-2013 9-25-02 AM.jpg",
+      "caption": "The martyrdom of Tyndale, The Horizon Book of the Elizabethan World, 1563"
     }
-  ]
+  ],
+  "videos": []
 }

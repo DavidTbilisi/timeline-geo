@@ -4,18 +4,73 @@
   "period": 6,
   "titleEn": "Absalom",
   "titleKa": null,
-  "datesEn": "1009–978 BC (~31)",
+  "datesEn": "1009&ndash;978 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;father of peace.&#34; He is the 3rd son of David through Maacah and is known for his handsome appearance. He avenges the crime of his half brother against Tamar by having Amnon murdered. Absalom seeks to overthrow his father but dies by Joab.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Absalom. Third son of David by his wife Maacah, daughter of Talmai, the king of Geshur (2 Sa 3:3). He was known for his handsome appearance (2 Sa 14:25, 26). To avenge the crime committed by his half brother Amnon against his sister Tamar, he killed Amnon and then fled to his grandfather, Talmai, king of Geshur, to escape possible reprisal from David (ch 13). About three years later, by engaging the services of a wise woman from Tekoa, Joab succeeded in obtaining permission for him to return to Jerusalem. Two years later he reconciled father and son (ch 14).<BR /><BR />Shortly after this Absalom began to scheme against his father to obtain the kingship, and had himself proclaimed king at Hebron (2 Sa 15:1&#8212;12). Marching against Jerusalem, he forced David to flee the capital and took possession of the royal palace and of the harem. He disregarded the counsel of Ahithophel and did not immediately pursue the small forces of David, but followed, instead, the advice of David&#39;s friend Hushai, who counseled him to mobilize all of Israel&#39;s army before continuing the pursuit. <BR /><BR />This gave David time to reorganize his forces and get ready for the decisive encounter (chs 15:13 to 17:23). The battle took place in the &#34;wood of Ephraim,&#34; somewhere in Gilead, probably near Mahanaim. The forces of Absalom were severely beaten and in the confusion of battle Absalom was caught by the head in the branches of a tree, and left hanging helpless. While thus suspended he was killed by Joab against the explicit command of David. He was buried like a criminal in a large pit in the wood, and a big heap of stones was erected over his grave (2 Sa 17:24 to 18:17). <BR /><BR />During his life Absalom had erected for himself a monument, which stood in the &#34;king&#39;s dale&#34; (2 Sa 18:18), and, according to Josephus (Ant. vi. vii 10. 3), was 2 furlongs (c. 402 m.) from Jerusalem. The so&#8212;called Tomb of Absalom now standing in the Kidron Valley at Jerusalem is a tomb monument of the Hellenistic period. According to 2 Sa 14:27 Absalom had 3 sons and a daughter named Tamar. The Maachah mentioned in 2 Chr 11:20 and 1 Ki 15:2, 10 as Absalom&#39;s (or Abishalom&#39;s) daughter was probably his granddaughter. The Bible sometimes uses the expression &#34;daughter&#34; for &#34;granddaughter.&#34;",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Samuel 3:3",
+      "verses": [
+        {
+          "number": 3,
+          "line": "And his second, Chileab, of Abigail the wife of Nabal the Carmelite; and the third, Absalom the son of Maacah the daughter of Talmai king of Geshur;"
+        }
+      ]
+    },
+    {
+      "reference": "2 Samuel 18:14-15",
+      "verses": [
+        {
+          "number": 14,
+          "line": "Then said Joab, I may not tarry thus with thee. And he took three darts in his hand, and thrust them through the heart of Absalom, while he was yet alive in the midst of the oak."
+        },
+        {
+          "number": 15,
+          "line": "And ten young men that bare Joab's armour compassed about and smote Absalom, and slew him."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    },
+    {
+      "slug": "absalom-murders-amnon-2nd-judgment",
+      "titleEn": "Absalom Murders Amnon, 2nd Judgment",
+      "titleKa": null
+    },
+    {
+      "slug": "absalom-returns-to-jerusalem-from-geshur",
+      "titleEn": "Absalom Returns to Jerusalem from Geshur",
+      "titleKa": null
+    },
+    {
+      "slug": "absalom-reconciled-to-david",
+      "titleEn": "Absalom Reconciled to David",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-Absalom_8-5-2013 4-42-42 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-Absalom_8-5-2013 4-42-42 PM.jpg",
+      "caption": "Absalom."
+    },
+    {
+      "file": "Pillar of Absalom and Tomb of Jehoshaphat, tb051906433_5-1-2013 12-46-23 PM.jpg",
+      "caption": "Pillar of Absalom and Tomb of Jehoshaphat"
+    }
+  ],
+  "videos": [
+    {
+      "title": "David, Part 11: Absalom, My Son",
+      "caption": "This is a series on the life of David. It focuses on the failures of David as a father and stories about terrible things that happened with his children. He began to lose the respect of the people. The story of Absalom and David is the story of the rebellion of a prince in heaven who turned against the Heavenly Father.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8167.mp4"
     }
   ]
 }

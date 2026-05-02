@@ -4,13 +4,91 @@
   "period": 8,
   "titleEn": "Haman's Death Decree April 474",
   "titleKa": null,
-  "datesEn": "474 BC",
+  "datesEn": "474 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "When Mordecai refuses to bow to Haman, he becomes angry and plots to kill him and all the Jews. He gets King Ahasuerus to sign a decree that on a specific day anyone can kill the Jews.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "When Haman is promoted by the king, everyone bows to him, except Mordecai. In view of the fact that the Hebrew people prostrated themselves not only before kings (1 Sam. 24:8) but before superiors in general, or those whom they wished to honor as such (Gen. 23:7 27:29 33:3 etc.), Mordecai&#39;s motive in refusing to bow to Haman is not entirely clear. Haman was, to be sure, a Gentile but Abraham bowed to Gentiles (Gen. 23:7). <BR /><BR />Mordecai did refuse Haman reverence that belongs only to God. The persistent attempt made to secure Mordecai&#39;s compliance with the edict to bow before Haman implies that his fellow officials esteemed him highly. They sought to give him a fair opportunity before reporting the matter. From their point of view it was a serious precedent&#8212;if one royal decree could thus be flouted, how about others?<BR /><BR />Mordecai probably explained that his religion made it impossible to worship any man. Apparently, Mordecai&#39;s race had not been suspected. In appearance and language he and Esther both seem to have passed as Persians. Mordecai&#39;s disrespect apparently came to Haman&#39;s attention only through the &#34;king&#39;s servants.&#34; Mordecai&#39;s attitude and explanation meant that Jews everywhere stood opposed to Haman. Mordecai&#39;s apparent defiance, boldly displayed at the very gate of the palace, could mean but one thing to Haman&#8212;conspiracy! At least, Haman was pleased to interpret it so. And if Mordecai justified his course on a religious basis, all who held that religion must therefore be involved also. <BR /><BR />If Haman had simply informed Xerxes that one of the minor court officials was insulting him and thereby disobeying a royal edict, Ahasuerus would certainly have ordered Mordecai put to death. But Mordecai, as a Jew, had insulted him, and therefore the Jews as a nation should be punished. If the Jews and their religion stood in the way of Haman&#39;s pride and security, both must be sacrificed.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Esther 3:1-15",
+      "verses": [
+        {
+          "number": 1,
+          "line": "After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him."
+        },
+        {
+          "number": 2,
+          "line": "And all the king's servants, that were in the king's gate, bowed, and reverenced Haman: for the king had so commanded concerning him. But Mordecai bowed not, nor did him reverence."
+        },
+        {
+          "number": 3,
+          "line": "Then the king's servants, which were in the king's gate, said unto Mordecai, Why transgressest thou the king's commandment?"
+        },
+        {
+          "number": 4,
+          "line": "Now it came to pass, when they spake daily unto him, and he hearkened not unto them, that they told Haman, to see whether Mordecai's matters would stand: for he had told them that he was a Jew."
+        },
+        {
+          "number": 5,
+          "line": "And when Haman saw that Mordecai bowed not, nor did him reverence, then was Haman full of wrath."
+        },
+        {
+          "number": 6,
+          "line": "And he thought scorn to lay hands on Mordecai alone; for they had shewed him the people of Mordecai: wherefore Haman sought to destroy all the Jews that were throughout the whole kingdom of Ahasuerus, even the people of Mordecai."
+        },
+        {
+          "number": 7,
+          "line": "In the first month, that is, the month Nisan, in the twelfth year of king Ahasuerus, they cast Pur, that is, the lot, before Haman from day to day, and from month to month, to the twelfth month, that is, the month Adar."
+        },
+        {
+          "number": 8,
+          "line": "And Haman said unto king Ahasuerus, There is a certain people scattered abroad and dispersed among the people in all the provinces of thy kingdom; and their laws are diverse from all people; neither keep they the king's laws: therefore it is not for the king's profit to suffer them."
+        },
+        {
+          "number": 9,
+          "line": "If it please the king, let it be written that they may be destroyed: and I will pay ten thousand talents of silver to the hands of those that have the charge of the business, to bring it into the king's treasuries."
+        },
+        {
+          "number": 10,
+          "line": "And the king took his ring from his hand, and gave it unto Haman the son of Hammedatha the Agagite, the Jews' enemy."
+        },
+        {
+          "number": 11,
+          "line": "And the king said unto Haman, The silver is given to thee, the people also, to do with them as it seemeth good to thee."
+        },
+        {
+          "number": 12,
+          "line": "Then were the king's scribes called on the thirteenth day of the first month, and there was written according to all that Haman had commanded unto the king's lieutenants, and to the governors that were over every province, and to the rulers of every people of every province according to the writing thereof, and to every people after their language; in the name of king Ahasuerus was it written, and sealed with the king's ring."
+        },
+        {
+          "number": 13,
+          "line": "And the letters were sent by posts into all the king's provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day, even upon the thirteenth day of the twelfth month, which is the month Adar, and to take the spoil of them for a prey."
+        },
+        {
+          "number": 14,
+          "line": "The copy of the writing for a commandment to be given in every province was published unto all people, that they should be ready against that day."
+        },
+        {
+          "number": 15,
+          "line": "The posts went out, being hastened by the king's commandment, and the decree was given in Shushan the palace. And the king and Haman sat down to drink; but the city Shushan was perplexed."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "esther",
+      "titleEn": "Esther",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas3146_8-28-2013 12-56-16 PM.jpg",
+      "caption": "Haman&#39;s plot against the Jews"
+    }
+  ],
+  "videos": []
 }

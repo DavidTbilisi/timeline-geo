@@ -2,15 +2,27 @@
   "slug": "implementation-of-lutheran-reformation-in-denmark",
   "id": 1360,
   "period": 12,
-  "titleEn": "Implementation of Lutheran Reformation in Denmark",
+  "titleEn": "Implementation of Lutheran Reformation in Denmark ",
   "titleKa": null,
-  "datesEn": "1537 AD",
+  "datesEn": "1537 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Christian III, king of Denmark, implemented Lutheranism in his realm upon coming to the throne in around 1536.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Christian II was the king of Denmark when the Reformation began. Although he was initially interested in Lutheranism, he quickly rejected it. However, in 1523, he lost his throne to Frederick I.<BR /><BR />Some time later, Christian II began trying to regain his throne. Frederick I died in 1533, but political unrest continued. Civil war followed for three years in Denmark, and Christian III was eventually victorious. Christian III, unlike Christian II, was committed to Lutheranism and declared the country Lutheran in 1536. When Christian III was crowned king in 1537, a Lutheran pastor placed the royal crown on the king&#39;s head.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Christian_III_of_Denmark_2-26-2013 2-39-33 PM.jpg",
+      "caption": "Portrait of the Danish King Christian II by Jakob Binck in 1550."
+    }
+  ],
+  "videos": []
 }

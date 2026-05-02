@@ -4,13 +4,25 @@
   "period": 7,
   "titleEn": "Ahab Battles Assyrians at Qarqar allied w Ben-hadad",
   "titleKa": null,
-  "datesEn": "853 BC",
+  "datesEn": "853 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The battle between the Assyrians and King Ahab in alliance with Benhadad happens at Qarqar on the Orontest in central Syria in Shalmaneser&#39;s 6th year. This very specific date provides an early synchronism between the Bible and secular history.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "ahab",
+      "titleEn": "Ahab",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Ahab_rex_8-27-2013 11-14-36 AM.png",
+      "caption": "King Ahab, Guillaume Rouille, &#34;Promptuarii Iconum Insigniorum&#34;, 1553"
+    }
+  ],
+  "videos": []
 }

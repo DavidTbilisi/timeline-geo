@@ -2,15 +2,35 @@
   "slug": "desiderius-erasmus",
   "id": 1320,
   "period": 11,
-  "titleEn": "Desiderius Erasmus",
+  "titleEn": "Desiderius Erasmus  ",
   "titleKa": null,
-  "datesEn": "1466–1536 AD",
+  "datesEn": "1466&ndash;1536 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A Catholic scholar committed to reforming the church from within. He never formally joined the reformation movement he lived to see.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Desiderius Erasmus was born in the Netherlands to a priest. Sometime in his childhood, both of his parents passed away and Erasmus fell into the care of guardians. Instead of caring for him at home, his guardians sent him to a school in Deventer. In 1487 he entered into an Augustinian monastery and was ordained as a priest in 1492. In 1495 he began his studies at the University of Paris, which was the center of Scholasticism (a mixture of theology based primarily on Tradition and philosophy). Erasmus was quickly bored by the theological debates that took place and left for England in 1499.<BR /><BR />In England, Erasmus was inspired to study the New Testament through the influence of John Colet. He quickly headed back to mainland Europe and began studying Greek in 1500. Nine years later he returned to England as a Greek instructor and lecturer in divinity at Cambridge University. In 1516 he published a Greek New Testament with annotations and his own Latin translation. The second edition of this book came out in 1519.<BR /><BR />Erasmus was the most well&#8212;known scholar in Europe at the dawn of the Protestant Reformation. As a result of his fame, Erasmus was a powerful force during the Reformation. He persistently attacked monasticism, corrupt clergymen, and even the papacy itself. He also criticized cardinals and bishops for their various abuses in the church. Erasmus&#39; attacks were so forceful that after the Reformation began, his books were added to the Catholic&#39;s Index of Prohibited Books along with the works of Martin Luther and other reformers.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Holbein-erasmus_2-26-2013 5-17-48 PM.jpg",
+      "caption": "Desiderius Erasmus in 1523 as depicted by Hans Holbein the Younger located at the National Gallery. "
+    },
+    {
+      "file": "138043455_2-26-2013 5-17-48 PM.jpg",
+      "caption": "One of the oldest University of the world, founded in 12th century"
+    },
+    {
+      "file": "137837525_2-26-2013 5-17-48 PM.jpg",
+      "caption": "A view of Cambridge University (King&#39;s College), Cambridgeshire, England."
+    }
+  ],
+  "videos": []
 }

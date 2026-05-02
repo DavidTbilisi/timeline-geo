@@ -4,13 +4,39 @@
   "period": 3,
   "titleEn": "Asher",
   "titleKa": null,
-  "datesEn": "1698–1596 BC",
+  "datesEn": "1698&ndash;1596 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;happy.&#34; He is Jacob&#39;s eighth son through Zilpah, Leah&#39;s handmaid. He has four sons and a daughter. Little is known of Asher and his tribe. Anna, the prophetess, comes from this tribe (Luke 2:36).",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The eighth son of Jacob by Zilpah, the maidservant of Leah (Gen 30:12, 13 35:26). He had 4 sons and a daughter (Gen 46:17 1 Chr 7:30), and became the founder of a tribe.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 30:12-13",
+      "verses": [
+        {
+          "number": 12,
+          "line": "And Zilpah Leah's maid bare Jacob a second son."
+        },
+        {
+          "number": 13,
+          "line": "And Leah said, Happy am I, for the daughters will call me blessed: and she called his name Asher."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Tribe_of_Asher_Symbol_001_8-6-2013 8-56-01 AM.jpg",
+      "caption": "Symbol for the tribe of Asher"
+    }
+  ],
+  "videos": []
 }

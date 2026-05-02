@@ -4,13 +4,155 @@
   "period": 3,
   "titleEn": "The Dinah Incident",
   "titleKa": null,
-  "datesEn": "1680 BC",
+  "datesEn": "1680 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Jacob&#39;s daughter, Dinah, is raped by Shechem who wants her as a wife. After Shechem and Hamor, his father, agree to have all their men circumcised, Simeon and Levi slaughter all the males in their city and bring back Dinah. Jacob is very displeased.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Dinah, as yet the only daughter of Jacob could not have been more than five or six years old when the family left Haran, since she was not born until after Leah&#39;s sixth son (ch. 30:21). She had possibly reached the age of 14 or 15 when the sordid event described in this chapter took place. It is apparent, therefore, that some eight or more years had passed since Jacob&#39;s return to Canaan (see ch. 33:17). <BR /><BR />If the events narrated in chapters 34 to 37 are presented in chronological order, as they seem to be, Dinah cannot have been much older than 15 at the time, because Joseph, who was about the same age as Dinah (ch. 30:21&#8212;24), was only 17 when sold into slavery by his brothers (ch. 37:2). The fact that she went out unaccompanied would seem to indicate that she was still regarded at home as a child. While at this event, Shechem approaches her. From what we know of Canaanite morals, Shechem&#39;s conduct was by no means unusual, and Dinah paid in full the penalty for her unwise independence in associating with wordly youth.<BR /><BR />Information concerning Dinah&#39;s experience must have reached her father indirectly, since she herself remained in Shechem&#39;s house (v. 26). Jacob&#39;s silence was probably due to a combination of sorrow, caution, and perplexity. He had learned to be prudent rather than to act upon impulse. The seriousness of the predicament was certain to affect the interests of the entire household, and called for united counsel and decision. <BR /><BR />To refuse the marriage proposal would be to incur the ill will of the Shechemites to accept it would be an open violation of the principle of non association with the heathen (see chs. 24:3, 6 26:35). Yet Dinah was with Shechem, and how was he to secure her return? Had Jacob foreseen the tragic course of action some of his sons were to pursue upon learning of the affair, he would probably have taken things into his own hands and acted at once. As it was, however, he did better in thus &#34;ruling his spirit&#34; than did his sons when they took the city (Prov. 16:32).<BR /><BR /><BR /><BR /><BR />Hamor, Shechem&#39;s father, proposed a policy of intermarriage between Jacob&#39;s family and the Shechemites. Attractive as the offers of the prince of Shechem were, they were declined by Jacob&#39;s sons, who now took the initiative in discussing their sister&#39;s proposed marriage (see ch. 24:50). To accept the proposals would have been to violate the sacred principles of their call as a family and to sacrifice the promises of God for wordly gain. Their rejection of Hamor&#39;s proposal was right, to be sure, but their procedure was just as certainly wrong. In plotting murder under the protecting cloak of religious scruples, Jacob&#39;s sons were guilty of hypocrisy and cruelty. Their hypocrisy consisted in professing to accept the proposition of Hamor when they had no intention of doing so, on condition that the Shechemites accept the seal of God&#39;s holy covenant. They knew that if the Shechemites should submit to circumcision it would be a mere form on their part. Their proposal was, finally, conceived in a spirit of cruel revenge.<BR /><BR /><BR />Inflammation and fever usually set in on the third day. While the Shechemites were thus helpless, two of Dinah&#39;s older brothers set about their bloody work of revenge. This cruel massacre demonstrates how one sin leads on to another, like flames of fire spreading in a dry thicket (Isa. 9:18). Dissipation led to seduction, and seduction to revenge and murder (see James 1:15). The disgrace that had been brought upon one family made widows and orphans of the women and children of an entire city. Indirectly, this narrative testifies to the reliability of Moses as a historian. Himself a Levite, he does not spare the character of his progenitor.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 34:1-31",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land."
+        },
+        {
+          "number": 2,
+          "line": "And when Shechem the son of Hamor the Hivite, prince of the country, saw her, he took her, and lay with her, and defiled her."
+        },
+        {
+          "number": 3,
+          "line": "And his soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and spake kindly unto the damsel."
+        },
+        {
+          "number": 4,
+          "line": "And Shechem spake unto his father Hamor, saying, Get me this damsel to wife."
+        },
+        {
+          "number": 5,
+          "line": "And Jacob heard that he had defiled Dinah his daughter: now his sons were with his cattle in the field: and Jacob held his peace until they were come."
+        },
+        {
+          "number": 6,
+          "line": "And Hamor the father of Shechem went out unto Jacob to commune with him."
+        },
+        {
+          "number": 7,
+          "line": "And the sons of Jacob came out of the field when they heard it: and the men were grieved, and they were very wroth, because he had wrought folly in Israel in lying with Jacob's daughter; which thing ought not to be done."
+        },
+        {
+          "number": 8,
+          "line": "And Hamor communed with them, saying, The soul of my son Shechem longeth for your daughter: I pray you give her him to wife."
+        },
+        {
+          "number": 9,
+          "line": "And make ye marriages with us, and give your daughters unto us, and take our daughters unto you."
+        },
+        {
+          "number": 10,
+          "line": "And ye shall dwell with us: and the land shall be before you; dwell and trade ye therein, and get you possessions therein."
+        },
+        {
+          "number": 11,
+          "line": "And Shechem said unto her father and unto her brethren, Let me find grace in your eyes, and what ye shall say unto me I will give."
+        },
+        {
+          "number": 12,
+          "line": "Ask me never so much dowry and gift, and I will give according as ye shall say unto me: but give me the damsel to wife."
+        },
+        {
+          "number": 13,
+          "line": "And the sons of Jacob answered Shechem and Hamor his father deceitfully, and said, because he had defiled Dinah their sister:"
+        },
+        {
+          "number": 14,
+          "line": "And they said unto them, We cannot do this thing, to give our sister to one that is uncircumcised; for that were a reproach unto us:"
+        },
+        {
+          "number": 15,
+          "line": "But in this will we consent unto you: If ye will be as we be, that every male of you be circumcised;"
+        },
+        {
+          "number": 16,
+          "line": "Then will we give our daughters unto you, and we will take your daughters to us, and we will dwell with you, and we will become one people."
+        },
+        {
+          "number": 17,
+          "line": "But if ye will not hearken unto us, to be circumcised; then will we take our daughter, and we will be gone."
+        },
+        {
+          "number": 18,
+          "line": "And their words pleased Hamor, and Shechem Hamor's son."
+        },
+        {
+          "number": 19,
+          "line": "And the young man deferred not to do the thing, because he had delight in Jacob's daughter: and he was more honourable than all the house of his father."
+        },
+        {
+          "number": 20,
+          "line": "And Hamor and Shechem his son came unto the gate of their city, and communed with the men of their city, saying,"
+        },
+        {
+          "number": 21,
+          "line": "These men are peaceable with us; therefore let them dwell in the land, and trade therein; for the land, behold, it is large enough for them; let us take their daughters to us for wives, and let us give them our daughters."
+        },
+        {
+          "number": 22,
+          "line": "Only herein will the men consent unto us for to dwell with us, to be one people, if every male among us be circumcised, as they are circumcised."
+        },
+        {
+          "number": 23,
+          "line": "Shall not their cattle and their substance and every beast of theirs be ours? only let us consent unto them, and they will dwell with us."
+        },
+        {
+          "number": 24,
+          "line": "And unto Hamor and unto Shechem his son hearkened all that went out of the gate of his city; and every male was circumcised, all that went out of the gate of his city."
+        },
+        {
+          "number": 25,
+          "line": "And it came to pass on the third day, when they were sore, that two of the sons of Jacob, Simeon and Levi, Dinah's brethren, took each man his sword, and came upon the city boldly, and slew all the males."
+        },
+        {
+          "number": 26,
+          "line": "And they slew Hamor and Shechem his son with the edge of the sword, and took Dinah out of Shechem's house, and went out."
+        },
+        {
+          "number": 27,
+          "line": "The sons of Jacob came upon the slain, and spoiled the city, because they had defiled their sister."
+        },
+        {
+          "number": 28,
+          "line": "They took their sheep, and their oxen, and their asses, and that which was in the city, and that which was in the field,"
+        },
+        {
+          "number": 29,
+          "line": "And all their wealth, and all their little ones, and their wives took they captive, and spoiled even all that was in the house."
+        },
+        {
+          "number": 30,
+          "line": "And Jacob said to Simeon and Levi, Ye have troubled me to make me to stink among the inhabitants of the land, among the Canaanites and the Perizzites: and I being few in number, they shall gather themselves together against me, and slay me; and I shall be destroyed, I and my house."
+        },
+        {
+          "number": 31,
+          "line": "And they said, Should he deal with our sister as with an harlot?"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "levi",
+      "titleEn": "Levi",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "TheTakingOfDinahTissot1896_7-31-2013 3-46-09 PM.jpg",
+      "caption": "17th century depiction of Shechem siezing Dinah &#34;The Taking of Dinah&#34; by James Tissot. "
+    }
+  ],
+  "videos": []
 }

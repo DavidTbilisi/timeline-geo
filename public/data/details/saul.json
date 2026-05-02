@@ -4,18 +4,128 @@
   "period": 6,
   "titleEn": "Saul",
   "titleKa": null,
-  "datesEn": "1082–1010 BC (~72)",
+  "datesEn": "1082&ndash;1010 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;asked of God&#34; or &#34;lent to God.&#34; He is the son of Kish, a Benjamite and first king of Israel. When the Israelites demand a king, God lets them have one. Saul reigns about 40 years, becomes jealous of David&#39;s victories. He commits suicide.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Saul. The first Hebrew king. He was the son of the Benjamite Kish, whose home town was Gibeah, now Tell el&#8212;F&#252;l, about 4 mi. (c. 6.5 km.) north of Jerusalem. For centuries Israel had been living under a theocratic form of government, being ruled by judges called by God. The last of these, Samuel, had grown old, and his sons did not measure up to the qualities of leadership of their godly father. The people, having become tired of the lack of continuity in strong leadership, thought that a kingship would provide them with a form of government that would cure their political and international ills. Samuel looked upon the popular demand for a king with extreme disfavor, but God directed him to accede to the people&#39;s desire, at the same time to make them thoroughly acquainted with the disadvantages and burdens this move would bring upon them (1 Sa 8).<BR /><BR />(1) Saul becomes king. Shortly after the people&#39;s demand for a king, Saul, a young, handsome man of towering stature, was out with a servant searching for some lost asses belonging to his father. After a fruitless search of 3 days the servant suggested that they should consult &#34;the seer,&#34; by which he meant Samuel. Although Saul had probably heard of Samuel, he did not know him personally (1 Sa 9:18), and was afraid to approach him without a gift of money (v 7). Meanwhile Samuel had received instruction from God that a Benjamite would come to him whom he should anoint as king. <BR /><BR />When Saul arrived, a specific word came to him that Saul was the man who should rule over God&#39;s people. Samuel met him in the gate, assured him that the asses had been found, and invited the surprised Saul to stay for a sacrificial meal. Saul spent the night with Samuel as the prophet&#39;s guest, and in the morning Samuel secretly anointed him and prophesied certain experiences that Saul would have on his way home, which took place as predicted. As soon as Samuel knew who the new king was to be he summoned the whole nation to Mizpah, probably the modern Tell en&#8212;Na?beh, where lots were cast publicly to confirm Saul as king.<BR /><BR />(2) Saul&#39;s reign. Paul gives the total length of Saul&#39;s reign as 40 years (Acts 13:21), as does Josephus (Ant. vi. 14. 9). Saul carried out military campaigns with brilliant results (1 Sa 14:47, 48). During one of these campaigns he committed an act of disobedience that sealed his rejection by God as king. He had been ordered to destroy the Amalekites and their possessions, to fulfill a curse pronounced against them by God for having fought against Israel in the wilderness at Rephidim (Ex 17:8&#8212;16). Saul carried out the order, but spared some of the cattle, to sacrifice, as he said, at Gilgal, and their king Agag. For this disobedience to a specific command Samuel declared that God no longer considered him as the legitimate ruler of His people (1 Sa 15). A little later Samuel secretly anointed David the shepherd boy to be the future king of the nation (ch 16:1&#8212;13).<BR /><BR />(3) Saul&#39;s last years. God&#39;s Spirit departed from Saul when he was rejected as king, and an evil spirit periodically plagued him. In an effort to lift him from his melancholy moods his servants introduced to him young David, who was chosen to play the lyre before the king (1 Sa 16:14&#8212;23). At first Saul liked David, but his affection soon changed to jealousy and fear when David, having killed Goliath, and thus secured a victory for the Israelites over the Philistines, was acclaimed by the maidens of Israel as the greatest hero of the nation (chs 17:1 to 18:9). <BR /><BR />His jealousy led him to attempts on David&#39;s life. The result was a weakening of the nation&#39;s defenses and a re&#8212;invasion by the Philistines, who this time encamped at Shunem, near the Valley of Jezreel. Having been forsaken by God and being possessed by an evil spirit, he felt driven to seek the help of these tools of the devil. He asked that Samuel, who had died some time before, be brought up by the medium, so that the prophet, who during the last years of his life had not communicated with Saul, might advise him. <BR /><BR />The medium claimed to see and old man coming up, and Saul supposed him to be Samuel. The spirit then predicted that Saul would die the next day (1 Sa 28:5&#8212;25). The battle on the following day went against the Israelites, and 3 sons of Saul were killed and Saul was badly wounded. Seeking to avoid capture by his enemies, Saul asked his armor bearer to kill him. When the man refused, Saul fell upon his sword and ended his own life.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Samuel 9:1-2",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now there was a man of Benjamin, whose name was Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power."
+        },
+        {
+          "number": 2,
+          "line": "And he had a son, whose name was Saul, a choice young man, and a goodly: and there was not among the children of Israel a goodlier person than he: from his shoulders and upward he was higher than any of the people."
+        }
+      ]
+    },
+    {
+      "reference": "1 Samuel 31:6",
+      "verses": [
+        {
+          "number": 6,
+          "line": "So Saul died, and his three sons, and his armourbearer, and all his men, that same day together."
+        }
+      ]
+    },
+    {
+      "reference": "1 Samuel 9:1-2",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now there was a man of Benjamin, whose name was Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power."
+        },
+        {
+          "number": 2,
+          "line": "And he had a son, whose name was Saul, a choice young man, and a goodly: and there was not among the children of Israel a goodlier person than he: from his shoulders and upward he was higher than any of the people."
+        }
+      ]
+    },
+    {
+      "reference": "1 Samuel 31:6",
+      "verses": [
+        {
+          "number": 6,
+          "line": "So Saul died, and his three sons, and his armourbearer, and all his men, that same day together."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jonathan",
+      "titleEn": "Jonathan",
+      "titleKa": null
+    },
+    {
+      "slug": "ishbosheth",
+      "titleEn": "Ishbosheth",
+      "titleKa": null
+    },
+    {
+      "slug": "rejection-of-saul",
+      "titleEn": "Rejection of Saul",
+      "titleKa": null
+    },
+    {
+      "slug": "sauls-hatred-against-david-begins",
+      "titleEn": "Saul's Hatred Against David Begins",
+      "titleKa": null
+    },
+    {
+      "slug": "deliverance-of-jabesh-israel-unified",
+      "titleEn": "Deliverance of Jabesh, Israel Unified",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/james-tissot-saul-meets-with-samuel-1900_7-30-2013 3-57-41 PM.jpg",
-      "caption": ""
+      "file": "james-tissot-saul-meets-with-samuel-1900_7-30-2013 3-57-41 PM.jpg",
+      "caption": "Saul meets with Samuel.  Artist: James Tissot. c. 1900"
+    },
+    {
+      "file": "GoodSalt-SaulRejectedByGod_8-5-2013 4-12-34 PM.jpg",
+      "caption": "Samuel said to Saul, &#34;I will not go back with you, for you have rejected the word of the Lord, and the Lord has rejected you from being king over Israel!&#34; When Samuel turned to leave, Saul grabbed the edge of his robe and it tore. Samuel said to him, &#34;The Lord has torn the kingdom of Israel from you this day and has given it to one of your colleagues who is better than you! (1 Samuel, Chapter 15, 26-28)."
+    },
+    {
+      "file": "David and Saul 2_5-2-2013 4-25-30 PM.jpg",
+      "caption": "David playing the harp for Saul, (1 Samuel, Chapter 19, 9-10). Woodcut after a drawing by Julius Schnorr von Carolsfeld (German painter, 1794 - 1872)"
+    },
+    {
+      "file": "saul-and-the-witch-of-endor-1777_7-30-2013 3-21-01 PM.jpg",
+      "caption": "llustration of biblical story of Saul and the Witch of Endor.  Artist: Benjamin West. c.1777"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Enduring Patience",
+      "caption": "This sermon focuses on the issue of enduring patiently. It is introduced through the story of Saul who impatiently disregarded Samuel&#39;s instructions. We live in an age of speed, a fast-paced age, that when we are delayed it is very easy to become irritated.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg9267.mp4"
+    },
+    {
+      "title": "Learning From The Kings, Part 1: Backsliding",
+      "caption": "This sermon deals with lessons learned from the monarchs of Israel and is called &#34;Learning from the Kings.&#34; The specific focus is on the common backsliding of the kings, especially King Saul and King Manasseh. The typical problems that led to the kings backsliding were pride, people, paganism, and possessions. ",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg9357.mp4"
+    },
+    {
+      "title": "Learning From The Kings, Part 3: Pride and Possession",
+      "caption": "God wants to bless us. Having material possessions is not bad, but it can be when our hearts are turned away from God by them. This is a lesson we can learn from the kings of Israel in this sermon. Hezekiah is an example of pride and possessions leading one astray.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg9377.mp4"
+    },
+    {
+      "title": "Learning From The Kings, Part 4: Pride and Passion",
+      "caption": "This is the last of a series on learning lessons from the kings of Israel. Power corrupts and the kings show how it is easy to abuse their power. The story of Nebuchadnezzar teaches us what happens when we do not humble ourselves before God. King David also shows how pride turned him toward passion instead of the Lord.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg9387.mp4"
+    },
+    {
+      "title": "Learning From The Kings, Part 2: Pride and Position",
+      "caption": "This is the second part in a continued study called &#34;Learning from the Kings.&#34; Pride is the number one sin and we see in the lives of the kings of Israel how this leads to a downward spiral. Since we become royalty when we become adopted into God&#39;s family we can learn from the kings. This sermon looks at King Uzziah.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg9367.mp4"
     }
   ]
 }

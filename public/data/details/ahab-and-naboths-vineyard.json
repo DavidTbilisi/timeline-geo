@@ -4,18 +4,103 @@
   "period": 7,
   "titleEn": "Ahab and Naboth's Vineyard",
   "titleKa": null,
-  "datesEn": "855 BC",
+  "datesEn": "855 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "King Ahab wants a vineyard near the palace in Jezreel owned by Naboth. Since he will not sell the vineyard to the king and the law forbids legally taking the land unless the owner or heirs are dead, Jezebel wickedly plots Naboth&#39;s death.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Naboth&#39;s vineyard, which was coveted by King Ahab, was in the city of Jezreel in the plain of Esdraelon, to the north of Mt. Gilboa. It was on the brow of a steep, rocky descent sloping down toward the north and east. Since the ancient vineyards seem to have been to the east of the city, Ahab&#39;s palace was probably on the same side (see on ch. 18:45), affording a splendid view all the way toward Jordan. Ahab spoke with Naboth. This account reveals the covetous, petulant, selfish disposition of the king, and the cold, calculating cruelty of the queen.<BR /><BR />Naboth was, of course, not ready to lose his vineyard. To Naboth it seemed wrong to part with his property. The Levitical code provided that &#34;the inheritance of the children of Israel&#34; might not &#34;remove from tribe to tribe,&#34; but that everyone should &#34;keep himself to the inheritance of the tribe to tribe,&#34; but that everyone should &#34;keep himself to the inheritance of the tribe of his fathers&#34; (Num. 36:7&#8212;9). If for any reason property was sold, specific regulations were set forth providing for its periodic return to the families of the original owners (Lev. 25:13&#8212;28). Naboth believed it to be against the spiritual purpose of the Levitical law for him to transfer his inheritance to the king.<BR /><BR />Ahab had earlier returned home &#34;heavy and displeased&#34; upon learning that his dealings with Ben&#8212;hadad were not according to the purpose of God (ch. 20:43). Not being able to secure the vineyard on which he had set his heart, he again went home &#34;heavy and displeased.&#34; His attitude was like that of a spoiled, selfish child, interested in no one but himself. When he could not have his own way he became sullen and angry, refused to eat, and threw himself on his bed. <BR /><BR />His whole kingdom seemed to mean nothing to him as long as he did not possess the vineyard of Naboth. Jezebel&#39;s response was full of bitterness and scorn. Does a man who is lord of the realm need to admit that he cannot secure a small parcel of ground? Is Ahab the king allowing himself to be thwarted by some insignificant subject of his? The item could be easily handled&#8212;she would take care of the matter herself and show him how such things are done.<BR /><BR />To Ahab it evidently was a matter of no consequence as to how Jezebel secured the vineyard, so long as it was secured. He did not restrain her from writing letters in his name, stamped with his seal, and so became equally responsible with her for the dastardly deed. The ready acquiescence of the rulers of the city in carrying out this foul plot is characteristic of the worst to be found in Oriental despotism. The word of the king was law. Even base murder would be carried out under the pretense of justice. This ready submission of the elders and nobles implied a deep moral degradation among the people. <BR /><BR />It appears from 2 Kings 9:26 that not only Naboth but also his sons were stoned. When Achan was put to death his sons and daughters were stoned with him (Joshua 7:24, 25). With Naboth&#39;s sons out of the way there would be no heirs to law claim to the vineyard. The crime thus became doubly heinous. Naboth was dead and his sons with him, and all his property now belonged to the royal domain. Heedless of consequences, Ahab immediately took over the property as his own.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Kings 21:1-16",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And it came to pass after these things, that Naboth the Jezreelite had a vineyard, which was in Jezreel, hard by the palace of Ahab king of Samaria."
+        },
+        {
+          "number": 2,
+          "line": "And Ahab spake unto Naboth, saying, Give me thy vineyard, that I may have it for a garden of herbs, because it is near unto my house: and I will give thee for it a better vineyard than it; or, if it seem good to thee, I will give thee the worth of it in money."
+        },
+        {
+          "number": 3,
+          "line": "And Naboth said to Ahab, The LORD forbid it me, that I should give the inheritance of my fathers unto thee."
+        },
+        {
+          "number": 4,
+          "line": "And Ahab came into his house heavy and displeased because of the word which Naboth the Jezreelite had spoken to him: for he had said, I will not give thee the inheritance of my fathers. And he laid him down upon his bed, and turned away his face, and would eat no bread."
+        },
+        {
+          "number": 5,
+          "line": "But Jezebel his wife came to him, and said unto him, Why is thy spirit so sad, that thou eatest no bread?"
+        },
+        {
+          "number": 6,
+          "line": "And he said unto her, Because I spake unto Naboth the Jezreelite, and said unto him, Give me thy vineyard for money; or else, if it please thee, I will give thee another vineyard for it: and he answered, I will not give thee my vineyard."
+        },
+        {
+          "number": 7,
+          "line": "And Jezebel his wife said unto him, Dost thou now govern the kingdom of Israel? arise, and eat bread, and let thine heart be merry: I will give thee the vineyard of Naboth the Jezreelite."
+        },
+        {
+          "number": 8,
+          "line": "So she wrote letters in Ahab's name, and sealed them with his seal, and sent the letters unto the elders and to the nobles that were in his city, dwelling with Naboth."
+        },
+        {
+          "number": 9,
+          "line": "And she wrote in the letters, saying, Proclaim a fast, and set Naboth on high among the people:"
+        },
+        {
+          "number": 10,
+          "line": "And set two men, sons of Belial, before him, to bear witness against him, saying, Thou didst blaspheme God and the king. And then carry him out, and stone him, that he may die."
+        },
+        {
+          "number": 11,
+          "line": "And the men of his city, even the elders and the nobles who were the inhabitants in his city, did as Jezebel had sent unto them, and as it was written in the letters which she had sent unto them."
+        },
+        {
+          "number": 12,
+          "line": "They proclaimed a fast, and set Naboth on high among the people."
+        },
+        {
+          "number": 13,
+          "line": "And there came in two men, children of Belial, and sat before him: and the men of Belial witnessed against him, even against Naboth, in the presence of the people, saying, Naboth did blaspheme God and the king. Then they carried him forth out of the city, and stoned him with stones, that he died."
+        },
+        {
+          "number": 14,
+          "line": "Then they sent to Jezebel, saying, Naboth is stoned, and is dead."
+        },
+        {
+          "number": 15,
+          "line": "And it came to pass, when Jezebel heard that Naboth was stoned, and was dead, that Jezebel said to Ahab, Arise, take possession of the vineyard of Naboth the Jezreelite, which he refused to give thee for money: for Naboth is not alive, but dead."
+        },
+        {
+          "number": 16,
+          "line": "And it came to pass, when Ahab heard that Naboth was dead, that Ahab rose up to go down to the vineyard of Naboth the Jezreelite, to take possession of it."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ahab",
+      "titleEn": "Ahab",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/456px-Jezebel_has_Naboth_killed_8-27-2013 9-42-38 AM.jpg",
-      "caption": ""
+      "file": "456px-Jezebel_has_Naboth_killed_8-27-2013 9-42-38 AM.jpg",
+      "caption": "The death of Naboth, Caspar Luiken, 1712"
+    },
+    {
+      "file": "772px-Jezabel-and-Ahab-Meeting-Elijah-in-Naboth-s-Vineyard_8-27-2013 9-42-38 AM.jpg",
+      "caption": "Elijah rebuking Ahab in Naboth&#39;s vineyard, Sir Francis Dicksee"
+    },
+    {
+      "file": "_GoodSalt-prcas3482_8-27-2013 9-42-38 AM.jpg",
+      "caption": "Elijah rebuking Ahab in Naboth&#39;s vineyard"
     }
-  ]
+  ],
+  "videos": []
 }

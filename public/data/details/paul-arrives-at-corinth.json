@@ -4,13 +4,107 @@
   "period": 10,
   "titleEn": "Paul Arrives at Corinth",
   "titleKa": null,
-  "datesEn": "51 AD",
+  "datesEn": "51 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After leaving Athens, Paul travels to Corinth where he is later joined by Silas and Timothy. He establishes the church in Corinth while working as a tentmaker. He meets Aquila and Priscilla. He writes 1 & 2 Thessalonians.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Following his experience at Athens, Paul journeyed westward alone to Corinth (Acts 18:1). There he came in contact with Aquila and his wife, Priscilla, Jews who had recently come from Italy subsequent to a decree by the emperor Claudius banning Jews from Rome (v 2). Since these people, like Paul, were tentmakers, he stayed with them and plied his trade (v 3). Paul most probably arrived in Corinth early in A.D. 51 he remained there more than a year and 6 months (Acts 18:11, 18). At first he labored with the Jews in the synagogue (v 4), as was his usual practice when entering a new city. However, when once again the majority of the Jews opposed and reviled him, he turned from them and began to work more directly for the Gentiles (v 6). No longer able to preach in the synagogue, he held his services in a house owned by a worshiper of God, next door to the synagogue (v 7). The gospel bore much fruit in that city, and among the converts was the ruler of the synagogue (v 8).<BR /><BR />Meanwhile Silas and Timothy had arrived with cheering news of the faithfulness of the Thessalonians (Acts 18:5 1 Th 3:6). These tidings inspired Paul, probably in A.D. 51, to write 1 Thessalonians, his first epistle that has been preserved. This was followed&#8212;possibly during late 51 or early 52&#8212;by 2 Thessalonians. At last, active persecution, that had usually come so quickly in other cities, began to threaten Paul at Corinth also. His Jewish enemies accused him before Gallio, the proconsul of Achaia, of teaching a religion not legally recognized by Rome. However, Gallio drove the accusers away, refusing to become involved in a case that he regarded as a dispute over Jewish, rather than Roman, law. At this the crowd seized the ruler of the synagogue at that time and beat him in the sight of Gallio (Acts 18:12&#8212;17).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Acts 18:1-17",
+      "verses": [
+        {
+          "number": 1,
+          "line": "After these things Paul departed from Athens, and came to Corinth;"
+        },
+        {
+          "number": 2,
+          "line": "And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them."
+        },
+        {
+          "number": 3,
+          "line": "And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers."
+        },
+        {
+          "number": 4,
+          "line": "And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks."
+        },
+        {
+          "number": 5,
+          "line": "And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ."
+        },
+        {
+          "number": 6,
+          "line": "And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles."
+        },
+        {
+          "number": 7,
+          "line": "And he departed thence, and entered into a certain man's house, named Justus, one that worshipped God, whose house joined hard to the synagogue."
+        },
+        {
+          "number": 8,
+          "line": "And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized."
+        },
+        {
+          "number": 9,
+          "line": "Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:"
+        },
+        {
+          "number": 10,
+          "line": "For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city."
+        },
+        {
+          "number": 11,
+          "line": "And he continued there a year and six months, teaching the word of God among them."
+        },
+        {
+          "number": 12,
+          "line": "And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,"
+        },
+        {
+          "number": 13,
+          "line": "Saying, This fellow persuadeth men to worship God contrary to the law."
+        },
+        {
+          "number": 14,
+          "line": "And when Paul was now about to open his mouth, Gallio said unto the Jews, If it were a matter of wrong or wicked lewdness, O ye Jews, reason would that I should bear with you:"
+        },
+        {
+          "number": 15,
+          "line": "But if it be a question of words and names, and of your law, look ye to it; for I will be no judge of such matters."
+        },
+        {
+          "number": 16,
+          "line": "And he drave them from the judgment seat."
+        },
+        {
+          "number": 17,
+          "line": "Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas3899_8-6-2013 5-09-48 PM.jpg",
+      "caption": "Paul at Corinth"
+    },
+    {
+      "file": "156361886_2-28-2013 12-29-54 PM.jpg",
+      "caption": "Statue of Paul the Apostle in Vatican."
+    },
+    {
+      "file": "iStock_000003837512Small_2-28-2013 12-29-55 PM.jpg",
+      "caption": "A bust of the Roman Emperor, Claudius (10 BC - 54 AD), placed above a decorative scroll which is inscribed in Latin, circa 30 AD. (Photo by Hulton Archive/Getty Images"
+    }
+  ],
+  "videos": []
 }

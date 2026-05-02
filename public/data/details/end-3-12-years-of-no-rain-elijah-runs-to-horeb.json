@@ -4,18 +4,83 @@
   "period": 7,
   "titleEn": "End 3 1/2 Years of No Rain, Elijah Runs to Horeb",
   "titleKa": null,
-  "datesEn": "866 BC",
+  "datesEn": "866 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "At the end of a 3 1/2 year drought, Elijah calls Ahab to bring all the prophets of Baal to Mt. Carmel for a showdown. They call to their god to answer by fire but to no avail. God answers Elijah&#39;s prayer. He later prays 7 times before rain comes.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Ahab told Jezebel how God responded on Mt. Carmel.  It was a wonderful tale of what Elijah had done through the might and power of God. But it had no effect in touching Jezebel&#39;s heart and bringing about a desire to mend her evil ways. A hearing of truth simply hardens where it does not save. She became angry and threatened his life. Here was a man of God who had done a valiant service for his master, and now he was threatened with death for his noble efforts. <BR /><BR />It is not in this world that the righteous receive their just awards for service performed in the name of the Lord. One of the apparent tragedies of life is that those who do the most in the cause of righteousness are those who also suffer the most. The reason may not always be understood. But there is comfort in the thought that Jesus, the sinless One, suffered more than any child of humanity will be called upon to suffer. The servant is not greater than his lord.<BR /><BR />Elijah ran for his life. After so complete a triumph over the prophets of Baal, and after so great a display of courage, it would seem that God&#39;s prophet would be ready to meet any trial of faith. One might assume that Elijah, having had so marked an evidence of the presence and blessing of God, would never let his courage fail. But he was suffering from the reaction that so frequently follows marked success. <BR /><BR />He had hoped that the glorious victory on Carmel would break the spell of Jezebel upon the king. When the prophet was informed of the queen&#39;s stubborn resistance to the new appeal for reformation, it was more than he could bear. He was unprepared for the cool, calculated, determined hatred of this wicked queen. He could think only of how to escape the clutches of so embittered and relentless a foe. Without thinking of the consequences of his course he fled for his life.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Kings 19:1-10",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword."
+        },
+        {
+          "number": 2,
+          "line": "Then Jezebel sent a messenger unto Elijah, saying, So let the gods do to me, and more also, if I make not thy life as the life of one of them by to morrow about this time."
+        },
+        {
+          "number": 3,
+          "line": "And when he saw that, he arose, and went for his life, and came to Beersheba, which belongeth to Judah, and left his servant there."
+        },
+        {
+          "number": 4,
+          "line": "But he himself went a day's journey into the wilderness, and came and sat down under a juniper tree: and he requested for himself that he might die; and said, It is enough; now, O LORD, take away my life; for I am not better than my fathers."
+        },
+        {
+          "number": 5,
+          "line": "And as he lay and slept under a juniper tree, behold, then an angel touched him, and said unto him, Arise and eat."
+        },
+        {
+          "number": 6,
+          "line": "And he looked, and, behold, there was a cake baken on the coals, and a cruse of water at his head. And he did eat and drink, and laid him down again."
+        },
+        {
+          "number": 7,
+          "line": "And the angel of the LORD came again the second time, and touched him, and said, Arise and eat; because the journey is too great for thee."
+        },
+        {
+          "number": 8,
+          "line": "And he arose, and did eat and drink, and went in the strength of that meat forty days and forty nights unto Horeb the mount of God."
+        },
+        {
+          "number": 9,
+          "line": "And he came thither unto a cave, and lodged there; and, behold, the word of the LORD came to him, and he said unto him, What doest thou here, Elijah?"
+        },
+        {
+          "number": 10,
+          "line": "And he said, I have been very jealous for the LORD God of hosts: for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "elijah",
+      "titleEn": "Elijah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/_GoodSalt-prcas2859_8-26-2013 6-09-22 PM.jpg",
-      "caption": ""
+      "file": "_GoodSalt-prcas2859_8-26-2013 6-09-22 PM.jpg",
+      "caption": "Elijah and the prophets of Baal"
+    },
+    {
+      "file": "_GoodSalt-prcas0461_8-26-2013 6-09-22 PM.jpg",
+      "caption": "Elijah fed by ravens during the 3 1/2 years of drought"
+    },
+    {
+      "file": "_GoodSalt-pppas0430_8-26-2013 6-09-22 PM.jpg",
+      "caption": "Elijah fleeing from Jezebel"
+    },
+    {
+      "file": "_GoodSalt-prcas2858_8-27-2013 9-35-16 AM.jpg",
+      "caption": "Elijah and the Still Small Voice."
     }
-  ]
+  ],
+  "videos": []
 }

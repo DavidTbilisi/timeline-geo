@@ -4,18 +4,45 @@
   "period": 8,
   "titleEn": "Esther",
   "titleKa": null,
-  "datesEn": "491–401 BC (~90)",
+  "datesEn": "491&ndash;401 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means in Persian &#34;star.&#34; Her original name was Hadassah (&#34;myrtle&#34;). She is taken into the family of Mordecai when her parents die. She becomes queen to Ahasuerus and also a savior of the Jews when Haman determines to kill them.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Esther, meaning of name thought to come from a Persian word meaning &#34;star.&#34; The Jewish queen of King Ahasuerus, or Xerxes, and heroine of the book of Esther. Her original Hebrew name was Hadassah, &#34;myrtle.&#34; She probably adopted the Persian name Esther upon entering the Persian court. Esther was the daughter of Abihail, apparently a Benjamite, and the adopted daughter of her cousin Mordecai, a courtier of Ahasuerus (Est 2:5, 7, 15). <BR /><BR />Both Esther and Mordecai were descendants of the Hebrew exiles who had been transported to Babylon by Nebuchadnezzar more than 100 years earlier, but were among those who had chosen to remain in the land of exile when Cyrus granted permission for the return to Judea. Both were residents of Susa (Shushan), formerly capital of Elam, but in their time one of several Persian capitals, situated about 200 mi. (320 km.) east of Babylon.<BR /><BR />Esther was a remarkably beautiful young woman whose tact and winsomeness brought her into royal favor and earned for her the title of queen after the former queen, Vashti, fell into disfavor. Ahasuerus gave her this rank in his 7th year, about the month of January, 478 b.c. this would have been at some time soon after the disastrous war in Greece marked by the battles of Salamis and Plataea. Four years later, in April, 474 b.c. the royal favorite, Haman, cast lots and then secured a royal decree authorizing the slaying of all Jews within the borders of the Persian Empire and the confiscation of their property (Est 3:7&#8212;15). <BR /><BR />By this decree he sought revenge upon Mordecai, who, as he came and went at the palace gate, had consistently refused to prostrate himself before Haman (vs 2&#8212;6). The decree naturally threw the Jews into great consternation, and Mordecai reported the matter to Esther (ch 4:1&#8212;7) with the admonition that God had providentially overruled that she should be queen at this hour of crisis (vs 8&#8212;17). In a supreme act of bravery equaled only by her infinite tact, Esther appealed to the king on behalf of her people, apparently for the first time revealing that she herself was Jewish (chs 6 and 7). <BR /><BR />Upon Haman&#39;s execution, the king elevated Mordecai to Haman&#39;s former position, and in the month of June signed a decree prepared by Mordecai that, in effect, reversed Haman&#39;s decree (Est 8:1). In joyful celebration of their miraculous deliverance the Jews declared a festal period known as Purim, &#34;Lots,&#34; in commemoration of Haman&#39;s casting of lots in connection with the decree for slaying the Jews (chs 3:7 9:17&#8212;32). Ever since, the Jews have celebrated this festival in honor of Esther and in commemoration of her spirit of bravery and devotion, which God used as the means of bringing deliverance to His people.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Esther 9:29",
+      "verses": [
+        {
+          "number": 29,
+          "line": "Then Esther the queen, the daughter of Abihail, and Mordecai the Jew, wrote with all authority, to confirm this second letter of Purim."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "hamans-death-decree-april-474",
+      "titleEn": "Haman's Death Decree April 474",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas1525_8-28-2013 12-42-28 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas1525_8-28-2013 12-42-28 PM.jpg",
+      "caption": "Queen Esther "
+    },
+    {
+      "file": "GoodSalt-prcas0091_8-7-2013 2-05-15 PM.jpg",
+      "caption": "Queen Esther "
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Gospel of Esther",
+      "caption": "The theme of this study is the gospel of Esther. When you read this book, you can see the gospel and the great controversy outlined in this book. The book is prophetic. The courts of Xerxes is like the courts of heaven. The queen who disobeyed is like Eve.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2643.mp4"
     }
   ]
 }

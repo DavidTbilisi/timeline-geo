@@ -4,13 +4,40 @@
   "period": 8,
   "titleEn": "Joseph",
   "titleKa": null,
-  "datesEn": "180–120 BC",
+  "datesEn": "180&ndash;120 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;increaser&#34; or &#34;may he add.&#34; He is the son of Mattathias and father of Jannai (or Janna), a Judahite listed in Luke&#39;s genealogy of Jesus Christ. There are several Joseph&#39;s in this genealogy and elsewhere in Scripture.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:24",
+      "verses": [
+        {
+          "number": 24,
+          "line": "Which was the son of Matthat, which was the son of Levi, which was the son of Melchi, which was the son of Janna, which was the son of Joseph,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "mattathias-son-of-amos",
+      "titleEn": "Mattathias",
+      "titleKa": null
+    },
+    {
+      "slug": "janna-or-jannai",
+      "titleEn": "Janna (or Jannai)",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "AncestorOfJesusColor.jpg",
+      "caption": "Ancestor of Jesus"
+    }
+  ],
+  "videos": []
 }

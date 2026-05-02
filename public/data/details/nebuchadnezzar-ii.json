@@ -4,18 +4,90 @@
   "period": 7,
   "titleEn": "Nebuchadnezzar II",
   "titleKa": null,
-  "datesEn": "632–562 BC (~70)",
+  "datesEn": "632&ndash;562 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Nebo protector of the crown.&#34; He is the son and successor of Nabopolassar, and is the greatest and most powerful of the Babylonian kings who carried Daniel and his 3 friends into captivity. Daniel interprets this king&#39;s amazing dream.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Nebuchadnezzar, name means &#34;May (the god) Nabu protect the son,&#34; or &#34;May Nabu protect the boundary.&#34; The name of 2 Babylonian kings, of whom only Nebuchadnezzar II, the 2d king of the Neo&#8212;Babylonian Empire (605&#8212;562 b.c.), played a role in Biblical history. He is especially known for his conquest of Jerusalem and for the rebuilding of Babylon. The many inscriptions of Nebuchadnezzar that have come to light during the last century speak almost exclusively of his building activities at Babylon and other places only a few historical texts deal with events of his reign. Until 1956 virtually all historical knowledge about Nebuchadnezzar was obtained from the Bible and Josephus, but the tablets of the Babylonian Chronicle, discovered in 1956, covering the first 11 years of his reign are perhaps the harbingers of more to come in the field of historical texts dealing with Nebuchadnezzar&#39;s time.<BR /><BR />Before he reached the border of Egypt, Nebuchadnezzar received the news that his father had died on Abu (Ab) 8 (approximately Aug. 15, 605 b.c.), and hastened home to secure the throne. From now on we find Nebuchadnezzar in Syria or Palestine practically every year. However, in 601 b.c. he suffered a defeat or a near defeat from the Egyptians and consequently stayed at home during the next year (600 b.c.) to rebuild his depleted army. The rising power of the Egyptians that led to this defeat was probably the reason that Jehoiakim of Judah risked refusal to pay the annual tribute to Babylon (2 Ki 24:1), thinking that the balance of power had swayed in favor of Egypt. <BR /><BR />In 599/98 b.c. Nebuchadnezzar&#39;s forces went to Syria&#8212;Palestine but were engaged in fighting against Arab tribes. Nebuchadnezzar again turned his attention toward Judah the next year. Jehoiakim had died before Nebuchadnezzar arrived and his son Jehoiachin was on the throne. Nebuchadnezzar took the city on Adar 2 (approximately March 16), 597 b.c. sent Jehoiachin captive to Babylon with 10,000 of his most distinguished citizens (vs 8&#8212;15), among whom was the prophet Ezekiel (Eze 1:1, 2 33:21) and made Jehoiachin&#39;s uncle, Zedekiah, king of Judah in Jehoiachin&#39;s stead (2 Ki 24:17). <BR /><BR />When the new king several years later rebelled against Nebuchadnezzar the Babylonians returned and took Jerusalem after a siege of over 2 years, in the 19th year of Nebuchadnezzar, that is, in the summer of 586 b.c. They destroyed Jerusalem and the Temple and deported the majority of the remaining population to Babylon (2 Ki 25:8&#8212;11). Nebuchadnezzar also subjugated Tyre after a siege of 13 years (see Eze 26:1 to 28:19 Jos. Against Apion i. 21). A fragmentary inscription mentions a military campaign also against the Pharaoh Amasis of Egypt in Nebuchadnezzar&#39;s 37th regnal year (ANET 308 see also Jer 42:7&#8212;18 Eze 29:17&#8212;21).<BR />Dan 1&#8212;4 describes the experiences of Daniel under Nebuchadnezzar and tells how the king became acquainted with the Hebrew religion and Daniel&#39;s God. <BR /><BR />The king&#39;s mental incapacity for 7 years (ch 4) is known only from the Bible, since such misfortunes were rarely recorded by court officials. However, it is possible that a fragmentary cuneiform tablet in the British Museum, published in 1975, refers to Nebuchadnezzar&#39;s mental illness, for it says of the king that &#34;life appeared of no value to&#34; him, that &#34;he does not show love to son and daughter,&#34; and that &#34;family and clan does not exist&#34; for him any longer (A. K. Grayson, Babylonian Historical&#8212;Literary Texts [Toronto, 1975], pp. 88&#8212;92). When Nebuchadnezzar died in 562 b.c. his son Amel&#8212;Marduk, the Biblical Evil&#8212;Merodach, succeeded him on the throne. For Nebuchadnezzar&#39;s extended building activity in his capital city, see Babylon.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Daniel 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "nabopolassar",
+      "titleEn": "Nabopolassar",
+      "titleKa": null
+    },
+    {
+      "slug": "evilmerodach",
+      "titleEn": "Evil-Merodach",
+      "titleKa": null
+    },
+    {
+      "slug": "2nd-invasion-of-jerusalem-by-babylon",
+      "titleEn": "2nd Invasion of Jerusalem by Babylon",
+      "titleKa": null
+    },
+    {
+      "slug": "jerusalems-final-siege-begins-jan-15",
+      "titleEn": "Jerusalem's Final Siege Begins Jan 15",
+      "titleKa": null
+    },
+    {
+      "slug": "judah-falls-aug-15",
+      "titleEn": "Judah Falls, Aug 15",
+      "titleKa": null
+    },
+    {
+      "slug": "fall-of-jerusalem-july-19",
+      "titleEn": "Fall of Jerusalem July 19",
+      "titleKa": null
+    },
+    {
+      "slug": "nebuchadnezzars-sanity-returns-after-7-yrs-converted",
+      "titleEn": "Nebuchadnezzar's Sanity Returns",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-nebuchadnezzar_8-6-2013 11-02-33 AM.jpg",
-      "caption": ""
+      "file": "GoodSalt-nebuchadnezzar_8-6-2013 11-02-33 AM.jpg",
+      "caption": "Nebuchadnezzar II"
+    },
+    {
+      "file": "_GoodSalt-prcas0407_8-27-2013 4-11-51 PM.jpg",
+      "caption": "Nebuchadnezzar&#39;s conquest"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Millennial Man",
+      "caption": "Many people are concerned about what the future holds. We can find only one source of prophecy that is sure and it is found in the Bible. Many claim to know the future, but only the Scriptures reliably outline the future. Daniel 2 is an example of how we can trust the accuracy of Scripture.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp67.mp4"
+    },
+    {
+      "title": "Pride and Humility",
+      "caption": "This sermon deals with the basic issues of pride and humility. They are two principal motives in the great controversy between Christ and Satan. It begins with the birth of sin. What led to the fall of Lucifer (pride) is what causes us to stumble and sin. Nebuchadnezzar is an example of someone falling into pride.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2727.mp4"
+    },
+    {
+      "title": "Pride Before a Fall",
+      "caption": "Christ teaches that in order for us to have Him living within us we must recognize our needs and humble ourselves.  If we are not humble, we fall.  The Devil is the best example of this.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp98.mp4"
+    },
+    {
+      "title": "No Compromise (Party Poopers)",
+      "caption": "This sermon looks at the story of the three Hebrew friends of Daniel who were thrown into a fiery furnace because they would not bow down and worship the gold image made by Nebuchadnezzar. Just as an ancient government sought to enforce people to worship, so a day will come when, in the name of saving our country, there will be a enforced worship to a specific day.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg6287.mp4"
     }
   ]
 }

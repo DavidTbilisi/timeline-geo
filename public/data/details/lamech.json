@@ -4,18 +4,49 @@
   "period": 1,
   "titleEn": "Lamech",
   "titleKa": null,
-  "datesEn": "3080–2303 BC (777)",
+  "datesEn": "3080&ndash;2303 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;the striker down&#34; or &#34;the wild man.&#34; He was the seventh in descent from Seth, the only named son of Methuselah, and the one who begot Noah. Lamech lived 777 years and died a few years before the flood.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A descendant of Seth and son of Methuselah. When he was 182 years old his son Noah was born. He named the child Noah, meaning &#34;rest,&#34; or &#34;comfort,&#34; perhaps expecting this son to bring rest for him and his contemporaries from the curse under which the human race lived. He died at the age of 777 years (Gen 5:25, 28&#8212;31).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 5:25",
+      "verses": [
+        {
+          "number": 25,
+          "line": "And Methuselah lived an hundred eighty and seven years, and begat Lamech:"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 5:31",
+      "verses": [
+        {
+          "number": 31,
+          "line": "And all the days of Lamech were seven hundred seventy and seven years: and he died."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "methuselah",
+      "titleEn": "Methuselah",
+      "titleKa": null
+    },
+    {
+      "slug": "noah",
+      "titleEn": "Noah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Goodsalt- Lamech_8-5-2013 5-27-05 PM.jpg",
-      "caption": ""
+      "file": "Goodsalt- Lamech_8-5-2013 5-27-05 PM.jpg",
+      "caption": "Lamech"
     }
-  ]
+  ],
+  "videos": []
 }

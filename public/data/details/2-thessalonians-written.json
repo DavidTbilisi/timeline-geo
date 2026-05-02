@@ -4,13 +4,47 @@
   "period": 10,
   "titleEn": "2 Thessalonians Written",
   "titleKa": null,
-  "datesEn": "51–52 AD",
+  "datesEn": "51&ndash;52 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "It is likely that 2 Thessalonians, written by Paul while in Corinth, came to this church not more than a few weeks to a few months after the first letter was written. In this letter he assures the believers that Christ has not yet come.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "This letter cannot have been written much later than the first, because its contents are similar, and the same associates of Paul, Silas and Timothy, are mentioned at the beginning of the letter. This second letter was probably occasioned by the return from Thessalonica of the bearer of the first epistle, from whom Paul learned that his words concerning the imminence of the second advent were being misunderstood and misapplied by certain elements in the church. Therefore Paul gave to this new exposition of his teaching concerning the second coming of Christ a strongly prophetic tone, revealing to his readers that certain great events, especially the reign of Antichrist, would precede Christ&#39;s return. These considerations are the basis for dating the second letter to the Thessalonians not long after the first, either in the last months of A.D. 51 or in the early months of A.D. 52, while Paul was busily engaged in building up the Christian church at Corinth.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Thessalonians 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "95269051_2-28-2013 12-18-23 PM.jpg",
+      "caption": "The second epistle of Paul the apostle to the Thessalonians."
+    },
+    {
+      "file": "157994115_2-28-2013 12-18-23 PM.jpg",
+      "caption": "Ancient Corinth."
+    },
+    {
+      "file": "iStock_000017330944Small_2-28-2013 12-18-23 PM.jpg",
+      "caption": "Thessalonika, the second largest city of Greece. In front the old city wall, in the background the Aegean Sea and Mount Olympus."
+    },
+    {
+      "file": "156361886_2-28-2013 12-18-23 PM.jpg",
+      "caption": "Statue of Paul the Apostle in Vatican."
+    }
+  ],
+  "videos": []
 }

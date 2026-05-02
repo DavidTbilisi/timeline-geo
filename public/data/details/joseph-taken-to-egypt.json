@@ -4,13 +4,135 @@
   "period": 3,
   "titleEn": "Joseph Taken to Egypt",
   "titleKa": null,
-  "datesEn": "1678 BC",
+  "datesEn": "1678 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Joseph goes to check on his brothers who are tending their father&#39;s sheep. They see him coming and plot to kill him. Reuben intercedes and Joseph is cast into a pit and sold as a slave to Midianite traders. Jacob is told wild animals killed Joseph.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jacob was apparently unaware of how keenly his sons hated Joseph, a fact they had been at pains to hide from him. This is evident not only from the fact that he sent Joseph alone to visit them but also from his reaction to their story of this disappearance. He seems never for a moment to have suspected foul play on their part. Jacob&#39;s concern for his sons was probably due not alone to their long absence but also to fear that fellow countrymen of the Shechemites may have either taken revenge for the massacre or hindered them in the pasturing of their flocks.<BR /><BR />When Joseph&#39;s brothers saw him coming, they plotted to kill him. To men who had slain the males of a whole city, the murder of a single individual could hardly seem a grievous sin. Hatred had developed in their hearts to the point that they were ready to kill their own brother in cold blood. They were far from home and its restraining influences. The &#34;pit&#34; into which they intended to cast his body was one of the cisterns common in Palestine. The story they proposed to tell their father would be entirely credible, for Palestine was a wild country during the second millennium b.c., and lions, bears, and other animals roamed at will (see Judges 14:5 1 Sam. 17:34).<BR /><BR />Though Reuben had been far from perfect himself (see ch. 35:22), his heart was not so hard as theirs. As the eldest son, he felt a special responsibility for his younger brother, and determined, if possible, to save him from them. The would&#8212;be murderers were content, for the moment, to follow Reuben&#39;s suggestion. Weak and vacillating though he was (ch. 49:4), Reuben appears to have been the only one of Joseph&#39;s brothers in whom the natural affection of a brother was not completely lost. <BR /><BR />Though he lacked the courage to resist openly their stronger wills, he at least made a timid attempt to save Joseph&#39;s life. Reuben&#39;s plan was commendable as far as it went, but it failed because of his lack of determination and vigilance. Adding insult to injury, they stripped Joseph and threw him into a dry cistern nearby. It seems that cistern were often put to such a use (see Jer. 38:6). The thought that he would die a painful death by starvation apparently satisfied their vindictiveness, and they paid no heed to his piteous appeals (ch. 42:21, 22).<BR /><BR />Judah saw in the appearance of the Ishmaelite caravan a means for permanently disposing of Joseph without taking his life. This would effectively eliminate him from further competition in the contest for the birthright. The brothers reasoned, no doubt, that Joseph had done little to increase the family fortune, and they saw no reason why he should fall heir to the wealth their hands had produced. Judah&#39;s proposal proved to be a most welcome one to all the brothers, who by now, after reflecting upon their original impulse to kill Joseph, found themselves somewhat reluctant to lay their own hands upon him.<BR /><BR />The selling of Joseph was an overt violation of the principle that no man has the right to subject another to involuntary servitude (cf. Lev. 25:39&#8212;43). It demonstrates clearly the extent of moral perversion that had taken place in the hearts of Joseph&#39;s brothers. Those who sold Joseph demonstrated thereby that they had utterly lost all natural affection. Joseph&#39;s sale into slavery is the first recorded example in the Bible of such a transaction.<BR /><BR />Though Reuben was beside himself with grief and perplexity, his ruthless and unrelenting brothers were at no loss for a plan. Apparently, however, they had neither the brazen boldness to carry through their scheme in person nor the courage to witness their father&#39;s first outburst of grief. Hence they arranged for another, probably a slave, who knew nothing more of the matter than what he was told, and so could not reveal their dark secret, to carry the bloody coat to Jacob in Hebron.<BR />Convinced of Joseph&#39;s death by the undeniable evidence presented, Jacob entered upon a period of mourning, according to the custom of ancient times.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 37:12-36",
+      "verses": [
+        {
+          "number": 12,
+          "line": "And his brethren went to feed their father's flock in Shechem."
+        },
+        {
+          "number": 13,
+          "line": "And Israel said unto Joseph, Do not thy brethren feed the flock in Shechem? come, and I will send thee unto them. And he said to him, Here am I."
+        },
+        {
+          "number": 14,
+          "line": "And he said to him, Go, I pray thee, see whether it be well with thy brethren, and well with the flocks; and bring me word again. So he sent him out of the vale of Hebron, and he came to Shechem."
+        },
+        {
+          "number": 15,
+          "line": "And a certain man found him, and, behold, he was wandering in the field: and the man asked him, saying, What seekest thou?"
+        },
+        {
+          "number": 16,
+          "line": "And he said, I seek my brethren: tell me, I pray thee, where they feed their flocks."
+        },
+        {
+          "number": 17,
+          "line": "And the man said, They are departed hence; for I heard them say, Let us go to Dothan. And Joseph went after his brethren, and found them in Dothan."
+        },
+        {
+          "number": 18,
+          "line": "And when they saw him afar off, even before he came near unto them, they conspired against him to slay him."
+        },
+        {
+          "number": 19,
+          "line": "And they said one to another, Behold, this dreamer cometh."
+        },
+        {
+          "number": 20,
+          "line": "Come now therefore, and let us slay him, and cast him into some pit, and we will say, Some evil beast hath devoured him: and we shall see what will become of his dreams."
+        },
+        {
+          "number": 21,
+          "line": "And Reuben heard it, and he delivered him out of their hands; and said, Let us not kill him."
+        },
+        {
+          "number": 22,
+          "line": "And Reuben said unto them, Shed no blood, but cast him into this pit that is in the wilderness, and lay no hand upon him; that he might rid him out of their hands, to deliver him to his father again."
+        },
+        {
+          "number": 23,
+          "line": "And it came to pass, when Joseph was come unto his brethren, that they stript Joseph out of his coat, his coat of many colours that was on him;"
+        },
+        {
+          "number": 24,
+          "line": "And they took him, and cast him into a pit: and the pit was empty, there was no water in it."
+        },
+        {
+          "number": 25,
+          "line": "And they sat down to eat bread: and they lifted up their eyes and looked, and, behold, a company of Ishmeelites came from Gilead with their camels bearing spicery and balm and myrrh, going to carry it down to Egypt."
+        },
+        {
+          "number": 26,
+          "line": "And Judah said unto his brethren, What profit is it if we slay our brother, and conceal his blood?"
+        },
+        {
+          "number": 27,
+          "line": "Come, and let us sell him to the Ishmeelites, and let not our hand be upon him; for he is our brother and our flesh. And his brethren were content."
+        },
+        {
+          "number": 28,
+          "line": "Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty pieces of silver: and they brought Joseph into Egypt."
+        },
+        {
+          "number": 29,
+          "line": "And Reuben returned unto the pit; and, behold, Joseph was not in the pit; and he rent his clothes."
+        },
+        {
+          "number": 30,
+          "line": "And he returned unto his brethren, and said, The child is not; and I, whither shall I go?"
+        },
+        {
+          "number": 31,
+          "line": "And they took Joseph's coat, and killed a kid of the goats, and dipped the coat in the blood;"
+        },
+        {
+          "number": 32,
+          "line": "And they sent the coat of many colours, and they brought it to their father; and said, This have we found: know now whether it be thy son's coat or no."
+        },
+        {
+          "number": 33,
+          "line": "And he knew it, and said, It is my son's coat; an evil beast hath devoured him; Joseph is without doubt rent in pieces."
+        },
+        {
+          "number": 34,
+          "line": "And Jacob rent his clothes, and put sackcloth upon his loins, and mourned for his son many days."
+        },
+        {
+          "number": 35,
+          "line": "And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him."
+        },
+        {
+          "number": 36,
+          "line": "And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh's, and captain of the guard."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "joseph",
+      "titleEn": "Joseph",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas0620_8-13-2013 2-51-37 PM.jpg",
+      "caption": "Joseph being sold by his brothers."
+    },
+    {
+      "file": "Joseph Sold_5-9-2013 11-00-19 AM.jpg",
+      "caption": "Joseph&#39;s Coat Brought to Jacob painting by Giovanni Andrea de Ferrari in 1640. Locatead at the El Paso Museum of Art. "
+    }
+  ],
+  "videos": []
 }

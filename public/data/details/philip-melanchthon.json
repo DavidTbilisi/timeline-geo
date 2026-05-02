@@ -2,15 +2,39 @@
   "slug": "philip-melanchthon",
   "id": 1330,
   "period": 11,
-  "titleEn": "Philipp Melanchthon",
+  "titleEn": "Philipp Melanchthon ",
   "titleKa": null,
-  "datesEn": "1497–1560 AD",
+  "datesEn": "1497&ndash;1560 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "German reformer and close friend of Martin Luther. He is known as the first systematic theologian of the Protestant Reformation.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Philip Melanchthon was born in 1497. He was German and studied at Heidelberg and Tubingen Universities. In 1518 he became a professor of Greek at Wittenberg University. Naturally, he was heavily influenced by Martin Luther and quickly joined the ranks of the Protestant Reformation. Melanchthon became Luther&#39;s closest friend, and the two worked tirelessly throughout the Reformation despite some theological differences.<BR /><BR />Melanchthon wrote the Augsburg Confession, which remains an important document in Lutheran churches. In 1521 he wrote Commonplaces, his primary theological work. This book underwent several revisions, and the final edition (1555) seemed to stray from Martin Luther&#39;s theology too much. Therefore, after the death of Luther in 1546, Melanchthon received numerous attacks from those who felt he denied the heritage of Luther. He died in 1560.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Philip_Melanchthon_by_Hans_Holbein_the_Younger_8-5-2013 9-32-01 AM.jpg",
+      "caption": "Philipp Melanchthon, Hans Holbein the younger, 1535"
+    },
+    {
+      "file": "PhilippMelanchthon_2-26-2013 4-40-32 PM.jpg",
+      "caption": "Portrait of Philip Melanchthon, by Lucas Cranach the Elder."
+    },
+    {
+      "file": "596px-Philipp_Melanchthon_3_8-5-2013 9-32-01 AM.jpg",
+      "caption": "Philipp Melanchthon portrait"
+    },
+    {
+      "file": "Wittenberg_Melachtonhaus_8-5-2013 9-32-01 AM.JPG",
+      "caption": "Melanchthonhaus, Philipp Melanchthon&#39;s house in Wittenberg"
+    }
+  ],
+  "videos": []
 }

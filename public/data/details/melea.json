@@ -4,13 +4,40 @@
   "period": 7,
   "titleEn": "Melea",
   "titleKa": null,
-  "datesEn": "907–827 BC",
+  "datesEn": "907&ndash;827 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;fulness.&#34; He is the son of Menan and an ancestor of Jesus Christ listed in Luke&#39;s genealogy. He does not show up anywhere else in the Bible.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:31",
+      "verses": [
+        {
+          "number": 31,
+          "line": "Which was the son of Melea, which was the son of Menan, which was the son of Mattatha, which was the son of Nathan, which was the son of David,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "menan",
+      "titleEn": "Menan",
+      "titleKa": null
+    },
+    {
+      "slug": "eliakim-son-of-melea",
+      "titleEn": "Eliakim",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "AncestorOfJesusColor.jpg",
+      "caption": "Ancestor of Jesus"
+    }
+  ],
+  "videos": []
 }

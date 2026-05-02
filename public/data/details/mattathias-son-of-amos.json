@@ -4,13 +4,40 @@
   "period": 8,
   "titleEn": "Mattathias",
   "titleKa": null,
-  "datesEn": "205–125 BC",
+  "datesEn": "205&ndash;125 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;gift of God.&#34; He is the son of Amos and father of Joseph (not to be confused with Jesus&#39; father or Jacob&#39;s son), a Judahite listed in Luke&#39;s genealogy of Jesus Christ.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:25",
+      "verses": [
+        {
+          "number": 25,
+          "line": "Which was the son of Mattathias, which was the son of Amos, which was the son of Naum, which was the son of Esli, which was the son of Nagge,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "amos",
+      "titleEn": "Amos",
+      "titleKa": null
+    },
+    {
+      "slug": "joseph-son-of-mattathias",
+      "titleEn": "Joseph",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-mattathias_8-6-2013 3-27-52 PM.jpg",
+      "caption": "Tomb of Mattathias ben Johanan, Israel. Photographed by Ariel Palmon."
+    }
+  ],
+  "videos": []
 }

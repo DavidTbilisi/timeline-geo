@@ -4,18 +4,95 @@
   "period": 3,
   "titleEn": "Famine in the Land",
   "titleKa": null,
-  "datesEn": "1748 BC",
+  "datesEn": "1748 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Because of a famine, Isaac moves to Gerar instead of Egypt and, like his father, lies about his wife. God later blesses Isaac&#39;s farming and he is asked to leave the area. This the first full story of Isaac in Genesis, his first steps of faith.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "When a famine came to the land, the Lord appeared to Isaac. This is the first recorded divine revelation accorded Isaac. Several promises made earlier to Abraham were now repeated to Isaac (see chs. 12:3 15:5 22:17, 18). The obedience of the father is here given as the reason for the blessings that would come upon the son. It is also an implied promise that similar action on Isaac&#39;s part would bring similar results. James explains that Abraham&#39;s faith, for which he was rightly praised by Paul (Rom. 4:1&#8212;5), was perfected by his obedience (James 2:21&#8212;23). Neither trust nor obedience is complete without the other. Whenever God spoke, Abraham always obeyed without delay (Gen. 12:1&#8212;4 22:1&#8212;3).<BR /><BR />While in Gerar, Isaac lies about Rebekah. As Abraham had declared his wife to be his sister (chs. 12:11, 12 20:2, 11), so also did Isaac but the manner in which God protected Rebekah was very different from that in which Sarah was preserved. No one so much as touched her. This experience and one other (ch. 25:28) are the only recorded instances in the life of Isaac of deviation from strict rectitude. Ashamed of his own conduct, Abraham may not have warned Isaac by a narration of his own failures in this respect. More likely, however, Abraham had told Isaac but, as so often happens, Isaac had to learn the lesson for himself through bitter experience. How often the sins of parents are perpetuated in their children! But hereditary weaknesses never free the children from personal accountability for their own mistakes. (see Eze. 18:20).<BR /><BR />God abundantly blessed Isaac while in Gerar. Although the patriarchs lived, generally speaking, a seminomadic life, their habits differed considerably from those of present&#8212;day Bedouins. The latter neither till the land nor own great herds and flocks as the patriarchs did. Although the Gerar valley is exceptionally fertile, a hundredfold increase in the yield of grain is about the maximum for Palestine, where it is normally thirtyfold to fiftyfold (see Matt. 13:23). The special blessing of God rested upon Isaac.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 26:1-16",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar."
+        },
+        {
+          "number": 2,
+          "line": "And the LORD appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:"
+        },
+        {
+          "number": 3,
+          "line": "Sojourn in this land, and I will be with thee, and will bless thee; for unto thee, and unto thy seed, I will give all these countries, and I will perform the oath which I sware unto Abraham thy father;"
+        },
+        {
+          "number": 4,
+          "line": "And I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed;"
+        },
+        {
+          "number": 5,
+          "line": "Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws."
+        },
+        {
+          "number": 6,
+          "line": "And Isaac dwelt in Gerar:"
+        },
+        {
+          "number": 7,
+          "line": "And the men of the place asked him of his wife; and he said, She is my sister: for he feared to say, She is my wife; lest, said he, the men of the place should kill me for Rebekah; because she was fair to look upon."
+        },
+        {
+          "number": 8,
+          "line": "And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac was sporting with Rebekah his wife."
+        },
+        {
+          "number": 9,
+          "line": "And Abimelech called Isaac, and said, Behold, of a surety she is thy wife: and how saidst thou, She is my sister? And Isaac said unto him, Because I said, Lest I die for her."
+        },
+        {
+          "number": 10,
+          "line": "And Abimelech said, What is this thou hast done unto us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us."
+        },
+        {
+          "number": 11,
+          "line": "And Abimelech charged all his people, saying, He that toucheth this man or his wife shall surely be put to death."
+        },
+        {
+          "number": 12,
+          "line": "Then Isaac sowed in that land, and received in the same year an hundredfold: and the LORD blessed him."
+        },
+        {
+          "number": 13,
+          "line": "And the man waxed great, and went forward, and grew until he became very great:"
+        },
+        {
+          "number": 14,
+          "line": "For he had possession of flocks, and possession of herds, and great store of servants: and the Philistines envied him."
+        },
+        {
+          "number": 15,
+          "line": "For all the wells which his father's servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth."
+        },
+        {
+          "number": 16,
+          "line": "And Abimelech said unto Isaac, Go from us; for thou art much mightier than we."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "isaac",
+      "titleEn": "Isaac",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-stdas0759_8-5-2013 4-42-14 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-stdas0759_8-5-2013 4-42-14 PM.jpg",
+      "caption": "Famine in the land..."
     }
-  ]
+  ],
+  "videos": []
 }

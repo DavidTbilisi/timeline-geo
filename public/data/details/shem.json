@@ -4,18 +4,53 @@
   "period": 2,
   "titleEn": "Shem",
   "titleKa": null,
-  "datesEn": "2396–1796 BC (600)",
+  "datesEn": "2396&ndash;1796 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;name&#34; or &#34;renown.&#34; He is the son of Noah (probably 2nd). He and his wife were saved in the ark. He was blessed and lived 600 years and was a contemporary of Abraham. The Israelite nation came from him.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A son of Noah, possibly oldest, but apparently the 2d oldest, for Ham was the youngest (Gen 10:1 cf. ch 9:24), and Japheth seems to have been 2 years older, having been born apparently when Noah had reached the age of 500 years (ch 7:6 cf. ch 5:32), whereas Shem was born 98 years before the Flood, when his father was 502 years old (ch 11:10 cf. ch 7:6). <BR /><BR />Consequently the rendering &#34;Japheth the elder&#34; in ch 10:21, KJV, seems to be better than that of the RSV, which declares Shem to be the elder brother of Japheth. Shem, his wife, his parents, and his 2 brothers and their wives went into the ark and were saved from the Flood (ch 7:7). In the post&#8212;Flood period Shem is mentioned with his brother Japheth as endeavoring to protect their drunken father&#39;s honor following a shameful act by Ham. <BR /><BR />For this Shem received a special blessing (ch 9:20&#8212;27). Shem became the progenitor of the Semitic race to which the Babylonians, Assyrians, Aramaeans, Arabs, and Hebrews belonged (ch 10:21&#8212;32). Some scholars believe that the Sumerians were also descendants of Shem (S. N. Kramer, Analecta Biblica, 12 [1959], 202&#8212;204). The Hebrews were the descendants of Shem&#39;s son Arpachshad or Arphaxad, who was born 2 years after the Flood (ch 11:10&#8212;26). Shem died at the age of 600 years (vs 10, 11). He is mentioned in the genealogy of Christ (Lk 3:36).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 5:32",
+      "verses": [
+        {
+          "number": 32,
+          "line": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 11:10-11",
+      "verses": [
+        {
+          "number": 10,
+          "line": "These are the generations of Shem: Shem was an hundred years old, and begat Arphaxad two years after the flood:"
+        },
+        {
+          "number": 11,
+          "line": "And Shem lived after he begat Arphaxad five hundred years, and begat sons and daughters."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "noah",
+      "titleEn": "Noah",
+      "titleKa": null
+    },
+    {
+      "slug": "arphaxad",
+      "titleEn": "Arphaxad",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Noah Sacrifice_5-20-2013 5-43-25 PM.jpg",
-      "caption": ""
+      "file": "Noah Sacrifice_5-20-2013 5-43-25 PM.jpg",
+      "caption": "Noah, his wife, and his three sons: Shem, Ham and Japheth at the altar making a sacrifice to the Lord."
     }
-  ]
+  ],
+  "videos": []
 }

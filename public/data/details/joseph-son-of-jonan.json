@@ -4,13 +4,40 @@
   "period": 7,
   "titleEn": "Joseph",
   "titleKa": null,
-  "datesEn": "847–767 BC",
+  "datesEn": "847&ndash;767 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;may he add.&#34; He is the son of Jonan listed in Luke&#39;s genealogy of Jesus Christ. Note: there are many different Josephs in the Bible.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:30",
+      "verses": [
+        {
+          "number": 30,
+          "line": "Which was the son of Simeon, which was the son of Juda, which was the son of Joseph, which was the son of Jonan, which was the son of Eliakim,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jonan-or-jonam",
+      "titleEn": "Jonan (or Jonam)",
+      "titleKa": null
+    },
+    {
+      "slug": "juda",
+      "titleEn": "Juda",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "AncestorOfJesusColor.jpg",
+      "caption": "Ancestor of Jesus"
+    }
+  ],
+  "videos": []
 }

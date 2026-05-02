@@ -4,13 +4,43 @@
   "period": 7,
   "titleEn": "Elisha Feeds 100 Men",
   "titleKa": null,
-  "datesEn": "847 BC",
+  "datesEn": "847 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A gift of bread is brought to Elisha who instructs his servant to feed 100 men. The servant balks, so Elisha repeats the instruction and the men are fed, with leftovers. The story reflects Jesus&#39; feeding of a multitude with bread in Matt. 14:14&#8212;21.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "According to the law of Moses, all first fruits of the harvest were to be offered to God, and were to be given to the priests (Num. 18:12, 13 Deut. 18:4). In this instance a certain faithful worshipper of Jehovah brought his first fruits to Elisha, &#34;the man of God.&#34; The Levitical priests had long before this withdrawn from the northern kingdom (2 Chron. 11:13, 14), and some of the pious in Israel probably recognized in the prophets the representatives of Jehovah to whom they might bring the offerings required by the law to be given to the priests. <BR /><BR />Elisha instructed that this food be given to the people. It was a time of need, even with the prophet and those with him. The people were hungry and in need of food. Elisha could have thought of himself and of his own interests, but instead he thought of those of the people. So Jesus, when with His disciples in a desert place, &#34;saw a great multitude, and was moved with compassion toward them&#34; (Matt. 14:14). When evening came, the disciples wished to send them away, that they might find food for themselves, but the words of Jesus were, &#34;They need not depart give ye them to eat&#34; (Matt. 14:16). God still speaks to His children today as they took God still speaks to His Children today as they look upon the weary and needy multitudes of earth, &#34;Give the people, that they may eat.&#34;<BR /><BR />The servant looked upon the first fruits with the eyes of man, but Elisha looked upon that same gift of food with the eyes of faith and of God. To the servitor the command of the prophet seemed almost foolish and impossible of accomplishment. What would 20 small barley cakes and a bit of grain do to satisfy the hunger of 100 men? Elisha spoke by inspiration. A prophet speaking in the name of the Lord always speaks the words of God. There is infinite power with God. His resources can supply the needs of all. The touch of His hand can cause the most meager supply to increase. It was the power of God that caused those few loaves to increase till all present had had enough to satisfy their needs. The unknown farmer brought his gift of first fruits to Elisha as an offering to God. The Lord accepted that gift and placed His blessing upon it.<BR /><BR />Heaven is closer to earth than many believe. God is always interested in His needy children of earth, and He stands ready at all times to supply their wants. There is no land or people on earth where the power of God is not constantly in operation supplying the wants of those in need. Every producing garden and field bears witness to the miracle&#8212;working power of God and His boundless love. God is always at work, looking after the interests of the frail children of earth. The manifestations of His love and power may not be seen today in so marked a manner as they were in the days of Elisha, but if our eyes only could be opened, we would recognize much more clearly and much more often than we do that God still is present and that He still is dealing in love and mercy with the needy children of earth. God&#39;s faithful children may still bring their gifts to the Lord, and with His power and blessing, their meager supplies may be multiplied manyfold to supply the temporal and spiritual needs of the multitudes of earth. What the world needs today is much more of the faith and spiritual insight, the courage and compassion, the strength and spirit, of the prophet Elisha.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 4:42-44",
+      "verses": [
+        {
+          "number": 42,
+          "line": "And there came a man from Baalshalisha, and brought the man of God bread of the firstfruits, twenty loaves of barley, and full ears of corn in the husk thereof. And he said, Give unto the people, that they may eat."
+        },
+        {
+          "number": 43,
+          "line": "And his servitor said, What, should I set this before an hundred men? He said again, Give the people, that they may eat: for thus saith the LORD, They shall eat, and shall leave thereof."
+        },
+        {
+          "number": 44,
+          "line": "So he set it before them, and they did eat, and left thereof, according to the word of the LORD."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "elisha",
+      "titleEn": "Elisha",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "427px-Tintoretto_Jacopo_-_Elisha_Multiplies_the_Bread_-_1577-78_8-27-2013 11-53-26 AM.jpg",
+      "caption": "Elijah feeding 100 men, Tintoretto, c. 1577-78"
+    }
+  ],
+  "videos": []
 }

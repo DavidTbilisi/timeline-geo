@@ -4,18 +4,47 @@
   "period": 7,
   "titleEn": "Jehoash",
   "titleKa": null,
-  "datesEn": "825–782 BC (~43)",
+  "datesEn": "825&ndash;782 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The 13th king of the northern kingdom of Israel (if Tibni is included in the count). Jehoash, frequently called Joash succeeded his father Jehoahaz as the third king of the dynasty of Jehu, and ruled 16 years.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jehoash means &#34;Yahweh has given&#34;. The 13th king of the northern kingdom of Israel (if Tibni is included in the count). Jehoash, frequently called Joash succeeded his father Jehoahaz as the third king of the dynasty of Jehu, and ruled 16 years. He retained the national worship of Jeroboam&#39;s calves, but was an admirer of Elisha, from whom he received the promise that would defeat the Arameans. He defeated Ben&#8212;hadad III three times and recovered the Israelite territories in Transjordan which his father had lost to Hazael. Later in his reign he was challenged to war by the king of Judah whom he defeated. He looted Jerusalem and tore down 400 cubits of the city&#39;s wall before retreating.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 13:10-13",
+      "verses": [
+        {
+          "number": 10,
+          "line": "In the thirty and seventh year of Joash king of Judah began Jehoash the son of Jehoahaz to reign over Israel in Samaria, and reigned sixteen years."
+        },
+        {
+          "number": 11,
+          "line": "And he did that which was evil in the sight of the LORD; he departed not from all the sins of Jeroboam the son of Nebat, who made Israel sin: but he walked therein."
+        },
+        {
+          "number": 12,
+          "line": "And the rest of the acts of Joash, and all that he did, and his might wherewith he fought against Amaziah king of Judah, are they not written in the book of the chronicles of the kings of Israel?"
+        },
+        {
+          "number": 13,
+          "line": "And Joash slept with his fathers; and Jeroboam sat upon his throne: and Joash was buried in Samaria with the kings of Israel."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jehoahaz",
+      "titleEn": "Jehoahaz",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Golden Calf_4-3-2013 5-18-17 PM.jpg",
-      "caption": ""
+      "file": "Golden Calf_4-3-2013 5-18-17 PM.jpg",
+      "caption": "Jehoash retained the national worship of Jeroboam&#39;s calves, but was an admirer of Elisha, from whom he received the promise that would defeat the Arameans."
     }
-  ]
+  ],
+  "videos": []
 }

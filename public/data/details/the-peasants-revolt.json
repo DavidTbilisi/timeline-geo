@@ -2,15 +2,27 @@
   "slug": "the-peasants-revolt",
   "id": 1349,
   "period": 12,
-  "titleEn": "The Peasant's Revolt",
+  "titleEn": "The Peasant's Revolt ",
   "titleKa": null,
-  "datesEn": "1524–1525 AD",
+  "datesEn": "1524&ndash;1525 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A 16th century series of revolts in Germany due to economic and religious issues. Embraced principles from the Protestant Reformation.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In 1524 and 1525, German and Austrian peasants participated in the Peasants&#39; Revolt. The rebellion began in the Black Forest area in the summer of 1524. By the next spring, it had penetrated practically every region of Germany. In March 1525, some of the peasant leaders wrote up their beliefs/goals in Twelve Articles. Most of these articles spoke out against economic and social abuses. As a way to justify their grievances, they used the theology of Martin Luther. Although Luther was somewhat sympathetic to the peasants&#39; concerns, he was against violence and tried to convince them to settle the problem peaceably. However, since the peasant&#39;s would not heed his advice and continued to resort to violence, Luther lashed out strongly against the revolutionaries in May 1525. Around this same time (May 15), the Protestant and Catholic army defeated the peasants at the Battle of Frankenhausen. This did not end the killing. In order to set a precedent, many of the surviving peasants were brutally murdered to ensure that the revolutionaries would never rise again.<BR /><BR />As a result of the Peasants&#39; Revolt, the Protestant Reformation was drastically inhibited. In the case of Luther, he lost confidence that the authority of Scripture alone could rule the people. In a letter written to George Spalatin in January 1527, Luther lamented, &#34;Up to now I have been cherishing the vain hope that men can be directed by the gospel. But the fact is that they destroy the gospel and wish to be constrained by law and sword.&#34; As a result, Luther&#39;s concept of the church remained strikingly similar to the Roman Catholic model, with the pastor essentially fulfilling the same role as the Catholic priest.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "BlackForest Small_2-26-2013 3-30-56 PM.jpg",
+      "caption": "The village of Schiltach in Black Forest, Germany. The starting location of the Peasant&#39;s Revolt."
+    }
+  ],
+  "videos": []
 }

@@ -4,18 +4,119 @@
   "period": 7,
   "titleEn": "Elisha",
   "titleKa": null,
-  "datesEn": "885–798 BC (~87)",
+  "datesEn": "885&ndash;798 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;God is salvation.&#34; He is the son of Shabat and successor to Elijah. He asks for a double&#8212;portion of the Spirit, and works as a pastor&#8212;prophet in north Israel about 50 years, marked by many miracles. He establishes school of the prophets.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Elisha, name means &#34;God is salvation.&#34; Son of Shaphat, of Abel&#8212;meholah the prophet who succeeded Elijah as God&#39;s special envoy to the northern kingdom of Israel. His ministry as pastor&#8212;prophet spanned the reigns of Jehoram (Joram), Jehu, Jehoahaz, and Jehoash of the northern kingdom, and thus lasted from at least 852 b.c. to about 798 b.c. a period of more than half a century. On the national scene he completed the eradication of Baal worship begun by Elijah, counseled the king of Israel on national policy, and took an intense personal interest in the problems and needs of the individuals with whom his ministry brought him into contact. <BR /><BR />He supervised the so&#8212;named &#34;schools of the prophets&#34; founded 2 centuries. earlier by Samuel, and thus made what was perhaps his greatest single contribution to the spiritual life of the nation. In the presence of need he was ever solicitous and largehearted in the presence of a limited understanding of the divine will he was tolerant and patient in the presence of danger he manifested firm, unflinching courage in the presence of evil he was stern and severe without being vindictive. Whereas Elijah tended to be ascetic in dress and diet, in place of abode, and in his limited contacts with people&#8212;at least insofar as the record goes&#8212;Elisha lived close to the people he served, and loved social life. <BR /><BR />Unlike the life of Elijah, who appeared on the stage of sacred history for a few striking events, Elisha&#39;s life is recorded as a steady ministry during which he constantly ministered to the needs of his fellow men as individuals, as well as to the spiritual life of the nation as a whole. Although for a time there seems to have been an encouraging response on the part of the nation to his leadership as a prophet, the reforms he set in motion were short&#8212;lived and did not prevent the complete dissolution of the northern kingdom some 75 years after his death.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Kings 19:16",
+      "verses": [
+        {
+          "number": 16,
+          "line": "And Jehu the son of Nimshi shalt thou anoint to be king over Israel: and Elisha the son of Shaphat of Abelmeholah shalt thou anoint to be prophet in thy room."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 13:20",
+      "verses": [
+        {
+          "number": 20,
+          "line": "And Elisha died, and they buried him. And the bands of the Moabites invaded the land at the coming in of the year."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "gehazi",
+      "titleEn": "Gehazi",
+      "titleKa": null
+    },
+    {
+      "slug": "elisha-mocked-by-youth-at-bethel",
+      "titleEn": "Elisha Mocked by Youth at Bethel",
+      "titleKa": null
+    },
+    {
+      "slug": "elisha-and-the-widows-oil",
+      "titleEn": "Elisha and the Widow's Oil",
+      "titleKa": null
+    },
+    {
+      "slug": "elisha-purifies-the-pot-of-stew",
+      "titleEn": "Elisha Purifies the Pot of Stew",
+      "titleKa": null
+    },
+    {
+      "slug": "elisha-promises-shunammite-woman-a-son",
+      "titleEn": "Elisha Promises Shunammite Woman a Son",
+      "titleKa": null
+    },
+    {
+      "slug": "elisha-feeds-100-men",
+      "titleEn": "Elisha Feeds 100 Men",
+      "titleKa": null
+    },
+    {
+      "slug": "elisha-and-miracle-of-the-floating-ax-head",
+      "titleEn": "Elisha and Miracle of the Floating Ax Head",
+      "titleKa": null
+    },
+    {
+      "slug": "elisha-thwarts-syrian-ambushes",
+      "titleEn": "Elisha Thwarts Syrian Ambushes",
+      "titleKa": null
+    },
+    {
+      "slug": "benhadad-ii-siege-of-samaria-and-deliverance",
+      "titleEn": "Benhadad II Siege of Samaria and Deliverance",
+      "titleKa": null
+    },
+    {
+      "slug": "elisha-warns-shunammite-woman-of-7-year-famine",
+      "titleEn": "Elisha Warns Shunammite Woman of 7 Year Famine",
+      "titleKa": null
+    },
+    {
+      "slug": "shunammite-womans-land-restored",
+      "titleEn": "Shunammite Woman's Land Restored",
+      "titleKa": null
+    },
+    {
+      "slug": "naaman-healed-gehazi-leprous",
+      "titleEn": "Naaman Healed, Gehazi Leprous",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/ElishaRaisingShunammitesSon.jpg",
-      "caption": ""
+      "file": "ElishaRaisingShunammitesSon.jpg",
+      "caption": "Elisha raising the Shunammites Son by unknown publisher of Bible Card before 1923"
+    },
+    {
+      "file": "GoodSalt-ElishaAndArmy_8-5-2013 4-18-39 PM.jpg",
+      "caption": "Elisha and the army sent from God."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Double Portion",
+      "caption": "What does &#34;In the spirit and power of Elijah&#34; mean?",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp63.mp4"
+    },
+    {
+      "title": "A Jar of Oil, Pt.1",
+      "caption": "Part 1 - A woman who was the wife of one of the sons of the prophets was a widow and her sons were going to be taken by creditors. She cries out to Elisha who instructs her to gather many empty vessels. The miracle of this story teaches us a spiritual lesson about Jesus our Savior.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp84.mp4"
+    },
+    {
+      "title": "A Jar of Oil, Pt.2",
+      "caption": "Part 2 - A woman who was the wife of one of the sons of the prophets was a widow and her sons were going to be taken by creditors. She cries out to Elisha who instructs her to gather many empty vessels. The miracle of this story teaches us a spiritual lesson about Jesus our Savior.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp85.mp4"
     }
   ]
 }

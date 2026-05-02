@@ -4,13 +4,37 @@
   "period": 12,
   "titleEn": "John Bunyan",
   "titleKa": null,
-  "datesEn": "1628–1688 AD",
+  "datesEn": "1628&ndash;1688 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "An English Bible teacher imprisoned for preaching without a license. Author of Grace Abounding to the Chief of Sinner and Pilgrim&#39;s Progress.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "John Bunyan was born to a poor English family on November 28, 1628. Between 1644 and 1647, during the English Civil War, Bunyan served in the Parliamentary army. In 1649, he married. As a result of his wife&#39;s influence, Bunyan began seeking God. In 1653 he became a member of the St. John&#39;s Church in Bedford. With time, he began to preach. Although uneducated, Bunyan gained supporters, such as John Owen, an administrator at Oxford University who admired Bunyan&#39;s knowledge of the English Bible.<BR /><BR />In 1660 Charles II returned to power and Anglican laws were reestablished. That same year, Bunyan was thrown into prison for preaching without a license. He remained in prison until 1672 because he refused to quit preaching. In 1677 he returned to prison for a brief period for the same crime.<BR /><BR />While Bunyan was in prison, his time was put to good use. He wrote two of his most popular books, Grace Abounding to the Chief of Sinners, an autobiography, and Pilgrim&#39;s Progress, the famous allegorical tale of Christian on a journey to the Celestial City.<BR /><BR />The first part of Pilgrim&#39;s Progress (the story of Christian) was published in 1678, and the second part (the story of Christiana) was published in 1684. It wasn&#39;t until 1728, after Bunyan&#39;s death in 1688, that the two stories were combined into a single bound volume. This masterful work by Bunyan has never been out of print and has been translated into more than 100 languages.<BR /><BR />John Bunyan other books include The Life and Death of Mr. Badman (1680), The Holy War (1682), and The Work of Jesus Christ as an Advocate (1688).<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "John_Bunyan_2-26-2013 11-24-34 AM.jpg",
+      "caption": "Drawing of John Bunyan (1628-1688)"
+    },
+    {
+      "file": "Birth_place_of_Bunyan_2-26-2013 11-24-34 AM.jpg",
+      "caption": "The birth place of John Bunyan. Steel engraved print with hand color, published in The Youth&#39;s Magazine, 1848. Harrowden, Bedfordshire"
+    },
+    {
+      "file": "bunyan-prison_8-7-2013 9-48-49 AM.jpg",
+      "caption": "John Bunyan in prison, The Baptist encyclopaedia, 1881"
+    },
+    {
+      "file": "Christians-burden_8-7-2013 5-49-23 PM.jpg",
+      "caption": "Christian&#39;s Burden from the book Pilgrim&#39;s Progress, Rachael Robinson Elmer"
+    }
+  ],
+  "videos": []
 }

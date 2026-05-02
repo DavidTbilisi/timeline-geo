@@ -2,15 +2,35 @@
   "slug": "diet-of-augsburg",
   "id": 1354,
   "period": 12,
-  "titleEn": "Diet of Augsburg",
+  "titleEn": "Diet of Augsburg ",
   "titleKa": null,
-  "datesEn": "1530 AD",
+  "datesEn": "1530 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A meeting in 1530 in Augsburg, Germany, that attempted to deal with the tensions resulting from Protestant Reformation.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Emperor Charles V called the Diet (a legislative assembly) of Augsburg in 1530. It was his desire to settle the issues over the Lord&#39;s Supper, which the Marburg Colloquy had failed to do the previous year. Although the issues regarding the real presence of Christ in the Lord&#39;s Supper were still not solved, perhaps the greatest achievement of the Diet of Augsburg was the Augsburg Confession, which ironically caused more division. The Augsburg Confession was written by Philip Melanchthon and was approved by Martin Luther.<BR /><BR />The Augsburg Confession is written in two parts. The first section contains the Lutheran&#39;s primary articles of faith. The second section deals with specific issues, like the Lord&#39;s Supper, the denial of clerical celibacy, and the repudiation of monastic vows. Although the Augsburg Confession is now considered a Lutheran document, Philip Melanchthon continually stressed that those who signed the document were not intending to separate from the Catholic faith. Furthermore, it claimed that it was not creating new doctrines or theologies. In actuality it was very passive. It avoided heavily debated topics such as transubstantiation (that the elements of the Lord&#39;s supper change literally into the body and blood of Christ), purgatory, veneration of the saints, or even the priesthood of all believers. However, one doctrine that was stressed was the Lutheran understanding of justification by faith. Finally, in regards to church unity, the Augsburg Confession stressed the importance of the word (or Gospel rightly preached) and the Sacraments (rightly administered).<BR /><BR />In spite of the Augsburg Confession&#39;s supposedly neutral position, by signing the document German princes took a valiant stand against Emperor Charles V (who was trying to reunite his territories with Catholicism). However, the emperor did not accept their insubordination and gave a deadline for them to recant. Civil war was highly probable (between Catholics and Protestants) but the emperor became distracted by foreign affairs. Terms of peace between Catholics and Protestants were eventually drawn up at Nuremberg in 1532 and war was avoided for the time being.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "iStock_000017218179Medium_2-26-2013 3-09-48 PM.jpg",
+      "caption": "Closeup of the Statue of Charles V, located in the Puerta del Sol, Madrid, Spain."
+    },
+    {
+      "file": "PhilippMelanchthon_2-26-2013 3-09-48 PM.jpg",
+      "caption": "Portrait of Philipp Melanchthon by Lucas Cranach the Elder."
+    },
+    {
+      "file": "92831905_2-26-2013 3-09-48 PM.jpg",
+      "caption": "Portrait of Martin Luther by Lucas Cranach the Elder."
+    }
+  ],
+  "videos": []
 }

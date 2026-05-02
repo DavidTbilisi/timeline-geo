@@ -4,13 +4,41 @@
   "period": 2,
   "titleEn": "Nimrod Founded Babylon",
   "titleKa": null,
-  "datesEn": "2200 BC",
+  "datesEn": "2200 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Nimrod founded the kingdom of Babel (Gen. 10). Elsewhere in Scripture it is called Babylon. It means &#34;confusion,&#34; though Babylonians refer to this city as Babilu, &#34;gate of god.&#34; Probable seat of Nimrod&#39;s power and location of the tower of Babel.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "<b>The beginning of his kingdom.</b> This may mean either his first kingdom or the beginning of his sovereignty. Nimrod appears in the register of nations as the author of imperialism. Under him society passed from the patriarchal form to the monarchical. He is the first man mentioned in the Bible as the head of a kingdom.<BR /><BR /><b>Babel.</b> Nimrod&#39;s first kingdom was Babylon. Having the idea that their city was the earthly reflection of the heavenly dwelling place of their god, the Babylonians gave it the name Bab&#8212;ilu, &#34;the gate of god&#34; (see on ch. 11:9). Babylonian legends equate the founding of the city with the creation of the world. No doubt with this in mind Sargon, an early Semitic king of Mesopotamia, took sacred soil from Babylon for the founding of another city modeled after it. <BR /><BR />Even in the later period of Assyrian supremacy Babylon did not lose its significance as the center of Mesopotamian culture. Its greatest fame and glory, however, came in the time of Nebuchadnezzar, who made of it the world&#39;s first metropolis. After its destruction by the Persian king Xerxes, Babylon lay partly in ruins (see on Isa. 13:19).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 10:10",
+      "verses": [
+        {
+          "number": 10,
+          "line": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "cush",
+      "titleEn": "Cush",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "800px-Ruins_of_Babylon_001_8-5-2013 2-28-44 PM.jpg",
+      "caption": "Ruins of Babylon, G. Eric and Edith Matson Photograph Collection"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Iraq and Babylon in Prophecy",
+      "caption": "Many Bible prophecies about the Middle East, including Babylon, sound like they are literally being fulfilled today. But do these prophecies point to specific dictators today? What does the land of Babylon have to do with us? The tower of Babel represents man&#39;s effort to live without God. The Lord calls His people out of spiritual Babylon.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2315.mp4"
+    }
+  ]
 }

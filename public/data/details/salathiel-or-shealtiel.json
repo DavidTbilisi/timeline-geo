@@ -4,13 +4,35 @@
   "period": 8,
   "titleEn": "Salathiel (or Shealtiel)",
   "titleKa": null,
-  "datesEn": "600–519 BC",
+  "datesEn": "600&ndash;519 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;I have asked God.&#34; He is listed in Matthew&#39;s genealogy as the son of Jeconiah (Jehoiachin) of Judah, but as the son of Neri in Luke&#39;s genealogy. Perhaps one of Jeconiah&#39;s descendents died childless and Neri married the widow.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Shealtiel, name means &#34;I have asked God.&#34; Son of Jeconiah (Jehoiachin) of Judah (Mt 1:12), and father of Zerubbabel (Ezr 3:2, 8 5:2 Neh 12:1 Hag 1:1, 12, 14 2:2, 23). But Lk 3:27 says that Shealtiel was the son of Neri, of the line of David through Nathan. This apparent discrepancy has been explained by assuming that one of Jeconiah&#39;s descendants, perhaps a son, died childless, and that Neri married the widow and Shealtiel was born to this union. Neri would thus be the blood father (Lk), but Jeconiah a legal ancestor (Mt).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:27",
+      "verses": [
+        {
+          "number": 27,
+          "line": "Which was the son of Joanna, which was the son of Rhesa, which was the son of Zorobabel, which was the son of Salathiel, which was the son of Neri,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "neri",
+      "titleEn": "Neri",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-Salathiel_8-6-2013 11-34-28 AM.jpg",
+      "caption": "Which was the son of Joanna, which was the son of Rhesa, which was the son of Zorobabel, which was the son of <b>Salathiel</b>, which was the son of Neri, (Luke 3:27)"
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,62 @@
   "period": 7,
   "titleEn": "Amon",
   "titleKa": null,
-  "datesEn": "665–641 BC",
+  "datesEn": "665&ndash;641 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;builder&#34; or &#34;faithful.&#34; Son of Manasseh, 15th king of Judah, who follows his father&#39;s evil ways. He dies in a revolution in his own palace. He appears in Matthew&#39;s genealogy of Jesus Christ.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Amon, name means &#34;faithful,&#34; but when representing the Egyptian deity it is a transliteration of the Egyptian &#39;Imn, which means &#34;the hidden one.&#34; The 15th king of Judah, the southern kingdom, who reigned 2 years (c. 642&#8212;640 b.c.). He was the son of Manasseh and followed his father&#39;s evil example. His life ended in a palace revolution (2 Ki 21:19&#8212;26 2 Chr 33:21&#8212;25). His name (RSV, following the Greek New Testamentspelling, has &#34;Amos&#34;) appears in Matthew&#39;s genealogy of Jesus (ch 1:10).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 21:19-20",
+      "verses": [
+        {
+          "number": 19,
+          "line": "Amon was twenty and two years old when he began to reign, and he reigned two years in Jerusalem. And his mother's name was Meshullemeth, the daughter of Haruz of Jotbah."
+        },
+        {
+          "number": 20,
+          "line": "And he did that which was evil in the sight of the LORD, as his father Manasseh did."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 21:23",
+      "verses": [
+        {
+          "number": 23,
+          "line": "And the servants of Amon conspired against him, and slew the king in his own house."
+        }
+      ]
+    },
+    {
+      "reference": "Matthew 1:10",
+      "verses": [
+        {
+          "number": 10,
+          "line": "And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "manasseh-king-of-judah",
+      "titleEn": "Manasseh",
+      "titleKa": null
+    },
+    {
+      "slug": "josiah",
+      "titleEn": "Josiah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-wjpas01672_8-21-2013 2-48-17 PM.jpg",
+      "caption": "Ancestor of Jesus"
+    }
+  ],
+  "videos": []
 }

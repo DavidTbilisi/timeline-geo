@@ -4,13 +4,39 @@
   "period": 3,
   "titleEn": "Issachar",
   "titleKa": null,
-  "datesEn": "1697–1594 BC",
+  "datesEn": "1697&ndash;1594 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;hired&#34; or &#34;wages.&#34; He is Jacob&#39;s ninth son, through Leah (her fifth son). Issachar has four sons born to him before he goes to Egypt with his father&#39;s family. Jacob&#39;s blessing on him depicts a donkey weighed down by a foreign yoke.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The 9th son of Jacob, and the 5th of Leah (Gen 29:32 to 30:18 35:23). Issachar had 4 sons born to him before he went to Egypt with his father&#39;s family (Gen 46:13 Ex 1:1, 3 1 Chr 7:1). When Jacob pronounced blessings upon his own sons shortly before his death, he prophetically likened Issachar and his children to a strong ass crouching down and submitting to foreign yokes as long as he was permitted to remain in his pleasant land (Gen 49:14, 15).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 30:17-18",
+      "verses": [
+        {
+          "number": 17,
+          "line": "And God hearkened unto Leah, and she conceived, and bare Jacob the fifth son."
+        },
+        {
+          "number": 18,
+          "line": "And Leah said, God hath given me my hire, because I have given my maiden to my husband: and she called his name Issachar."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Tribe_of_Issachar_Symbol_001_8-6-2013 8-56-32 AM.jpg",
+      "caption": "Symbol for the tribe of Issachar"
+    }
+  ],
+  "videos": []
 }

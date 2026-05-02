@@ -4,13 +4,85 @@
   "period": 9,
   "titleEn": "Zacchaeus",
   "titleKa": null,
-  "datesEn": "31 AD",
+  "datesEn": "31 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "While Jesus passes through Jericho on the way to Jerusalem, Zacchaeus, a tax collector, wants to see Him. His short stature makes it difficult to see above the crowds. So he climbs a tree. Christ notices him and visits him at his home.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Zacchaeus, name means &#34;blameless.&#34; He was a Jewish tax collector at Jericho, who, when Jesus passed through the city, made special efforts to see Him. Jesus recognized in him an honest soul, stayed with him in his home, and converted him (Lk 19:1&#8212;10).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 19:1-10",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Jesus entered and passed through Jericho."
+        },
+        {
+          "number": 2,
+          "line": "And, behold, there was a man named Zacchaeus, which was the chief among the publicans, and he was rich."
+        },
+        {
+          "number": 3,
+          "line": "And he sought to see Jesus who he was; and could not for the press, because he was little of stature."
+        },
+        {
+          "number": 4,
+          "line": "And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that way."
+        },
+        {
+          "number": 5,
+          "line": "And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for to day I must abide at thy house."
+        },
+        {
+          "number": 6,
+          "line": "And he made haste, and came down, and received him joyfully."
+        },
+        {
+          "number": 7,
+          "line": "And when they saw it, they all murmured, saying, That he was gone to be guest with a man that is a sinner."
+        },
+        {
+          "number": 8,
+          "line": "And Zacchaeus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold."
+        },
+        {
+          "number": 9,
+          "line": "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham."
+        },
+        {
+          "number": 10,
+          "line": "For the Son of man is come to seek and to save that which was lost."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "christs-ministry-in-judea-and-peraea",
+      "titleEn": "Christ's Ministry in Judea and Peraea",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas0188_8-28-2013 4-00-51 PM.jpg",
+      "caption": "Jesus eating with Zacchaeus"
+    },
+    {
+      "file": "Zacchaeus _3-7-2013 11-23-22 AM.jpg",
+      "caption": "Zacchaeus by Niels Larsen Stevns."
+    },
+    {
+      "file": "Sycamore-fig tree, Jericho, tb052205965 copy_3-7-2013 11-23-22 AM.jpg",
+      "caption": "Zacchaeus Sycamore-fig tree in Jericho believed to be the tree Zacchaeus climbed in order to see Jesus."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Zaccheaus",
+      "caption": "This sermon covers the story of Zaccheaus in Luke 19. This much hated man who was rich at the people&#39;s expense was empty. Though blocked by people, he climbed a tree to see Christ. We need to climb the tree of Calvary and behold Christ.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2217.mp4"
+    }
+  ]
 }

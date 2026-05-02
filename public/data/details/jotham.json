@@ -4,13 +4,58 @@
   "period": 7,
   "titleEn": "Jotham",
   "titleKa": null,
-  "datesEn": "773–732 BC",
+  "datesEn": "773&ndash;732 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh is perfect.&#34; He is son of Uzziah and the 11th king of Judah who reigns for 20 years probably as coregent with his father part of the time. He is described as mostly a good king and is in Matthew&#39;s genealogy.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jotham, name means &#34;Yahweh is perfect.&#34; The 11th ruler of the kingdom of Judah, who reigned for 20 years (c. 705&#8212;c. 731 b.c.). In 2 Ki 15:33 and 2 Chr 27:1, 16 regnal years are attributed and to him. However, in 2 Ki 15:30 the murder of Pekah is put in his 20th year. This apparent discrepancy can be explained by assuming that he abdicated in favor of his son Ahaz after a reign of 16 years, but lived for at least another 4 years, and that the scribes continued to date events according to his reign. He had a coregency with his father Uzziah as well, taking the throne when his father became a leper (2 Ki 15:5 2 Chr 26:21). <BR /><BR />He is described as a good king like his father, although he allowed the people to worship on the high places, as had been done for centuries (2 Ki 15:34, 35 2 Chr 27:2). He built the high gate of the Temple, repaired the wall at Ophel, south of the Temple, founded cities in the mountainous parts of his country, and erected castles and towers in the forests (2 Ki 15:35 2 Chr 27:3, 4). He defeated the Ammonites and forced them to pay tribute (2 Chr 27:5). In his reign Pekah of Israel and Rezin of Damascus began an invasion of Judah (2 Ki 15:37), possibly because he did not join them in an alliance against Assyria. He is listed in the genealogy of Jesus Christ as recorded by Matthew (Mt 1:9).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 15:32",
+      "verses": [
+        {
+          "number": 32,
+          "line": "In the second year of Pekah the son of Remaliah king of Israel began Jotham the son of Uzziah king of Judah to reign."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 15:38",
+      "verses": [
+        {
+          "number": 38,
+          "line": "And Jotham slept with his fathers, and was buried with his fathers in the city of David his father: and Ahaz his son reigned in his stead."
+        }
+      ]
+    },
+    {
+      "reference": "Matthew 1:9",
+      "verses": [
+        {
+          "number": 9,
+          "line": "And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias;"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "uzziah",
+      "titleEn": "Uzziah",
+      "titleKa": null
+    },
+    {
+      "slug": "ahaz",
+      "titleEn": "Ahaz",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "200px-Joatham_rex_8-6-2013 3-30-34 PM.jpg",
+      "caption": "Jotham is listed in the genealogy of Jesus Christ as recorded by Matthew (Mt 1:9)."
+    }
+  ],
+  "videos": []
 }

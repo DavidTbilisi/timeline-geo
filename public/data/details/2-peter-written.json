@@ -4,13 +4,43 @@
   "period": 10,
   "titleEn": "2 Peter Written",
   "titleKa": null,
-  "datesEn": "65 AD",
+  "datesEn": "65 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Peter wrote the book of 2 Peter. According to the letter (1:13&#8212;14) he expected to die soon. Tradition is that he died under the hand of Nero, which would place this book around a.d. 65. It was probably written from Rome.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Second Peter is addressed to &#34;them that have obtained like precious faith with us&#34; ch.ch. chapter 1:1, presumably referring to the readers of the first epistle see p.p. page 547. This appears to be confirmed by ch. 3:1. Peter must have been martyred no later than a.d. 65. His second epistle is thought to have been written shortly before this date. There is no evidence to determine where the epistle was written, most probably it was Rome.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Peter 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "peter",
+      "titleEn": "Peter",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "118300582_2-28-2013 10-35-30 AM.jpg",
+      "caption": "The second epistle general of Peter"
+    },
+    {
+      "file": "147090912_2-28-2013 10-35-30 AM.jpg",
+      "caption": "St. Peter&#39;s square in Vatican City, Rome"
+    },
+    {
+      "file": "92821560_2-28-2013 10-35-30 AM.jpg",
+      "caption": "Marble bust of Nero at the Musei Capitolini, Rome."
+    }
+  ],
+  "videos": []
 }

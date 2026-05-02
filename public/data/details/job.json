@@ -4,18 +4,44 @@
   "period": 2,
   "titleEn": "Job",
   "titleKa": null,
-  "datesEn": "2185–1945 BC (~240)",
+  "datesEn": "2185&ndash;1945 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name possibly means &#34;tested&#34; or &#34;persecuted.&#34; He is a non&#8212;Israelite worshiper of God who is very wealthy but loses all his possessions and children and wrestles with the question, &#34;Why?&#34; The book ends with Job recognizing God&#39;s sovereignty.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A pious believer in the true God who lived in the land of Uz principal character in the book of Job (Job 1:9). Ezekiel (Eze 14:14, 16, 20) and James (Jas 5:11) refer to him as an ideal example of patience and righteousness. Job doubtless lived in patriarchal times, as the social, historical, and cultural setting of the book suggests. The land of Uz has not been identified with any particular locality, but references in the book of Job and data provided by Josephus (Ant. i. 6. 4). and Ptolemy locate Uz east of Palestine proper on the borders of the Arabian Desert, certainly south of Damascus and probably in the vicinity of Edom (see Lam 4:21). <BR /><BR />The land of Uz may have taken its name from a son of Shem (1 Chr 1:17) who settled there in early times. A son of Nahor, the brother of Abraham, bore the same name (Gen 22:21, RSV) the Hebrew word translated &#34;Huz&#34; is identical with that translated &#34;Uz.&#34; The Chaldeans (Job 1:17) are known to have crossed the Arabian Desert and raided the region of Edom. The Sabeans were the people of Sheba (ch 1:15), far to the South of Edom (cf. Is 45:14). Teman (Job 2:11) was in the land of Edom. The land of Shuah (ch 2:11) was probably to the north of Edom and southwest of the Euphrates. <BR /><BR />Job was apparently a wealthy herdsman (see chs 1:3, 4 42:12), a leader honored and respected by his fellow townsmen for his wisdom and good counsel and who took a practical interest in the welfare of all who needed his help (ch 29:7&#8212;17). He lived in a &#34;city&#34; and was apparently one of its elders (v 7). From a human point of view there was no reasonable explanation of why an upright man like Job should suffer the terrible calamities that came upon him (ch 1:13&#8212;21). He did not understand why tragedy had come, but nevertheless maintained his confidence in God (Job 23). <BR /><BR />Despite the mistaken admonition of his wife and his friends Eliphaz, Bildad, Zophar, and Elihu (chs 2:9, 11 32:2), he maintained his &#34;integrity.&#34; In the end God sternly rebuked the misguided philosophy of Job&#39;s friends, that Job&#39;s calamities were a divine retribution for his misdeeds (ch 42:7). The turning point in Job&#39;s experience came when he prayed for his friends, and the Lord gave him &#34;twice as much as he had before&#34; (v 10).<BR /><BR />",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Job 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil."
+        }
+      ]
+    }
+  ],
   "related": [],
   "images": [
     {
-      "file": "media/images/t/Job1_8-7-2013 10-50-16 AM.jpg",
-      "caption": ""
+      "file": "Job1_8-7-2013 10-50-16 AM.jpg",
+      "caption": "Job, Ilya Repin, 1869"
+    },
+    {
+      "file": "Job 2_5-20-2013 4-29-58 PM.jpg",
+      "caption": "Job&#39;s rehabilitation and renewed prosperity (Job, Chapter 42). Woodcut after a drawing by Julius Schnorr von Carolsfeld (German painter, 1794 - 1872)"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Lessons from Job, Part 1: There was a Man",
+      "caption": "This is the first in a series on the book of Job. It is a poetic book that talks about a great controversy between good and evil. Job was a very wealthy man but he was very pious and humble. The opening of the book turns from earth to a scene away from earth where Satan approaches God to accuse the Lord of protecting Job.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg7347.mp4"
+    },
+    {
+      "title": "Lessons from Job, Part 2: Trusting through Trials",
+      "caption": "There is a battle going on behind the scenes for our hearts, the devil wants us to turn our hearts away from God, he wants us to curse God.  The story of Job is an example of someone who praised God even in the midst of difficult trials.  The Lord withdrew his protection from Job, and the devil took everything away from him, yet Job still did not curse God. The book of Job is a miniature example of the story of salvation.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg7367.mp4"
     }
   ]
 }

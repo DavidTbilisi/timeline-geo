@@ -2,15 +2,27 @@
   "slug": "gutenberg-bible",
   "id": 1319,
   "period": 11,
-  "titleEn": "Gutenberg Bible",
+  "titleEn": "Gutenberg Bible ",
   "titleKa": null,
-  "datesEn": "1456 AD",
+  "datesEn": "1456 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A Bible printed with movable type and the first major book produced on a printing press.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The first edition of Jerome of Prague&#39;s Latin Vulgate was the first major book to be printed on the Gutenberg Press. As a result, it became known as the Gutenberg Bible and was printed circa 1455. Shortly thereafter, many other religious books were printed on the Gutenberg Press. As a result of this printing press, the Bible and other religious works were made available to the people at an affordable price. By 1501 there were more that 110 places in Europe that had at least one printing press. Some cities, like Venice, had numerous presses.<BR /><BR />As a result of the Gutenberg Press, the Protestant Reformation could spread like wildfire. It took merely two weeks for Luther&#39;s Ninety&#8212;five Theses to be distributed throughout Germany. The rest of Europe had access to Luther&#39;s work within a month.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Cuttenburg Bible small_2-26-2013 5-20-53 PM.jpg",
+      "caption": "Page from Gutenberg&#39;s Bible"
+    }
+  ],
+  "videos": []
 }

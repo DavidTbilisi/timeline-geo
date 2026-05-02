@@ -2,15 +2,55 @@
   "slug": "close-of-probation",
   "id": 1251,
   "period": 13,
-  "titleEn": "Close of Probation",
+  "titleEn": "Close of Probation ",
   "titleKa": null,
   "datesEn": "Future",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Prior to Christ&#39;s second coming a decree will go forth ending the probation (a time to accept God&#39;s grace) of everyone living. This &#34;close of probation&#34; means that all who have rejected God&#39;s mercy will no longer have another chance to receive it.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "<B>PROBATION. </B><BR />The opportunity provided humanity in which to accept divine grace and to prepare for eternal life, and the time allotted for this purpose. Seventh&#8212;day Adventists believe that an individual&#39;s probation closes at death. In addition, they hold that prior to the second coming of Christ, a decree terminating probation for all then living will go forth: &#34;He that is unjust, let him be unjust still . . . : and he that is righteous, let him be righteous still: . . . And, behold, I come quickly and my reward is with me, to give every man according as his work shall be&#34; (Rev. 22:11, 12). This decree marks the close of probation.<BR /><BR />During probationary time Christ is ministering as the Christian&#39;s high priest in the heavenly sanctuary, applying to each repentant sinner the merits of His vicarious atonement and grace to triumph over the world, the flesh, and the devil. After the close of probation those who have rejected divine mercy will have no further opportunity, or second chance, to accept salvation, nor would they do so if the opportunity were given them. We do not know exactly the time of the close of probation for all humanity.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Revelation 22:11-12",
+      "verses": [
+        {
+          "number": 11,
+          "line": "He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still."
+        },
+        {
+          "number": 12,
+          "line": "And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "prophecies-of-the-end-of-time",
+      "titleEn": "Prophecies of the End of Time",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-JesusHighPriest_8-5-2013 11-54-29 AM.jpg",
+      "caption": "Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession. For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin. (Hebrews 4:14-15)"
+    },
+    {
+      "file": "Ark Commandments_2-27-2013 1-57-55 PM_7-22-2013 2-40-02 PM.jpg",
+      "caption": "The ark and the 10 Commandments"
+    },
+    {
+      "file": "GoodSalt-earthsprobation_8-5-2013 11-54-29 AM.jpg",
+      "caption": "Prior to Christ&#39;s second coming a decree will go forth ending the probation (a time to accept God&#39;s grace) of everyone living."
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Battle of Armageddon",
+      "caption": "The topic of this sermon is the battle of Armageddon spoken of in Revelation 16. It happens in the context of the last plagues to fall on the earth. Though it is often understood as a local battle in the Middle East, it is actually a spiritual battle. It is the final mobilization of the armies of the world to exterminate God&#39;s people. It is the final battle of the great controversy between Christ and Satan.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2912.mp4"
+    }
+  ]
 }

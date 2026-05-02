@@ -4,18 +4,67 @@
   "period": 10,
   "titleEn": "Church of Pergamos, Age of Popularity",
   "titleKa": null,
-  "datesEn": "313–538 AD",
+  "datesEn": "313&ndash;538 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The letter to the church of Pergamos warns against compromise and depicts a time following Diocletian&#39;s persecutions when the Roman empire became &#34;Christianized&#34; and the papacy rose as a political power.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The third letter to the seven churches in Revelation 2 and 3 is to the church in Pergamos (or Pergamum). Its message is directed to a compromising church. Pergamos had been the capital of the Roman province of Asia for 200 years and was a center of intellectual and cultural life in the Greek world. Christ affirms those in this church who hold fast to His name, but rebukes others who hold to false doctrines. Unlike the church of Ephesus (strong in doctrine and weak in love), the church of Pergamos is weak in doctrine. This church represents a period of compromise in history (313 &#8212; 538 A.D.) when Christianity became generally accepted and pagan doctrines crept into the teachings of the church.<BR /><BR /><B>The Impressive City</B><BR />None of the other cities of the seven churches can compare with Pergamos. It was located about 50 miles north of Smyrna. Though Ephesus was growing and competing with Pergamos as a leading center in Asia Minor, archaeologists have revealed incredible structures of this old city. The most famous is the Pergamon Altar (Great Altar of Zeus). This temple has been reconstructed and is viewed as one of the pinnacles of Hellenistic culture. It must have been an attraction for the Christians living there. Walking among impressive human achievements can lead to compromising divine truths.<BR /><BR />Christ is introduced in the letter to Pergamos as the One &#34;who has the sharp two&#8212;edged sword&#34; (Revelation 2:12). Truth must cut deep to reveal compromise. Jesus says this church dwells close to &#34;Satan&#39;s throne&#34;, probably referring to emperor worship introduced in pagan temples of the Roman Empire.  The pagan environment was slowly blending in with Christianity and eroding truth. This was the &#34;Age of Popularity&#34;. It was also the time when the Roman papacy&#39;s influence grew in power in Western Europe. The period of church history represented by Pergamos is from the time of Constantine (about 313 A.D.) to 538 A.D.<BR /><BR />Pergamos is rebuked for holding &#34;the doctrine of Balaam&#34; (v. 14). Two stumbling blocks in ancient Israel (see Numbers 22&#8212;25) find themselves in this church: idolatry and sexual immorality. Not only were these practiced in temple cult worship, but they represent a spiritual compromise in worship to God. Fornication symbolizes God&#39;s pure church being unfaithful in keeping pure doctrine. Christ calls this church to repent. Nothing less than a complete turn&#8212;around is needed for a church that has allowed false teachings to come in. Unless people repent, Christ will &#34;fight against them with the sword&#34; of His mouth (v. 16), which is the truth or the Word of God.<BR /><BR /><B>Promises to Overcomers</B><BR />For those who overcome in Pergamos, Jesus promises some of the &#34;hidden manna&#34; to eat. This may refer to the manna that Aaron placed in a jar before the Ark of the Covenant in the wilderness sanctuary. A deeper application probably points to Jesus Himself who is the bread of life. Christ also says, &#34;I will give him a white stone, and on the stone a new name written which no one knows except him who receives it&#34; (v. 17). Many believe this white stone refers to an ancient custom of jurors giving either a black stone or white stone to convict or acquit people on trial. The &#34;new name&#34; probably teaches that just as our Bible names indicate a person&#39;s character, a new name would indicate the new characters Christians receive as they remain faithful to truth.<BR /><BR />Many Christians today live in places of compromise. People close to the world may become enamored by the impressive structures of man (secular or religious) and find it too easy to say, &#34;It doesn&#39;t matter.&#34; Truth matters to God. The church that becomes lax in teaching clear truth will allow compromise to creep into its doctrine and practice. Members who want to be accepted by the community at the expense of their faith are committing spiritual adultery. Jesus has a one&#8212;word sermon for such churches, &#34;Repent!&#34; We must turn around and abandon all beliefs that mix truth and error. Only those who repent will eat the true Manna from heaven, Jesus Christ. Only those who remain faithful to God&#39;s word will receive new characters that will last much longer than the ruins of a once&#8212;famous city called Pergamos.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Revelation 2:12-17",
+      "verses": [
+        {
+          "number": 12,
+          "line": "And to the angel of the church in Pergamos write; These things saith he which hath the sharp sword with two edges;"
+        },
+        {
+          "number": 13,
+          "line": "I know thy works, and where thou dwellest, even where Satan's seat is: and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas was my faithful martyr, who was slain among you, where Satan dwelleth."
+        },
+        {
+          "number": 14,
+          "line": "But I have a few things against thee, because thou hast there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat things sacrificed unto idols, and to commit fornication."
+        },
+        {
+          "number": 15,
+          "line": "So hast thou also them that hold the doctrine of the Nicolaitanes, which thing I hate."
+        },
+        {
+          "number": 16,
+          "line": "Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth."
+        },
+        {
+          "number": 17,
+          "line": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "prophecies-of-the-end-of-time",
+      "titleEn": "Prophecies of the End of Time",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/800px-Drawing_of_ancient_Pergamon_8-8-2013 3-51-21 PM.jpg",
-      "caption": ""
+      "file": "800px-Drawing_of_ancient_Pergamon_8-8-2013 3-51-21 PM.jpg",
+      "caption": "The ancient city of Pergamon, The Booklet of Pergamon Museum, Berlin"
+    },
+    {
+      "file": "View_of_ancient_Pergamon_8-8-2013 3-51-21 PM.jpg",
+      "caption": "The ancient city of Pergamon, The Booklet of Pergamon Museum, Berlin"
+    },
+    {
+      "file": "99027544_2-27-2013 5-57-14 PM.jpg",
+      "caption": "Photograph of Diocletian&#39;s palace."
+    },
+    {
+      "file": "GoodSalt-7 churches_8-5-2013 4-08-10 PM.jpg",
+      "caption": "The Seven Churches of Asia Minor."
     }
-  ]
+  ],
+  "videos": []
 }

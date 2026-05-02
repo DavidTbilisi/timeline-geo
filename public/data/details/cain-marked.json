@@ -4,18 +4,45 @@
   "period": 1,
   "titleEn": "Cain Marked",
   "titleKa": null,
-  "datesEn": "3825 BC",
+  "datesEn": "3825 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "As a punishment for murdering his brother Abel, Cain is forced to live in exile and is given a mark as a protection against blood revenge. The exact nature of the mark is unknown.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Some commentators have seen in this mark an outward sign attached to Cain&#39;s person, whereas others believe that he received a sign from God as a divine pledge that nothing would endanger his life. Whatever it was, it was not a sign of God&#39;s forgiveness but only of temporal protection.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 4:15",
+      "verses": [
+        {
+          "number": 15,
+          "line": "And the LORD said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the LORD set a mark upon Cain, lest any finding him should kill him."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "cain",
+      "titleEn": "Cain",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas1582_8-8-2013 9-54-54 AM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas1582_8-8-2013 9-54-54 AM.jpg",
+      "caption": "And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed. (Genesis 2:8)"
+    },
+    {
+      "file": "cainable_8-5-2013 4-12-44 PM.jpg",
+      "caption": "And the LORD said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother&#39;s keeper? And he said, What hast thou done? the voice of thy brother&#39;s blood crieth unto me from the ground. (Genesis 4:9-10)"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Mark of Cain",
+      "caption": "This is the second of a three part sermon on the mark of the beast. It begins with the story of Cain and Abel. Cain decided to worship in his own way and became angry and murdered his brother. His spirit will be seen again the last days. As Cain had a mark, so people who follow the beast will have a mark. God has a sign for His people as well.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/events/mop/mop14.mp4"
     }
   ]
 }

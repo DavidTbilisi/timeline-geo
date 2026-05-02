@@ -4,13 +4,39 @@
   "period": 8,
   "titleEn": "Nehemiah, Walls Rebuilt",
   "titleKa": null,
-  "datesEn": "444 BC",
+  "datesEn": "444 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Nehemiah, commissioned by the king of Persia Artaxerxes I, goes to Jerusalem to oversee the reconstruction of the city&#39;s broken down walls. Under his leadership the people complete the job.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Eventually, Nehemiah and the men of Judah finished rebuilding the walls around Jerusalem. Though the year is not mentioned here, the 20th year of Artaxerxes is clearly intended (see on ch. 2:1). This agrees with the other chronological statements of this book. In Nisan (the 1st month) Nehemiah had received permission from the king to go to Jerusalem. According to chs. 5:14 and 13:6 he was governor in Jerusalem from the 20th year onward and must therefore have set out for that place immediately after receiving royal authorization for his plans. If so, he arrived in Jerusalem during the fourth month. <BR /><BR />After three days he surveyed the wall, and soon thereafter called a public assembly to present his plan for rebuilding the wall and to enlist their cooperation (ch. 2:11&#8212;17). All this may have taken place in the course of the fourth month, so that the beginning of the work could actually have taken place either before the end of the 4th month or in the beginning of the 5th. It is not clear from Nehemiah&#39;s words how he computed the 52 days during which the wall was in process of reconstruction. <BR /><BR />He could have reckoned the period from the day of resuming the work until it was finished, including the weekly Sabbaths, so that the number of working days would be only 44 or 45 or he could have meant that there were 52 working days. Thus the period of activity would cover about 60 days. In the first case the beginning of the work would have fallen in the early days of Ab (the 5th month), in the latter case in the last part of Tammuz (the 4th month). According to the Jewish calendar followed by Nehemiah, Elul 25 in the 20th year of Artaxerxes was approximately September 21, 444 b.c.<BR /><BR />Some commentators have contended that 52 days do not provide enough time to rebuild the wall. They have preferred to accept the two years and four months given by Josephus (Antiquities xi. 5. 8) as a more reasonable length of time. However, there is no need to reject the Bible figure in favor of Josephus because: (1) Nehemiah&#39;s work was not a complete rebuilding of the wall, but in many parts only repair work (see on ch. 1:3) (2) it was carried out in great haste in the face of threatened attack and (3) the completion of the wall in such a short time was so incredible to the enemies of the Jews that they considered it a miracle (ch. 6:16).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Nehemiah 6:15",
+      "verses": [
+        {
+          "number": 15,
+          "line": "So the wall was finished in the twenty and fifth day of the month Elul, in fifty and two days."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "nehemiah",
+      "titleEn": "Nehemiah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas4170_8-7-2013 2-08-12 PM.jpg",
+      "caption": "Nehemiah"
+    },
+    {
+      "file": "Nehemiah_3-21-2013 10-37-13 AM.jpg",
+      "caption": "Nehemiah is Permitted to Go to Jerusalem (Nehemiah, Chapter 2). Woodcut after a drawing by Julius Schnorr von Carolsfeld (German painter, 1794 - 1872)"
+    }
+  ],
+  "videos": []
 }

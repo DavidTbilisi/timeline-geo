@@ -4,13 +4,41 @@
   "period": 8,
   "titleEn": "Daniel 1, Daniel Captive",
   "titleKa": null,
-  "datesEn": "605 BC",
+  "datesEn": "605 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Daniel is taken captive with other prisoners by Nebuchadnezzar when Jerusalem falls into the hands of Babylon.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "On the basis of Biblical synchronisms that correlate the reigns of several kings of Judah with that of Nebuchadnezzar, whose Babylonian regnal years have been astronomically established, Jehoiakim&#39;s 3d regnal year lasted, by the Jewish calendar, from the autumn of 606 to the autumn of 605 b.c. Hence the events recorded in this and the following verse (Daniel 1:1) must have taken place sometime during the Jewish civil year that began in the fall of 606 and ended in the fall of 605 b.c. Before the ancient systems of regnal reckonings were understood, this verse presented commentators with a seemingly insuperable problem because of the apparent contradiction with Jer. 25:1. As a result of modern archeological discoveries all historical and chronological difficulties on this point have vanished, and the evidence provides a completely harmonious pattern. The integrity of the Sacred Record has once more been vindicated.<BR /><BR />Nebuchadnezzar&#39;s presence in Palestine in the early summer of 605 b.c., as Dan. 1:1 indicates, is confirmed by two Babylonian accounts: (1) a narrative by the historian Berosus, whose lost work has been quoted on this event by Josephus in his Against Apion (1.19) and (2) a portion of a hitherto unknown Babylonian chronicle (D. J. Wiseman, editor, Chronicles of Chaldaean Kings, 1956), which covers the entire reign of Nabopolassar and the first eleven years of his son Nebuchadnezzar.<BR /><BR />Berosus, as Josephus quotes him, relates that Nebuchadnezzar was ordered by his father Nabopolassar to quench a rebellion in Egypt, Phoenicia, and Coele&#8212;Syria. Having completed his mission but still being in the west, he received word of his father&#39;s death. Leaving the captives&#8212;among whom Jews are mentioned&#8212;in the hands of his generals, he hurried back to Babylon by the short desert route as quickly as possible. This haste was doubtless due to a desire to prevent any usurper from taking the throne. <BR /><BR />Berosus says that Nebuchadnezzar left Jewish captives with his generals when he hurriedly returned to Babylon. Daniel and his friends must have been among these captives. The statement of Dan. 1:1, 2 and that of Berosus were the only known ancient records that spoke of this campaign of Nebuchadnezzar until the discovery of this chronicle, a year&#8212;by&#8212;year account yielding for the first time exact dates for the accession and death of Nabopolassar, the accession of Nebuchadnezzar, and the capture of a king of Judah, obviously Jehoiachin, eight years later (it also places the death of Josiah in 609 and the battle of Carchemish in 605).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Daniel 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "daniel",
+      "titleEn": "Daniel",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas1580_8-28-2013 10-09-09 AM.jpg",
+      "caption": "Captives being taken to Babylon"
+    }
+  ],
+  "videos": [
+    {
+      "title": "God&#39;s Health Plan",
+      "caption": "Does the Bible talk about health? Is it something important for Christians to consider? There is a clear connection between how we eat and how we leave. The story of Daniel not defiling himself sets the stage for being responsible for our bodies. Our spiritual perceptions are fogged by drugs, alcohol, and poor living habits.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/ap09.mp4"
+    }
+  ]
 }

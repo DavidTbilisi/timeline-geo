@@ -4,18 +4,56 @@
   "period": 7,
   "titleEn": "Isaiah",
   "titleKa": null,
-  "datesEn": "766–686 BC (~80)",
+  "datesEn": "766&ndash;686 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh saves.&#34; Son of Amoz and perhaps the greatest of the Old Testament prophets. He lives during the time of Uzziah, Jotham, Ahaz, and Hezekiah. He lives in Jerusalem and fearlessly rebukes the sins of Judah and is probably a martyr.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Isaiah, name means &#34;Yahweh saves.&#34; Greatest of the Hebrew prophets and author of the book that bears his name. He was a son of Amoz (Is 1:1 not Amos) and came to the prophetic office toward the close of the reign of Uzziah (Azariah), c. 790&#8212;c. 739 b.c. and served also under Jotham, Ahaz, and Hezekiah (d. c. 686). Tradition makes him cousin of Uzziah. <BR /><BR />The chronology of Sennacherib&#39;s campaigns into Judah (chs 36 and 37) shows that Isaiah remained active in the prophetic office approximately to the close of Hezekiah&#39;s reign, and that his ministry therefore spanned more than half a cent. Called to be a prophet in his youth, Isaiah fully dedicated himself to God&#39;s service at the time of his only recorded vision, in which a realization of God&#39;s infinite holiness of character effected a more thorough conversion and response on his part than had earlier been experienced (ch 6). <BR /><BR />His contemporaries in the prophetic office were Hosea in the northern kingdom of Israel (Hos 1:1) and Micah in the southern kingdom of Judah (Mic 1:1). Isaiah, an eloquent, educated, and cultured man, lived in Jerusalem and served as the political and religious counselor of the nation. He attempted to hold Judah steady and loyal to God during the turbulent and uncertain years that witnessed the dissolution of the northern kingdom of Israel and its fall in 723/22 b.c., and through the repeated Assyrian invasions of Judah in the years that followed. <BR /><BR />Fearlessly he rebuked the sins of the people, counseled the rulers to rely on the Lord instead of depending on entangling foreign alliances, foresaw the Babylonian captivity, and wrote at length concerning the glorious restoration that would culminate in the coming of Messiah and the establishment of His eternal kingdom&#8212;should God&#39;s people cooperate with Him. <BR /><BR />Isaiah&#39;s influence was largely responsible for the reformation effected by Hezekiah, whom he encouraged and guided throughout his reign. His counsel and admonition were chiefly responsible for persuading king and people to stand firm when Sennacherib threatened to take Jerusalem. According to tradition Isaiah fell a martyr to Hezekiah&#39;s son, Manasseh, who abolished the reforms instituted by his father and, presumably, had the prophet sawn asunder (cf. Heb 11:37).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Isaiah 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah."
+        }
+      ]
+    },
+    {
+      "reference": "Hebrews 11:37",
+      "verses": [
+        {
+          "number": 37,
+          "line": "They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "isaiah-prophecy-concerning-cyrus-ii",
+      "titleEn": "Isaiah Prophecy Concerning Cyrus II",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Isaiah_7-31-2013 11-16-12 AM.jpg",
-      "caption": ""
+      "file": "Isaiah_7-31-2013 11-16-12 AM.jpg",
+      "caption": "The Prophet Isaiah, Providence Lithograph Company, 1904"
+    },
+    {
+      "file": "441px-Isaiah-witnesses-the-vice-and-folly-of-Jerusalem-001_8-8-2013 12-37-55 PM.jpg",
+      "caption": "Isaiah walking the streets of Jerusalem, William Brassey Hole"
+    },
+    {
+      "file": "GoodSalt-prcas0778-Isaiah_8-8-2013 12-37-55 PM.jpg",
+      "caption": "Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me. (Isaiah 6:8)"
+    },
+    {
+      "file": "589px-Michelangelo_profeti_Isaiah_01_8-8-2013 12-37-55 PM.jpg",
+      "caption": "Isaiah, Michelangelo Buonarroti, 1509, Sistine Chapel"
     }
-  ]
+  ],
+  "videos": []
 }

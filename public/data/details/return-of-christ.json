@@ -2,20 +2,47 @@
   "slug": "return-of-christ",
   "id": 1255,
   "period": 13,
-  "titleEn": "Return of Christ",
+  "titleEn": "Return of Christ ",
   "titleKa": null,
   "datesEn": "Future",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The 2nd coming of Christ is the blessed hope of the church, the grand climax of the gospel. The Saviour&#39;s coming will be literal, personal, visible, & worldwide. The time of that event has not yet been revealed, but will come after the 7th plague.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "SECOND ADVENT.  The return of Jesus Christ to the earth as King of kings and Lord of lords. Though the phrase itself does not occur in the Bible, the teaching of Christ&#39;s return constitutes a favorite theme of New Testamentwriters, who speak, for example, of our Lord&#39;s appearance a &#34;second time&#34; (Heb. 9:28). Jesus Himself promised, &#34;I will come again&#34; (John 14:3).<BR /><BR />The most frequent New Testament term for the Second Advent is parousia, meaning &#34;presence&#34; (literally, &#34;a being beside&#34;), and by extension the &#34;coming&#34; and &#34;arrival&#34; that result in &#34;presence.&#34; The word occurs 24 times in the New Testament. In Philippians 2:12 Paul contrasts his presence (parousia) among the Philippians with his absence (apousia) from them (cf. 2 Cor. 10:10). More frequently, however, the context requires the meaning &#34;arrival&#34; or &#34;coming&#34; for parousia. For instance, the arrival (parousia) of Stephanas, Fortunatus, and Achaicus from Corinth brought joy to Paul and refreshed his spirit (1 Cor. 16:17, 18). The arrival (parousia) of Titus with good news from Corinth comforted Paul in his concern for the church there (2 Cor. 7:6). While a prisoner in Rome, Paul expressed the hope of being set free and of coming (parousia) again to the Philippians (Phil. 1:26).<BR /><BR />Another term used for the Advent is apokalypsis, meaning &#34;revelation,&#34; &#34;unveiling,&#34; &#34;disclosure&#34; (1 Cor. 1:7 2 Thess. 1:7 1 Peter 1:7, 13). At His first coming Christ&#39;s glory was hidden, and His deity was shrouded with humanity. But at His second appearing His glory and majesty are to be unveiled for all to behold (Matt. 24:30).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "John 14:3",
+      "verses": [
+        {
+          "number": 3,
+          "line": "And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "christs-everlasting-kingdom",
+      "titleEn": "Christ's Everlasting Kingdom",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-SecondComing_8-5-2013 11-56-22 AM.jpg",
-      "caption": ""
+      "file": "GoodSalt-SecondComing_8-5-2013 11-56-22 AM.jpg",
+      "caption": "Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen. (Revelation 1:7)"
+    },
+    {
+      "file": "GoodSalt-lwjas0156_LG_2-27-2013 4-07-01 PM.jpg",
+      "caption": "The King of Kings return. Christ receives the kingdom from His Father and then returns to Earth for His saints."
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Coming King",
+      "caption": "The Coming King speaks about the Bible&#39;s teaching about the soon coming of Christ. Though we cannot know the exact day or hour, we can know that it is near. There are many Scripture passages that explain the importance of Jesus&#39; 2nd coming. What does the Bible say about how Christ will return?",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/events/mop/mop03.mp4"
     }
   ]
 }

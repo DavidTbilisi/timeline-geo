@@ -4,13 +4,47 @@
   "period": 7,
   "titleEn": "Omri Builds Samaria",
   "titleKa": null,
-  "datesEn": "879 BC",
+  "datesEn": "879 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Omri strategically moves the capital of Israel to Samaria from Tirzah which is a much better location politically.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The accession of Omri marked a new period of settled government and prosperity for the northern kingdom. While the capital was at Tirzah, the nation had gone through a long period of dissension and unrest. Possibly seeds of disaffection still lurked at Tirzah, causing Omri to decide upon a new site for his capital. The hill of Samaria, 7 1/4 mi. (11.6 km.) northwest of Shechem, was the site selected. It would have been difficult to find a more perfect spot for the nation&#39;s capital. Its position was one of great beauty, commanding a view of the sea and of the country for miles around. <BR /><BR />It was situated at the heart of the land. Militarily, the hill, with its steep sides, was admirably adapted to defense, as is shown by the long sieges it endured (1 Kings 20:1 2 Kings 6:24 17:5 18:9, 10). The country round about was singularly productive. On the hill were abundant springs of water. Its history vindicated the sagacity of its founder, for Samaria continued as the capital of Israel till the close of the nation&#39;s history. Excavations at the ancient site of Samaria date the lowest levels of the city to Omri&#39;s day.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 16:24",
+      "verses": [
+        {
+          "number": 24,
+          "line": "And he bought the hill Samaria of Shemer for two talents of silver, and built on the hill, and called the name of the city which he built, after the name of Shemer, owner of the hill, Samaria."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "omri",
+      "titleEn": "Omri",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Green hillsides in spring in eastern Samaria, tb031405462_4-17-2013 2-57-22 PM.jpg",
+      "caption": "Green hillsides in spring in eastern Samaria"
+    },
+    {
+      "file": "Hills of eastern Samaria, tb120806829_4-17-2013 2-57-22 PM.jpg",
+      "caption": "Hills of eastern Samaria"
+    },
+    {
+      "file": "Samaria from west, tb050106488_4-17-2013 2-57-22 PM.jpg",
+      "caption": "Samaria from west"
+    },
+    {
+      "file": "Shechem to Tirzah panorama, tb12080681p_4-17-2013 2-57-22 PM.jpg",
+      "caption": "Panorama of Tirzah"
+    }
+  ],
+  "videos": []
 }

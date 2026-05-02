@@ -4,13 +4,75 @@
   "period": 6,
   "titleEn": "Absalom Murders Amnon, 2nd Judgment",
   "titleKa": null,
-  "datesEn": "987 BC",
+  "datesEn": "987 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After Amnon rapes his half&#8212;sister and David does nothing about it, Absalom 2 years later invites his father and brothers to sheer sheep. David doesn&#39;t go but Absalom asks if Amnon may go. David consents. While Amnon is drunk Absalom murders him.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Absalom seeks revenge on Amnon who raped his sister. He invites his father and brother&#39;s to sheer sheep. This invitation of course included Amnon, for the real purpose of Absalom in giving the feast was to secure the opportunity of seizing him. Absalom&#39;s deep guile is revealed in this invitation to David. He hardly expected his father to come, but by urging him to do so, he would help to allay suspicion and would thus encourage the attendance of Amnon. <BR /><BR />David declined the invitation on the ground that the attendance of so many might be burdensome to Absalom. By continuing to urge his father&#39;s attendance, Absalom effectively disguised his real purpose and succeeded in securing David&#39;s blessing on the festivities. Everything now appeared above suspicion.<BR /><BR />David&#39;s sons were now grown, but evidently the father still continued to exercise some measure of control over their activities. Amnon was particularly invited, since he was the eldest son and the heir apparent, who could represent his father at the feast. By continued urging Absalom finally broke down his father&#39;s resistance and secured his consent that not only Amnon but all the princes (v. 29) be permitted to attend the feast. <BR /><BR />While feasting and drinking, Absalom smites Amnon. At this time David&#39;s second son, Chileab (ch. 3:3), was possibly already dead, for we hear nothing of him in the record. If so, the death of Amnon would thus make Absalom the next in line for the throne (see ch. 3:2, 3). Perhaps Absalom&#39;s servants thought that his orders for the death of Amnon were aimed at securing his own succession to the throne.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Samuel 13:23-33",
+      "verses": [
+        {
+          "number": 23,
+          "line": "And it came to pass after two full years, that Absalom had sheepshearers in Baalhazor, which is beside Ephraim: and Absalom invited all the king's sons."
+        },
+        {
+          "number": 24,
+          "line": "And Absalom came to the king, and said, Behold now, thy servant hath sheepshearers; let the king, I beseech thee, and his servants go with thy servant."
+        },
+        {
+          "number": 25,
+          "line": "And the king said to Absalom, Nay, my son, let us not all now go, lest we be chargeable unto thee. And he pressed him: howbeit he would not go, but blessed him."
+        },
+        {
+          "number": 26,
+          "line": "Then said Absalom, If not, I pray thee, let my brother Amnon go with us. And the king said unto him, Why should he go with thee?"
+        },
+        {
+          "number": 27,
+          "line": "But Absalom pressed him, that he let Amnon and all the king's sons go with him."
+        },
+        {
+          "number": 28,
+          "line": "Now Absalom had commanded his servants, saying, Mark ye now when Amnon's heart is merry with wine, and when I say unto you, Smite Amnon; then kill him, fear not: have not I commanded you? be courageous, and be valiant."
+        },
+        {
+          "number": 29,
+          "line": "And the servants of Absalom did unto Amnon as Absalom had commanded. Then all the king's sons arose, and every man gat him up upon his mule, and fled."
+        },
+        {
+          "number": 30,
+          "line": "And it came to pass, while they were in the way, that tidings came to David, saying, Absalom hath slain all the king's sons, and there is not one of them left."
+        },
+        {
+          "number": 31,
+          "line": "Then the king arose, and tare his garments, and lay on the earth; and all his servants stood by with their clothes rent."
+        },
+        {
+          "number": 32,
+          "line": "And Jonadab, the son of Shimeah David's brother, answered and said, Let not my lord suppose that they have slain all the young men the king's sons; for Amnon only is dead: for by the appointment of Absalom this hath been determined from the day that he forced his sister Tamar."
+        },
+        {
+          "number": 33,
+          "line": "Now therefore let not my lord the king take the thing to his heart, to think that all the king's sons are dead: for Amnon only is dead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "absalom",
+      "titleEn": "Absalom",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Convito_di_Ansalonne.jpg",
+      "caption": "Canvas of the banquet of Absalom by Niccol&#242; de Simone. Photographed by Wolfgang Moroder in 2008."
+    }
+  ],
+  "videos": []
 }

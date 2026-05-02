@@ -4,18 +4,50 @@
   "period": 1,
   "titleEn": "Cain",
   "titleKa": null,
-  "datesEn": "3900–3200 BC (~700)",
+  "datesEn": "3900&ndash;3200 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Meaning of name: &#34;worker in iron&#34; or &#34;spear.&#34; He was the oldest son of Adam and Eve and the brother and murderer of Abel. He was a worker of the soil and offered his produce as an offering to God. The Lord rejected his offering but accepted Abel&#39;s.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The eldest son of Adam and Eve, brother and murderer of Abel. A farmer by occupation, he offered as a sacrifice the produce of his fields. When God rejected his offering and accepted that of his brother, Cain became jealous and murdered his brother (Gen 4:1&#8212;16). The New Testament indicates an ethical cause for the rejection of Cain. Abel was righteous (Mt 23:35), while the way of Cain (Jude 11) was evil. <BR /><BR />John says that Cain was of that wicked one and that he slew his brother because his &#34;works were evil, and his brother&#39;s righteous&#34; (1 Jn 3:12). The author of Heb 11:4 implies that lack of faith was the reason for the rejection of Cain&#39;s offering. As punishment for his crime Cain was forced to live the life of an exile. He was given a mark, the exact nature of which is not known, as a protection or sign of protection against blood revenge (Gen 4:15, 16).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 4:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "adam",
+      "titleEn": "Adam",
+      "titleKa": null
+    },
+    {
+      "slug": "cain-marked",
+      "titleEn": "Cain Marked",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-Cain_8-5-2013 3-56-06 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-Cain_8-5-2013 3-56-06 PM.jpg",
+      "caption": "Cain and his brother"
+    },
+    {
+      "file": "Cain and Abel_5-9-2013 2-49-45 PM.jpg",
+      "caption": "The Offerings of Cain and Abel vintage color litograph from the 1880&#39;s"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Genesis:History: Walking Separately",
+      "caption": "This sermon on Cain in Genesis 4 speaks of him &#34;going out&#34; and building a city. He turned his back on God. It marks the beginning of multiple wives and murder. Violence increased on the earth after sin.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2127.mp4"
     }
   ]
 }

@@ -2,20 +2,27 @@
   "slug": "the-lollards",
   "id": 1312,
   "period": 11,
-  "titleEn": "The Lollards",
+  "titleEn": "The Lollards ",
   "titleKa": null,
-  "datesEn": "1381–1532 AD",
+  "datesEn": "1381&ndash;1532 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "John Wycliffe&#39;s disciples in England became known as the Lollards. They prepared the way for the English reformation by distributing the English Bible.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Lollards were a group of Christians largely made up of John Wycliffe&#39;s followers. It is not clear whether all of the Lollards were Wycliffites, but nevertheless they shared his convictions. Furthermore, the precise origin of the Lollards is debated among scholars. John Wycliffe certainly had followers during his lifetime, but it was probably not until after his death that some of them began to take the name &#39;Lollards.&#39;<BR /><BR />The Lollards were convicted that the Bible was for the people and, therefore, worked to translate the Bible into English. They would also preach against pastors holding civil offices, the worship of images, the requirement of clerical celibacy, and pilgrimages. Like Wycliffe, the Lollards also rejected the doctrine of transubstantiation (that the elements of the Lord&#39;s supper change literally into the body and blood of Christ) and prayers for the dead.<BR /><BR />The Lollards were very radical and sometimes prone to civil disturbance. Nevertheless, not all the Lollards resorted to violent measures. In actuality, much of the work they did, especially in translating the Bible into English, prepared the way for the English Reformation. It is during the English Reformation that the Lollards begin to disappear by simply merging with other English reformers.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas0722_8-28-2013 3-11-16 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas0722_8-28-2013 3-11-16 PM.jpg",
+      "caption": "The Lollards"
     }
-  ]
+  ],
+  "videos": []
 }

@@ -4,13 +4,143 @@
   "period": 7,
   "titleEn": "Reformation-Passover Celebrated in Judah",
   "titleKa": null,
-  "datesEn": "727 BC",
+  "datesEn": "727 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Hezekiah is a good king, unlike his father. He repairs the Temple and organizes religious services. He also invites the 10 northern tribes to come to Jerusalem to celebrate Passover. It is an unusual time of reformation.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Hezekiah invites both Israel and Judah to celebrate the Passover. This shows Hezekiah&#39;s concern not only for Judah but also for Israel. Having restored the worship in the Temple, he sent letters throughout the territory of Israel inviting its people to come to the Passover service. Ephraim and Manasseh were the principal tribes in the territory of the northern kingdom not yet carried into captivity. The tribes east of the Jordan and the northern tribes had earlier suffered deportation (2 Kings 15:29 1 Chron. 5:26). The event took place in the second month. The work of cleansing and sanctifying the Temple was not completed till the 16th day of the 1st month (ch. 29:17), and the Passover service ordinarily began on the 14th day of the 1st month (Ex. 12:2, 6 Lev. 23:5). But in cases of emergency the law permitted individuals to observe the Passover on the 14th day of the 2d month (Num. 9:6&#8212;11).<BR /><BR />The government of Judah decreed that word should be sent to the inhabitants of Israel inviting them to the Passover. The narrative does not imply that the proclamation itself was of the nature of an official decree. Hezekiah could hardly have made an official proclamation in Hoshea&#39;s kingdom without the cooperation of the Israelite king, and the narrative indicates no such cooperation.<BR /><BR />In the days of Rehoboam of Judah many of the faithful in Israel forsook their nation that they might worship the Lord at Jerusalem (ch. 11:16, 17), and in the days of Asa many Israelites again joined their brethren in Judah ch. 15:9). Jeroboam had established the worship of the golden calves at Bethel and Dan to keep his people from going to Jerusalem to worship (1 Kings 12:27&#8212;33), and Baasha fortified Ramah, near the border, to prevent the Israelites from falling away to Judah (2 Chron. 16:1). But now again, after so long a time, the situation was open for an invitation to worship at Jerusalem. <BR /><BR />Hoshea, a puppet of Assyria (see on 2 Kings 17:1), ruling over an already partly dismembered kingdom, was probably either too weak or too indifferent to interfere with Hezekiah&#39;s messengers. The attitude of the northern tribes was, as a whole, one of hostility to God and His worship. In spite of the general hostility, some from the northern tribes responded to Hezekiah&#39;s gracious invitation and came to Jerusalem for the Passover service. No matter how widespread apostasy may be, the Lord always has a faithful few who remain loyal to Him (see Rom. 9:27 Rom. 11:3, 5).<BR /><BR />The last previous occasion when it was possible for the people of both Israel and Judah to join in such a festival in Jerusalem was at the time of Solomon, when the kingdom was still united. After the disruption no common religious services that would include the citizens of both nations were possible, except as Israelites left the northern kingdom to migrate to Judah. Now the northern nation was so weakened that it again was possible for the Israelites who desired, to come to Jerusalem for worship.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Chronicles 30:1-27",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to the house of the LORD at Jerusalem, to keep the passover unto the LORD God of Israel."
+        },
+        {
+          "number": 2,
+          "line": "For the king had taken counsel, and his princes, and all the congregation in Jerusalem, to keep the passover in the second month."
+        },
+        {
+          "number": 3,
+          "line": "For they could not keep it at that time, because the priests had not sanctified themselves sufficiently, neither had the people gathered themselves together to Jerusalem."
+        },
+        {
+          "number": 4,
+          "line": "And the thing pleased the king and all the congregation."
+        },
+        {
+          "number": 5,
+          "line": "So they established a decree to make proclamation throughout all Israel, from Beersheba even to Dan, that they should come to keep the passover unto the LORD God of Israel at Jerusalem: for they had not done it of a long time in such sort as it was written."
+        },
+        {
+          "number": 6,
+          "line": "So the posts went with the letters from the king and his princes throughout all Israel and Judah, and according to the commandment of the king, saying, Ye children of Israel, turn again unto the LORD God of Abraham, Isaac, and Israel, and he will return to the remnant of you, that are escaped out of the hand of the kings of Assyria."
+        },
+        {
+          "number": 7,
+          "line": "And be not ye like your fathers, and like your brethren, which trespassed against the LORD God of their fathers, who therefore gave them up to desolation, as ye see."
+        },
+        {
+          "number": 8,
+          "line": "Now be ye not stiffnecked, as your fathers were, but yield yourselves unto the LORD, and enter into his sanctuary, which he hath sanctified for ever: and serve the LORD your God, that the fierceness of his wrath may turn away from you."
+        },
+        {
+          "number": 9,
+          "line": "For if ye turn again unto the LORD, your brethren and your children shall find compassion before them that lead them captive, so that they shall come again into this land: for the LORD your God is gracious and merciful, and will not turn away his face from you, if ye return unto him."
+        },
+        {
+          "number": 10,
+          "line": "So the posts passed from city to city through the country of Ephraim and Manasseh even unto Zebulun: but they laughed them to scorn, and mocked them."
+        },
+        {
+          "number": 11,
+          "line": "Nevertheless divers of Asher and Manasseh and of Zebulun humbled themselves, and came to Jerusalem."
+        },
+        {
+          "number": 12,
+          "line": "Also in Judah the hand of God was to give them one heart to do the commandment of the king and of the princes, by the word of the LORD."
+        },
+        {
+          "number": 13,
+          "line": "And there assembled at Jerusalem much people to keep the feast of unleavened bread in the second month, a very great congregation."
+        },
+        {
+          "number": 14,
+          "line": "And they arose and took away the altars that were in Jerusalem, and all the altars for incense took they away, and cast them into the brook Kidron."
+        },
+        {
+          "number": 15,
+          "line": "Then they killed the passover on the fourteenth day of the second month: and the priests and the Levites were ashamed, and sanctified themselves, and brought in the burnt offerings into the house of the LORD."
+        },
+        {
+          "number": 16,
+          "line": "And they stood in their place after their manner, according to the law of Moses the man of God: the priests sprinkled the blood, which they received of the hand of the Levites."
+        },
+        {
+          "number": 17,
+          "line": "For there were many in the congregation that were not sanctified: therefore the Levites had the charge of the killing of the passovers for every one that was not clean, to sanctify them unto the LORD."
+        },
+        {
+          "number": 18,
+          "line": "For a multitude of the people, even many of Ephraim, and Manasseh, Issachar, and Zebulun, had not cleansed themselves, yet did they eat the passover otherwise than it was written. But Hezekiah prayed for them, saying, The good LORD pardon every one"
+        },
+        {
+          "number": 19,
+          "line": "That prepareth his heart to seek God, the LORD God of his fathers, though he be not cleansed according to the purification of the sanctuary."
+        },
+        {
+          "number": 20,
+          "line": "And the LORD hearkened to Hezekiah, and healed the people."
+        },
+        {
+          "number": 21,
+          "line": "And the children of Israel that were present at Jerusalem kept the feast of unleavened bread seven days with great gladness: and the Levites and the priests praised the LORD day by day, singing with loud instruments unto the LORD."
+        },
+        {
+          "number": 22,
+          "line": "And Hezekiah spake comfortably unto all the Levites that taught the good knowledge of the LORD: and they did eat throughout the feast seven days, offering peace offerings, and making confession to the LORD God of their fathers."
+        },
+        {
+          "number": 23,
+          "line": "And the whole assembly took counsel to keep other seven days: and they kept other seven days with gladness."
+        },
+        {
+          "number": 24,
+          "line": "For Hezekiah king of Judah did give to the congregation a thousand bullocks and seven thousand sheep; and the princes gave to the congregation a thousand bullocks and ten thousand sheep: and a great number of priests sanctified themselves."
+        },
+        {
+          "number": 25,
+          "line": "And all the congregation of Judah, with the priests and the Levites, and all the congregation that came out of Israel, and the strangers that came out of the land of Israel, and that dwelt in Judah, rejoiced."
+        },
+        {
+          "number": 26,
+          "line": "So there was great joy in Jerusalem: for since the time of Solomon the son of David king of Israel there was not the like in Jerusalem."
+        },
+        {
+          "number": 27,
+          "line": "Then the priests the Levites arose and blessed the people: and their voice was heard, and their prayer came up to his holy dwelling place, even unto heaven."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "hezekiah",
+      "titleEn": "Hezekiah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "_GoodSalt-stdas0036_8-27-2013 2-35-05 PM.jpg",
+      "caption": "Passover with King Hezekiah"
+    },
+    {
+      "file": "GoodSalt-wjpas0786_8-6-2013 3-45-15 PM.jpg",
+      "caption": "Passover celebration."
+    }
+  ],
+  "videos": []
 }

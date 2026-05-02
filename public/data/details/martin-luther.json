@@ -2,20 +2,39 @@
   "slug": "martin-luther",
   "id": 1323,
   "period": 11,
-  "titleEn": "Martin Luther",
+  "titleEn": "Martin Luther ",
   "titleKa": null,
-  "datesEn": "1483–1546 AD (63)",
+  "datesEn": "1483&ndash;1546 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "German monk and professor of theology who challenged the sale of indulgences by the Roman Catholic Church.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Martin Luther was born in the east German town of Eisleben in 1483. Luther eventually joined the Augustinian friars in Erfurt and began to study theology. In time, he became a professor of theology at the University of Wittenberg. In 1517, Luther wrote his Ninety&#8212;five Theses and nailed them to the door of the Castle Church in Wittenberg on October 31 of that same year.<BR /><BR />Luther&#39;s Ninety&#8212;five Theses reacted strongly against three main issues: the extravagant expenditures of the papacy, the abuse of papal authority (especially over purgatory), and the abomination of the sale of indulgences.<BR /><BR />When Luther publicized his Ninety&#8212;five Theses, his intent was not to overthrow the system. Luther was apparently unaware that his radical ideas threatened the very authority of the papacy or ecumenical councils. It was during Luther&#39;s interviews with Cardinal Cajetan (October 12&#8212;14, 1518) that he realized for the first time that the pope claimed authority over the Scriptures. Furthermore, Luther was not aware that his supreme view of the Scriptures came into conflict with ecumenical councils until the Leipzig Debate in 1519. It was not until 1520, three years after his Ninety&#8212;five Theses, that Luther began to openly write and declare that the authority of Scripture was above the pope and ecumenical councils.<BR /><BR />As a result, Luther began devoting his life to the Scriptures, proclaiming their supreme authority. On January 3, 1521, Luther was excommunicated from the Catholic Church, which enabled Protestantism to flourish. <BR /><BR />Shortly after his excommunication, Martin Luther stood before the Diet of Worms and refused to recant his beliefs. After taking that stand for his faith, Martin Luther went into hiding in the Wartburg Castle and began translating the New Testament into German. His New Testament was published in September 1522 and, by 1534, about 200,000 copies had been sold. By 1534 Luther had finished translating the Old Testament and in September the Wittenberg Bible became available to the public.<BR /><BR />Throughout his life, Martin Luther wrote many treatises and booklets. Some of the most important include: Ninety&#8212;five Thesis (1517), The Freedom of a Christian (1520), The Babylonian Captivity of the Church (1520), On Secular Authority (1523), The Freedom of the Will (1524), The Bondage of the Will (1525), The Small Catechism (1529), The Large Catechism (1529), and his Commentary on Galatians (1531).<BR /><BR />Martin Luther died in 1546. His death was held in tremendous honor. Three funeral sermons were delivered. The first sermon was given in his hometown of Eisleben. Two more were given in Wittenberg, the first by Johannes Bugenhagen and the second by Philip Melanchthon.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Martin_Luther_by_Cranach-restoration_8-5-2013 9-13-05 AM.jpg",
-      "caption": ""
+      "file": "Martin_Luther_by_Cranach-restoration_8-5-2013 9-13-05 AM.jpg",
+      "caption": "Martin Luther, Lucas Cranach"
+    },
+    {
+      "file": "IMG_5489_2-26-2013 5-13-35 PM.JPG",
+      "caption": "The square in Eisleben the location of Luther&#39;s birth"
+    },
+    {
+      "file": "IMG_5450_2-26-2013 5-13-35 PM.JPG",
+      "caption": "The church in Wittenberg"
+    },
+    {
+      "file": "IMG_0675_2-26-2013 5-13-35 PM.JPG",
+      "caption": "As a young man Luther would have looked out of the window to the world outside. (Window  to Castle in Wittenberg"
     }
-  ]
+  ],
+  "videos": []
 }

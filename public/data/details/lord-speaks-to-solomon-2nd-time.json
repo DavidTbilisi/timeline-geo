@@ -4,18 +4,67 @@
   "period": 6,
   "titleEn": "Lord Speaks to Solomon 2nd Time",
   "titleKa": null,
-  "datesEn": "959 BC",
+  "datesEn": "959 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "God&#39;s second appearance to Solomon, as he appeared in Gibeon, is to tell of the blessings promised to David. These promises are conditional on obedience to the Lord. The temple itself would endure if Israel would remain faithful.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Work on the Temple was begun in Solomon&#39;s 4th year (ch. 6:1), and was completed 7 years later, in his 11th year (ch. 6:38). The building of the palace took another 13 years (ch. 7:1). Thus Solomon&#39;s combined building program of Temple and palace took 20 years (ch. 9:10 2 Chron. 8:1), being completed in the 24th year of his reign. A question arises concerning the exact meaning of the words, &#34;when Solomon had finished.&#34; Does this mean that it was not till the end of the 20&#8212;year period of building that the Lord appeared to Solomon with the message that his prayer offered at the dedication of the Temple had been heard? If so, then when was the Temple dedicated shortly after its completion, or after a wait of 13 years, till the entire building program had been completed? <BR /><BR />If the Temple was dedicated shortly after its completion, would the Lord wait 13 years before telling Solomon that his prayer had been answered? Or could it be that the dedication did not take place till 13 years after the completion of the Temple? These are questions that, because of the brevity of the narrative, we are not able to answer with absolute certainty. It appears, however, that the response to the prayer of Solomon came shortly after the utterance of that prayer.<BR /><BR />God had first appeared to Solomon in a dream by night, given at Gibeon early in his reign (ch. 3:4&#8212;15). Again he was given a night vision but this message presents a contrast to the message of the earlier vision. Then the predominant theme was one of promise and encouragement (chs. 3:12&#8212;14 6:12, 13) now again there were promises and encouragement, but there were also solemn warnings of the sad results that transgression would bring. <BR /><BR />Solomon was given the assurance that his words of earnest entreaty had been heard. He had done everything within his power to encourage the people to be faithful to the Lord and His commands. God honored his spirit and his purpose, and now gave him a new assurance of divine favor. How often the Lord gives His children renewed expressions of confidence, fresh appearances from on high, commendations for the services of earlier days, and promises of favor and blessing for days to come.<BR /><BR />All God&#39;s promises of blessing are conditional upon obedience. It could not be otherwise. The laws of nature as well as those governing moral conduct are the laws of God, and whoever violates those laws sins against himself. All God&#39;s laws are given for the benefit of man and for the world in which he lives. When these laws are violated the inevitable result is sorrow, sickness, pain, woe, and death. This is true for the individual as well as the nation, for the community as well as the world. The pathway of obedience is the only pathway of peace and prosperity, of life and health. <BR /><BR />The well&#8212;being of society, the peace of the nation, the hope of the world&#8212;all require that men learn the wisdom and practical worth of obedience to every command of God. When Israel still was prosperous and Solomon still was young, God desired to make it plain that transgression would not bring joy but sorrow, not blessing but disaster and death.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Kings 9:1-9",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And it came to pass, when Solomon had finished the building of the house of the LORD, and the king's house, and all Solomon's desire which he was pleased to do,"
+        },
+        {
+          "number": 2,
+          "line": "That the LORD appeared to Solomon the second time, as he had appeared unto him at Gibeon."
+        },
+        {
+          "number": 3,
+          "line": "And the LORD said unto him, I have heard thy prayer and thy supplication, that thou hast made before me: I have hallowed this house, which thou hast built, to put my name there for ever; and mine eyes and mine heart shall be there perpetually."
+        },
+        {
+          "number": 4,
+          "line": "And if thou wilt walk before me, as David thy father walked, in integrity of heart, and in uprightness, to do according to all that I have commanded thee, and wilt keep my statutes and my judgments:"
+        },
+        {
+          "number": 5,
+          "line": "Then I will establish the throne of thy kingdom upon Israel for ever, as I promised to David thy father, saying, There shall not fail thee a man upon the throne of Israel."
+        },
+        {
+          "number": 6,
+          "line": "But if ye shall at all turn from following me, ye or your children, and will not keep my commandments and my statutes which I have set before you, but go and serve other gods, and worship them:"
+        },
+        {
+          "number": 7,
+          "line": "Then will I cut off Israel out of the land which I have given them; and this house, which I have hallowed for my name, will I cast out of my sight; and Israel shall be a proverb and a byword among all people:"
+        },
+        {
+          "number": 8,
+          "line": "And at this house, which is high, every one that passeth by it shall be astonished, and shall hiss; and they shall say, Why hath the LORD done thus unto this land, and to this house?"
+        },
+        {
+          "number": 9,
+          "line": "And they shall answer, Because they forsook the LORD their God, who brought forth their fathers out of the land of Egypt, and have taken hold upon other gods, and have worshipped them, and served them: therefore hath the LORD brought upon them all this evil."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "solomon",
+      "titleEn": "Solomon",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-lwjas0332_8-6-2013 9-42-23 AM.jpg",
-      "caption": ""
+      "file": "GoodSalt-lwjas0332_8-6-2013 9-42-23 AM.jpg",
+      "caption": "Solomon praying."
     }
-  ]
+  ],
+  "videos": []
 }

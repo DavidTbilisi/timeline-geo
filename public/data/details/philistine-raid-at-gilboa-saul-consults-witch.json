@@ -4,18 +4,125 @@
   "period": 6,
   "titleEn": "Philistine Raid at Gilboa, Saul Consults Witch",
   "titleKa": null,
-  "datesEn": "1010 BC",
+  "datesEn": "1010 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "As another war brews with the Philistines at Gilboa, Saul seeks the Lord who does not answer him. So he seeks a witch who supposedly calls up the dead prophet Samuel who then gives bad news. It is an evil spirit who speaks to Saul.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The fact that the Philistines could pass clear through the valley to Shunem indicates that while Saul had been so intent on finding David, he had been most remiss in protecting his frontiers, and the Philistines had taken advantage of this laxity. Saul&#39;s mad passion to rid the land of David, had involuntarily opened the whole country to the invasions of the Philistines. The invaders had probably overrun much of the territory belonging to Issachar, Zebulun, and Asher. From the top of Mt. Gilboa, Saul could get a commanding view of the Valley of Jezreel and the opposing army nestled at the base of Moreh some 4 or 5 mi. distant. Perhaps Israelite scouts had intensified Saul&#39;s desperation by warning him concerning David&#39;s presence with the Philistine host, and he feared lest David now seek revenge.<BR /><BR />When Saul enquired of the Lord, God did not answer him. The Lord never turns away any soul who comes to Him in humility and sincerity. The answer may not come in the manner expected or at the time expected, but God takes note of the petition and works what is best under the circumstances. The frantic appeals of Saul reached the divine ear, but in view of the situation, God chose not to impart the information the king was seeking. Saul had deliberately refused to wait for God&#39;s counsel at Gilgal (ch. 13:8&#8212;14), or to accept any messages contrary to his kingly ideas. <BR /><BR />He had had access to the tabernacle at Nob, but had murdered the priests. Inasmuch as Saul had voluntarily chosen to follow his own counsel, God permitted him to reap the fruit of such sowing. Had he been repentant and submissive, God could have turned his mistakes into steppingstones to success. The text seems to indicate that in his desperation, Saul tried hurriedly to inquire by means of dreams, Urim, and prophets, but all three were silent. Since Abiathar had the ephod in his possession, some think that Saul ordered another made. In his mad haste Saul turned to the source of information he himself had condemned (v. 3). The man who was once filled with spiritual zeal now gave way to the heathen superstition of calling on the supposed spirits of departed souls for help.",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "1 Samuel 28:3-25",
+      "verses": [
+        {
+          "number": 3,
+          "line": "Now Samuel was dead, and all Israel had lamented him, and buried him in Ramah, even in his own city. And Saul had put away those that had familiar spirits, and the wizards, out of the land."
+        },
+        {
+          "number": 4,
+          "line": "And the Philistines gathered themselves together, and came and pitched in Shunem: and Saul gathered all Israel together, and they pitched in Gilboa."
+        },
+        {
+          "number": 5,
+          "line": "And when Saul saw the host of the Philistines, he was afraid, and his heart greatly trembled."
+        },
+        {
+          "number": 6,
+          "line": "And when Saul enquired of the LORD, the LORD answered him not, neither by dreams, nor by Urim, nor by prophets."
+        },
+        {
+          "number": 7,
+          "line": "Then said Saul unto his servants, Seek me a woman that hath a familiar spirit, that I may go to her, and enquire of her. And his servants said to him, Behold, there is a woman that hath a familiar spirit at Endor."
+        },
+        {
+          "number": 8,
+          "line": "And Saul disguised himself, and put on other raiment, and he went, and two men with him, and they came to the woman by night: and he said, I pray thee, divine unto me by the familiar spirit, and bring me him up, whom I shall name unto thee."
+        },
+        {
+          "number": 9,
+          "line": "And the woman said unto him, Behold, thou knowest what Saul hath done, how he hath cut off those that have familiar spirits, and the wizards, out of the land: wherefore then layest thou a snare for my life, to cause me to die?"
+        },
+        {
+          "number": 10,
+          "line": "And Saul sware to her by the LORD, saying, As the LORD liveth, there shall no punishment happen to thee for this thing."
+        },
+        {
+          "number": 11,
+          "line": "Then said the woman, Whom shall I bring up unto thee? And he said, Bring me up Samuel."
+        },
+        {
+          "number": 12,
+          "line": "And when the woman saw Samuel, she cried with a loud voice: and the woman spake to Saul, saying, Why hast thou deceived me? for thou art Saul."
+        },
+        {
+          "number": 13,
+          "line": "And the king said unto her, Be not afraid: for what sawest thou? And the woman said unto Saul, I saw gods ascending out of the earth."
+        },
+        {
+          "number": 14,
+          "line": "And he said unto her, What form is he of? And she said, An old man cometh up; and he is covered with a mantle. And Saul perceived that it was Samuel, and he stooped with his face to the ground, and bowed himself."
+        },
+        {
+          "number": 15,
+          "line": "And Samuel said to Saul, Why hast thou disquieted me, to bring me up? And Saul answered, I am sore distressed; for the Philistines make war against me, and God is departed from me, and answereth me no more, neither by prophets, nor by dreams: therefore I have called thee, that thou mayest make known unto me what I shall do."
+        },
+        {
+          "number": 16,
+          "line": "Then said Samuel, Wherefore then dost thou ask of me, seeing the LORD is departed from thee, and is become thine enemy?"
+        },
+        {
+          "number": 17,
+          "line": "And the LORD hath done to him, as he spake by me: for the LORD hath rent the kingdom out of thine hand, and given it to thy neighbour, even to David:"
+        },
+        {
+          "number": 18,
+          "line": "Because thou obeyedst not the voice of the LORD, nor executedst his fierce wrath upon Amalek, therefore hath the LORD done this thing unto thee this day."
+        },
+        {
+          "number": 19,
+          "line": "Moreover the LORD will also deliver Israel with thee into the hand of the Philistines: and to morrow shalt thou and thy sons be with me: the LORD also shall deliver the host of Israel into the hand of the Philistines."
+        },
+        {
+          "number": 20,
+          "line": "Then Saul fell straightway all along on the earth, and was sore afraid, because of the words of Samuel: and there was no strength in him; for he had eaten no bread all the day, nor all the night."
+        },
+        {
+          "number": 21,
+          "line": "And the woman came unto Saul, and saw that he was sore troubled, and said unto him, Behold, thine handmaid hath obeyed thy voice, and I have put my life in my hand, and have hearkened unto thy words which thou spakest unto me."
+        },
+        {
+          "number": 22,
+          "line": "Now therefore, I pray thee, hearken thou also unto the voice of thine handmaid, and let me set a morsel of bread before thee; and eat, that thou mayest have strength, when thou goest on thy way."
+        },
+        {
+          "number": 23,
+          "line": "But he refused, and said, I will not eat. But his servants, together with the woman, compelled him; and he hearkened unto their voice. So he arose from the earth, and sat upon the bed."
+        },
+        {
+          "number": 24,
+          "line": "And the woman had a fat calf in the house; and she hasted, and killed it, and took flour, and kneaded it, and did bake unleavened bread thereof:"
+        },
+        {
+          "number": 25,
+          "line": "And she brought it before Saul, and before his servants; and they did eat. Then they rose up, and went away that night."
+        }
+      ]
+    }
+  ],
   "related": [],
   "images": [
     {
-      "file": "media/images/t/saul-and-the-witch-of-endor-1777_7-30-2013 3-19-19 PM.jpg",
-      "caption": ""
+      "file": "saul-and-the-witch-of-endor-1777_7-30-2013 3-19-19 PM.jpg",
+      "caption": "llustration of biblical story of Saul and the Witch of Endor.  Artist: Benjamin West. c.1777"
+    },
+    {
+      "file": "Mount Gilboa view southwest, tb033007242_5-1-2013 12-59-06 PM.jpg",
+      "caption": "View of Mount Gilboa"
+    },
+    {
+      "file": "GoodSalt-DeathOfSaul_8-5-2013 4-41-24 PM.jpg",
+      "caption": "The death of Saul."
     }
-  ]
+  ],
+  "videos": []
 }

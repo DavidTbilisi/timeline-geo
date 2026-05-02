@@ -4,18 +4,37 @@
   "period": 8,
   "titleEn": "Alexander the Great",
   "titleKa": null,
-  "datesEn": "356–323 BC (~33)",
+  "datesEn": "356&ndash;323 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;defender of man.&#34; He is one of the greatest conquerors in history, the king of Macedonia who was tutored by Aristotle and conquered the known world by age 30. His kingdom is the belly of brass in Daniel&#39;s image of the nations.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Alexander III was born in Pella in 356 B.C., was educated by Aristotle, and became king of Macedonia in 336 B.C. During his rule, he united the factions of Greece and led his nation to become the ultimate global power, establishing its presence and spreading its Hellenistic influence throughout the known world. Along the way, he founded more than 70 cities across three continents, spanning over two million square miles, from Macedonia to Egypt to India. He most notable achievement, of course, was conquering the Persian Empire against overwhelming odds. Alexander the Great is believed to have died from Malaria in 323 B.C. at the age of 32. Without a heir, his kingdom was divided between four Grecian generals, weakening Greece and paving the way for the eventual rise of the Roman Empire. The book of Daniel was written 250 years before his birth, yet it describes his country&#8212;the leopard&#8212;in great detail, accurately recording how quickly he would conquer the kingdoms of the world and how, after his death, Greece broke apart into four factions. See Daniel 8:1&#8212;22.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
+  "related": [
+    {
+      "slug": "arbela-battle-of-decisive-victory-over-persia",
+      "titleEn": "Arbela, Battle of - Decisive Victory over Persia",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Aleksander-d-store_8-8-2013 1-08-59 PM.jpg",
-      "caption": ""
+      "file": "Aleksander-d-store_8-8-2013 1-08-59 PM.jpg",
+      "caption": "Alexander the Great bust, Ny Carlsberg Glyptotek"
+    },
+    {
+      "file": "Aristotle_tutoring_Alexander_3-20-2013 5-59-47 PM.jpg",
+      "caption": "Aristotle tutoring Alexander by J.L.G. Ferris in 1895."
+    },
+    {
+      "file": "BattleofIssus333BC-mosaic-detail1_8-8-2013 1-08-59 PM.jpg",
+      "caption": "Alexander in battle, Meister der Alexanderschlacht"
+    },
+    {
+      "file": "800px-Mid-nineteenth_century_reconstruction_of_Alexanders_funeral_procession_8-8-2013 1-08-59 PM.jpg",
+      "caption": "Alexander&#39;s funeral procession, Artist: unknown"
     }
-  ]
+  ],
+  "videos": []
 }

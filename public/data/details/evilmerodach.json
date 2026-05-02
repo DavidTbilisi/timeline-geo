@@ -4,13 +4,47 @@
   "period": 8,
   "titleEn": "Evil-Merodach",
   "titleKa": null,
-  "datesEn": "600–560 BC",
+  "datesEn": "600&ndash;560 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Merodach&#39;s man.&#34; Also called Amel&#8212;Marduk, he is the son and successor of Nebuchadnezzar. He rules for two years. He shows kindness to Jehoiachin of Judah who is released from captivity. Amel&#8212;Marduk is murdered by his brother&#8212;in&#8212;law.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Evil&#8212;merodach, name means &#34;man of (the god) Marduk.&#34; The son and successor of Nebuchadnezzar on the throne of Babylon. He ruled for two years (562&#8212;560 b.c.). According to the Babylonian historian Berossus, his reign was &#34;arbitrary and licentious&#34; (Jos. Against Apion i. 20, Loeb ed.). The Bible mentions Evil&#8212;merodach as showing kindness to King Jehoiachin of Judah, whom he released from prison in the 37th year of his captivity and placed in a more favorable position than that of any other exiled monarch living in Babylon (2 Ki 25:27&#8212;30 Jer 52:31&#8212;34). <BR /><BR />The expressions used in both texts are ambiguous as to whether Jehoiachin&#39;s release occurred in Amel&#8212;Marduk&#39;s accession year or in his first regnal year. Amel&#8212;Marduk fell victim to a murderous plot of his brother&#8212;in&#8212;law, Nergal&#8212;shar&#8212;usur (Neriglissar), who succeeded him on the throne.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 25:27-30",
+      "verses": [
+        {
+          "number": 27,
+          "line": "And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth day of the month, that Evilmerodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;"
+        },
+        {
+          "number": 28,
+          "line": "And he spake kindly to him, and set his throne above the throne of the kings that were with him in Babylon;"
+        },
+        {
+          "number": 29,
+          "line": "And changed his prison garments: and he did eat bread continually before him all the days of his life."
+        },
+        {
+          "number": 30,
+          "line": "And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "nebuchadnezzar-ii",
+      "titleEn": "Nebuchadnezzar II",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-wjpas0005_8-28-2013 10-31-01 AM.jpg",
+      "caption": "Evil-merodach is the son and successor of Nebuchadnezzar in the Babylonian Empire."
+    }
+  ],
+  "videos": []
 }

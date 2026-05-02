@@ -4,18 +4,77 @@
   "period": 5,
   "titleEn": "Boaz",
   "titleKa": null,
-  "datesEn": "1273–1193 BC",
+  "datesEn": "1273&ndash;1193 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;strength is in him.&#34; He is the son of Salmon from the line of Perez and the husband of Ruth. He is a wealthy Bethlehamite who marries a Moabitess because of the &#34;levirate law.&#34; He is listed as an ancestor of David and Jesus Christ.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Chronicles 2:11",
+      "verses": [
+        {
+          "number": 11,
+          "line": "And Nahshon begat Salma, and Salma begat Boaz,"
+        }
+      ]
+    },
+    {
+      "reference": "Ruth 4:21",
+      "verses": [
+        {
+          "number": 21,
+          "line": "And Salmon begat Boaz, and Boaz begat Obed,"
+        }
+      ]
+    },
+    {
+      "reference": "Matthew 1:5",
+      "verses": [
+        {
+          "number": 5,
+          "line": "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;"
+        }
+      ]
+    },
+    {
+      "reference": "Luke 3:32",
+      "verses": [
+        {
+          "number": 32,
+          "line": "Which was the son of Jesse, which was the son of Obed, which was the son of Booz, which was the son of Salmon, which was the son of Naasson,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "salmon",
+      "titleEn": "Salmon",
+      "titleKa": null
+    },
+    {
+      "slug": "obed",
+      "titleEn": "Obed",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas0067_8-13-2013 3-13-51 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas0067_8-13-2013 3-13-51 PM.jpg",
+      "caption": "Ruth and Boaz."
+    },
+    {
+      "file": "Julius_Schnorr_von_Carolsfeld-_Ruth_im_Feld_des_Boaz.jpg",
+      "caption": "Canvas of Ruth in Boaz&#39;s field  in 1828 by Julius Schnorr von Carolsfeld in National Gallery."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Redeemed: Lesson from the Story of Ruth",
+      "caption": "The story of Ruth is full of symbolism about Christ, the gospel, and salvation. For instance, a woman is a symbol of the church in Scripture. Pastor Batchelor explores the entire book of Ruth. The principal redeemer in the book who represents Christ is the man Boaz.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg5367.mp4"
     }
   ]
 }

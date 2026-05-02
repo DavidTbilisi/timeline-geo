@@ -4,13 +4,29 @@
   "period": 7,
   "titleEn": "Fall of Samaria",
   "titleKa": null,
-  "datesEn": "722 BC",
+  "datesEn": "722 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After a 3&#8212;year siege against Samaria, the Assyrians successfully capture the city and carry away its citizens. These people are replaced by others from Babylonia and Syria (see 2 Ki 17:24). Israel as a people and kingdom of the north cease to be.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Bible says of this siege of Samaria that &#34;They took it&#34;. The plural &#34;they&#34; is of interest. It might refer to the Assyrians in general, but that is hardly likely, for the previous verse speaks of Shalmaneser as coming against Samaria and besieging it. It has been suggested that the &#34;they&#34; here probably refers to Shalmaneser and someone associated with him. This may have been Shalmaneser&#39;s general and successor on the throne, Sargon (see on ch. 17:6).",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 18:10",
+      "verses": [
+        {
+          "number": 10,
+          "line": "And at the end of three years they took it: even in the sixth year of Hezekiah, that is the ninth year of Hoshea king of Israel, Samaria was taken."
+        }
+      ]
+    }
+  ],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "_GoodSalt-prcas0465_8-27-2013 2-43-23 PM.jpg",
+      "caption": "The fall of Samaria"
+    }
+  ],
+  "videos": []
 }

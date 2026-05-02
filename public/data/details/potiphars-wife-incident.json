@@ -4,13 +4,109 @@
   "period": 3,
   "titleEn": "Potiphar's Wife Incident",
   "titleKa": null,
-  "datesEn": "1668 BC",
+  "datesEn": "1668 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Potiphar buys Joseph as a servant. Potiphar&#39;s wife tries to seduce Joseph to sleep with her. He refuses. When no men are in the house, she grabs his coat and says, &#34;Sleep with me.&#34; He runs from the house leaving his coat. Joseph is put in prison.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In this moment of crisis the personal integrity of Joseph stands forth in sharp contrast to that of his brothers. What would Reuben (ch. 35:22) or Judah (ch. 38:16) have done under the circumstances? Little wonder that Jacob favored Joseph, and that Potiphar felt such confidence in him. This confidence in him reinforced his serene purpose to be true to God, and made even more desirable to him his lofty ideals of personal honor and integrity. Joseph&#39;s character stood firm under persistent attack. Wisely, he refused even to be in her company. In thus refusing, Joseph revealed sincerity, wisdom, and determination in the way of right. The stronger the temptation, the more resolute he became in resisting it.<BR /><BR />In repeating her tale to her husband, Potiphar&#39;s wife indirectly blamed him for the supposed affront by referring to Joseph as &#34;the Hebrew servant, which thou hast brought unto us&#34; (v. 17). Potiphar&#39;s action in confining Joseph with political offenders may be considered extreme leniency in view of punishment customarily administered for the crime of which he stood accused. In later times the penalty for an attempt at adultery was a thousand blows upon the soles of the feet, and for the rape of a freewoman it was even more severe (Diodorus i. 78). <BR /><BR />Potiphar&#39;s lenience no doubt reflected his confidence in Joseph&#39;s integrity, and in contrast, very little respect for his wife&#39;s account of the episode. Nevertheless Joseph&#39;s punishment seems to have been severe at first, for more happened to him than the Genesis narrative implies. According to Ps. 105:18, his &#34;feet&#34; were &#34;hurt with fetters,&#34; and &#34;he was laid in iron.&#34;<BR /><BR />There is an Egyptian papyrus, now in the British Museum, that relates a &#34;story of the two brothers&#34; superficially resembling the story of Joseph and Potiphar&#39;s wife. Numerous scholars have taken it to be the original of the story of Joseph&#39;s experience, and although the two are similar in some respects, the differences far outweigh the similarities. The Egyptian story, furthermore, has a mythological setting, and is of later origin than the book of Genesis by at least 250 years.",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 39:1-20",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither."
+        },
+        {
+          "number": 2,
+          "line": "And the LORD was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian."
+        },
+        {
+          "number": 3,
+          "line": "And his master saw that the LORD was with him, and that the LORD made all that he did to prosper in his hand."
+        },
+        {
+          "number": 4,
+          "line": "And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all that he had he put into his hand."
+        },
+        {
+          "number": 5,
+          "line": "And it came to pass from the time that he had made him overseer in his house, and over all that he had, that the LORD blessed the Egyptian's house for Joseph's sake; and the blessing of the LORD was upon all that he had in the house, and in the field."
+        },
+        {
+          "number": 6,
+          "line": "And he left all that he had in Joseph's hand; and he knew not ought he had, save the bread which he did eat. And Joseph was a goodly person, and well favoured."
+        },
+        {
+          "number": 7,
+          "line": "And it came to pass after these things, that his master's wife cast her eyes upon Joseph; and she said, Lie with me."
+        },
+        {
+          "number": 8,
+          "line": "But he refused, and said unto his master's wife, Behold, my master wotteth not what is with me in the house, and he hath committed all that he hath to my hand;"
+        },
+        {
+          "number": 9,
+          "line": "There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?"
+        },
+        {
+          "number": 10,
+          "line": "And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, or to be with her."
+        },
+        {
+          "number": 11,
+          "line": "And it came to pass about this time, that Joseph went into the house to do his business; and there was none of the men of the house there within."
+        },
+        {
+          "number": 12,
+          "line": "And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out."
+        },
+        {
+          "number": 13,
+          "line": "And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,"
+        },
+        {
+          "number": 14,
+          "line": "That she called unto the men of her house, and spake unto them, saying, See, he hath brought in an Hebrew unto us to mock us; he came in unto me to lie with me, and I cried with a loud voice:"
+        },
+        {
+          "number": 15,
+          "line": "And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out."
+        },
+        {
+          "number": 16,
+          "line": "And she laid up his garment by her, until his lord came home."
+        },
+        {
+          "number": 17,
+          "line": "And she spake unto him according to these words, saying, The Hebrew servant, which thou hast brought unto us, came in unto me to mock me:"
+        },
+        {
+          "number": 18,
+          "line": "And it came to pass, as I lifted up my voice and cried, that he left his garment with me, and fled out."
+        },
+        {
+          "number": 19,
+          "line": "And it came to pass, when his master heard the words of his wife, which she spake unto him, saying, After this manner did thy servant to me; that his wrath was kindled."
+        },
+        {
+          "number": 20,
+          "line": "And Joseph's master took him, and put him into the prison, a place where the king's prisoners were bound: and he was there in the prison."
+        }
+      ]
+    }
+  ],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "Joseph_and_Potiphar's_wife_001_8-6-2013 10-56-50 AM.jpg",
+      "caption": "Joseph and Potiphar&#39;s wife, Battistello Caracciolo "
+    },
+    {
+      "file": "Joseph and Potiphar's Wife 2_5-9-2013 2-21-54 PM.jpg",
+      "caption": "Joseph and Potiphar&#39;s Wife painting by Guido Reni in 1631."
+    }
+  ],
+  "videos": []
 }

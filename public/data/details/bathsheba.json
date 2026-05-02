@@ -4,18 +4,33 @@
   "period": 6,
   "titleEn": "Bathsheba",
   "titleKa": null,
-  "datesEn": "1009–937 BC",
+  "datesEn": "1009&ndash;937 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;daughter of an oath&#34; or &#34;daughter of the Sabbath.&#34; She is the daughter of Eliam and wife of Uriah, the Hittite, who was one of David&#39;s soldiers. David commits adultery with her and she becomes pregnant. Uriah is murdered and they marry.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Bathsheba. Daughter of Eliam, and wife of Uriah, a Hittite soldier in David&#39;s army. Attracted by her beauty, David committed adultery with her during her husband&#39;s absence, resulting in her pregnancy. When he failed in his attempts to make Uriah visit his home and thus be led later to believe that the child was his, David manipulated events to have his faithful soldier killed during the siege of Rabbah. Following the customary period of mourning, he married Bathsheba. The first child died the second was the later King Solomon (2 Sa 11:1 to 12:24).<BR /><BR />When Adonijah was about to assume the royal throne (1 Ki 1:11&#8212;31), Bathsheba, advised by the prophet Nathan, induced the king immediately to crown her son Solomon. She tried later to obtain her son&#39;s consent for Adonijah&#39;s marriage to Abishag, David&#39;s nurse. Her efforts failed, and because of the request Adonijah lost his life (ch 2:13&#8212;25). According to 1 Chr 3:5 Bathsheba had three sons besides Solomon: Shimea, Shobab, and Nathan (cf. 2 2 Sa 5:14 1 Chr 14:4). Once she is called Bath&#8212;shua, the daughter of Ammiel (1 Chr 3:5). The name Bath&#8212;shua is a misreading for Bathsheba, probably caused by a partial effacing of the Hebrew letter b. The name Ammiel contains the component parts of Eliam in reverse order. Bathsheba is listed in Matthew&#39;s genealogy of Christ as &#34;the wife of Uriah&#34; (Mt 1:6, RSV).",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "2 Samuel 11:3",
+      "verses": [
+        {
+          "number": 3,
+          "line": "And David sent and enquired after the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?"
+        }
+      ]
+    }
+  ],
   "related": [],
   "images": [
     {
-      "file": "media/images/t/bathsheba-receiving-david-s-letter_8-5-2013 3-48-46 PM.jpg",
-      "caption": ""
+      "file": "bathsheba-receiving-david-s-letter_8-5-2013 3-48-46 PM.jpg",
+      "caption": "&#34;Bathsheba receiving David&#39;s Letter&#34; Jan Steel"
+    },
+    {
+      "file": "Bathsheba T127_7-18-2013 2-47-45 PM.jpg",
+      "caption": "Canvas of Bathsheba at bath in 1575 by Paolo Veronese  in Museum of Fine Arts of Lyon. Photographed by Rama"
     }
-  ]
+  ],
+  "videos": []
 }

@@ -4,13 +4,39 @@
   "period": 3,
   "titleEn": "Lot and Daughters Dwell in a Cave",
   "titleKa": null,
-  "datesEn": "1845 BC",
+  "datesEn": "1845 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "When Lot with his wife and two daughters escape Sodom, he loses his wife, but his two daughters escape to Zoar and dwell in a cave. The two daughters give birth through their father to the fathers of the Moabites and Ammonites.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "With child by their father. In this action Lot&#39;s daughters revealed the evil influence of Sodom. They had grown to womanhood in a country where drunkenness and all forms of immorality were rampant consequently, their judgment was dull and their conscience numb. Lot had been able to protect his daughters from becoming victims of the Sodomites (see v. 8), but he had not been as successful in fixing the principles of right in their hearts. They are more to be pitied than blamed, for Lot himself shared in their sin. He was responsible for the circumstances that led up to it, as he was also for drinking the wine they set before him (see on ch. 9:21). The price Lot paid for a few years in Sodom was the loss of his entire family. The vile and idolatrous Moabites and Ammonites were his only posterity.<BR /><BR />Moab. Ancestor of the Moabites. His name probably means &#34;of my father,&#34; as the LXX renders it. Although cousins of the Israelites, the Moabites were ever their enemies. Originally they inhabited the country between the Arnon and the Zered, east of the Dead Sea. From the time of David to that of Ahab they were temporarily tributary to their western neighbors, but regained independence under their king Mesha (2 Kings 3:4, 5), who extended his territory northward.<BR /><BR />Ben&#8212;ammi. The name of the ancestor of the Ammonites probably means &#34;son of my people.&#34; By this his mother expressed the fact that his father and mother were of one family stock. Her son was in reality her own half brother, but his ancestors were hers as well. The Ammonites became nomads and lived in the eastern part of the region lying between the Jabbok and the Arnon. The name of their stronghold, Rabbath Ammon, is perpetuated in the name Amman, present capital of the Kingdom of Jordan.<BR /><BR />The story of Lot and his family is tragic. A blot lies on his memory to all generations. His sin was forgiven, but the evil of years devoted to pleasure and profit lived after him for generations.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 19:30",
+      "verses": [
+        {
+          "number": 30,
+          "line": "And Lot went up out of Zoar, and dwelt in the mountain, and his two daughters with him; for he feared to dwell in Zoar: and he dwelt in a cave, he and his two daughters."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "lot",
+      "titleEn": "Lot",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-pppas0304_8-13-2013 2-28-19 PM.jpg",
+      "caption": "Lot and his Daughters flee Sodom."
+    },
+    {
+      "file": "526px-Lot_and_his_daughters_flee_Sodom_-_Genesis19-17_8-5-2013 3-50-53 PM.jpg",
+      "caption": "Lot and his Daughters flee Sodom, Providence Lithograph Company, 1908"
+    }
+  ],
+  "videos": []
 }

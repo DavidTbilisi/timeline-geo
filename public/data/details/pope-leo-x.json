@@ -2,15 +2,31 @@
   "slug": "pope-leo-x",
   "id": 1322,
   "period": 11,
-  "titleEn": "Pope Leo X",
+  "titleEn": "Pope Leo X ",
   "titleKa": null,
-  "datesEn": "1475–1521 AD",
+  "datesEn": "1475&ndash;1521 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Pope from 1513 to 1521. He granted indulgences to those who donated to the reconstruction of St. Peter&#39;s Basilica. Also challenged the Ninety&#8212;five Theses of Martin Luther.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Pope Leo X held the position of the bishop of Rome, or pope, from 1513&#8212;1521. During his papacy he accomplished much for the cause of Rome. In 1516 he wrote Pastor Aeternus, which effectively put an end to the conciliar movement (which claimed the authority of a general council was above the authority of the pope) that became forceful at the Council of Constance. As a result, the pope was again declared to hold the highest authority within the Catholic Church.<BR /><BR />In order to rebuild St. Peter&#39;s Cathedral, which remains standing in Vatican City, Leo X renewed the sale of indulgences. Indulgence preachers were soon hired to promote this endeavor. Perhaps the most well&#8212;known indulgence preacher at the time was John Tetzel. Martin Luther openly rebuked Tetzel and other indulgence preachers. As a result, Pope Leo X excommunicated Martin Luther on January 3, 1521. Leo X died of malaria in December of that same year.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Leo_X_Rubens_2-26-2013 5-09-07 PM.jpg",
+      "caption": "Portrait of Pope Leo X by Peter Paul Rubens located at Museum Plantin-Moretus, Antwerp."
+    },
+    {
+      "file": "154415582_2-26-2013 5-09-07 PM.jpg",
+      "caption": "View on Tiber and St. Peter&#39;s Cathedral at night, Rome."
+    }
+  ],
+  "videos": []
 }

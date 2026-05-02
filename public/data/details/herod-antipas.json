@@ -4,18 +4,48 @@
   "period": 9,
   "titleEn": "Herod Antipas",
   "titleKa": null,
-  "datesEn": "20 BC–50 AD (~70)",
+  "datesEn": "20 <span>BC</span>&ndash;50 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The son of Herod the Great, a ruler of Galilee and Perea during Jesus&#39; ministry. In the Bible he is called &#34;Herod the Tetrarch&#34;. John the Baptist speaks to him about his adulterous relationship with Herodias who cannot rest until John is dead.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Herod (Antipas) Ruler of Galilee and Perea during Jesus&#39; ministry, called &#34;Herod the Tetrarch&#34; in the New Testament, but usually referred to in history as &#34;Herod Antipas.&#34; He was the son of Herod the Great and his Samaritan wife Malthace, and was educated in Rome with his brother Archelaus and his half brother Philip. Antipas was designated successor to the throne in his father&#39;s 2nd will, yet in Herod&#39;s final will he was given only Galilee and Perea, with the title of tetrarch. Mark refers to him by his popular title, king (ch 6:14). Since he is simply called Herod in the Gospels, a name found also on his coins, readers of the Bible have frequently confused him with his father. He was married to the daughter of Aretas IV, king of the Nabataeans, whose capital was Petra, south of the Dead Sea (The Roman Empire in the First Century (A.D.)). This marriage may have been contracted with the purpose of making the eastern and southern borders of Perea safe from Nabataean attacks.<BR /><BR />During a visit to Rome, Herod Antipas fell in love with Herodias, his niece, who was the wife of his half brother, Herod Philip. Herodias thereupon left her husband and lived with Antipas. His discarded wife&#39;s father was deeply offended and consequently waged war against Antipas, in which he succeeded in occupying parts of Antipas&#39; Transjordan territories. John the Baptist severely rebuked Antipas (perhaps publicly) for his adultery and as a result was incarcerated in Machaerus, a fortress east of the Dead Sea. Herodias deeply hated John for his interference in her private life and could not rest until she brought about his death (Mt 14:1&#8212;12). Antipas was known for his cunning (Jesus called him &#34;that fox,&#34; Lk 13:32), his ambitions, and his love of luxuries, yet he lived as an orthodox Jew, and went to Jerusalem on feast days (ch 23:7). For years he was an enemy of Pilate (v 12), because he could not condone the procurator&#39;s anti&#8212;Jewish acts. In harmony with the Jewish aversion to images he refrained from having his portrait put on his coins. He rebuilt Sepphoris in Galilee, added to its fortifications, and made it his capital. He also built Tiberias and other cities and strengthened the borders of his domain.<BR /><BR />Herod Antipas is mentioned in the New Testament in connection with the imprisonment and execution of John the Baptist (Mt 14:3&#8212;12). He may have planned to arrest and kill Jesus of Nazareth, as the Pharisees claimed (Lk 13:31), but this is not certain. He considered Jesus to be the risen Baptist (Mk 6:14&#8212;16). When he finally met Jesus in Jerusalem, he showed interest in Him, but his interest turned to ridicule when Jesus refused to answer him (Lk 23:8&#8212;12). Pilate&#39;s act of sending Jesus to him, in recognition of Herod&#39;s authority over Galileans even in Jerusalem, resulted in a friendship between the two former antagonists. In a.d. 37 Agrippa, Herodias&#39; brother, was made king over the northeastern territories of Palestine that Philip (see Herod, 4) had held. Herodias, dissatisfied that her husband had the title only of tetrarch, induced him to go with her to Rome and to seek a royal crown from Caligula. Agrippa, however, sent letters to Rome accusing his uncle Antipas of treasonable activities. As a result, instead of being made a king, Herod was banished in a.d. 39, to either Gaul or Spain, where Herodias followed him into exile. His territory was added to that of his accuser, Agrippa.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Mark 6:14",
+      "verses": [
+        {
+          "number": 14,
+          "line": "And king Herod heard of him; (for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 13:32",
+      "verses": [
+        {
+          "number": 32,
+          "line": "And he said unto them, Go ye, and tell that fox, Behold, I cast out devils, and I do cures to day and to morrow, and the third day I shall be perfected."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "herod-the-great",
+      "titleEn": "Herod the Great",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Brooklyn_Museum_Herod_James_Tissot_-_overall.jpg",
-      "caption": ""
+      "file": "Brooklyn_Museum_Herod_James_Tissot_-_overall.jpg",
+      "caption": "Opaque watercolor over graphite on gray wove paper picture of Herod Antipas between 1886-1894 by J.J. Tissot in the Brooklyn Museum."
+    },
+    {
+      "file": "Jesus-och-Herodes_3-20-2013 3-37-24 PM.jpg",
+      "caption": "Christ before Herod woodcut by Albrecht D&#252;rer in 1509. Located at Connecticut College&#39;s Wetmore Print Collection."
     }
-  ]
+  ],
+  "videos": []
 }

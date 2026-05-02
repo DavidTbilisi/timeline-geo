@@ -4,13 +4,79 @@
   "period": 3,
   "titleEn": "Joseph's Dreams",
   "titleKa": null,
-  "datesEn": "1678 BC",
+  "datesEn": "1678 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Joseph, the favored son of Jacob, is despised by his half&#8212;brothers. When he shares two dreams with them indicating he will rule over them, his father rebukes him and his brothers envy him, but Jacob keeps the incident in mind.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jacob found particular satisfaction in the companionship of Joseph, whose amiability and ideals made him so different from his brothers. Since Jacob had been 91 years old at the birth of Joseph, and Benjamin was not born till a number of years later, he considered Joseph &#34;the son of his old age.&#34; Jacob&#39;s preferential treatment of Joseph reached a climax in the special coat, or tunic, he made for him. <BR /><BR />Jacob&#39;s fondness for Joseph was natural, perhaps, since he saw in him not only the child of his beloved Rachel but also an excellence of character which stood in marked contrast to the notorious lives of some of his other sons. When Joseph had a dream and shared it, they hated him, not only because of the dream, but also for his boldness in telling them about it (v. 8). If Joseph&#39;s first dream had pointed only to supremacy over his brothers, the second extended it to the entire family. That Joseph should have related this dream to his brothers, after seeing how they had reacted to the first one, reveals a decided immaturity of judgment. <BR /><BR />This dream could only intensify their envy and hatred. Joseph, however, seems to have felt a certain satisfaction in telling his dreams and watching his brothers&#39; envy and anger. Jacob, who was present upon this occasion, administered him a sharp rebuke, partly, perhaps, in surprise, and partly to disavow any collusion on his own part. Though Jacob disapproved of the narration of the dream, he could not avoid being impressed by the way in which it reflected his own thoughts. Some have questioned the divine origin of the second dream, inasmuch as it seems to have met but partial fulfillment. <BR /><BR />Neither Rachel nor Leah lived to see the rulership of Joseph&#39;s in Egypt (chs. 35:19 49:31). It is sufficient to note that even Jacob did not take every detail of the dream thus literally, since Joseph&#39;s mother was already dead at the time (v. 10). Jacob apparently understood the dream as representative of Joseph&#39;s supremacy in a general sense.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 37:1-11",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan."
+        },
+        {
+          "number": 2,
+          "line": "These are the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brethren; and the lad was with the sons of Bilhah, and with the sons of Zilpah, his father's wives: and Joseph brought unto his father their evil report."
+        },
+        {
+          "number": 3,
+          "line": "Now Israel loved Joseph more than all his children, because he was the son of his old age: and he made him a coat of many colours."
+        },
+        {
+          "number": 4,
+          "line": "And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him."
+        },
+        {
+          "number": 5,
+          "line": "And Joseph dreamed a dream, and he told it his brethren: and they hated him yet the more."
+        },
+        {
+          "number": 6,
+          "line": "And he said unto them, Hear, I pray you, this dream which I have dreamed:"
+        },
+        {
+          "number": 7,
+          "line": "For, behold, we were binding sheaves in the field, and, lo, my sheaf arose, and also stood upright; and, behold, your sheaves stood round about, and made obeisance to my sheaf."
+        },
+        {
+          "number": 8,
+          "line": "And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us? And they hated him yet the more for his dreams, and for his words."
+        },
+        {
+          "number": 9,
+          "line": "And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me."
+        },
+        {
+          "number": 10,
+          "line": "And he told it to his father, and to his brethren: and his father rebuked him, and said unto him, What is this dream that thou hast dreamed? Shall I and thy mother and thy brethren indeed come to bow down ourselves to thee to the earth?"
+        },
+        {
+          "number": 11,
+          "line": "And his brethren envied him; but his father observed the saying."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "joseph",
+      "titleEn": "Joseph",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-stdas0299A_8-7-2013 2-09-26 PM.jpg",
+      "caption": "Joseph and his dreams"
+    },
+    {
+      "file": "Joseph Dream_5-9-2013 11-01-41 AM.jpg",
+      "caption": "Joseph telling his dreams to his brothers (Genesis, Chapter 37). Woodcut after a drawing by Julius Schnorr von Carolsfeld (German painter, 1794 - 1872)"
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,39 @@
   "period": 3,
   "titleEn": "Joseph Cast into Prison",
   "titleKa": null,
-  "datesEn": "1668–1665 BC",
+  "datesEn": "1668&ndash;1665 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Potiphar&#39;s wife accuses Joseph of raping her. Potiphar listens to the story and is angry and throws Joseph into prison where the king&#39;s prisoners are confined. But God is with Joseph and shows him mercy.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In repeating her tale to her husband, Potiphar&#39;s wife indirectly blamed him for the supposed affront by referring to Joseph as &#34;the Hebrew servant, which thou hast brought unto us&#34; (v. 17). Potiphar&#39;s action in confining Joseph with political offenders may be considered extreme leniency in view of punishment customarily administered for the crime of which he stood accused. In later times the penalty for an attempt at adultery was a thousand blows upon the soles of the feet, and for the rape of a freewoman it was even more severe (Diodorus i. 78). <BR /><BR />Potiphar&#39;s lenience no doubt reflected his confidence in Joseph&#39;s integrity, and in contrast, very little respect for his wife&#39;s account of the episode. Nevertheless Joseph&#39;s punishment seems to have been severe at first, for more happened to him than the Genesis narrative implies. According to Ps. 105:18, his &#34;feet&#34; were &#34;hurt with fetters,&#34; and &#34;he was laid in iron.&#34;<BR /><BR />The same Providence that had attended Joseph in the house of Potiphar followed him to prison and brought comfort to him in his new affliction. Moses attributes the speedy favor he found in the sight of the keeper to the help of God. The irksomeness of his confinement must have been mitigated considerably by the jailer&#39;s growing trust and confidence in him, since the blessing of the Lord attended all things committed to his care. <BR /><BR />Although Joseph had been treated unjustly, he made the best of the circumstances in which he found himself. By discharging his duties in a cheerful, courteous, and sympathetic spirit he gained the confidence of the one in authority, and at the same time prepared the way for his own eventual release.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 39:19-20",
+      "verses": [
+        {
+          "number": 19,
+          "line": "And it came to pass, when his master heard the words of his wife, which she spake unto him, saying, After this manner did thy servant to me; that his wrath was kindled."
+        },
+        {
+          "number": 20,
+          "line": "And Joseph's master took him, and put him into the prison, a place where the king's prisoners were bound: and he was there in the prison."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "joseph",
+      "titleEn": "Joseph",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-stdas0582_8-6-2013 10-59-35 AM.jpg",
+      "caption": "Joseph was cast into prison because of the accusations of Potiphar&#39;s wife."
+    }
+  ],
+  "videos": []
 }

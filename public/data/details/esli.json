@@ -4,13 +4,40 @@
   "period": 8,
   "titleEn": "Esli",
   "titleKa": null,
-  "datesEn": "295–215 BC",
+  "datesEn": "295&ndash;215 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh has reserved.&#34; The son of Nagge (Naggai) and father of Nahum (or Naum), a Judahite listed in Luke&#39;s genealogy of Jesus Christ.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:25",
+      "verses": [
+        {
+          "number": 25,
+          "line": "Which was the son of Mattathias, which was the son of Amos, which was the son of Naum, which was the son of Esli, which was the son of Nagge,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "nagge-or-naggai",
+      "titleEn": "Nagge (or Naggai)",
+      "titleKa": null
+    },
+    {
+      "slug": "naum-or-nahum",
+      "titleEn": "Naum (or Nahum)",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-wjpas0167_8-6-2013 3-41-09 PM.jpg",
+      "caption": "Which was the son of Mattathias, which was the son of Amos, which was the son of Naum, which was the son of <b>Esli</b>, which was the son of Nagge, (Luke 3:25)"
+    }
+  ],
+  "videos": []
 }

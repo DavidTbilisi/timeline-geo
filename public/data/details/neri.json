@@ -4,13 +4,44 @@
   "period": 8,
   "titleEn": "Neri",
   "titleKa": null,
-  "datesEn": "620–530 BC",
+  "datesEn": "620&ndash;530 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;my lamp.&#34; He is the son of Melchi or Melki and the father of Shealtiel. He is a Judahite listed in Luke&#39;s genealogy of Jesus Christ.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:27",
+      "verses": [
+        {
+          "number": 27,
+          "line": "Which was the son of Joanna, which was the son of Rhesa, which was the son of Zorobabel, which was the son of Salathiel, which was the son of Neri,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "melchi",
+      "titleEn": "Melchi",
+      "titleKa": null
+    },
+    {
+      "slug": "salathiel-or-shealtiel",
+      "titleEn": "Salathiel (or Shealtiel)",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-neri_8-6-2013 11-10-05 AM.jpg",
+      "caption": "Neri"
+    },
+    {
+      "file": "Oil Lamp_3-21-2013 2-32-58 PM.jpg",
+      "caption": "Neri, whose name means &#34;my lamp.&#34; "
+    }
+  ],
+  "videos": []
 }

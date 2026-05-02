@@ -4,13 +4,43 @@
   "period": 9,
   "titleEn": "A Mute Demoniac is Healed",
   "titleKa": null,
-  "datesEn": "29 AD",
+  "datesEn": "29 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A man who cannot speak & who is demon possessed is brought to Jesus. Christ casts out the demon and the man&#39;s ability to speak is restored. All the people are amazed, but the Pharisees criticize Jesus as casting out demons by the devil&#39;s power.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A mute demoniac is brought to Jesus. When a man lacks the ability or the faith to come to Jesus for the healing of either body or soul, he is fortunate to have someone interested enough in him to bring him (cf. Mark 2:2, 3). Christ healed the man and he spoke. This was tangible evidence of healing. This is the last recorded miracle for several months, the next being that of feeding the 5,000 the following spring. Whether Jesus went into retirement for the winter after the second tour of Galilee is not stated. Popular excitement occasioned by the many miracles of Jesus tended to obscure the Saviour&#39;s main objective in performing them&#8212;the advancement of the kingdom of heaven in the hearts and lives of men. Probably becoming desperate to silence Christ or to turn the people against Him, the Pharisees sought to have it believed that His miracle&#8212;working power constituted evidence that Christ was in league with Satan. The fact that Matthew here records no answer on the part of Jesus suggests the possibility that the Pharisees did not advance this claim in His presence, but rather circulated it among the people.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 9:32-34",
+      "verses": [
+        {
+          "number": 32,
+          "line": "As they went out, behold, they brought to him a dumb man possessed with a devil."
+        },
+        {
+          "number": 33,
+          "line": "And when the devil was cast out, the dumb spake: and the multitudes marvelled, saying, It was never so seen in Israel."
+        },
+        {
+          "number": 34,
+          "line": "But the Pharisees said, He casteth out devils through the prince of the devils."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "galilean-ministry",
+      "titleEn": "Galilean Ministry",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Blind_and_Mute_Man_Possessed_by_Devils_001_8-1-2013 11-42-04 AM.jpg",
+      "caption": "&#34;Blind and Mute Man Possessed by Devils&#34; James Tissot"
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,77 @@
   "period": 7,
   "titleEn": "Rehoboam Forsakes Righteousness",
   "titleKa": null,
-  "datesEn": "928 BC",
+  "datesEn": "928 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Rehoboam reigns in Judah for 17 years, in Jerusalem. During this time &#34;Judah did evil in the sight of the Lord&#34; (1 Kings 14:22). In 2 Chron. 12:1 it says he &#34;forsook the law of the Lord.&#34;",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "During the reign of Rehoboam, Judah did evil. The primary motive in the records in Kings seems to be to disclose the part each individual played in the religious history of the kingdom. In the cases of certain kings the information is that it was the ruler who did evil (2 Kings 17:2 21:2, 20 23:32, 37 24:9, 19), but in the case of Rehoboam the record states that &#34;Judah did evil.&#34; The apostasy in Judah was evidently the harvest of the deadly seed sown by the evil example of Solomon, under whose idolatry the young men of the nation had grown up. Rehoboam was weak and vacillating, and did not take the initiative in restraining the people when they did wrong.<BR /><BR />There were repeated commands to destroy the pillars erected by the Canaanites, as well as to cut down and burn their groves (Ex. 23:24 34:13 Deut. 7:5 12:3 see on Deut. 16:22). The pillars erected by Jacob (Gen. 28:18 31:13 35:14) were not objects of worship (see on Gen. 28:18). There were also male temple prostitutes. They carried on their abominable trade under a religious sanction. It was for the practice of such abominations as these that the ancient inhabitants of the land were to be cast out, and now the people of Judah were rivaling them in wickedness (see 1 Kings 15:12 2 Kings 23:7).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 14:22-24",
+      "verses": [
+        {
+          "number": 22,
+          "line": "And Judah did evil in the sight of the LORD, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done."
+        },
+        {
+          "number": 23,
+          "line": "For they also built them high places, and images, and groves, on every high hill, and under every green tree."
+        },
+        {
+          "number": 24,
+          "line": "And there were also sodomites in the land: and they did according to all the abominations of the nations which the LORD cast out before the children of Israel."
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 14:22-24",
+      "verses": [
+        {
+          "number": 22,
+          "line": "And Judah did evil in the sight of the LORD, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done."
+        },
+        {
+          "number": 23,
+          "line": "For they also built them high places, and images, and groves, on every high hill, and under every green tree."
+        },
+        {
+          "number": 24,
+          "line": "And there were also sodomites in the land: and they did according to all the abominations of the nations which the LORD cast out before the children of Israel."
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 12:1-2",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And it came to pass, when Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of the LORD, and all Israel with him."
+        },
+        {
+          "number": 2,
+          "line": "And it came to pass, that in the fifth year of king Rehoboam Shishak king of Egypt came up against Jerusalem, because they had transgressed against the LORD,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "rehoboam",
+      "titleEn": "Rehoboam",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas2642_8-6-2013 11-10-31 AM.jpg",
+      "caption": "Rehoboam"
+    },
+    {
+      "file": "Pillar_4-30-2013 10-22-03 AM.jpg",
+      "caption": "There were repeated commands to destroy the pillars erected by the Canaanites, as well as to cut down and burn their groves."
+    }
+  ],
+  "videos": []
 }

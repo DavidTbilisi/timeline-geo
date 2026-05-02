@@ -4,18 +4,181 @@
   "period": 9,
   "titleEn": "Jesus",
   "titleKa": null,
-  "datesEn": "4 BC–31 AD (~35)",
+  "datesEn": "4 <span>BC</span>&ndash;31 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh is salvation.&#34; Christ is born of the virgin Mary, is the Son of God and the Saviour of the world, the Messiah. He is crucified and on the third day rises from the dead. He is fully human and fully divine. Jesus is coming back.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jesus Christ. [Gr. Iesous (a transliteration of the Aramaic Yesh&#252;a&#39; from the Heb. Yeh&#244;sh&#252;a&#39;, &#34;Joshua,&#34; meaning &#34;Yahweh is salvation&#34;), Christos (a translation of the Heb. Mash&#238;ach, &#34;Messiah,&#34; meaning &#34;anointed,&#34; or &#34;anointed one&#34;).] The Saviour of the world, the Messiah. In New Testament times Yesh&#252;a&#39;, &#34;Jesus,&#34; was a common given name for Jewish boys. It expressed the parents&#39; faith in God and in His promise of One who would bring salvation to Israel. <BR /><BR />The angel Gabriel instructed Joseph to call Mary&#39;s first&#8212;born by this name, the reason given being, &#34;He shall save his people from their sins&#34; (Mt 1:21). &#34;Christ&#34; was not a personal name by which people knew Him while on earth, but a title used to identify Him as the One in whom the Messianic promises and prophecies of the Old Testament met their fulfillment. To those who believed in Him as sent of God He was the Christ, that is, the Messiah, the One &#34;anointed&#34; by God to be the Saviour of the world. When used together, as in Mt 1:18 16:20 Mk 1:1, the two names Jesus and Christ constitute a confession of faith that Jesus of Nazareth, the Son of Mary, is indeed the Christ, the Messiah (Mt 1:1 Acts 2:38). <BR /><BR />He was also to be known by the title Emmanuel, &#34;God with us,&#34; in recognition of His deity and virgin birth (Mt 1:23 cf. Is 7:14 9:6, 7). Christ&#39;s usual designation for Himself was &#34;the Son of man&#34; (Mk 2:10 etc.), an expression never used by others when speaking of or to Him. By this title, which seems to have Messianic implications, Jesus emphasized His humanity, doubtless thinking of Himself as the promised Seed of Gen 3:15 22:18 cf. Gal 3:16. <BR /><BR />Jesus seldom used the title &#34;Son of God,&#34; which stresses deity, of Himself (Jn 9:35&#8212;37, KJV 10:36), though He often referred to God as His Father (Mt 16:17 etc.). However, the Father called Him His Son (Lk 3:22 9:35), and John the Baptist (Jn 1:34) and the Twelve (Mt 14:33 16:16), &#34;Son of God.&#34;  It was Jesus&#39; claim that God was His Father in a special sense, and later His admission that He was the Son of God, that the Jews seized upon as warranting His condemnation and death (Lk 22:70, 71). <BR /><BR />Gabriel explained that Jesus was to be called the Son of God by virtue of His birth to Mary by the power of the Holy Ghost (Lk 1:35 cf. Heb 1:5), and Paul declared that Jesus&#39; resurrection from the dead designated Him &#34;Son of God&#34; in power (Rom 1:4, RSV). His disciples frequently addressed Him as &#34;Master&#34; (Mk 4:38 9:38 etc.), and eventually, in recognition of His deity, as &#34;Lord&#34; (Jn 14:5, 8 20:28). The term &#34;son of David&#34; was a popular Messianic designation used by rulers and people alike (Mt 12:23 22:42 Mk 12:35 etc.) as an expression of hope for deliverance from political oppression.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Matthew 2:1-2",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,"
+        },
+        {
+          "number": 2,
+          "line": "Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 2:7",
+      "verses": [
+        {
+          "number": 7,
+          "line": "And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "joseph-husband-of-mary",
+      "titleEn": "Joseph",
+      "titleKa": null
+    },
+    {
+      "slug": "incarnation-of-jesus",
+      "titleEn": "Incarnation of Jesus",
+      "titleKa": null
+    },
+    {
+      "slug": "christs-early-ministry",
+      "titleEn": "Christ's Early Ministry",
+      "titleKa": null
+    },
+    {
+      "slug": "christs-ministry-in-judea",
+      "titleEn": "Christ's Ministry in Judea",
+      "titleKa": null
+    },
+    {
+      "slug": "galilean-ministry",
+      "titleEn": "Galilean Ministry",
+      "titleKa": null
+    },
+    {
+      "slug": "christs-ministry-in-judea-and-peraea",
+      "titleEn": "Christ's Ministry in Judea and Peraea",
+      "titleKa": null
+    },
+    {
+      "slug": "passion-week",
+      "titleEn": "Passion Week",
+      "titleKa": null
+    },
+    {
+      "slug": "resurrection-through-ascension",
+      "titleEn": "Resurrection through Ascension",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-Jesus_8-1-2013 5-43-23 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-Jesus_8-1-2013 5-43-23 PM.jpg",
+      "caption": "Jesus with a group of children."
+    },
+    {
+      "file": "Bloch-SermonOnTheMount_8-8-2013 2-45-23 PM.jpg",
+      "caption": "The Sermon on the Mount, Carl Heinrich Bloch"
+    },
+    {
+      "file": "Eccehomo1_8-8-2013 2-45-23 PM.jpg",
+      "caption": "Then came Jesus forth, wearing the crown of thorns, and the purple robe. And Pilate saith unto them, Behold the man! (John 19:5)Antonio Ciseri, 1871"
+    },
+    {
+      "file": "Second_Coming_3-20-2013 2-47-58 PM.jpg",
+      "caption": "Second coming of Christ."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Bring Them to Jesus",
+      "caption": "There are many stories and examples of people bringing others to Jesus. We ought to bring our children, our friends, and our family to Jesus. We can also bring him our occupations, our questions, and even our health.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2041.mp4"
+    },
+    {
+      "title": "Be Like Jesus",
+      "caption": "We come to Christ just as we are, but by following Jesus we become like Him. His qualities will become ours: humility, patience, honesty, self-control, compassion, persistence and more.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2240.mp4"
+    },
+    {
+      "title": "Jesus and the Children",
+      "caption": "What does Jesus think of children? He rebuked His disciples for stopping children from coming to Him. He called us to have faith like little children. God sees children as precious. We ought to protect children and raise them responsibly to follow the Lord.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2319.mp4"
+    },
+    {
+      "title": "Why Follow Jesus",
+      "caption": "Why follow Jesus? Everyone follows someone. If you are not following Christ, you are walking away from Him. As the children of Israel learned to follow God in the wilderness, so we need to follow the Lord and learn important lessons. It means giving up all to follow Him.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2533.mp4"
+    },
+    {
+      "title": "At Jesus&#39; Feet",
+      "caption": "The title of this &#39;04 Revival series is called &#34;At Jesus Feet.&#34; This talk is about Jesus&#39; most devoted disciple, Mary Magdalene. Her life is a panorama of the church. Her life begins at the feet of Jesus. Whatever our sins might be, we may, like Mary who fell several times, can be delivered and receive complete victory.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/events/04r/04r10.mp4"
+    },
+    {
+      "title": "How Did Jesus Pray?",
+      "caption": "How did Jesus pray? Christ felt the need of prayer. When Jesus prayed He glowed. It drew the disciples to Him. The central focus of Jesus&#39; prayer was glorifying the Father. Christ made private prayer a priority.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2614.mp4"
+    },
+    {
+      "title": "Jesus and the Sea",
+      "caption": "This sermon focuses on Jesus&#39; two experiences on the sea in a boat. When we follow God, we will cross over, like the Hebrews, to go to the Promised Land. We will often cross bad weather.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2840.mp4"
+    },
+    {
+      "title": "Jesus Throughout the Bible, Part 1",
+      "caption": "First in a series on the types of Christ symbolized throughout the Bible. Beginning with Adam and going through Joseph we see shadows of Christ in the lives of these Old Testament characters.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2931.mp4"
+    },
+    {
+      "title": "Jesus Throughout the Bible, Part 2",
+      "caption": "The second in a series on the types of Christ found throughout Scripture in Bible characters. This sermon focuses on the many parallels in the life of Moses and Jesus.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2933.mp4"
+    },
+    {
+      "title": "Jesus Throughout the Bible, Part 3",
+      "caption": "The third in a series on types of Jesus found throughout the Bible in different characters. Christ was the fulfillment of these historical figures. This sermon shows David as a type of Christ.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2934.mp4"
+    },
+    {
+      "title": "Jesus Throughout the Bible, Part 4",
+      "caption": "The fourth in a series on types of Christ throughout the Bible. This message shows parallels between the life of Jesus and the Old Testament character Job.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2937.mp4"
+    },
+    {
+      "title": "Jesus Throughout the Bible, Part 5",
+      "caption": "The fifth in a series on types of Christ found throughout Scripture. This sermon draws parallels between Jesus and Elijah and Elisha.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2939.mp4"
+    },
+    {
+      "title": "Jesus Throughout the Bible, Part 6",
+      "caption": "The sixth and last in a series on types of Christ found throughout all the Bible. This sermon focuses on Gideon, Samson, Solomon, Jonah, Daniel, Mordecai, Nehemiah, and Stephen as symbols of Christ.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2942.mp4"
+    },
+    {
+      "title": "Recognizing Jesus",
+      "caption": "Jesus often appeared to people in Scripture and they did not recognize Him. If we have a relationship with Christ we will recognize Him anywhere because we love Him.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2015.mp4"
+    },
+    {
+      "title": "Jesus in the Feast Days",
+      "caption": "The subject is Jesus in the Jewish Feasts. The feasts in Leviticus 23 represent the life and work of Christ. Jesus has fulfilled the meaning of the feasts.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2211.mp4"
+    },
+    {
+      "title": "Fix Our Eyes on Jesus",
+      "caption": "The Bible encourages us to fix our eyes on Jesus, to truly focus on Christ. This sermon illustrates the importance of keeping a steadfast gaze on Jesus by looking at the story of Jesus and Peter walking on the water. When running the Christian race, it is best not to be looking at our own feet or behind our shoulder. We must keep our eyes on Christ.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg5167.mp4"
+    },
+    {
+      "title": "Is Jesus the One",
+      "caption": "Who is Jesus? Even John the Baptist from prison wondered about Christ. The devil has been seeking to misrepresent God. Christ came to show the world what God is like. This promised Savior is the Messiah. The Bible is full of prophecies of the first coming of Christ.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg9497.mp4"
     }
   ]
 }

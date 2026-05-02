@@ -4,13 +4,35 @@
   "period": 7,
   "titleEn": "Zephaniah Calls for Reform",
   "titleKa": null,
-  "datesEn": "690–609 BC",
+  "datesEn": "690&ndash;609 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Zephaniah dates his message to King Josiah, who reigns from about 640 B.C. to 609 B.C. He predicts the overthrow of Assyria, so his ministry takes place probably in the last part of Josiah&#39;s reign. He lives during Habakkuk&#39;s time.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The book of Zephaniah, like that of Joel, focuses on &#34;the day of the Lord.&#34; For the meaning of this expression see on Isa. 2:12. Not only does the prophet reveal the coming judgment upon Israel he also warns of punishment to come upon other nations. However, if Zephaniah alarms by his severe judgments, it is only that the people may repent, may &#34;seek righteousness, seek meekness&#34; (ch. 2:3), and thus escape the punishment.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Zephaniah 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "The word of the LORD which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "zephaniah",
+      "titleEn": "Zephaniah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Zephaniah_4-2-2013 10-13-25 AM.jpg",
+      "caption": "Zephaniah addressing people (France, 16th century) by an unknown author."
+    }
+  ],
+  "videos": []
 }

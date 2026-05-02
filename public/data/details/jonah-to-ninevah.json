@@ -4,18 +4,39 @@
   "period": 7,
   "titleEn": "Jonah to Ninevah",
   "titleKa": null,
-  "datesEn": "790 BC",
+  "datesEn": "790 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "God calls Jonah to prophesy to Nineveh. At first he runs opposite direction but after being thrown overboard and swallowed by a whale and then vomited onto dry land he once more hears the call of God to go to Nineveh. This time he obeys and goes.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "God calls Jonah to prophesy to Nineveh. At first he runs opposite direction but after being thrown overboard and swallowed by a whale and then vomited onto dry land he once more hears the call of God to go to Nineveh. This time he obeys and goes. It was probably in the time of Adad&#8212;nirari III 810&#8212;782 b.c. that Jonah preached his message of warning in the streets of that city, resulting in temporary repentance and a postponement of the impending doom that had been pronounced over wicked Nineveh Jon 1&#8212;4 cf. 2 Ki 14:25.<BR /><BR /><BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Jonah 3:3",
+      "verses": [
+        {
+          "number": 3,
+          "line": "So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days' journey."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jonah",
+      "titleEn": "Jonah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas2580_8-6-2013 3-27-53 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas2580_8-6-2013 3-27-53 PM.jpg",
+      "caption": "Jonah being thrown overboard while the whale nears Jonah."
+    },
+    {
+      "file": "Jonah_7-31-2013 11-12-33 AM.jpg",
+      "caption": "Jonah gaining passage on a boat."
     }
-  ]
+  ],
+  "videos": []
 }

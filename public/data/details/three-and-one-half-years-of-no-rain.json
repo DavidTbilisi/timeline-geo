@@ -4,13 +4,35 @@
   "period": 7,
   "titleEn": "Three and One Half Years of No Rain",
   "titleKa": null,
-  "datesEn": "869–866 BC",
+  "datesEn": "869&ndash;866 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "God calls Elijah to speak to King Ahab, a wicked king of Israel, and tell him there will be no rain &#34;except at my word.&#34; God then instructs Elijah to go and hide.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Here begins a new section of Kings, entirely different in spirit from that which has gone before. Instead of a few cold facts concerning the evil reigns of the kings, we now find a recital of some of the most stirring deeds of the greatest of prophets. The stories are detailed and graphic, full of spiritual beauty and moral instruction. Elijah appears on the scene as a man with an urgent errand for God. The hour is one of crisis. Sin has invaded the land, and if not stopped, will soon engulf all in tragic ruin. <BR /><BR />Elijah meets the foe as a valiant warrior for God, bearing witness for Him by word and deed, living the life of a recluse, or standing boldly on the heights of Carmel, calling down fire from heaven, and wielding the sword of vengeance in the slaughter of the prophets of Baal. As the gripping tale unfolds its account of courage, faith, amazing fidelity, kindly affection, or earnest zeal in service for God, it is impossible not to see in the prophet a type of the greater Elias who was yet to come (Matt. 17:10&#8212;12). The name Elijah well suited the prophet for his mission. It means &#34;Jehovah is my God.&#34;<BR /><BR />The story of Elijah is introduced with dramatic abruptness. There is no introduction, nothing concerning the prophet&#39;s call, nothing concerning the prophet&#39;s call, nothing concerning his early experiences. He is mentioned by name as one of the inhabitants of Gilead, and then he stands before the king delivering his solemn message of judgment to come. In the solitude of the mountains of Gilead the heart of Elijah had been deeply moved as he thought of the ever&#8212;increasing tide of apostasy that was flooding the land. <BR /><BR />His soul was distressed and his indignation aroused, and he prayed most earnestly that something might happen to stay the tide of evil&#8212;that if necessary, judgments might come to bring the people to their senses and help them to see the folly of trusting in Baal. His prayer was heard, and Elijah was himself sent to the king with his startling message of judgment to come. Baal was worshiped as the source of life and blessing, as the great storm god, who supplied the earth with moisture, and gave to the land its increase. Now Israel was to learn that Baal could not provide these blessings.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 17:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "elijah",
+      "titleEn": "Elijah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Elijah_4-17-2013 12-29-51 PM.jpg",
+      "caption": "Elijah denouncing Ahab"
+    }
+  ],
+  "videos": []
 }

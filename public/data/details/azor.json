@@ -4,13 +4,35 @@
   "period": 8,
   "titleEn": "Azor",
   "titleKa": null,
-  "datesEn": "435–341 BC",
+  "datesEn": "435&ndash;341 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Meaning of name unknown. The son of Eliakim and father of Zadok, a postexilic Judahite listed in Matthew&#39;s genealogy of Jesus Christ.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 1:13",
+      "verses": [
+        {
+          "number": 13,
+          "line": "And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "eliakim",
+      "titleEn": "Eliakim",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-azor_8-6-2013 3-18-16 PM.jpg",
+      "caption": "Azor"
+    }
+  ],
+  "videos": []
 }

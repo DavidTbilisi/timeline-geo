@@ -4,13 +4,39 @@
   "period": 7,
   "titleEn": "Nahum Refers to Fall of Thebes",
   "titleKa": null,
-  "datesEn": "663 BC",
+  "datesEn": "663 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Thebes is the city of Amon, the upper Egyptian capital of Egypt. The city is destroyed by the 2nd invasion of Ashurbanipal from Assyria. Nahum refers to Thebes as a type of what will happen to Nineveh.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Thebes is a celebrated city, with its tombs of the kings, its colossi and sphinxes, its great temples of Karnak and Luxor with their massive columns and colonnades, was superbly situated on the Nile, as was Nineveh on the Tigris. Nahum here serves warning to Nineveh that, in the sight of Heaven, she is no better than Thebes and can as easily meet with the same fate. Thebes had been destroyed in 663 b.c. by Ashurbanipal, king of Assyria.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Nahum 3:8",
+      "verses": [
+        {
+          "number": 8,
+          "line": "Art thou better than populous No, that was situate among the rivers, that had the waters round about it, whose rampart was the sea, and her wall was from the sea?"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "nahum",
+      "titleEn": "Nahum",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "450px-Luxor_Temple_Sitting_Colossus_8-27-2013 3-39-54 PM.jpg",
+      "caption": "Ramesses II Colossus inside Luxor Temple, Photographer: Than217"
+    },
+    {
+      "file": "Egypt.LuxorTemple.06_8-27-2013 3-39-54 PM.jpg",
+      "caption": "General view of Luxor Temple, front end, from the corniche Photo taken by Hajor, Dec.2002. Released under cc.by.sa and/or GFDL."
+    }
+  ],
+  "videos": []
 }

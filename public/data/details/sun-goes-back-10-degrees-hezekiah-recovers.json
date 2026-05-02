@@ -4,13 +4,120 @@
   "period": 7,
   "titleEn": "Sun Goes Back 10 Degrees, Hezekiah Recovers",
   "titleKa": null,
-  "datesEn": "702 BC",
+  "datesEn": "702 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Hezekiah becomes very sick & near death. Isaiah tells him he will die. Hezekiah cries out to God who hears & promises 15 more years of life. He asks for a sign and the sun dial moves back 10 degrees. He later shows his treasures to Berodach&#8212;Baladan.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Hezekiah&#39;s sickeness was about the time of Sennacherib&#39;s first invasion in Hezekiah&#39;s 14th year. In connection with the promise of Hezekiah&#39;s healing, the Lord said that He would deliver Jerusalem out of the hand of the king of Assyria and that He would add 15 years to Hezekiah&#39;s reign (ch. 20:6). This fits in with the details of Sennacherib&#39;s first campaign against Judah in Hezekiah&#39;s 14th year (see on ch. 18:13), and the fact that Hezekiah reigned 29 years (ch. 18:2). Parallel accounts of Hezekiah&#39;s illness and recovery are found in Isa. 38, 39 and in 2 Chron. 32:24&#8212;31.<BR /><BR />When the prophet told Hezekiah he would die, Hezekiah did not conclude that it was useless to pray, as though the prophetic message had made death inevitable. If we pray, God may be able to do for us that which He could not do if we did not pray. Requests for healing, however, must be made in the spirit of submission. God alone knows whether the answering of a petition will work for the good of those concerned and redound to His glory. In praying for the sick some have made the mistake of almost demanding that the life of the sufferer be given to them. In many instances the lives of those who were thus spared did not bring glory to God. It would have been better for these souls to have passed to their rest while the hope of salvation was theirs. The extension of Hezekiah&#39;s life led to the one great mistake in the king&#39;s life (vs. 12&#8212;19). If he had added to his prayer &#34;nevertheless not as I will, but as thou wilt&#34; (Matt. 26:39), he might have died with his life&#39;s record unblemished.<BR /><BR />Hezekiah&#39;s answer came speedily. Before Isaiah had left the precincts of the palace he was bidden to return. God always hears the man who pours out his soul in earnest prayer. The answer may not be as expected, or as immediate or direct as was the case with Hezekiah, but the Lord hears nevertheless, and works all things for good for those who love Him (Rom. 8:28).<BR /><BR />Hezekiah desired an immediate token that the Lord would do what He had said He would (see on Joshua 7:14 Judges 6:36). In the ordinary course of events the shadow on a sundial would gradually advance with the forward motion of the sun, but for it suddenly to retrogress would be a most remarkable occurrence, and for this reason Hezekiah chose this sign. There is no benefit to be derived from speculating as to how God performs His miracles. The sign came as a direct interposition by God.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 20:1-19",
+      "verses": [
+        {
+          "number": 1,
+          "line": "In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the LORD, Set thine house in order; for thou shalt die, and not live."
+        },
+        {
+          "number": 2,
+          "line": "Then he turned his face to the wall, and prayed unto the LORD, saying,"
+        },
+        {
+          "number": 3,
+          "line": "I beseech thee, O LORD, remember now how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept sore."
+        },
+        {
+          "number": 4,
+          "line": "And it came to pass, afore Isaiah was gone out into the middle court, that the word of the LORD came to him, saying,"
+        },
+        {
+          "number": 5,
+          "line": "Turn again, and tell Hezekiah the captain of my people, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the LORD."
+        },
+        {
+          "number": 6,
+          "line": "And I will add unto thy days fifteen years; and I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David's sake."
+        },
+        {
+          "number": 7,
+          "line": "And Isaiah said, Take a lump of figs. And they took and laid it on the boil, and he recovered."
+        },
+        {
+          "number": 8,
+          "line": "And Hezekiah said unto Isaiah, What shall be the sign that the LORD will heal me, and that I shall go up into the house of the LORD the third day?"
+        },
+        {
+          "number": 9,
+          "line": "And Isaiah said, This sign shalt thou have of the LORD, that the LORD will do the thing that he hath spoken: shall the shadow go forward ten degrees, or go back ten degrees?"
+        },
+        {
+          "number": 10,
+          "line": "And Hezekiah answered, It is a light thing for the shadow to go down ten degrees: nay, but let the shadow return backward ten degrees."
+        },
+        {
+          "number": 11,
+          "line": "And Isaiah the prophet cried unto the LORD: and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz."
+        },
+        {
+          "number": 12,
+          "line": "At that time Berodachbaladan, the son of Baladan, king of Babylon, sent letters and a present unto Hezekiah: for he had heard that Hezekiah had been sick."
+        },
+        {
+          "number": 13,
+          "line": "And Hezekiah hearkened unto them, and shewed them all the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not."
+        },
+        {
+          "number": 14,
+          "line": "Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from whence came they unto thee? And Hezekiah said, They are come from a far country, even from Babylon."
+        },
+        {
+          "number": 15,
+          "line": "And he said, What have they seen in thine house? And Hezekiah answered, All the things that are in mine house have they seen: there is nothing among my treasures that I have not shewed them."
+        },
+        {
+          "number": 16,
+          "line": "And Isaiah said unto Hezekiah, Hear the word of the LORD."
+        },
+        {
+          "number": 17,
+          "line": "Behold, the days come, that all that is in thine house, and that which thy fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, saith the LORD."
+        },
+        {
+          "number": 18,
+          "line": "And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon."
+        },
+        {
+          "number": 19,
+          "line": "Then said Hezekiah unto Isaiah, Good is the word of the LORD which thou hast spoken. And he said, Is it not good, if peace and truth be in my days?"
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 32:31",
+      "verses": [
+        {
+          "number": 31,
+          "line": "Howbeit in the business of the ambassadors of the princes of Babylon, who sent unto him to enquire of the wonder that was done in the land, God left him, to try him, that he might know all that was in his heart."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "hezekiah",
+      "titleEn": "Hezekiah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "_GoodSalt-prcas3299_8-27-2013 3-00-37 PM.jpg",
+      "caption": "Hezekiah&#39;s illness"
+    },
+    {
+      "file": "_GoodSalt-stdas0470_8-27-2013 3-00-37 PM.jpg",
+      "caption": "Hezekiah&#39;s prayer"
+    }
+  ],
+  "videos": []
 }

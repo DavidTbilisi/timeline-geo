@@ -4,13 +4,202 @@
   "period": 9,
   "titleEn": "Second Trial before Pilate",
   "titleKa": null,
-  "datesEn": "31 AD",
+  "datesEn": "31 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "In Jesus&#39; second trial before Pilate, the governor thinks to free Christ by offering to release one of two prisoners. The crowd votes for Barabbas and shouts to crucify Christ. Pilate washes his hands and sends Christ away to be executed.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Gospels mention Pilate principally in connection with the trial of Jesus. At that time he was in the midst of his term of office. Knowing that he was extremely unpopular, he was anxious to please the Jews in a matter that cost him nothing, although he realized that the accusations brought against Jesus were false.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 27:15-26",
+      "verses": [
+        {
+          "number": 15,
+          "line": "Now at that feast the governor was wont to release unto the people a prisoner, whom they would."
+        },
+        {
+          "number": 16,
+          "line": "And they had then a notable prisoner, called Barabbas."
+        },
+        {
+          "number": 17,
+          "line": "Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?"
+        },
+        {
+          "number": 18,
+          "line": "For he knew that for envy they had delivered him."
+        },
+        {
+          "number": 19,
+          "line": "When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him."
+        },
+        {
+          "number": 20,
+          "line": "But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus."
+        },
+        {
+          "number": 21,
+          "line": "The governor answered and said unto them, Whether of the twain will ye that I release unto you? They said, Barabbas."
+        },
+        {
+          "number": 22,
+          "line": "Pilate saith unto them, What shall I do then with Jesus which is called Christ? They all say unto him, Let him be crucified."
+        },
+        {
+          "number": 23,
+          "line": "And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified."
+        },
+        {
+          "number": 24,
+          "line": "When Pilate saw that he could prevail nothing, but that rather a tumult was made, he took water, and washed his hands before the multitude, saying, I am innocent of the blood of this just person: see ye to it."
+        },
+        {
+          "number": 25,
+          "line": "Then answered all the people, and said, His blood be on us, and on our children."
+        },
+        {
+          "number": 26,
+          "line": "Then released he Barabbas unto them: and when he had scourged Jesus, he delivered him to be crucified."
+        }
+      ]
+    },
+    {
+      "reference": "Mark 15:6-15",
+      "verses": [
+        {
+          "number": 6,
+          "line": "Now at that feast he released unto them one prisoner, whomsoever they desired."
+        },
+        {
+          "number": 7,
+          "line": "And there was one named Barabbas, which lay bound with them that had made insurrection with him, who had committed murder in the insurrection."
+        },
+        {
+          "number": 8,
+          "line": "And the multitude crying aloud began to desire him to do as he had ever done unto them."
+        },
+        {
+          "number": 9,
+          "line": "But Pilate answered them, saying, Will ye that I release unto you the King of the Jews?"
+        },
+        {
+          "number": 10,
+          "line": "For he knew that the chief priests had delivered him for envy."
+        },
+        {
+          "number": 11,
+          "line": "But the chief priests moved the people, that he should rather release Barabbas unto them."
+        },
+        {
+          "number": 12,
+          "line": "And Pilate answered and said again unto them, What will ye then that I shall do unto him whom ye call the King of the Jews?"
+        },
+        {
+          "number": 13,
+          "line": "And they cried out again, Crucify him."
+        },
+        {
+          "number": 14,
+          "line": "Then Pilate said unto them, Why, what evil hath he done? And they cried out the more exceedingly, Crucify him."
+        },
+        {
+          "number": 15,
+          "line": "And so Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged him, to be crucified."
+        }
+      ]
+    },
+    {
+      "reference": "John 18:39-40",
+      "verses": [
+        {
+          "number": 39,
+          "line": "But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?"
+        },
+        {
+          "number": 40,
+          "line": "Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber."
+        }
+      ]
+    },
+    {
+      "reference": "John 19:5-16",
+      "verses": [
+        {
+          "number": 5,
+          "line": "Then came Jesus forth, wearing the crown of thorns, and the purple robe. And Pilate saith unto them, Behold the man!"
+        },
+        {
+          "number": 6,
+          "line": "When the chief priests therefore and officers saw him, they cried out, saying, Crucify him, crucify him. Pilate saith unto them, Take ye him, and crucify him: for I find no fault in him."
+        },
+        {
+          "number": 7,
+          "line": "The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God."
+        },
+        {
+          "number": 8,
+          "line": "When Pilate therefore heard that saying, he was the more afraid;"
+        },
+        {
+          "number": 9,
+          "line": "And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer."
+        },
+        {
+          "number": 10,
+          "line": "Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee?"
+        },
+        {
+          "number": 11,
+          "line": "Jesus answered, Thou couldest have no power at all against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin."
+        },
+        {
+          "number": 12,
+          "line": "And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Caesar's friend: whosoever maketh himself a king speaketh against Caesar."
+        },
+        {
+          "number": 13,
+          "line": "When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha."
+        },
+        {
+          "number": 14,
+          "line": "And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King!"
+        },
+        {
+          "number": 15,
+          "line": "But they cried out, Away with him, away with him, crucify him. Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Caesar."
+        },
+        {
+          "number": 16,
+          "line": "Then delivered he him therefore unto them to be crucified. And they took Jesus, and led him away."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "passion-week",
+      "titleEn": "Passion Week",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "92832140_2-28-2013 4-59-10 PM.jpg",
+      "caption": "Art depicting Jesus before Pilate"
+    },
+    {
+      "file": "Eccehomo1_2-28-2013 4-59-10 PM.jpg",
+      "caption": "Ecce Homo (&#34;Behold the Man&#34;), Antonio Ciseri&#39;s depiction of Pilate presenting a scourged Jesus to the people of Jerusalem in 1871."
+    },
+    {
+      "file": "What-is-truth02_2-28-2013 4-59-10 PM.jpg",
+      "caption": "Christ and Pilate (&#34;What is truth?&#34;) painting by Nikolai Ge in 1890."
+    },
+    {
+      "file": "GoodSalt-prcas0827_8-7-2013 9-57-45 AM.jpg",
+      "caption": "Jesus before Pilate"
+    }
+  ],
+  "videos": []
 }

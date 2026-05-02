@@ -2,15 +2,35 @@
   "slug": "exsurge-domine",
   "id": 1343,
   "period": 12,
-  "titleEn": "Exsurge Domine",
+  "titleEn": "Exsurge Domine ",
   "titleKa": null,
-  "datesEn": "1520 AD",
+  "datesEn": "1520 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A Papal bull issued by Pope Leo X in June of 1520 to condemn parts of Luther&#39;s Ninety&#8212;five Theses and threaten him with excommunication unless he recanted.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The papal bull Exsurge Domine (taken from the first two Latin words in the document), which threatened Martin Luther with excommunication, was published in June 1520. In order to avoid excommunication, Luther had 60 days to recant his beliefs. Luther&#39;s response was given on December 10, 1520, 60 days after the bull was delivered to him in Wittenberg. With a crowd of students and faculty, Luther made a speech and then threw the papal bull into a fire and burned it. The Vatican responded on January 3, 1521, through which Luther was formally excommunicated in another papal bull.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "92821452_2-26-2013 3-47-50 PM.jpg",
+      "caption": "Papal bulletin excommunicating Martin Luther."
+    },
+    {
+      "file": "92831905_2-26-2013 3-47-50 PM.jpg",
+      "caption": "Portrait of Martin Luther by Lucas Cranach the Elder."
+    },
+    {
+      "file": "Leo_X_Rubens_2-26-2013 3-47-50 PM.jpg",
+      "caption": "Portrait of Pope Leo X by Peter Paul Rubens located at the Museum Plantin-Moretus, Antwerp."
+    }
+  ],
+  "videos": []
 }

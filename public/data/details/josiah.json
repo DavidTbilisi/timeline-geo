@@ -4,18 +4,79 @@
   "period": 7,
   "titleEn": "Josiah",
   "titleKa": null,
-  "datesEn": "649–609 BC (~40)",
+  "datesEn": "649&ndash;609 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh heals.&#34; He is the son of Amon and 16th ruler of Judah who reigns for 31 years. He becomes king at age 8. He begins great religious reforms which come with the discovery of the Law scrolls in the Temple and seeks to destroy idols.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Josiah, name means &#34;Yahweh heals,&#34; though the real meaning of the name is obscure. The 16th ruler of the kingdom of Judah, who reigned for 31 years (c. 640&#8212;c. 609 b.c.). He became king at the age of 8 years, his father Amon having been slain by the royal courtiers (2 Chr 33:21&#8212;24 2 Chr 34:1). In his 12th regnal year, when about 20 years old, he began to purge his country of the high places, destroying Baal altars, Asherah cult images, and other pagan vestiges (ch 34:3&#8212;7). His religious activity extended to the territory of the former kingdom of Israel (v 6), the weakness of Assyria during those years being in his favor. It is possible that the Assyrian provinces of Megiddo and Samaria had ceased to function, and that Josiah entered into the political vacuum and established his own authority in that area. Later he was able to choose Megiddo, a city in the heart of the old northern kingdom, to meet Pharaoh Necho&#39;s army with his own armed forces.<BR /><BR />The greatest event in his life came in his 18th regnal year, when the discovery of a scroll of the Law of Moses in the Temple incited a national religious revival. The message of the scroll, when read to the king, made a deep impression upon him. Convinced that his fathers had not lived according to the divine ordinances, he feared that the curses pronounced by Moses would fall upon him and his kingdom, and consequently sent certain officials to the prophetess Huldah for advice. She confirmed the king&#39;s forebodings, but assured him that God would not bring the predicted punishments upon Judah during his lifetime, since he had done everything in his power to live a godly life (2 Ki 22:8&#8212;20 2 Chr 34:14&#8212;28). Josiah now doubled his efforts to stamp out idolatry and paganism from the kingdom, and induced the leadership of the country to enter into a solemn covenant with God. He celebrated the Passover in a way it had not been celebrated since the days of Samuel (2 Ki 23:1&#8212;25).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Chronicles 33:25",
+      "verses": [
+        {
+          "number": 25,
+          "line": "But the people of the land slew all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead."
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 35:24",
+      "verses": [
+        {
+          "number": 24,
+          "line": "His servants therefore took him out of that chariot, and put him in the second chariot that he had; and they brought him to Jerusalem, and he died, and was buried in one of the sepulchres of his fathers. And all Judah and Jerusalem mourned for Josiah."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "amon",
+      "titleEn": "Amon",
+      "titleKa": null
+    },
+    {
+      "slug": "jehoiakim",
+      "titleEn": "Jehoiakim",
+      "titleKa": null
+    },
+    {
+      "slug": "josiah-consecrates-himself-to-god",
+      "titleEn": "Josiah Consecrates Himself to God",
+      "titleKa": null
+    },
+    {
+      "slug": "jehoahaz-son-of-josiah",
+      "titleEn": "Jehoahaz",
+      "titleKa": null
+    },
+    {
+      "slug": "josiah-destroys-idols",
+      "titleEn": "Josiah Destroys Idols",
+      "titleKa": null
+    },
+    {
+      "slug": "josiah-finds-law-keeps-passover",
+      "titleEn": "Josiah Finds Law, Keeps Passover",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Josiah_7-31-2013 4-38-17 PM.jpg",
-      "caption": ""
+      "file": "Josiah_7-31-2013 4-38-17 PM.jpg",
+      "caption": "Josiah being made king "
+    },
+    {
+      "file": "GoodSalt-Josiah_8-6-2013 10-59-25 AM.jpg",
+      "caption": "Then Shaphan the scribe told the king, &#34;Hilkiah the priest has given me a scroll.&#34; Shaphan read it out loud before the king. When the king heard the words of the law scroll, he tore his clothes. (2 Chronicles, Chapter 34, 18-19). Woodcut after a drawing by Julius Schnorr von Carolsfeld (German painter, 1794 - 1872)"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Essential Ingredients for Revival",
+      "caption": "In this sermon on the essential ingredients of revival we learn youth are often involved. Key to revival is humility and prayer. Our spiritual lives need regular attention. And we need to hear God&#39;s word. Spreading your experience with others will keep a revival going.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg21049.mp4"
     }
   ]
 }

@@ -2,20 +2,108 @@
   "slug": "imprisonment-of-satan-on-earth-judgment-by-saints-in-heaven",
   "id": 1257,
   "period": 13,
-  "titleEn": "Imprisonment of Satan on Earth / Judgment by Saints in Heaven",
+  "titleEn": "Imprisonment of Satan on Earth / Judgment by Saints in Heaven ",
   "titleKa": null,
-  "datesEn": "Future (1000)",
+  "datesEn": "Future",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Millennium means &#34;1,000 years.&#34;  It is a period of time in Revelation 20 marked by two resurrections. The righteous dead are resurrected and join the righteous living in heaven. Satan is bound to the earth. The wicked rise at the end to be judged.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Revelation 20:3 says plainly that Satan is a prisoner in the abyss, or bottomless pit, for 1,000 years. The confusion is about the nature of this abyss. The Greek word is &#34;abussos,&#34; the same word used in the Septuagint in Genesis 1:2 for the pre&#8212;Creation earth. Also, Revelation 12:12 says Satan was bound to earth after the cross, and 2 Peter 2:4 says Satan and his angels were sent to &#34;hell&#34; to be reserved for judgment. Thus, they are reserved for judgment on earth. This also shows us that &#34;hell&#34; is on earth, not underneath it. The saints are shown judging in Revelation 20:4&#8212;6.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Revelation 20:1-14",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand."
+        },
+        {
+          "number": 2,
+          "line": "And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,"
+        },
+        {
+          "number": 3,
+          "line": "And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season."
+        },
+        {
+          "number": 4,
+          "line": "And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years."
+        },
+        {
+          "number": 5,
+          "line": "But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection."
+        },
+        {
+          "number": 6,
+          "line": "Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years."
+        },
+        {
+          "number": 7,
+          "line": "And when the thousand years are expired, Satan shall be loosed out of his prison,"
+        },
+        {
+          "number": 8,
+          "line": "And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom is as the sand of the sea."
+        },
+        {
+          "number": 9,
+          "line": "And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them."
+        },
+        {
+          "number": 10,
+          "line": "And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever."
+        },
+        {
+          "number": 11,
+          "line": "And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them."
+        },
+        {
+          "number": 12,
+          "line": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works."
+        },
+        {
+          "number": 13,
+          "line": "And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works."
+        },
+        {
+          "number": 14,
+          "line": "And death and hell were cast into the lake of fire. This is the second death."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "millennium",
+      "titleEn": "Millennium",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-millennium-1_8-5-2013 12-13-14 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-millennium-1_8-5-2013 12-13-14 PM.jpg",
+      "caption": "Satan bound to the desolate earth."
+    },
+    {
+      "file": "GoodSalt-millennium-2_8-5-2013 12-13-14 PM.jpg",
+      "caption": "The 1000 years"
+    },
+    {
+      "file": "judgement-angels_8-5-2013 12-13-14 PM.jpg",
+      "caption": "Judgment by the Saints in Heaven"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Devil Chained",
+      "caption": "What does the Bible teach about the millennium? When does this 1,000 years of peace begin? Where will Satan be during this time? This study focuses on Revelation 20. The beginning of the 1,000 years is marked by the resurrection of the righteous. The end is marked by the resurrection of the wicked.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/ap06.mp4"
+    },
+    {
+      "title": "Bound in the Abyss",
+      "caption": "This sermon focuses on the Bible&#39;s teaching on the Millennium with a special focus on Revelation 20.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2311.mp4"
     }
   ]
 }

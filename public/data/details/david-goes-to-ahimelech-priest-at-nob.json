@@ -4,13 +4,71 @@
   "period": 6,
   "titleEn": "David Goes to Ahimelech, Priest at Nob",
   "titleKa": null,
-  "datesEn": "1020 BC",
+  "datesEn": "1020 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "David flees from Saul who wants to kill him. He goes to Nob where the sanctuary is located and approaches Ahimelech, the High Priest, and asks for food. He gives him the holy bread and Goliath&#39;s sword. David is not truthful about his business.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "There is no question about the fact that David gave Ahimelech a complete misrepresentation of the facts. David was in a place of great danger. He had been so overwhelmed by the turn of recent events that it was difficult for him to view present tests in the light of manifest evidences of God&#39;s call and protective watch&#8212;care. If he fled to Samuel, he might endanger the life of that venerable man. If he returned to his own home in Gibeah, his presence might incur the death of his wife. <BR /><BR />In the sincerity of his soul he longed to inquire of the Lord, and the only place he could think of was the tabernacle at Nob. Inasmuch as Saul had required the priest to be in attendance upon him in war, it is probable that David, as captain over a thousand (ch. 18:13), had previously stopped at Nob for help before proceeding on his various forays.<BR /><BR />His problem now was to make inquiry without giving Ahimelech any real knowledge of the situation. That the priest did inquire for him seems evident from Doeg&#39;s tale to Saul (ch. 22:10), and Ahimelech&#39;s implied admission of utter ignorance of any trouble between Saul and his son&#8212;in&#8212;law (ch. 22:14, 15). David found the situation at Nob greatly complicated by Doeg&#39;s presence. It seemed as if everything was against him. <BR /><BR />He needed help, and in the moment of temptation it appeared that the only way to get assistance and at the same time protect the priest was to speak in such a way as to keep Ahimelech from knowing his reason for coming. In this resort to deception David did wrong.<BR /><BR />The fact that the Bible here does not condemn David&#39;s duplicity must not be taken as a justification of the act. The Scriptures require strict truthfulness.<BR />From the standpoint of the standards of the day David&#39;s dissimulation would be regarded as reasonably defensible. It is said that among the peoples of the Near East it was&#8212;and still is to a great extent&#8212;believed that it was not a crime to tell a lie to save a life. <BR /><BR />The Gibeonites resorted to such stratagem, and yet their lives were spared (Joshua 9:3&#8212;18). But though God accepted men tainted with the customs of the day, He was trying to lead them on to a higher standard. He did not reject them or forsake them for the occasional or perhaps habitual practice of the customs of the time. It was God&#39;s plan eventually to bring about reform in all these matters.<BR /><BR />Although David could not plead ignorance for his act, God did not forsake him. Perhaps it would have been better for him to have gone to Samuel, who was acquainted with the whole matter. God had a thousand ways out of the difficulty. If David had told Ahimelech the truth, the priest would have been forewarned and could have escaped the murderous hand of the king.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Samuel 21:1-9",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why art thou alone, and no man with thee?"
+        },
+        {
+          "number": 2,
+          "line": "And David said unto Ahimelech the priest, The king hath commanded me a business, and hath said unto me, Let no man know any thing of the business whereabout I send thee, and what I have commanded thee: and I have appointed my servants to such and such a place."
+        },
+        {
+          "number": 3,
+          "line": "Now therefore what is under thine hand? give me five loaves of bread in mine hand, or what there is present."
+        },
+        {
+          "number": 4,
+          "line": "And the priest answered David, and said, There is no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women."
+        },
+        {
+          "number": 5,
+          "line": "And David answered the priest, and said unto him, Of a truth women have been kept from us about these three days, since I came out, and the vessels of the young men are holy, and the bread is in a manner common, yea, though it were sanctified this day in the vessel."
+        },
+        {
+          "number": 6,
+          "line": "So the priest gave him hallowed bread: for there was no bread there but the shewbread, that was taken from before the LORD, to put hot bread in the day when it was taken away."
+        },
+        {
+          "number": 7,
+          "line": "Now a certain man of the servants of Saul was there that day, detained before the LORD; and his name was Doeg, an Edomite, the chiefest of the herdmen that belonged to Saul."
+        },
+        {
+          "number": 8,
+          "line": "And David said unto Ahimelech, And is there not here under thine hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king's business required haste."
+        },
+        {
+          "number": 9,
+          "line": "And the priest said, The sword of Goliath the Philistine, whom thou slewest in the valley of Elah, behold, it is here wrapped in a cloth behind the ephod: if thou wilt take that, take it: for there is no other save that here. And David said, There is none like that; give it me."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "DavidAndAhimlech_8-5-2013 3-21-38 PM.jpg",
+      "caption": "Ahimelech, the High Priest gives David the Holy Bread, James Tissot"
+    },
+    {
+      "file": "Ahimelech_Giving_the_Sword_of_Goliath_to_David_8-7-2013 3-40-13 PM.jpg",
+      "caption": "Ahimelech giving David Goliath&#39;s sword, Aert de Gelder, c. 1680"
+    }
+  ],
+  "videos": []
 }

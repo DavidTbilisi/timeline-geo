@@ -2,15 +2,68 @@
   "slug": "battle-of-armageddon",
   "id": 1253,
   "period": 13,
-  "titleEn": "Battle of Armageddon",
+  "titleEn": "Battle of Armageddon ",
   "titleKa": null,
   "datesEn": "Future",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The battle of Armageddon is a conflict between the forces of good and evil that will culminate just before the second coming of Christ. It is symbolic in nature, yet will end in the destruction of the wicked.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "ARMAGEDDON.  (From the Greek transliteration of an unknown Hebrew phrase usually thought to be Har&#8212;megiddo, &#34;Mount Megiddo.&#34;) The word &#34;Armageddon&#34; occurs in the Bible only in Rev. 16:16, as the Hebrew name for a &#34;place&#34; to which three &#34;unclean spirits&#34; (v. 13) gather &#34;the kings of the earth&#34; to &#34;the battle of that great day of God Almighty&#34; (v. 14)&#8212;John&#39;s designation for what is popularly called the battle of Armageddon.<BR /><BR />The gathering to Armageddon is the principal feature of the sixth plague (vs. 12&#8212;16). The sixth angel pours out his &#34;bowl&#34; upon &#34;the great river Euphrates,&#34; whose &#34;water was dried up, to prepare the way for the kings from the east.&#34; Then three &#34;demonic spirits&#34; resembling frogs go forth from the mouths of the &#34;dragon,&#34; the &#34;beast,&#34; and the &#34;false prophet&#34; to &#34;the kings of the whole world, to assemble them for battle on the great day of God the Almighty&#34; (vs. 13&#8212;16, RSV). The sixth plague closes with the nations of the earth gathered for battle, and the context implies that battle is joined as the seventh angel pours out the vial of the seventh plague.<BR /><BR />In popular usage &#34;Armageddon&#34; means any major military conflict involving many nations, though usually without reference to the biblical meaning of the term. Armageddon was not given specific emphasis by earlier Protestant interpreters, but in the first four decades of the nineteenth century, the increased emphasis on the imminence of the end of several prophetic periods in the prophecies of Daniel and the Revelation led to increased interest in the subject of Armageddon. A large group of expositors taught that events foretold in Rev. 16:12&#8212;16 paralleled those of Dan. 11:44, 45, since in both instances the establishment of Christ&#39;s eternal kingdom follows almost immediately. Furthermore, it was pointed out that the &#34;king of the north&#34; of Dan. 11:40&#8212;45, whom many identified as the Ottoman Empire, occupied the area drained by the Euphrates River, which is mentioned in Rev. 16:12. <BR /><BR />Their belief that the Turks were referred to by &#34;the great river Euphrates&#34; under the sixth trumpet (Rev. 9:14) strengthened the conviction that the Euphrates mentioned under the sixth plague must refer to the same power. The fact that throughout the nineteenth century the territory of the Ottoman Empire was progressively being diminished (&#34;dried up&#34;), coupled with belief in the imminence of the event foretold, tended to confirm this interpretation. Politically and in the public press the Turkish Empire was referred to as &#34;the sick man of the East,&#34; and its demise was supposed to be imminent. Contemporary events were construed as part of the drying&#8212;up process to which Rev. 16:12 referred. The &#34;Eastern question&#34; occupied the continuing attention of political leaders throughout the century, and of the interpreters of Bible prophecy as well.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Revelation 16:12-16",
+      "verses": [
+        {
+          "number": 12,
+          "line": "And the sixth angel poured out his vial upon the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared."
+        },
+        {
+          "number": 13,
+          "line": "And I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet."
+        },
+        {
+          "number": 14,
+          "line": "For they are the spirits of devils, working miracles, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty."
+        },
+        {
+          "number": 15,
+          "line": "Behold, I come as a thief. Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame."
+        },
+        {
+          "number": 16,
+          "line": "And he gathered them together into a place called in the Hebrew tongue Armageddon."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "prophecies-of-the-end-of-time",
+      "titleEn": "Prophecies of the End of Time",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-smcas0097_8-7-2013 10-25-58 AM.jpg",
+      "caption": "The battle of Armageddon"
+    },
+    {
+      "file": "TateImages_N05613_Z2_2-27-2013 4-31-39 PM.jpg",
+      "caption": "&#34;The Great Day of His Wrath&#34; by John Martin, 1853"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Armageddon Countdown",
+      "caption": "What is Armageddon?",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp39.mp4"
+    },
+    {
+      "title": "The Battle of Armageddon",
+      "caption": "The topic of this sermon is the battle of Armageddon spoken of in Revelation 16. It happens in the context of the last plagues to fall on the earth. Though it is often understood as a local battle in the Middle East, it is actually a spiritual battle. It is the final mobilization of the armies of the world to exterminate God&#39;s people. It is the final battle of the great controversy between Christ and Satan.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2912.mp4"
+    }
+  ]
 }

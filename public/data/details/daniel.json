@@ -4,18 +4,88 @@
   "period": 7,
   "titleEn": "Daniel",
   "titleKa": null,
-  "datesEn": "622–530 BC (~92)",
+  "datesEn": "622&ndash;530 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;God is my judge.&#34; A captive brought to Babylon who comes from the royal family. A man of talent and physique, he earns the respect of the king&#39;s court and becomes a statesmen to Nebuchadnezzar. He is also a great prophet given visions.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Daniel, name means &#34;God is my judge.&#34; Jewish statesman and prophet at the court of Nebuchadnezzar during the Babylonian captivity, and author of the book that bears his name. Daniel was of the royal family (Dan 1:3), and thus of the tribe of Judah. He was obviously a young man at the time he was taken captive, for his foreign service, first, for a time, at the court of Babylon, and again briefly under the Persian Empire, spanned a period of at least 67 years. Being a prince and a youth of ability and promise (ch 1:3, 4), he was selected, along with others, for a 3&#8212;year course of training designed to qualify him for service at court (vs 5, 19). The curriculum consisted among other things of &#34;the learning and the tongue of the Chaldeans [Aramaic]&#34; (v 4). <BR /><BR />Students taking this course were considered as members of the court and enjoyed certain special privileges (v 5). Apparently from the very first Daniel&#39;s gracious personality and integrity of character won him the favor of the court officials in whose charge he was placed (Dan 1:8, 9). These qualities soon won for him the opportunity of demonstrating the advantages of a healthful diet (vs 8&#8212;16). At the close of the course (3 years, inclusive), Daniel and his 3 companions graduated with highest honors (vs 17&#8212;20). Thus even before Daniel formally entered upon his service at court he had earned the respect and confidence of the king and his courtiers, having given evidence of a gracious personality, a healthy physique, and superior intellect&#8212;in addition to native talent and integrity of character.<BR /><BR />Soon thereafter a situation arose that, in God&#39;s providence, launched Daniel on his career as a minister and adviser to the king (Dan 2). Nebuchadnezzar had a dream of a great image, which, most particularly its spectacular climax, was well calculated to arouse the interest of an idolatrous monarch. When he awoke he found that the contents of the dream had been erased from his memory. He summoned his wise men to declare it to him, but they finally admitted that none but &#34;the gods&#34; could answer the king&#39;s queries (vs 10, 11). <BR /><BR />This set the stage for Daniel to prove his own acquaintance with the God of heaven, who not only revealed the dream but so interpreted it as to win Nebuchadnezzar&#39;s complete confidence in Daniel as a representative of the true God (vs 46&#8212;49). After the passage of an unspecified period of time, Nebuchadnezzar erected a magnificent golden image and required all his officials to bow before it (ch 3). This golden image was probably designed to represent an empire that would never end, in defiance of the prediction in the dream of ch 2 that envisioned Babylon giving way to another world power (Dan 2:38, 39). For some reason Daniel was apparently not summoned.<BR /><BR />After the passage of another unspecified period of time, and apparently toward the close of Nebuchadnezzar&#39;s long reign, the king again dismissed the God of heaven from his mind (Dan 4:4, 30). God accorded him another dream that presaged his humiliation (vs 5&#8212;18), and once more Daniel proved to be the only one able to interpret it (vs 19&#8212;27). After the humiliating experience foretold by the dream (vs 28&#8212;34), the king testified publicly to the greatness of God, to his own submission to God, and implied his own readiness to cooperate with the divine plan for his reign (vs 1&#8212;3, 34&#8212;37). <BR /><BR />But Nebuchadnezzar&#39;s successors on the throne of Babylon, though they knew all this, refused to follow his course of submission to the will of God (ch 5:22), and actually defied Him (vs 2&#8212;4, 23). This persistent and obdurate refusal to comply with the divine plan brought about the downfall of the kingdom only a few years prior to the termination of the 70 years of captivity (Jer 25:12 29:10 Dan 9:1, 2). Daniel&#39;s subsequent installation as a high official in the Persian Empire gave him an opportunity to testify to his faith before the leaders of the nation that was destined of God to bring about the predicted return of the Jews to their homeland and to assist in re&#8212;establishing them there. His deliverance from the lions&#39; den resulted in the recognition of Daniel as an ambassador of the court of heaven (Dan 6:22&#8212;28), and doubtless opened the way for him to call attention to the prophecies about Cyrus and his role in the restoration of Jerusalem (Is 44:24 to 45:13).<BR /><BR />On at least four occasions Daniel was the recipient of divine revelation, first the vision of Dan 7 early in Belshazzar&#39;s reign, second the vision of ch 8 two years later, third the communication of ch 9 after the conquest of Babylon by the Persians, and fourth the vision of ch 10 and the lengthy explanation that followed it, as recorded in chs 11 and 12 in the 3d year of the new empire. Thus Daniel lived at least till the 3d year of Cyrus, and was at that time almost 90 years of age.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Daniel 1:3",
+      "verses": [
+        {
+          "number": 3,
+          "line": "And the king spake unto Ashpenaz the master of his eunuchs, that he should bring certain of the children of Israel, and of the king's seed, and of the princes;"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "daniel-7-four-great-beasts",
+      "titleEn": "Daniel 7 - Four Great Beasts",
+      "titleKa": null
+    },
+    {
+      "slug": "daniel-1-daniel-captive",
+      "titleEn": "Daniel 1, Daniel Captive",
+      "titleKa": null
+    },
+    {
+      "slug": "daniel-3-golden-image",
+      "titleEn": "Daniel 3, Golden Image",
+      "titleKa": null
+    },
+    {
+      "slug": "daniel-4-begin-7-yrs-of-beast",
+      "titleEn": "Nebuchadnezzar Dreams of Tree & Humiliated",
+      "titleKa": null
+    },
+    {
+      "slug": "daniel-8-ram-goat-and-little-horn",
+      "titleEn": "Daniel 8 - Ram, Goat and Little Horn",
+      "titleKa": null
+    },
+    {
+      "slug": "daniel-9-prayer-concerning-70-years",
+      "titleEn": "Daniel 9, Prayer Concerning 70 Years",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Daniellion_7-31-2013 4-10-48 PM.jpg",
-      "caption": ""
+      "file": "Daniellion_7-31-2013 4-10-48 PM.jpg",
+      "caption": "Daniel&#39;s Answer to the King, Briton RiviÃ¨re"
+    },
+    {
+      "file": "Daniel in the Lions Den_4-1-2013 5-39-16 PM.jpg",
+      "caption": "Vintage colour lithograph from 1880 showing a biblical scene from the Old Testament, Daniel in the den of lions."
+    },
+    {
+      "file": "Daniel_refuse_kingsfood_8-8-2013 12-46-06 PM.jpg",
+      "caption": "Daniel refusing to partake of the King&#39;s rations, O.A. Stemler"
+    },
+    {
+      "file": "GettyImages_122227260_2_sm_4-1-2013 5-39-16 PM.jpg",
+      "caption": "This clay cylinder is inscribed in Babylonian cuneiform and is an account by Cyrus, king of Persia (559-530 B.C.), of his conquest of Babylon in 539 B.C. and capture of Nabonidus, the last Babylonian king. British Museum."
+    }
+  ],
+  "videos": [
+    {
+      "title": "God&#39;s Health Plan",
+      "caption": "Does the Bible talk about health? Is it something important for Christians to consider? There is a clear connection between how we eat and how we leave. The story of Daniel not defiling himself sets the stage for being responsible for our bodies. Our spiritual perceptions are fogged by drugs, alcohol, and poor living habits.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/events/pc/prophecycode_16.mp4"
+    },
+    {
+      "title": "Bowing to Babylon, Pt. 1",
+      "caption": "What in astronomy would give us a seven day week?  The only place where a seven day week can be traced to is the Bible.  ",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp34.mp4"
+    },
+    {
+      "title": "Bowing to Babylon, Pt. 2",
+      "caption": "The Sabbath meant so much to Jesus that He rested on the Sabbath day from His work of saving the human race.  He didn&#39;t rise Sunday morning to inaugurate a new day.  He rose to go back to work as our High Priest.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp35.mp4"
     }
   ]
 }

@@ -4,18 +4,116 @@
   "period": 9,
   "titleEn": "Herod the Great",
   "titleKa": null,
-  "datesEn": "73–4 BC (~69)",
+  "datesEn": "73&ndash;4 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;like a hero&#34; or &#34;offspring of a hero.&#34; He is the son of Antipater and descendant of the Edomites but a Jew by citizenship and religious profession. He is the king of Judea and Palestine at the time of Jesus&#39; birth, and a great builder.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Herod the Great. King of Judea and all Palestine at the time of Jesus&#39; birth. He was the 2nd son of the Idumean Antipater, and thus a descendant of the ancient Edomites, but he was a Jew by citizenship and religious profession. The kingdom of Herod initially comprised Judea (including Samaria and Idumea) however, Antony took Jericho and its territory and gave it to Cleopatra of Egypt. After the battle at Actium in 31 b.c., from which Octavian emerged victor over Antony, Herod made another switch in affiliation, went to Rhodes where Octavian was, and succeeded in gaining his favor.<BR /><BR />Herod&#39;s family life was full of tragedies, and was soiled with the blood of his closest relatives, including three of his own sons and one of his ten wives. Herod was a great builder and the founder of several magnificent cities, which were built in Hellenistic style and splendor. The city of Jerusalem also received his attention. Beginning c. 20 b.c. he rebuilt Zerubbabel&#39;s Temple, which was in a dilapidated condition, and began to erect magnificent buildings in and around the Temple. He also built a royal palace in Jerusalem, one tower of which is still partly visible in the lower section of the so&#8212;called &#34;Tower of David&#34; in the citadel. <BR /><BR />Although Herod was a Hellenist in heart and practice, and surrounded himself by Hellenistic counselors, he was prudent enough to refrain from suppressing or openly defying the Jewish religion as Antiochus IV had done in the preceding century. However, the Jews hated him because he was an Idumean and a friend of the Romans, and because of his scandalous private life. They resented his extreme cruelty and the imposition upon them of a heavy tax burden necessitated by his extensive building program. The absence of open rebellion during his long reign was due to his unwavering loyalty to the Romans, to his ruthlessness in suppressing every opposition, and to the fact that there was external peace in his day.<BR /><BR />Herod the Great appears in the New Testament in the date formula of Lk 1:5, and in the narrative of the &#34;wise men from the east&#34; as told in Mt 2:1&#8212;18. Upon hearing that a descendant of David was born in Bethlehem according to an ancient prophecy, the king gave orders to kill all infants in that city. This cruel act is not recorded in secular history. It is in full harmony with his other known acts of atrocity and cruelty. <BR /><BR />The last atrocity planned by Herod was fortunately never carried out. Knowing that there would be great rejoicing in the kingdom when the people would learn of his death, he had the principal Jews shut up in the stadium in Jericho, and gave orders to have them killed as soon as he died, in order to provide some mourning over his death. However, his sister Salome and her husband Alexas, who were charged with carrying out this order, foiled his plan by releasing the unfortunate noblemen after his death, thus bringing great joy to many Jewish homes. Herod passed away in his 34th regnal year at the age of 69, in 4/3 b.c., most probably in the spring of 4 b.c.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Luke 1:5",
+      "verses": [
+        {
+          "number": 5,
+          "line": "There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife was of the daughters of Aaron, and her name was Elisabeth."
+        }
+      ]
+    },
+    {
+      "reference": "Matthew 2:1-18",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,"
+        },
+        {
+          "number": 2,
+          "line": "Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him."
+        },
+        {
+          "number": 3,
+          "line": "When Herod the king had heard these things, he was troubled, and all Jerusalem with him."
+        },
+        {
+          "number": 4,
+          "line": "And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born."
+        },
+        {
+          "number": 5,
+          "line": "And they said unto him, In Bethlehem of Judaea: for thus it is written by the prophet,"
+        },
+        {
+          "number": 6,
+          "line": "And thou Bethlehem, in the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel."
+        },
+        {
+          "number": 7,
+          "line": "Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared."
+        },
+        {
+          "number": 8,
+          "line": "And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found him, bring me word again, that I may come and worship him also."
+        },
+        {
+          "number": 9,
+          "line": "When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was."
+        },
+        {
+          "number": 10,
+          "line": "When they saw the star, they rejoiced with exceeding great joy."
+        },
+        {
+          "number": 11,
+          "line": "And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh."
+        },
+        {
+          "number": 12,
+          "line": "And being warned of God in a dream that they should not return to Herod, they departed into their own country another way."
+        },
+        {
+          "number": 13,
+          "line": "And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him."
+        },
+        {
+          "number": 14,
+          "line": "When he arose, he took the young child and his mother by night, and departed into Egypt:"
+        },
+        {
+          "number": 15,
+          "line": "And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son."
+        },
+        {
+          "number": 16,
+          "line": "Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men."
+        },
+        {
+          "number": 17,
+          "line": "Then was fulfilled that which was spoken by Jeremy the prophet, saying,"
+        },
+        {
+          "number": 18,
+          "line": "In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "herod-antipas",
+      "titleEn": "Herod Antipas",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/HerodtheGreat2_3-20-2013 4-49-58 PM.jpg",
-      "caption": ""
+      "file": "HerodtheGreat2_3-20-2013 4-49-58 PM.jpg",
+      "caption": "Drawing of Herod the Great."
+    },
+    {
+      "file": "Judean hills near Debir, Khirbet Rabud, tb030407777_3-20-2013 4-49-58 PM.jpg",
+      "caption": "Judean hills near Debir, Khirbet Rabud"
     }
-  ]
+  ],
+  "videos": []
 }

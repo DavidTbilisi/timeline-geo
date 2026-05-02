@@ -4,13 +4,40 @@
   "period": 7,
   "titleEn": "Elmodam (or Elmadam)",
   "titleKa": null,
-  "datesEn": "679–587 BC",
+  "datesEn": "679&ndash;587 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Meaning of name unknown. The son of Er, a descendent of Judah, listed in Luke&#39;s genealogy of Jesus Christ.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:28",
+      "verses": [
+        {
+          "number": 28,
+          "line": "Which was the son of Melchi, which was the son of Addi, which was the son of Cosam, which was the son of Elmodam, which was the son of Er,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "er",
+      "titleEn": "Er",
+      "titleKa": null
+    },
+    {
+      "slug": "cosam",
+      "titleEn": "Cosam",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-Elmodam_8-5-2013 5-42-53 PM.jpg",
+      "caption": "Which was the son of Melchi, which was the son of Addi, which was the son of Cosam, which was the son of Elmodam, which was the son of Er, (Luke 3:28)"
+    }
+  ],
+  "videos": []
 }

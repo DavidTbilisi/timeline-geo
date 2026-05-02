@@ -4,13 +4,75 @@
   "period": 3,
   "titleEn": "Jacob Wrestles Angel",
   "titleKa": null,
-  "datesEn": "1689 BC",
+  "datesEn": "1689 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "While preparing to meet his brother Esau, Jacob spends a night alone and wrestles with God (Hosea 12:4 says &#34;Angel&#34;). The &#34;deceiver&#34; struggles and becomes the &#34;overcomer.&#34; God changes his name to Israel and blesses Jacob who now goes to meet Esau.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Earlier in the day Jacob had sent forward his gift to Esau. As night drew on he sent all that he had, family and possessions, over the Jabbok, desiring to spend the night alone in prayer. The Jabbok, today called Nahr ez&#8212;Zerqa, &#34;the blue river,&#34; is an eastern tributary of the Jordan. Flowing through a deep canyon, it enters the larger stream some 25 mi. north of the Dead Sea. Jacob had remained on the northern bank of the river in order that he might be alone to seek God in prayer. In the present situation his usual cleverness was of no avail. God alone could be of help to mitigate Esau&#39;s anger and to save Jacob and his family. <BR /><BR />That Jacob&#39;s antagonist was neither a human being nor an ordinary angel is to be inferred from the fact that Jacob spoke of Him as God (v. 30). The prophet Hosea also refers to Him both as God and as an Angel (Hosea 12:3, 4). This celestial visitor was none other than Christ. Such an appearance of Christ in human form is neither strange nor unique (Gen. 18:1). The unknown wrestler used only the strength of a human being in his struggle with Jacob. <BR /><BR />Thinking his assailant a mortal enemy, Jacob fought as if for his life. But, as dawn approached, a single touch of more than human strength sufficed to cripple Jacob, and he became aware of the fact that his antagonist was more than human. The Angel sought to withdraw before daybreak, but gave no reason for wishing to do so. Commentators have suggested a desire on His part either to prevent others from witnessing the scene or perhaps to prevent Jacob from seeing Him. <BR /><BR />The crippling touch and the divine voice had convinced Jacob that the One with whom he had thus wrestled for hours was a messenger from heaven. Having for hours sought desperately for divine help, Jacob felt he could not afford to let Him go without first receiving assurance of the pardon and protection for which he longed. This he asked as an outright gift, realizing that he had nothing to offer God in return. He proposed no bargain his desperate situation was his only plea. Whereas in the past he had relied upon his own wisdom and strength, he had now learned to trust wholly in God.<BR /><BR />The great spiritual change that had come over Jacob was now symbolized by a change of name from Jacob to Israel indicating the nature of his new relationship to God. The names of Abram and Sarai had likewise been changed (see ch. 17:5, 15) and from that time forward the Scriptures always call them by their new names. But in the subsequent history of Jacob his old and new names are used more or less interchangeably. <BR /><BR />Jacob&#39;s new name, Israel, became the name of the nation that sprang from his body. For him, the change of name, like his change of character, was far more significant than that of his grandparents. It represented his transformation from a &#34;deceiver&#34; of men to a &#34;victor of God.&#34; The new name, ostensibly a token of physical victory, was to be a perpetual reminder of the completed spiritual renovation that had taken place.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 32:22-32",
+      "verses": [
+        {
+          "number": 22,
+          "line": "And he rose up that night, and took his two wives, and his two womenservants, and his eleven sons, and passed over the ford Jabbok."
+        },
+        {
+          "number": 23,
+          "line": "And he took them, and sent them over the brook, and sent over that he had."
+        },
+        {
+          "number": 24,
+          "line": "And Jacob was left alone; and there wrestled a man with him until the breaking of the day."
+        },
+        {
+          "number": 25,
+          "line": "And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob's thigh was out of joint, as he wrestled with him."
+        },
+        {
+          "number": 26,
+          "line": "And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me."
+        },
+        {
+          "number": 27,
+          "line": "And he said unto him, What is thy name? And he said, Jacob."
+        },
+        {
+          "number": 28,
+          "line": "And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed."
+        },
+        {
+          "number": 29,
+          "line": "And Jacob asked him, and said, Tell me, I pray thee, thy name. And he said, Wherefore is it that thou dost ask after my name? And he blessed him there."
+        },
+        {
+          "number": 30,
+          "line": "And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved."
+        },
+        {
+          "number": 31,
+          "line": "And as he passed over Penuel the sun rose upon him, and he halted upon his thigh."
+        },
+        {
+          "number": 32,
+          "line": "Therefore the children of Israel eat not of the sinew which shrank, which is upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob's thigh in the sinew that shrank."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-pppas0589_8-6-2013 9-22-34 AM.jpg",
+      "caption": "Jacob&#39;s wrestling ..."
+    }
+  ],
+  "videos": []
 }

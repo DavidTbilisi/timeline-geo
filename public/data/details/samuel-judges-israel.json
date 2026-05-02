@@ -4,18 +4,44 @@
   "period": 5,
   "titleEn": "Samuel Judges Israel",
   "titleKa": null,
-  "datesEn": "1143–1055 BC",
+  "datesEn": "1143&ndash;1055 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Samuel is one of the greatest judges of Israel after the time of Moses. He begins his work as a child and dies in old age during the time Saul is pursuing the life of David. He is buried in Ramah. Samuel is Israel&#39;s judge, priest, and prophet.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Samuel made a notable contribution when he organized schools for the youth, so that Israel could be trained in the great principles of salvation. God&#39;s original plan was that the Levites should be scattered throughout the whole land, teaching the people concerning the things of God. But being largely unemployed, the members of this tribe were forced to find a livelihood in other kinds of work, with the result that the people were fast becoming little better than the heathen about them. As a result the schools of the prophets were instituted.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Samuel 2:18",
+      "verses": [
+        {
+          "number": 18,
+          "line": "But Samuel ministered before the LORD, being a child, girded with a linen ephod."
+        }
+      ]
+    },
+    {
+      "reference": "1 Samuel 25:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah. And David arose, and went down to the wilderness of Paran."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "samuel",
+      "titleEn": "Samuel",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas1474_8-6-2013 3-59-48 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas1474_8-6-2013 3-59-48 PM.jpg",
+      "caption": "Samuel the Judge"
     }
-  ]
+  ],
+  "videos": []
 }

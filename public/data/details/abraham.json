@@ -4,18 +4,195 @@
   "period": 3,
   "titleEn": "Abraham",
   "titleKa": null,
-  "datesEn": "1946–1771 BC (175)",
+  "datesEn": "1946&ndash;1771 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;father of a multitude.&#34; He is the son of Terah and father of Isaac. Abram, later Abraham, was called by God to leave Ur and go to the land of Canaan where his descendents would become a great nation. He is known as a friend of God.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Abraham was born in 1950 b.c. left Haran for Canaan after the death of his father in 1875 b.c., visited Egypt between 1875 and 1864 b.c., and died in 1775 b.c. after having lived in Canaan for 100 years. He was born in Ur in southern Mesopotamia during the Neo&#8212;Sumerian period. In about 1960 b.c., according to the so&#8212;called Low Chronology, shortly before his birth, the strong 3d dynasty of Ur, which had ruled for more than 100 years, came to an end, and was replaced by the rival dynasties of Isin and Larsa, under which Ur declined somewhat in importance as a political center in the Mesopotamian valley. <BR /><BR />During the 75 years that Abraham lived in Ur and Haran the country was under the domination of Sumerian rulers, although the Amorites, who had already taken over most of Syria and Palestine, were already pouring into Mesopotamia. By 1830 b.c. they founded the powerful 1st dynasty of Babylon, whose 6th king, Hammurabi (c. 1728&#8212;1686 b.c.), became the strongest ruler.<BR /><BR />When Abraham entered Canaan he found the country for the greater part in the hands of the Amorites. The country was not a unified state, however, but consisted of numerous city&#8212;states of various sizes with kings and kinglets of Amorite stock forming the ruling class. Egypt, on the other hand, was at that time ruled by the powerful kings of the 12th dynasty (1991 to c. 1780 b.c.). If Abraham was in Egypt between 1875 and 1864 b.c. (see Gen 12) he must have met Sesostris III as king of Egypt who ruled from 1878 to 1840 b.c. <BR /><BR />According to ancient records this king conducted a military campaign into Palestine, directing it against Skmm, which is probably Shechem, but did not occupy the country. It seems that the campaign was a punitive raid, and that its object was not conquest.  During Abraham&#39;s time occurred the military campaigns described in Gen 14. None of the kings mentioned in the narrative can be identified with monarchs known from secular sources, however, archeological evidence confirms the narrative. <BR /><BR />The explorations of Albright and Glueck have brought to light evidence that a flourishing culture and many cities in Transjordan were destroyed in the 20th or 19th cent. b.c., and that the country remained almost entirely uninhabited for several centuries afterward. There is also some evidence that Sodom and Gomorrah, which presumably lay at the southern end of the Dead Sea, were destroyed at that time (see Sodom). The cities Sodom and Gomorrah are mentioned in a cuneiform text from *Ebla of the prepatriarchal period.<BR /><BR />The life of Abraham may be considered under four major periods: (1) His life prior to his journeying to Canaan, at the age of 75. (2) His early sojourn in Canaan to the birth of his son Isaac, a period of 25 years. (3) His life from the birth of Isaac to the death of Sarah and the marriage of Isaac to Rebekah, about 40 years. (4) His later life, old age, and death, about 35 years.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 11:26",
+      "verses": [
+        {
+          "number": 26,
+          "line": "And Terah lived seventy years, and begat Abram, Nahor, and Haran."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 25:8",
+      "verses": [
+        {
+          "number": 8,
+          "line": "Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 11:26",
+      "verses": [
+        {
+          "number": 26,
+          "line": "And Terah lived seventy years, and begat Abram, Nahor, and Haran."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 25:8",
+      "verses": [
+        {
+          "number": 8,
+          "line": "Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "terah",
+      "titleEn": "Terah",
+      "titleKa": null
+    },
+    {
+      "slug": "marriage-of-abraham-and-sarah",
+      "titleEn": "Marriage of Abraham and Sarah",
+      "titleKa": null
+    },
+    {
+      "slug": "abram-called-and-departs-haran",
+      "titleEn": "Abram Called and Departs Haran",
+      "titleKa": null
+    },
+    {
+      "slug": "famine-in-the-land",
+      "titleEn": "Famine in the Land",
+      "titleKa": null
+    },
+    {
+      "slug": "sarah-and-egyptian-king",
+      "titleEn": "Sarah and Egyptian King",
+      "titleKa": null
+    },
+    {
+      "slug": "abram-delivers-sodom-from-four-kings",
+      "titleEn": "Abram Delivers Sodom from Four Kings",
+      "titleKa": null
+    },
+    {
+      "slug": "abram-blessed-by-melchizedek",
+      "titleEn": "Abram Blessed by Melchizedek",
+      "titleKa": null
+    },
+    {
+      "slug": "gods-covenant-with-abram-smoking-furnace",
+      "titleEn": "God's Covenant with Abram / Smoking Furnace",
+      "titleKa": null
+    },
+    {
+      "slug": "ishmael-conceived",
+      "titleEn": "Ishmael Conceived",
+      "titleKa": null
+    },
+    {
+      "slug": "ishmael",
+      "titleEn": "Ishmael",
+      "titleKa": null
+    },
+    {
+      "slug": "abram-becomes-abraham-covenant-of-circumcision",
+      "titleEn": "Abram becomes Abraham, Covenant of Circumcision",
+      "titleKa": null
+    },
+    {
+      "slug": "isaac",
+      "titleEn": "Isaac",
+      "titleKa": null
+    },
+    {
+      "slug": "abrahams-call-to-sacrifice-isaac",
+      "titleEn": "Abraham's Call to Sacrifice Isaac",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Sarah_Abraham_8-8-2013 10-08-24 AM.jpg",
-      "caption": ""
+      "file": "Sarah_Abraham_8-8-2013 10-08-24 AM.jpg",
+      "caption": "Abraham and Sarah"
+    },
+    {
+      "file": "GoodSalt-prcas1802_8-7-2013 1-15-13 PM.jpg",
+      "caption": "The Sacrifice by Abraham"
+    },
+    {
+      "file": "Abraham 1200-16_7-22-2013 2-44-35 PM.jpg",
+      "caption": "The Patriarch Abraham"
+    },
+    {
+      "file": "GoodSalt-prcas0864_8-7-2013 1-15-13 PM.jpg",
+      "caption": "Abraham leaving Ur of the Chaldees"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Abraham, Part 1: Going by Faith",
+      "caption": "This is the first in a 12 part series on the life of Abraham. He is a prime example of giving up all and following God wherever the Lord leads. God calls us out of Babylon to the promised land as well.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2405.mp4"
+    },
+    {
+      "title": "Abraham, Part 2: My Sister, My Spouse",
+      "caption": "This is the second of a 12 part series on the life of Abraham. This sermon focuses on Abraham&#39;s experience in Egypt. Like Sarah, the beauty of a godly heart is an inward adorning. Abraham&#39;s lie to the Pharaoh shows God&#39;s long suffering with us.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2406.mp4"
+    },
+    {
+      "title": "Abraham, Part 3: Riches and Strife",
+      "caption": "The third in a 12 part series on the life of Abraham. This sermon focuses on Abraham&#39;s wealth and the challenges it brought. Strife between church members or parents creates insecurity and doesn&#39;t build the family of God.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2408.mp4"
+    },
+    {
+      "title": "Abraham, Part 4: Rescue & Reward",
+      "caption": "The fourth in a 12 part series on the life of Abraham. His experiences are a miniature story of what happens to God&#39;s people in later times. Lot is like God&#39;s people who were carried away in war and then rescued.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2409.mp4"
+    },
+    {
+      "title": "Abraham, Part 5: Righteous by Faith",
+      "caption": "This is the fifth in a 12 part series on the life of Abraham. This sermon reminds us that just as Abraham was given a promise of blessing that he received by faith, so we may have God&#39;s blessing through faith. We can be spiritual children of Abraham.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2410.mp4"
+    },
+    {
+      "title": "Abraham, Part 6: The Surrogate Son",
+      "caption": "This is the sixth in a 12 part series on the life of Abraham. This sermon focuses on Hagar and Ishmael and Genesis 16. God permits us to pursue answers to our problems in order to teach us our need of the Lord.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2411.mp4"
+    },
+    {
+      "title": "Abraham, Part 7: A New Name",
+      "caption": "The seventh in a 12 part series on the life of Abraham. When God cleanses us from sin, we are by faith clean. God&#39;s commands have power within to obey. It is like receiving a new name that describes what we will be.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2413.mp4"
+    },
+    {
+      "title": "Abraham, Part 8: Entertain and Intercede",
+      "caption": "This is part 8 of a sermon series on Abraham and deals with Genesis 18 and 19. The topic is on hospitality, entertaining, and interceding. Christians ought to be hospitable. Abraham earnestly prayed for the cities of Sodom and Gomorrah and interceded, just as Christ interceded for us.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2414.mp4"
+    },
+    {
+      "title": "Abraham, Part 9: Right Relationships",
+      "caption": "The ninth in a 12 part series on the life of Abraham. Here we look at Abraham&#39;s relationship with Abimelech and the birth of Isaac. God continues to work with Abraham despite his failings. God looks upon our hearts.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2416.mp4"
+    },
+    {
+      "title": "Abraham Part 10: The Ultimate Test",
+      "caption": "This is the tenth in a 12 part series on the life of Abraham. This sermon focuses on the ultimate test for Abraham, to willing lay down his son the altar and give him up. God blesses Abraham for his faith.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2419.mp4"
+    },
+    {
+      "title": "Abraham Part 11: Mourning a Loss",
+      "caption": "The eleventh in a 12 part series on the life of Abraham. In this sermon we look at the death of Sarah who represents the church. She has a miracle baby boy, which symbolizes God&#39;s church.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2421.mp4"
+    },
+    {
+      "title": "Abraham Part 12: Finding the Right Bride",
+      "caption": "The last in a 12 part series on the life of Abraham. This sermon focuses on the search for a bride for Isaac.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2422.mp4"
     }
   ]
 }

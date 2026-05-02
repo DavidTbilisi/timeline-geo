@@ -4,13 +4,39 @@
   "period": 7,
   "titleEn": "Sargon II",
   "titleKa": null,
-  "datesEn": "758–705 BC",
+  "datesEn": "758&ndash;705 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;the god has appointed the king.&#34; After the death of Shalmaneser he is an Assyrian general who establishes himself on the throne. He claims to have captured Samaria and deported the Israelites and their gods (golden calves).",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Sargon. The name of several Mesopotamian kings, of whom only Sargon II (722&#8212;705 b.c.) of Assyria appears in the Bible. Sargon II is mentioned in the Bible only in Is 20:1, in connection with a campaign against Ashdod. The first Assyrian king&#39;s name to be deciphered was that of Sargon II. The decipherment was made in the middle of the 19th cent. when Assyriology was in its infancy, and by it Biblical archeology gained one of its first triumphs, for the name Sargon had been completely unknown except for the one occurrence of it in the book of Isaiah.<BR /><BR />Sargon took the throne of Assyria after the death of Shalmaneser V. He was probably a usurper, although he claimed, according to one preserved text, to have been a son of Tiglath&#8212;pileser III. He was a powerful king and a great conqueror, and became the founder of the mightiest dynasty of Assyrian rulers, under whom the empire reached its greatest triumphs. In his later inscriptions he claims to have captured Samaria, and to have deported 27,290 Israelites, and their gods, probably meaning the golden calves that Jeroboam I had set up at Bethel and Dan. However, from the chronological data of the Bible it seems more likely that Samaria fell shortly before Shalmaneser V&#39;s death, when Sargon was still the commander of the army. <BR /><BR />Nevertheless, Sargon may have been responsible for the transplantation of the population of Samaria to other parts of the empire (2 Ki 17:6), and the initial settlements of colonists from Babylonia, and other places (v 24) in the territory of Samaria. Sargon carried out many military campaigns during his reign of 17 years, but it is unknown whether he fought against King Hezekiah, although he calls himself the subduer of Judah, and claims that that country paid tribute to him. He is especially well known as the builder of a new capital city, D&#252;r&#8212;Sharruk&#234;n, now Khorsabad, about 10 mi. (c. 16 km.) northeast of Nineveh. D&#252;r&#8212;Sharruk&#234;n was the first Assyrian palace city excavated. Sargon was succeeded in 705 b.c. by his son Senacherib.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Isaiah 20:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "sennacherib",
+      "titleEn": "Sennacherib",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Human_headed_winged_bull_profile_4-3-2013 3-51-35 PM.jpg",
+      "caption": "A lamassu from the palace of Sargon II at Dur-Sharrukin."
+    },
+    {
+      "file": "Sargon II_4-3-2013 3-51-35 PM.jpg",
+      "caption": "Sargon II and dignitary. Low-relief from the L wall of the palace of Sargon II at Dur Sharrukin in Assyria (now Khorsabad in Iraq), c. 716-713 BC. Located at the Louvre Museum in Paris."
+    }
+  ],
+  "videos": []
 }

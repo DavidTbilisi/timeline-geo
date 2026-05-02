@@ -4,18 +4,44 @@
   "period": 6,
   "titleEn": "Nadab",
   "titleKa": null,
-  "datesEn": "933–909 BC (~24)",
+  "datesEn": "933&ndash;909 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;generous.&#34; He is the son of Jeroboam I and the 2nd king of Israel. He reigns for less than two years and is a wicked king like his father. While attacking Gebbethon he is killed by Baasha who then takes his throne.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Nadab, name means &#34;generous.&#34; Son and successor of Jeroboam I, and the 2d king of the northern kingdom of Israel. He reigned for less than 2 years (c. 910&#8212;909 b.c.) and followed his father in all his evil ways (1 Ki 15:25, 26). While besieging Gibbethon, which belonged to the Philistines at that time, he was killed by Baasha, who then usurped the throne for himself and afterward exterminated all the relatives of the house of Jeroboam (vs 27&#8212;29). This massacre fulfilled Ahija&#39;s prophecy concerning Jeroboam (ch 14:10, 11).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Kings 15:25",
+      "verses": [
+        {
+          "number": 25,
+          "line": "And Nadab the son of Jeroboam began to reign over Israel in the second year of Asa king of Judah, and reigned over Israel two years."
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 15:28",
+      "verses": [
+        {
+          "number": 28,
+          "line": "Even in the third year of Asa king of Judah did Baasha slay him, and reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jeroboam-i",
+      "titleEn": "Jeroboam I",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Nadab_of_Israel.jpg",
-      "caption": ""
+      "file": "Nadab_of_Israel.jpg",
+      "caption": "Illustration of Nadab in 1553 published by Guillaume Rouille"
     }
-  ]
+  ],
+  "videos": []
 }

@@ -2,15 +2,31 @@
   "slug": "olaf-petri",
   "id": 1332,
   "period": 11,
-  "titleEn": "Olaf Petri",
+  "titleEn": "Olaf Petri ",
   "titleKa": null,
-  "datesEn": "1493–1552 AD",
+  "datesEn": "1493&ndash;1552 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "One of the leading figures of the reformation in Sweden.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Olaf Petri was born on January 6, 1493. During his life as a clergyman, he was a writer and major reformer in Sweden. Olaf completed a master&#39;s degree at the University of Wittenberg in 1518, where he met Martin Luther and Philip Melanchthon. He returned to Sweden in 1519. In October 1524 Olaf and Laurentius were both excommunicated for heresy. However, in 1531 the king proclaimed Sweden to be Lutheran at the Uppsala Council.<BR /><BR />Olaf was responsible for the first Swedish New Testament, published in 1526, and also contributed to the first Swedish Bible, which appeared around 1541. Olaf died on April 19, 1552, in Stockholm, Sweden.<BR /><BR /><BR /><BR /><BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "133746091_2-26-2013 4-31-06 PM.jpg",
+      "caption": "Aerial panorama of Stockholm, Sweden."
+    },
+    {
+      "file": "iStock_000007563998XSmall_2-26-2013 4-31-06 PM.jpg",
+      "caption": "Map of Norway Sweden and Finland."
+    }
+  ],
+  "videos": []
 }

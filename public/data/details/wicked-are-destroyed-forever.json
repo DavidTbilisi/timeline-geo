@@ -2,20 +2,91 @@
   "slug": "wicked-are-destroyed-forever",
   "id": 1260,
   "period": 13,
-  "titleEn": "Wicked are Destroyed Forever",
+  "titleEn": "Wicked are Destroyed Forever ",
   "titleKa": null,
-  "datesEn": "After Millenium",
+  "datesEn": "<span class=\"small\">After Millenium</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After the great white throne judgment at the end of the 1,000 years the wicked are destroyed. Fire comes down from heaven and consumes them. This lake of fire is spoken of as the second death and is eternal.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "As to the nature and effect of hellfire, Bible teaching is clear. In Matt. 3:12 sinners are compared to chaff that is burned with &#34;unquenchable fire&#34; (cf. Mark 9:43&#8212;48 Luke 3:9). In Matt. 25:41 the wicked are represented as being consigned to &#34;everlasting [aio&#181;nios] fire.&#34; And in Matt. 5:22 Jesus referred to the final judgment on the wicked as &#34;hell fire.&#34; All three passages refer to the fires of the last day that will devour the wicked and all their works. This fire will purge the earth (2 Peter 3:10&#8212;12 Luke 3:17). It will be ignited after all the finally impenitent who come up in the second resurrection (Rev. 20:5) are marshaled under Satan around the New Jerusalem (v. 9). (In other words, it is not burning now.) The devil, his evil confederates, and all who have been deceived by them are cast into this lake of fire (vs. 10, 14, 15).<BR /><BR />This fire is the second death, from which there will be no resurrection. The word  usually translated &#34;everlasting&#34; or &#34;eternal,&#34; and once &#34;forever,&#34; means literally, &#34;lasting for an age,&#34; in the sense of being continuous and not subject to capricious change. The English words &#34;everlasting&#34; and &#34;eternal,&#34; on the other hand, imply duration unlimited. The duration signified must be determined by the nature of the person or thing it describes. In the New Testamentthis word is used to describe both the fate of the wicked and the reward of the righteous. Following the above principle, we find that the reward of the righteous is life to which there is no end, whereas the reward or judgment of the wicked is death to which there is no end (cf. Rom. 6:23). In John 3:16 &#34;everlasting life&#34; stands in contrast to &#34;perish.&#34;<BR /><BR />The word &#34;unquenchable&#34; may be similarly understood. Jeremiah predicted that God would kindle a fire in Jerusalem that would &#34;not be quenched&#34; (Jer. 17:27). This prediction was fulfilled when the city was destroyed by Nebuchadnezzar (2 Chron. 36:19&#8212;21). Obviously that fire is not burning today. It was unquenchable in the sense that the Jews were unable to put it out. It burned until it destroyed their city and went out.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Revelation 20:9-15",
+      "verses": [
+        {
+          "number": 9,
+          "line": "And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them."
+        },
+        {
+          "number": 10,
+          "line": "And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever."
+        },
+        {
+          "number": 11,
+          "line": "And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them."
+        },
+        {
+          "number": 12,
+          "line": "And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works."
+        },
+        {
+          "number": 13,
+          "line": "And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works."
+        },
+        {
+          "number": 14,
+          "line": "And death and hell were cast into the lake of fire. This is the second death."
+        },
+        {
+          "number": 15,
+          "line": "And whosoever was not found written in the book of life was cast into the lake of fire."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "millennium",
+      "titleEn": "Millennium",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-jcgas0071_8-5-2013 1-29-52 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-jcgas0071_8-5-2013 1-29-52 PM.jpg",
+      "caption": "Destruction of the wicked is a painful act for God.Say unto them, As I live, saith the Lord GOD, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live: turn ye, turn ye from your evil ways; for why will ye die, O house of Israel? (Ezekiel 33:11)"
+    },
+    {
+      "file": "iStock_000013529130Small_2-27-2013 3-52-28 PM.jpg",
+      "caption": "Fire consumes Satan and the wicked; cleanses the earth."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Cities of Ash",
+      "caption": "What does the Bible teach about hell? Is there really a hell? Where is it located and who is in charge of hell? We learn that people receive their just rewards &#34;at the last day&#34;, not immediately when they die. The dead are currently in their graves.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/events/mop/mop09.mp4"
+    },
+    {
+      "title": "Premise and Authority",
+      "caption": "",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/Other/AmazingDiscoveries/471_premise_and_authority.mp4"
+    },
+    {
+      "title": "Cities of Ash, Pt. 1",
+      "caption": "What does the Bible teach about hell? Is there really a hell? Where is it located and who is in charge of hell? We learn that people receive their just rewards &#34;at the last day&#34;, not immediately when they die. The dead are currently in their graves.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp78.mp4"
+    },
+    {
+      "title": "What Is the Lake of Fire? Pt. 1",
+      "caption": "Good news about Hell and our loving God.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp116.mp4"
+    },
+    {
+      "title": "What Is the Lake of Fire? Pt. 1",
+      "caption": "Good news about Hell and our loving God.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp116.mp4"
     }
   ]
 }

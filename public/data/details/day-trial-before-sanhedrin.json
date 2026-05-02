@@ -4,13 +4,81 @@
   "period": 9,
   "titleEn": "Day Trial before Sanhedrin",
   "titleKa": null,
-  "datesEn": "31 AD",
+  "datesEn": "31 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After a night trial, the Sanhedrin gathers to council and decides to bind Jesus and take Him to Pontius Pilate, the governor of Judea.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The night trial before selected members of the Sanhedrin (see on Matt. 26:57&#8212;75), held in the home of the high priest, was not an official session, in spite of the fact that testimony was heard and a decision rendered. It was necessary to issue a formal call for a meeting of the Sanhedrin as soon as the sun rose, about 5:30 A.M. at that time of year in the latitude of Jerusalem. Hence, the essential features of the night trial had to be repeated. The day trial, therefore, resembles, in its main features, the night trial. That the night session was a meeting of the Sanhedrin is indicated in the statement that &#34;as soon as it was day, the Sanhedrin again assembled&#34;.<BR /><BR />Christ was led from the guardroom at the palace of the high priest to the council chamber of the Sanhedrin. Here He was questioned, &#34;Are you the Christ?&#34; The night session had already considered the reply Christ gave to this question as an adequate reason for condemning Him to death (see on Matt. 26:63&#8212;66). The question was repeated for all to hear. Many members of the Sanhedrin were now present who had not been present at the night session, though Nicodemus and Joseph of Arimathaea had not been summoned. Jesus had already told them once, an hour or more earlier (see on Matt. 26:64). They were not interested in the facts in the case and would refuse to examine the evidence. Jesus had discussed the evidences of His Messiahship, probably in this very hall, two years before (see on John 5:17&#8212;47, esp. vs. 31&#8212;39).<BR /><BR />Jesus answered &#34;You say that I am.&#34; This is simply an idiomatic way of saying &#34;Yes&#34; (see Mark 14:62 Matt. 26:64). The &#34;Son of man&#34; is &#34;the Christ&#34; (Luke 22:67). See on Matt. 1:1 Mark 2:10. This was Jesus&#39; third condemnation at the hands of the Jewish leaders, and the third scene of abuse and mockery followed hard upon it. Except for the restraining presence of the Roman soldiers, Jesus would doubtless have been murdered by the mob in the very presence of the Sanhedrin. Had Jesus not been what He claimed to be, the Jewish leaders would have been absolutely right. But because He was all He claimed to be, they were eternally and irretrievably wrong.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 27:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:"
+        }
+      ]
+    },
+    {
+      "reference": "Mark 15:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried him away, and delivered him to Pilate."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 22:66-71",
+      "verses": [
+        {
+          "number": 66,
+          "line": "And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,"
+        },
+        {
+          "number": 67,
+          "line": "Art thou the Christ? tell us. And he said unto them, If I tell you, ye will not believe:"
+        },
+        {
+          "number": 68,
+          "line": "And if I also ask you, ye will not answer me, nor let me go."
+        },
+        {
+          "number": 69,
+          "line": "Hereafter shall the Son of man sit on the right hand of the power of God."
+        },
+        {
+          "number": 70,
+          "line": "Then said they all, Art thou then the Son of God? And he said unto them, Ye say that I am."
+        },
+        {
+          "number": 71,
+          "line": "And they said, What need we any further witness? for we ourselves have heard of his own mouth."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "passion-week",
+      "titleEn": "Passion Week",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "The_Morning_Judgment_of_Jesus_001_8-7-2013 9-50-45 AM.jpg",
+      "caption": "&#34;The Morning Judgement of Jesus&#34; James Tissot"
+    },
+    {
+      "file": "Jesus Before Pilate_3-6-2013 10-40-53 AM.jpg",
+      "caption": "Art depicting Jesus before Pilate"
+    },
+    {
+      "file": "Judean wilderness view east from Ziph panorama, tb111706663_3-6-2013 10-40-53 AM.jpg",
+      "caption": "Judean wilderness view east from Ziph "
+    }
+  ],
+  "videos": []
 }

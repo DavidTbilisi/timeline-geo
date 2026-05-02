@@ -4,13 +4,29 @@
   "period": 3,
   "titleEn": "Marriage of Nahor and Milcah",
   "titleKa": null,
-  "datesEn": "1906–1850 BC",
+  "datesEn": "1906&ndash;1850 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Genesis 11:29 says that Nahor took a wife, whose name was &#34;Milcah, the daughter of Haran the father of Milcah and the father of Iscah.&#34; Nahor is a brother of her father. Milcah had 8 sons, among whom was Bethuel, the father of Rebekah.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "<b>Milcah.</b> This daughter of Haran, who had married her uncle Nahor (ch. 11:29), had given birth to eight sons, named in the following verses. It is not implied that Milcah had but recently begun to bear children (see on ch. 11:30), but that many years had passed since Abraham last heard from Nahor&#39;s family.",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 11:29",
+      "verses": [
+        {
+          "number": 29,
+          "line": "And Abram and Nahor took them wives: the name of Abram's wife was Sarai; and the name of Nahor's wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah."
+        }
+      ]
+    }
+  ],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "GoodSalt-lwjas0463_8-5-2013 3-07-41 PM.jpg",
+      "caption": "Genesis 11:29 says that Nahor took a wife, whose name was &#34;Milcah, the daughter of Haran the father of Milcah and the father of Iscah."
+    }
+  ],
+  "videos": []
 }

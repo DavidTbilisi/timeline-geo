@@ -4,13 +4,83 @@
   "period": 4,
   "titleEn": "Joseph and End of 7 Year Drought",
   "titleKa": null,
-  "datesEn": "1651 BC",
+  "datesEn": "1651 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Joseph has stored grain to sell to the Egyptians during the seven&#8212;year drought. The Egyptians have given all their money, their livestock, and even their land to buy grain from Joseph. He charges them 20% interest on crops. The people are grateful.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A great social revolution is forced upon Egypt by the stern necessity of famine, which had by now reduced the entire nation to a state of utter misery. The animals that thus became Pharaoh&#39;s property were probably left in the care of their owners. These terms, therefore, were not so severe as it would appear. A famishing people could expect no profit from starving cattle and dying herds. <BR /><BR />Now they were to receive fodder for their animals, and probably enjoy a partial profit on them, by analogy to what happened to their land and its produce the next year (see vs. 23, 24). Realizing that their lot as Pharaoh&#39;s serfs would be preferable to that of free but starving citizens, they considered this solution advantageous to themselves as well as to the king. A full stomach was a far happier prospect than starvation.<BR /><BR />Joseph distributed, or organized, the population of the land according to the cities in which grain was stored, placing them either in the cities or in their immediate vicinity. The priests formed a most influential and powerful segment of Egyptian society. No Pharaoh ever succeeded in permanently breaking their power, and very few dared to arouse their hatred or even lose their good will. More than half of all the wealth of Egypt was in the hands of the priests. They were tax&#8212;exempt throughout Egypt&#39;s ancient history. <BR /><BR />The levy of 20 per cent collected during the 7 plentiful years, as an exceptional measure, had not seemed an excessive burden because of the tremendous amount of produce. Henceforth it was to be perpetuated as the regular tax rate, inasmuch as all lands had become the property of the crown. This new regulation was not considered harsh or unjust. It is an adequate refutation of the oft&#8212;repeated charge that Joseph despoiled the Egyptians of their liberties and reduced a free people to slavery. Slave&#8212;owners are usually not content with a tax of 20 per cent on the gross income of their estates. <BR /><BR />Except for the tax, royal ownership of the lands was more nominal than real. At all events, the tax was not considered exorbitant by the people themselves. They were grateful to be able to remain alive and to retain the use of their animals, houses, and lands, even though it be under the nominal lordship of Pharaoh.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 47:13-25",
+      "verses": [
+        {
+          "number": 13,
+          "line": "And there was no bread in all the land; for the famine was very sore, so that the land of Egypt and all the land of Canaan fainted by reason of the famine."
+        },
+        {
+          "number": 14,
+          "line": "And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh's house."
+        },
+        {
+          "number": 15,
+          "line": "And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth."
+        },
+        {
+          "number": 16,
+          "line": "And Joseph said, Give your cattle; and I will give you for your cattle, if money fail."
+        },
+        {
+          "number": 17,
+          "line": "And they brought their cattle unto Joseph: and Joseph gave them bread in exchange for horses, and for the flocks, and for the cattle of the herds, and for the asses: and he fed them with bread for all their cattle for that year."
+        },
+        {
+          "number": 18,
+          "line": "When that year was ended, they came unto him the second year, and said unto him, We will not hide it from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:"
+        },
+        {
+          "number": 19,
+          "line": "Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give us seed, that we may live, and not die, that the land be not desolate."
+        },
+        {
+          "number": 20,
+          "line": "And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh's."
+        },
+        {
+          "number": 21,
+          "line": "And as for the people, he removed them to cities from one end of the borders of Egypt even to the other end thereof."
+        },
+        {
+          "number": 22,
+          "line": "Only the land of the priests bought he not; for the priests had a portion assigned them of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands."
+        },
+        {
+          "number": 23,
+          "line": "Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, here is seed for you, and ye shall sow the land."
+        },
+        {
+          "number": 24,
+          "line": "And it shall come to pass in the increase, that ye shall give the fifth part unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones."
+        },
+        {
+          "number": 25,
+          "line": "And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh's servants."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "joseph",
+      "titleEn": "Joseph",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas2616_8-6-2013 11-40-17 AM.jpg",
+      "caption": "And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh&#39;s. (Genesis 47:20)"
+    }
+  ],
+  "videos": []
 }

@@ -4,18 +4,46 @@
   "period": 2,
   "titleEn": "Noah's Preaching",
   "titleKa": null,
-  "datesEn": "2418–2298 BC (120)",
+  "datesEn": "2418&ndash;2298 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Noah was about 480 years old when God announced a flood would cover the earth (Gen. 6:17) and 600 years old when the flood came (Gen. 7:6). In 2 Peter 2:5 we read that Noah was a &#34;preacher of righteousness.&#34;",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Noah was a &#34;preacher&#34; or &#34;herald&#34;. From ancient times the office preacher was sacred and his person inviolable, since the herald was regarded as being under the immediate protection of the gods. Noah was the Lord&#39;s &#34;herald of righteousness,&#34; that is, he proclaimed a message concerning righteousness. Josephus (Antiquities i. 3. 1 [72&#8212;74]) records the Jewish tradition that Noah tried to persuade his contemporaries to change their lives for the better (cf. on Gen. 6:3 1 Peter 3:19, 20).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Peter 2:5",
+      "verses": [
+        {
+          "number": 5,
+          "line": "And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "noah",
+      "titleEn": "Noah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-pppas0232_8-7-2013 12-53-32 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-pppas0232_8-7-2013 12-53-32 PM.jpg",
+      "caption": "Noah preaching to the antediluvians ..."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Genesis History: An Ark of Salvation",
+      "caption": "This study focuses on Noah and the ark of salvation in Genesis 6 and 7. We can know Noah and the flood is not a fable since Jesus makes reference to him. As it was in the days of Noah, so shall it be when Christ comes. We are to come into the ark of salvation. Someday the door of salvation will be shut.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2128.mp4"
+    },
+    {
+      "title": "Genesis History: Through the Storm",
+      "caption": "This sermon speaks of Noah&#39;s ark and experience of the flood depicts the story of salvation. Historical evidence is given for a worldwide flood, legends from around the world. There is also geologic evidence and fossil evidence of a worldwide flood. Like the ark, Christ is the door of salvation. That door will not be open forever.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2130.mp4"
     }
   ]
 }

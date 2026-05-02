@@ -4,13 +4,209 @@
   "period": 9,
   "titleEn": "Demoniacs of Gadara",
   "titleKa": null,
-  "datesEn": "29 AD",
+  "datesEn": "29 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After crossing the lake with His disciples, Jesus is met by two demoniacs in the country of the Gadarenes. Christ stands before them and casts the demon out into a herd of swine. The men are restored to their right minds and told to stay & witness.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The preceding day Jesus had delivered the Sermon by the Sea, which consisted largely of parables (see Matt. 13), somewhere along the shore of Galilee bordering on the Plain of Gennesaret (see on Matt. 13:1). The distance across the lake at this point was about 7 mi. (11 km.). It was upon this crossing that Jesus had stilled the storm (see on Matt. 8:18). His purpose in crossing to the less densely populated eastern shore at this time was to enjoy a brief respite from the throngs of people who were now pressing upon Him to the extent that He often had little or no time even to eat and sleep (see Mark 3:20).<BR />When the boat landed in this region, two wild men were seen coming toward them. By the time the demoniacs came to the place where Jesus stood, the disciples had fled in terror, and the Saviour was alone with the two demon&#8212;possessed men. Somehow they seemed to perceive dimly that here was a Friend, not a foe and they prostrated themselves on the ground at Jesus&#39; feet. His very presence often seemed to impress deeply even His worst enemies (see Matt. 21:12, 13 John 2:15).<BR /><BR />The demons challenged Jesus&#39; authority (see ch. 1:27 see on ch. 2:10) and basically said, &#34;What right have you to interfere with me?&#34; It would seem that the evil spirits were speaking directly through one of the demoniacs of Gadara to Christ, for Jesus addresses the &#34;unclean spirit&#34; rather than the man himself (see Mark 5:8). Accordingly, the recognition of Jesus as the &#34;Son of the most high God&#34; represents knowledge the spirits possessed, not the demoniacs. Christ cast the demons into a nearby herd of swine and asked the restored men to stay in this region and share their testimony with the unbelieving people.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 8:28-34",
+      "verses": [
+        {
+          "number": 28,
+          "line": "And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way."
+        },
+        {
+          "number": 29,
+          "line": "And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?"
+        },
+        {
+          "number": 30,
+          "line": "And there was a good way off from them an herd of many swine feeding."
+        },
+        {
+          "number": 31,
+          "line": "So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine."
+        },
+        {
+          "number": 32,
+          "line": "And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters."
+        },
+        {
+          "number": 33,
+          "line": "And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the devils."
+        },
+        {
+          "number": 34,
+          "line": "And, behold, the whole city came out to meet Jesus: and when they saw him, they besought him that he would depart out of their coasts."
+        }
+      ]
+    },
+    {
+      "reference": "Mark 5:1-20",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And they came over unto the other side of the sea, into the country of the Gadarenes."
+        },
+        {
+          "number": 2,
+          "line": "And when he was come out of the ship, immediately there met him out of the tombs a man with an unclean spirit,"
+        },
+        {
+          "number": 3,
+          "line": "Who had his dwelling among the tombs; and no man could bind him, no, not with chains:"
+        },
+        {
+          "number": 4,
+          "line": "Because that he had been often bound with fetters and chains, and the chains had been plucked asunder by him, and the fetters broken in pieces: neither could any man tame him."
+        },
+        {
+          "number": 5,
+          "line": "And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones."
+        },
+        {
+          "number": 6,
+          "line": "But when he saw Jesus afar off, he ran and worshipped him,"
+        },
+        {
+          "number": 7,
+          "line": "And cried with a loud voice, and said, What have I to do with thee, Jesus, thou Son of the most high God? I adjure thee by God, that thou torment me not."
+        },
+        {
+          "number": 8,
+          "line": "For he said unto him, Come out of the man, thou unclean spirit."
+        },
+        {
+          "number": 9,
+          "line": "And he asked him, What is thy name? And he answered, saying, My name is Legion: for we are many."
+        },
+        {
+          "number": 10,
+          "line": "And he besought him much that he would not send them away out of the country."
+        },
+        {
+          "number": 11,
+          "line": "Now there was there nigh unto the mountains a great herd of swine feeding."
+        },
+        {
+          "number": 12,
+          "line": "And all the devils besought him, saying, Send us into the swine, that we may enter into them."
+        },
+        {
+          "number": 13,
+          "line": "And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand;) and were choked in the sea."
+        },
+        {
+          "number": 14,
+          "line": "And they that fed the swine fled, and told it in the city, and in the country. And they went out to see what it was that was done."
+        },
+        {
+          "number": 15,
+          "line": "And they come to Jesus, and see him that was possessed with the devil, and had the legion, sitting, and clothed, and in his right mind: and they were afraid."
+        },
+        {
+          "number": 16,
+          "line": "And they that saw it told them how it befell to him that was possessed with the devil, and also concerning the swine."
+        },
+        {
+          "number": 17,
+          "line": "And they began to pray him to depart out of their coasts."
+        },
+        {
+          "number": 18,
+          "line": "And when he was come into the ship, he that had been possessed with the devil prayed him that he might be with him."
+        },
+        {
+          "number": 19,
+          "line": "Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee."
+        },
+        {
+          "number": 20,
+          "line": "And he departed, and began to publish in Decapolis how great things Jesus had done for him: and all men did marvel."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 8:26-39",
+      "verses": [
+        {
+          "number": 26,
+          "line": "And they arrived at the country of the Gadarenes, which is over against Galilee."
+        },
+        {
+          "number": 27,
+          "line": "And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in any house, but in the tombs."
+        },
+        {
+          "number": 28,
+          "line": "When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, thou Son of God most high? I beseech thee, torment me not."
+        },
+        {
+          "number": 29,
+          "line": "(For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)"
+        },
+        {
+          "number": 30,
+          "line": "And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him."
+        },
+        {
+          "number": 31,
+          "line": "And they besought him that he would not command them to go out into the deep."
+        },
+        {
+          "number": 32,
+          "line": "And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them."
+        },
+        {
+          "number": 33,
+          "line": "Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked."
+        },
+        {
+          "number": 34,
+          "line": "When they that fed them saw what was done, they fled, and went and told it in the city and in the country."
+        },
+        {
+          "number": 35,
+          "line": "Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid."
+        },
+        {
+          "number": 36,
+          "line": "They also which saw it told them by what means he that was possessed of the devils was healed."
+        },
+        {
+          "number": 37,
+          "line": "Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again."
+        },
+        {
+          "number": 38,
+          "line": "Now the man out of whom the devils were departed besought him that he might be with him: but Jesus sent him away, saying,"
+        },
+        {
+          "number": 39,
+          "line": "Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "galilean-ministry",
+      "titleEn": "Galilean Ministry",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Demoniacs_8-1-2013 12-05-39 PM.jpg",
+      "caption": "Jesus with the demoniacs."
+    },
+    {
+      "file": "Pigs_3-19-2013 5-09-22 PM.jpg",
+      "caption": "After crossing the lake with His disciples, Jesus is met by two demoniacs in the country of the Gadarenes. Christ stands before them and casts the demon out into a herd of swine."
+    }
+  ],
+  "videos": []
 }

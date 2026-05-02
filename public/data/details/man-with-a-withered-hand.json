@@ -4,13 +4,113 @@
   "period": 9,
   "titleEn": "Man with a Withered Hand",
   "titleKa": null,
-  "datesEn": "29 AD",
+  "datesEn": "29 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The Pharisees seek to trap Jesus by asking Him to heal a man on the Sabbath. Jesus calls their attention to a Sabbath law that permits helping an animal. He reminds them how much more valuable is a person. Then He heals the man.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "When Christ entered a synagogue, he encountered a man with a withered hand. The Pharisees were watching to see if Jesus would heal the man in order to accuse Him of breaking the law. Jesus asks the group if it is lawful to do good or bring life on the Sabbath. Their sullen silence was an admission of defeat. Previous encounters with Jesus had taught them that nothing could be gained by challenging Him publicly, for He always succeeded in turning their own arguments against them in such a way as to reveal truth and to make it evident to the people that the rabbinical position was untenable. The Bible says Christ was angry and grieved at them. It is often said that the only anger without sin is the anger against sin. God hates sin, but He loves the sinner. Erring mortals all too often make the mistake of hating the sinner and loving the sin. Anger against wrong as wrong, without evil wish or design on others, may certainly be considered a commendable trait of character.<BR /><BR />Mark records the personal feelings of Jesus. He was &#34;grieved&#34; because the Jewish leaders made use of their high offices and positions to misrepresent the character and requirements of God. No doubt He was also &#34;grieved&#34; because of the results this would have upon these leaders themselves and upon those who followed their misleading ideas. The Greek implies that Jesus&#39; initial reaction of anger was momentary, but His concern for these benighted children, estranged from their heavenly Father and misconstruing His love for them, continued.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 12:9-14",
+      "verses": [
+        {
+          "number": 9,
+          "line": "And when he was departed thence, he went into their synagogue:"
+        },
+        {
+          "number": 10,
+          "line": "And, behold, there was a man which had his hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him."
+        },
+        {
+          "number": 11,
+          "line": "And he said unto them, What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift it out?"
+        },
+        {
+          "number": 12,
+          "line": "How much then is a man better than a sheep? Wherefore it is lawful to do well on the sabbath days."
+        },
+        {
+          "number": 13,
+          "line": "Then saith he to the man, Stretch forth thine hand. And he stretched it forth; and it was restored whole, like as the other."
+        },
+        {
+          "number": 14,
+          "line": "Then the Pharisees went out, and held a council against him, how they might destroy him."
+        }
+      ]
+    },
+    {
+      "reference": "Mark 3:1-6",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And he entered again into the synagogue; and there was a man there which had a withered hand."
+        },
+        {
+          "number": 2,
+          "line": "And they watched him, whether he would heal him on the sabbath day; that they might accuse him."
+        },
+        {
+          "number": 3,
+          "line": "And he saith unto the man which had the withered hand, Stand forth."
+        },
+        {
+          "number": 4,
+          "line": "And he saith unto them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace."
+        },
+        {
+          "number": 5,
+          "line": "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched it out: and his hand was restored whole as the other."
+        },
+        {
+          "number": 6,
+          "line": "And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 6:6-11",
+      "verses": [
+        {
+          "number": 6,
+          "line": "And it came to pass also on another sabbath, that he entered into the synagogue and taught: and there was a man whose right hand was withered."
+        },
+        {
+          "number": 7,
+          "line": "And the scribes and Pharisees watched him, whether he would heal on the sabbath day; that they might find an accusation against him."
+        },
+        {
+          "number": 8,
+          "line": "But he knew their thoughts, and said to the man which had the withered hand, Rise up, and stand forth in the midst. And he arose and stood forth."
+        },
+        {
+          "number": 9,
+          "line": "Then said Jesus unto them, I will ask you one thing; Is it lawful on the sabbath days to do good, or to do evil? to save life, or to destroy it?"
+        },
+        {
+          "number": 10,
+          "line": "And looking round about upon them all, he said unto the man, Stretch forth thy hand. And he did so: and his hand was restored whole as the other."
+        },
+        {
+          "number": 11,
+          "line": "And they were filled with madness; and communed one with another what they might do to Jesus."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "galilean-ministry",
+      "titleEn": "Galilean Ministry",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Man_with_the_Withered_Hand_001_8-1-2013 11-05-28 AM.jpg",
+      "caption": "&#34;Man with the Withered Hand&#34; James Tissot"
+    }
+  ],
+  "videos": []
 }

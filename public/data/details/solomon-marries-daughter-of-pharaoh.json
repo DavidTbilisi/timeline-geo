@@ -4,13 +4,44 @@
   "period": 6,
   "titleEn": "Solomon Marries Daughter of Pharaoh",
   "titleKa": null,
-  "datesEn": "967 BC",
+  "datesEn": "967 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Solomon makes a treaty with Pharaoh king of Egypt, and marries his daughter. Such marriages served political and economic purposes. This Pharaoh may have been Siamun who gave his daughter Gezer as dowry.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Solomon&#39;s first objective after taking the throne was to establish internal security. That end achieved, he was in a position to give his attention to outside interests. The first item mentioned is the royal marriage to a daughter of Pharaoh. In the case of the reign of David over Judah, there is also first the mention of measures taken to ensure internal security (2 Sam. 2:1&#8212;32 3:1), followed by a mention of David&#39;s sons and wives (2 Sam. 3:2&#8212;5), and after his anointing as king of Israel (2 Sam. 5:1&#8212;3), the first item reported is the establishment of his power over Israel (2 Sam. 5:6&#8212;12), followed once more by a mention of his wives and concubines (2 Sam. 5:13&#8212;16).<BR /><BR />The Pharaoh with whom Solomon is mentioned as having made affinity is believed to be one of the kings of the Twenty&#8212;first Dynasty, whose capital was at Tanis in Lower Egypt. It must have been a predecessor of Shishak (Sheshonk), founder of the Twenty&#8212;second Dynasty, who invaded Judah in the fifth year of Rehoboam (1 Kings 14:25).<BR /><BR />Political alliances were frequently sealed by marriages between the royal families. No rebuke is given by the sacred historian for Solomon&#39;s marriage with this idolatrous princess. He simply records the incident. But his absence of censure places no sanction upon the act. The marriage was in direct violation of the command of God. Though Pharaoh&#39;s daughter forsook the religion of her native Egypt and threw in her lot with the Hebrews, among whom she had come to live (PK 53), this salutary result did not justify the foreign marriage. <BR /><BR />Pharaoh took the city of Gezer from the Canaanites and presented it to his daughter as a dowry and to the nation of Israel (1 Kings 9:16). The residence of Pharaoh&#39;s daughter in the City of David was only temporary, until Solomon had constructed his own palace. This palace was to be north of David&#39;s city, in the Temple area. A separate house was later to be built for his Egyptian wife (1 Kings 7:8).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 3:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Solomon made affinity with Pharaoh king of Egypt, and took Pharaoh's daughter, and brought her into the city of David, until he had made an end of building his own house, and the house of the LORD, and the wall of Jerusalem round about."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "solomon",
+      "titleEn": "Solomon",
+      "titleKa": null
+    },
+    {
+      "slug": "pharaoh-conquers-gezer-gives-as-present-to-daughter",
+      "titleEn": "Pharaoh Conquers Gezer, Dowry for Daughter",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas3087_8-22-2013 3-12-34 PM.jpg",
+      "caption": "Solomon made affinity with Pharaoh king of Egypt, and took Pharaoh&#39;s daughter, and brought her into the City of David."
+    },
+    {
+      "file": "Siamun_4-30-2013 1-05-28 PM.jpg",
+      "caption": "Bronze Sphinx of Siamun locatead at the Louvre Museum in Paris. "
+    }
+  ],
+  "videos": []
 }

@@ -2,15 +2,27 @@
   "slug": "erasmus-new-testament",
   "id": 1338,
   "period": 11,
-  "titleEn": "Erasmus' New Testament",
+  "titleEn": "Erasmus' New Testament ",
   "titleKa": null,
-  "datesEn": "1516 AD",
+  "datesEn": "1516 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Published an annotated Greek New Testament with a new Latin translation, based on several different manuscripts.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In 1516 Desiderius Erasmus published a new translation of the New Testament into Latin. In this same publication, Erasmus provided annotations to the original Greek text. This Greek compilation of the New Testament became the first published edition of the Greek New Testament in history. A second edition was produced in 1519, which had a tremendous influence on Luther&#39;s German translation. The third edition was published in 1522. <BR /><BR /><BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Holbein-erasmus_2-26-2013 4-07-32 PM.jpg",
+      "caption": "Portrait of Desiderius Erasmus of Rotterdam by Hans Holbein the Younger in 1523 located at the National Gallery."
+    }
+  ],
+  "videos": []
 }

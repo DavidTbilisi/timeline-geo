@@ -4,13 +4,40 @@
   "period": 2,
   "titleEn": "Eber",
   "titleKa": null,
-  "datesEn": "2231–1767 BC",
+  "datesEn": "2231&ndash;1767 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;the other side.&#34; He is the son of Salah from the line of Shem and regarded as the founder of the Hebrew race. The phrase &#34;all the children of Eber&#34; (Gen. 10:21) probably is the meaning of the word &#34;Hebrews.&#34; Eber is mentioned in Luke 3.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A descendant of Shem through Arpachshad and ancestor of a group of people called &#34;all the children of Eber&#34; (Gen 10:21, 24, 25), which phrase probably means the &#34;Hebrews&#34; in the broadest sense. To his descendants belonged the Joktanite Arabic tribes (vs 25&#8212;30) and the Aramaean tribes descending from Nahor and other relatives of Abraham (chs 10:26&#8212;29 11:16&#8212;27 22:20&#8212;24), besides Abraham&#39;s descendants (ch 11:16&#8212;26), who included&#8212;in addition to the Israelites&#8212;the Ishmaelite Arabs, the Edomites, and the descendants of Keturah, Abraham&#39;s later wife (chs 25:1&#8212;16 36:1, 8, 43). <BR /><BR />In Num 24:24 the name Eber is probably used collectively for all these peoples. Eber is listed in Luke&#39;s genealogy of Jesus Christ (Lk 3:35).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 10:24",
+      "verses": [
+        {
+          "number": 24,
+          "line": "And Arphaxad begat Salah; and Salah begat Eber."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "salah",
+      "titleEn": "Salah",
+      "titleKa": null
+    },
+    {
+      "slug": "peleg",
+      "titleEn": "Peleg",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Eber.jpg",
+      "caption": "Illustration of Eber in 1553 published by Guillaume Rouille"
+    }
+  ],
+  "videos": []
 }

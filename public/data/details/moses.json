@@ -4,18 +4,107 @@
   "period": 4,
   "titleEn": "Moses",
   "titleKa": null,
-  "datesEn": "1526–1406 BC (120)",
+  "datesEn": "1526&ndash;1406 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "He is the son of Amram and Jochebed, the younger brother of Aaron and Miriam. Moses was the great deliverer of Israel from Egypt, a leader through the wilderness wanderings, great lawgiver, and writer of the Pentateuch.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Moses. The deliverer of the Hebrew people from Egyptian bondage, their leader through the wilderness wandering, their great lawgiver, and the author of the Pentateuch.<BR /><BR />Moses spent the first 40 years of his life quite likely under the 18th dynasty kings: Thutmose I (c. 1542 &#8212; c. 1524 b.c.), and Thutmose II (c. 1524 &#8212; c. 1504 b.c.), and Queen Hatshepsut (c. 1504 &#8212; c. 1486 b.c.), a daughter of Thutmose I and on the basis of the chronology here suggested doubtless the &#34;daughter of Pharaoh&#34; referred to in Ex 2:5&#8212;10. Moses was the son of Amram and Jochebed, and a descendant of Levi in the 4th generation (Ex 6:16&#8212;20), of the family of Kohath (vs 18&#8212;20). His brother Aaron was 3 years older than he (ch 7:7), and he had an older sister, Miriam (ch 15:20 cf. ch 2:6, 7). <BR /><BR />At Moses&#39; birth the children of Israel had been in Egypt about 135 years. The Hebrews had multiplied rapidly until &#34;the land was filled with them&#34; and they had become &#34;more and mightier&#34; than the Egyptians, or at least the latter so claimed (ch 1:7&#8212;9). Because the Hebrews were numerically strong, and because the Egyptians urgently needed cheap labor for their vast building projects, it is little wonder that the kings of this new dynasty instituted a policy of keeping them in subjection at forced labor (vs 10&#8212;14). <BR /><BR />How long prior to Moses&#39; birth the Hebrews were set to work building the &#34;treasure cities, Pithom and Raamses&#34; (v 11) and were made to &#34;serve with rigour&#34; (vs 12&#8212;14) is not known. But the more the Egyptians oppressed them &#34;the more they multiplied and grew&#34; (Ex 1:12), and efforts to check the rapid increase in population proved wholly ineffective.<BR /><BR />At his birth Moses&#39; parents recognized him to be &#34;a goodly child&#34; (Ex 2:2). Their efforts to preserve Moses alive are referred to in Heb 11:23 as an act of faith, implying perhaps an awareness on their part that God had destined him for an important role and would intervene to preserve his life. By putting Moses in an ark of bulrushes and placing him on the bosom of the Nile, Jochebed was complying with the letter of the law that required male children to be offered in sacrifice to the Nile, which the Egyptians worshiped as a god, supposing that its waters had power to impart fertility and guarantee long life. <BR /><BR />The visit of Pharaoh&#39;s daughter to the river &#34;to wash herself&#34; (Ex 2:5) may have been a ritual ablution designed to secure these supposed benefits for herself. The appearance of Moses floating in his little ark of bulrushes as if he were a gift from the Nile god, in answer to her prayers, apparently impressed her as a happy omen. The princess took the child as her own, hiring his own mother as his nurse.<BR /><BR />When he was 40 (Acts 7:23)&#8212;c. 1485 b.c.&#8212;Moses knew that the time had come when he must choose between his Hebrew faith and the throne of Egypt. Inbred loyalty to God (Heb 11:24&#8212;26) and an awareness of God&#39;s purpose for his life (Acts 7:25) led Moses to cast his lot with his own people and &#34;to suffer affliction&#34; with them rather than &#34;enjoy the pleasures of sin for a season&#34; (Heb 11:25). Acting rashly, Moses slew an (Ex 2:11, 12), Egyptian taskmaster (Ex 2:11, 12), and by this foolish act he played into the hands of his enemies, perhaps especially Thutmose III, who now would have a legitimate reason to bring Moses to trial and to destroy him. It is quite possible that these were the circumstances that led Moses to flee from Egypt and to find refuge in the land of Midian to the east (v 15).<BR /><BR />Under divine guidance Moses led Israel forth from the land of their servitude (Ex 13:17&#8212;22). After a series of crises and providential deliverances, Moses and the Hebrew people arrived at Mount Sinai (ch 19:1, 2). On the mount Moses received directly from God instructions for the establishment of the Hebrew nation as a theocracy (Ex 24:9&#8212;11 33:11, 17&#8212;23 34:5&#8212;29 etc.), including the basic law of the Ten Commandments, which were also spoken audibly to the entire congregation (ch 20:1&#8212;18) and later inscribed upon 2 tables of stone and preserved in the ark (ch 31:18 34:1&#8212;4 Deut 10:1&#8212;5). <BR /><BR />As spokesman for God, Moses led the people into the covenant relationship which constituted a theocracy (Ex 19:5&#8212;8 24:3&#8212;8). God then summoned Moses to meet with Him in the mount (ch 24:12), where He revealed complete plans for the erection of the tabernacle, which was to be His dwelling place as their king (chs 25&#8212;31), and at the same time also gave him the 2 tables of the law (ch 31:18).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Exodus 6:20",
+      "verses": [
+        {
+          "number": 20,
+          "line": "And Amram took him Jochebed his father's sister to wife; and she bare him Aaron and Moses: and the years of the life of Amram were an hundred and thirty and seven years."
+        }
+      ]
+    },
+    {
+      "reference": "Deuteronomy 34:5",
+      "verses": [
+        {
+          "number": 5,
+          "line": "So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "amram",
+      "titleEn": "Amram",
+      "titleKa": null
+    },
+    {
+      "slug": "moses-begins-military-training",
+      "titleEn": "Moses Begins Military Training ",
+      "titleKa": null
+    },
+    {
+      "slug": "moses-flees",
+      "titleEn": "Moses Flees",
+      "titleKa": null
+    },
+    {
+      "slug": "moses-prophetic-call",
+      "titleEn": "Moses' Prophetic Call",
+      "titleKa": null
+    },
+    {
+      "slug": "moses-strikes-the-rock-at-kadesh",
+      "titleEn": "Moses Strikes the Rock at Kadesh",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-pppas0220_8-7-2013 1-52-29 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-pppas0220_8-7-2013 1-52-29 PM.jpg",
+      "caption": "The children of Israel crossing the Red Sea"
+    },
+    {
+      "file": "Moses Nile_5-7-2013 12-05-45 PM.jpg",
+      "caption": "Vintage colour lithograph from 1880 showing the finding of Moses. "
+    },
+    {
+      "file": "Moses and Burning Bush_5-7-2013 12-05-45 PM.jpg",
+      "caption": "Moses and the burning bush on Mount Horeb. This window is located in the cathedral of Brussels and was created in 1866."
+    },
+    {
+      "file": "Moses and Red Sea_5-7-2013 12-05-45 PM.jpg",
+      "caption": "Bergamo - &#34;Passaggio del Mar Rosso&#34; by Luca Giordano. Crossing the Red sea from year 1681. Paint form church Santa Maria Maggiore on January 26, 2013, in Bergamo, Italy."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Baby in A Basket",
+      "caption": "This story is about the faith of the mother of Moses. She deeply loved her baby who was a type of Christ. He was put in a papyri basket, enclosed, as it were, in the word. Moses was eventually found and cared for by the Egyptians whom he some day conquered.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2919.mp4"
+    },
+    {
+      "title": "Bricks Without Straw, Part 1",
+      "caption": "Part 1 - Moses is a type of Christ who delivers us from slavery. As in the days of Moses, God is about to do great things for His people. Soon they will be delivered from the slavery of sin and journey to the heavenly Canaan. And once again, God is now trying to turn the minds of His people toward the importance of the Sabbath rest.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp74.mp4"
+    },
+    {
+      "title": "Bricks Without Straw, Part 2",
+      "caption": "Part 2 - Moses is a type of Christ who delivers us from slavery. As in the days of Moses, God is about to do great things for His people. Soon they will be delivered from the slavery of sin and journey to the heavenly Canaan. And once again, God is now trying to turn the minds of His people toward the importance of the Sabbath rest.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp75.mp4"
+    },
+    {
+      "title": "Lessons from Moses Baby in Basket",
+      "caption": "This sermon is the first in a series on the life of Moses. Like many Bible characters, we can find parallels between Moses and Christ. Pastor Batchelor looks at Exodus 1 and 2 and the early years of Moses&#39; life.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg7027.mp4"
+    },
+    {
+      "title": "Lessons from Moses- God&#39;s People or Passing Pleasure",
+      "caption": "This is the second in a multi-part series on the life of Moses who was a type of Christ. In his first forty years he was raised in the rich culture of Egypt and was tempted to choose these things instead of the people of God. Pastor Batchelor shares many parallels between Moses and Jesus.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg7037.mp4"
+    },
+    {
+      "title": "Lessons from Moses- Into the Promised Land",
+      "caption": "This is a continued part of a series on the life of Moses. This sermon focuses on Moses trip up Mt. Sinai and the restlessness of the people who bowed down to a golden calf. The other failure looked at the sin of Nadab and Abihu and unholy fire brought before the Lord while they were drunk. Also the dissension of Aaron and Miriam, and more.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg7107.mp4"
     }
   ]
 }

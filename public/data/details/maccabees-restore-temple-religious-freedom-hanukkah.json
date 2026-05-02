@@ -4,13 +4,30 @@
   "period": 8,
   "titleEn": "Maccabees Restore Temple",
   "titleKa": null,
-  "datesEn": "165 BC",
+  "datesEn": "165 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The Maccabean revolt rises in responses to Antiochus IV persecution of the Jews and desecration of the Temple. They are able to regain control of the Temple area, clean and repair the Temple and reconsecrate it.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Festival of Dedication, also known as Hanukkah, celebrates the reconsecration of the Temple in Jerusalem after it was desecrated by Antiouchus IV. After the persecution of the Jews and desecration of the temple by Antiochus, the Maccabean revolt was able to regain for the Jews control of the temple area. They cleaned and repaired the Temple and reinstituted the traditional forms of worship on a newly built altar. The celebration lasted 8 days, and it commemorated annually by Jews to this day.<BR /><BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "antiochus-iv-persecutes-jews-and-desecrates-temple",
+      "titleEn": "Antiochus IV Persecutes Jews and Desecrates Temple",
+      "titleKa": null
+    },
+    {
+      "slug": "jews-independent-under-hasmonean-dynasty",
+      "titleEn": "Jews Independent under Hasmonean Dynasty",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Stattler-Machabeusze_8-28-2013 2-12-38 PM.jpg",
+      "caption": "Maccabees, Wojciech Stattler, 1842"
+    }
+  ],
+  "videos": []
 }

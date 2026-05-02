@@ -4,13 +4,103 @@
   "period": 7,
   "titleEn": "Jeroboam I's Child Dies",
   "titleKa": null,
-  "datesEn": "915 BC",
+  "datesEn": "915 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Jeroboam&#39;s son, Abijah gets sick. The king sends his wife to Shiloh to ask Ahijah the prophet what will happen to the child. His wife disguises herself but the prophet knows she is coming. He predicts disaster on the king&#39;s house and the child dies.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The event is selected to show the persistence of Jeroboam in his course of evil and the judgments that were to fall upon him and his house as a result. The name of the son, Abijah, means &#34;Jehovah is my father,&#34; and is probably an indication that when the child was born, Jeroboam did not intend to forsake the worship of Jehovah. The coincidence of the name with that of Rehoboam&#39;s son, Abijam (v. 31), or Abijah (2 Chron. 12:16), is of interest. Possibly it is more than a coincidence, since the births of the two sons may have taken place at about the same time, when Jeroboam was in favor with Solomon.<BR /><BR />Previously Ahijah had been sent to Jeroboam with the cheering words that he was to be king, and that if faithful, the Lord would be with him and give him a sure house (ch. 11:38). But Jeroboam had not obeyed the Lord&#39;s commands he had grievously sinned and had led Israel into sin. At a time when the king was looking for a word of hope, God could give him only a message of rebuke. Jeroboam had before him the example of Solomon&#39;s wayward life. Indeed he had received his kingdom because it had been taken away from Solomon&#39;s son, Rehoboam. <BR /><BR />Jeroboam therefore stood without excuse before God and before all Israel. There had been sinners among the leaders of Israel before the days of Jeroboam, but none to equal Jeroboam in his gross iniquities. Jeroboam repudiated the God who had given him the kingdom, serving idols instead. The warnings that had been given, he contemptuously spurned. God&#39;s inheritance had been placed in his hands as a sacred trust, but he failed to be true. The people of Israel were deliberately led into sin, encouraged to turn their backs on the Lord, who had delivered them from Egypt and given them the Promised Land.<BR /><BR />All the males of the family of Jeroboam were to be put to death, so that his house would perish. This was done by Baasha (ch. 15:29). The phrase used to denote males was a common expression of the period, from the time of David (1 Sam. 25:22, 34), through Baasha (1 Kings 16:11), to Ahab (1 Kings 21:21 2 Kings 9:8), and is a term of contempt applied to such males as are doomed to utter destruction. The prophet says their child shall die. Scarcely a message to comfort a mother&#39;s aching heart or for a father anxiously hoping for the healing of his child. The death of the child was to be to Jeroboam a type of the doom of his house, which, if he continued in his evil ways, would be utterly destroyed. Perhaps the death of this son might so touch the heart of the king as to bring him to reason and to God.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 14:1-18",
+      "verses": [
+        {
+          "number": 1,
+          "line": "At that time Abijah the son of Jeroboam fell sick."
+        },
+        {
+          "number": 2,
+          "line": "And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there is Ahijah the prophet, which told me that I should be king over this people."
+        },
+        {
+          "number": 3,
+          "line": "And take with thee ten loaves, and cracknels, and a cruse of honey, and go to him: he shall tell thee what shall become of the child."
+        },
+        {
+          "number": 4,
+          "line": "And Jeroboam's wife did so, and arose, and went to Shiloh, and came to the house of Ahijah. But Ahijah could not see; for his eyes were set by reason of his age."
+        },
+        {
+          "number": 5,
+          "line": "And the LORD said unto Ahijah, Behold, the wife of Jeroboam cometh to ask a thing of thee for her son; for he is sick: thus and thus shalt thou say unto her: for it shall be, when she cometh in, that she shall feign herself to be another woman."
+        },
+        {
+          "number": 6,
+          "line": "And it was so, when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself to be another? for I am sent to thee with heavy tidings."
+        },
+        {
+          "number": 7,
+          "line": "Go, tell Jeroboam, Thus saith the LORD God of Israel, Forasmuch as I exalted thee from among the people, and made thee prince over my people Israel,"
+        },
+        {
+          "number": 8,
+          "line": "And rent the kingdom away from the house of David, and gave it thee: and yet thou hast not been as my servant David, who kept my commandments, and who followed me with all his heart, to do that only which was right in mine eyes;"
+        },
+        {
+          "number": 9,
+          "line": "But hast done evil above all that were before thee: for thou hast gone and made thee other gods, and molten images, to provoke me to anger, and hast cast me behind thy back:"
+        },
+        {
+          "number": 10,
+          "line": "Therefore, behold, I will bring evil upon the house of Jeroboam, and will cut off from Jeroboam him that pisseth against the wall, and him that is shut up and left in Israel, and will take away the remnant of the house of Jeroboam, as a man taketh away dung, till it be all gone."
+        },
+        {
+          "number": 11,
+          "line": "Him that dieth of Jeroboam in the city shall the dogs eat; and him that dieth in the field shall the fowls of the air eat: for the LORD hath spoken it."
+        },
+        {
+          "number": 12,
+          "line": "Arise thou therefore, get thee to thine own house: and when thy feet enter into the city, the child shall die."
+        },
+        {
+          "number": 13,
+          "line": "And all Israel shall mourn for him, and bury him: for he only of Jeroboam shall come to the grave, because in him there is found some good thing toward the LORD God of Israel in the house of Jeroboam."
+        },
+        {
+          "number": 14,
+          "line": "Moreover the LORD shall raise him up a king over Israel, who shall cut off the house of Jeroboam that day: but what? even now."
+        },
+        {
+          "number": 15,
+          "line": "For the LORD shall smite Israel, as a reed is shaken in the water, and he shall root up Israel out of this good land, which he gave to their fathers, and shall scatter them beyond the river, because they have made their groves, provoking the LORD to anger."
+        },
+        {
+          "number": 16,
+          "line": "And he shall give Israel up because of the sins of Jeroboam, who did sin, and who made Israel to sin."
+        },
+        {
+          "number": 17,
+          "line": "And Jeroboam's wife arose, and departed, and came to Tirzah: and when she came to the threshold of the door, the child died;"
+        },
+        {
+          "number": 18,
+          "line": "And they buried him; and all Israel mourned for him, according to the word of the LORD, which he spake by the hand of his servant Ahijah the prophet."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jeroboam-i",
+      "titleEn": "Jeroboam I",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas0704_8-6-2013 11-46-08 AM.jpg",
+      "caption": "Jeroboam&#39;s wife going to the prophet Ahijah to inquire about their sick son."
+    }
+  ],
+  "videos": []
 }

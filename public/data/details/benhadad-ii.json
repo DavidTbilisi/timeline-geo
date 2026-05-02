@@ -4,13 +4,43 @@
   "period": 7,
   "titleEn": "Benhadad II",
   "titleKa": null,
-  "datesEn": "900–841 BC",
+  "datesEn": "900&ndash;841 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;son of the god Hadad.&#34; He is probably the son of Ben&#8212;Hadad I and ruler over Damascus who fights against Ahab of Israel and is not successful in besieging Samaria. Ahab unwisely frees him at a second battle. Hazael murders him.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Ben&#8212;hadad, name means &#34;son of (the god) Hadad.&#34; Ben&#8212;hadad II, probably son and successor of Ben&#8212;hadad I. He ruled over Damascus from c. 870 to c. 842 b.c. He fought against Ahab of Israel and unsuccessfully besieged Samaria. He was also beaten in the battle of Aphek in a second attempt to subjugate Israel. In this battle he was captured, but Ahab spared his life after the king promised to return to Israel the conquered cities of Galilee, to admit business firms of Israel to Damascus, and to enter into a treaty (1 Ki 20:1&#8212;34). <BR /><BR />Probably this treaty was an alliance against Assyria, for in 853 b.c. both Ahab and Ben&#8212;hadad fought as allies in the battle of Qarqar against Shalmaneser III. The battle was not decisive, and the allies were not beaten into submission. Shalmaneser III mentions three further campaigns against Damascus during Ben&#8212;hadad&#39;s reign (849, 848, 845 b.c.), but they seem to have had no lasting success. The alliance of Damascus and Israel was short&#8212;lived. In the same year that the battle of Qarqar was fought Ahab waged war against Ben&#8212;hadad and was killed at Ramoth&#8212;gilead. <BR /><BR />Later Ben&#8212;hadad invaded Israel again, but lifted the siege on the rumor that the Hittites or Egyptians were approaching to help Israel (2 Ki 6:24 to 7:16). About 842 b.c. he was murdered by Hazael, who became his successor and the founder of a new Aramaic dynasty in Damascus (ch 8:15). A stele erected by Ben&#8212;hadad, called here Bar Hadad, dedicated to his god Melkarth , was found at Bureij, about 41/2 mi. (c. 7 km.) north of Aleppo in northern Syria. The Bar Hadad of this stele was considered by W. F. Albright to be Ben&#8212;hadad I, but further studies have made it more probable that he was the crown prince in the reign of Ben&#8212;hadad II (F. M. Cross, BASOR 205 [Feb., 1972], 36&#8212;42).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 8:15",
+      "verses": [
+        {
+          "number": 15,
+          "line": "And it came to pass on the morrow, that he took a thick cloth, and dipped it in water, and spread it on his face, so that he died: and Hazael reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "benhadad-i",
+      "titleEn": "Benhadad I",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "king-ben-hadad-ii_8-6-2013 12-14-11 PM.jpg",
+      "caption": "King Benhadad II"
+    },
+    {
+      "file": "Elijah_4-17-2013 4-09-40 PM.jpg",
+      "caption": "Elijah denouncing King Ahab for sparing the life of Ben-hadad II. "
+    },
+    {
+      "file": "Damascus Gate, tb010907368_4-17-2013 4-09-40 PM.jpg",
+      "caption": "Damascus gate. "
+    }
+  ],
+  "videos": []
 }

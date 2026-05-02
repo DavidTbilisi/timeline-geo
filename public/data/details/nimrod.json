@@ -4,18 +4,50 @@
   "period": 2,
   "titleEn": "Nimrod",
   "titleKa": null,
-  "datesEn": "2268–1868 BC (~400)",
+  "datesEn": "2268&ndash;1868 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;rebellion&#34; or &#34;the valiant.&#34; He was the son of Cush and a great leader between the time of Noah and Abraham. He was not only a mighty hunter, but a monarch and builder of great cities like Babel, Erech, Accad, and Nineveh.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "One of the outstanding leaders in the period between Noah and Abraham. He was a son or descendant of Cush, but distinguished himself more than the other sons of Cush mentioned in Gen 10:7, 8, who appear only as ancestral heads of tribes. Nimrod is described as a mighty hunter, a monarch, the founder of the first kingdom on earth, and the builder of several famous cities, such as Babel, Erech (Uruk), Accad, Nineveh, and Calah (vs 8&#8212;12). <BR /><BR />In Mic 5:6 Assyria is called the land of Nimrod, and to the present day Nimrod&#39;s name clings to ruin sites for example, the site of ancient Calah in Assyria is now called Nimr&#252;d, and that of ancient Borsippa in Babylonia is called Birs Nimr&#252;d. It is still unexplained how Nimrod, a Cushite, gained so much influence and power in the Mesopotamian valley, the home of the Semites.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 10:8",
+      "verses": [
+        {
+          "number": 8,
+          "line": "And Cush begat Nimrod: he began to be a mighty one in the earth."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "cush",
+      "titleEn": "Cush",
+      "titleKa": null
+    },
+    {
+      "slug": "nimrod-founded-nineveh",
+      "titleEn": "Nimrod Founded Nineveh",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/iStock_000015554530Small-nimrod_7-31-2013 11-47-16 AM.jpg",
-      "caption": ""
+      "file": "iStock_000015554530Small-nimrod_7-31-2013 11-47-16 AM.jpg",
+      "caption": "Statue of Nimrod. Source: National Encyclopedia, published 1881 in London. "
+    },
+    {
+      "file": "439px-Nimrod_grabado_8-7-2013 1-05-37 PM.jpg",
+      "caption": "Engraving of Nimrod, Grabado de Nimrod"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Iraq and Babylon in Prophecy",
+      "caption": "Many Bible prophecies about the Middle East, including Babylon, sound like they are literally being fulfilled today. But do these prophecies point to specific dictators today? What does the land of Babylon have to do with us? The tower of Babel represents man&#39;s effort to live without God. The Lord calls His people out of spiritual Babylon.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2315.mp4"
     }
   ]
 }

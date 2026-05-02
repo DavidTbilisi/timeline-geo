@@ -4,13 +4,270 @@
   "period": 9,
   "titleEn": "Night Trial before Sanhedrin",
   "titleKa": null,
-  "datesEn": "31 AD",
+  "datesEn": "31 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "In a night trial before the Sanhedrin (the council of Jewish leaders), Jesus stands before Caiaphas and is questioned. False witnesses are brought in to testify against Jesus. After demanding that Jesus speak, the high priest condemns Christ.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jesus was seized around midnight. His trial consisted of two phases, the first being the ecclesiastical trial before the Jewish religious authorities, and the second the civil trial before Pilate and Herod. He was given two preliminary hearings, one before Annas alone and another before Annas and Caiaphas and was arraigned twice before the Sanhedrin, first by night and then by day. He appeared twice before Pilate and once before Herod, between the two appearances before Pilate.<BR /><BR />In this first night trial Christ was brought before Caiaphas. The Sanhedrin was composed of members from these two groups, and from the priests. All three are listed in the parallel passage in Mark (ch. 14:53). They assembled for this night trial of Jesus, at approximately 3 A.M. Members of the Sanhedrin who were friendly toward Jesus, or at least interested in giving Him a fair hearing, were deliberately not invited (see on v. 66).<BR /><BR />This &#34;council&#34; was the Great Sanhedrin, which normally consisted of 71 members, and which was, at this time, the highest executive, legislative, and judicial body. For two years the Sanhedrin had spies following Jesus, in order that all He said and did might be reported. But these spies had not returned with any information useful to the leaders&#39; evil purposes. They determined to put Him to death. But they had no case against Jesus, much as they might dislike Him, and in their haste had not had time to manufacture one. They hoped to discredit Jesus in the eyes of His fellow countrymen by proving the charge of blasphemy, and to incriminate Him before the Romans on the charge of sedition. They were unable to find even false witnesses whose tales could be made to agree. Finally, two witnesses came forward, but even these last two actually disagreed (Mark 14:59) on essential points, and their testimony was vague and contradictory. Nevertheless, the high priest pretended to accept their testimony (Matt. 26:62), although he knew well that Jesus could not be sentenced on the basis of it.<BR /><BR />Caiaphas demanded that Jesus reply under oath to the question now put to Him. In spite of the testimony of all the false witnesses, the Sanhedrin still had no case against Jesus. Caiaphas hoped to make Jesus incriminate Himself. This, too, was illegal. A man could not be condemned on His own testimony. Caiaphas pretended to arraign Christ before the bar of God. Jesus had avoided making the direct claim to being the Messiah, or Christ, perhaps in part because in popular fancy Messiah was to lead the Jews in an armed revolt against Rome. Jesus forbade His disciples to make the claim for Him (ch. 16:20). This was not the first time the question had been put to Jesus (see John 10:24). When placed under oath Jesus did not refuse to testify in fact, that is precisely when He did testify. <BR /><BR />Caiphas then tore his clothes. This is, as a sign of being overcome with righteous indignation at Jesus&#39; alleged blasphemy (see v. 64). The Mosaic law prohibited the high priest from tearing his garments (Lev. 10:6 21:10), the reason being that his garments represented the perfect character of Jesus Christ. Caiaphas thus stood condemned before the very law he posed as defending, and disqualified himself from serving as high priest. However, rabbinical regulations permitted one hearing blasphemy to rend his garments. But Jesus had not blasphemed, either in reality or according to the accepted rabbinical definition (see on Matt. 26:65). This was an illegal vote, for it was taken at night. Even though voted, the verdict did not have standing in law unless and until it was ratified by the Romans.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 26:57-75",
+      "verses": [
+        {
+          "number": 57,
+          "line": "And they that had laid hold on Jesus led him away to Caiaphas the high priest, where the scribes and the elders were assembled."
+        },
+        {
+          "number": 58,
+          "line": "But Peter followed him afar off unto the high priest's palace, and went in, and sat with the servants, to see the end."
+        },
+        {
+          "number": 59,
+          "line": "Now the chief priests, and elders, and all the council, sought false witness against Jesus, to put him to death;"
+        },
+        {
+          "number": 60,
+          "line": "But found none: yea, though many false witnesses came, yet found they none. At the last came two false witnesses,"
+        },
+        {
+          "number": 61,
+          "line": "And said, This fellow said, I am able to destroy the temple of God, and to build it in three days."
+        },
+        {
+          "number": 62,
+          "line": "And the high priest arose, and said unto him, Answerest thou nothing? what is it which these witness against thee?"
+        },
+        {
+          "number": 63,
+          "line": "But Jesus held his peace. And the high priest answered and said unto him, I adjure thee by the living God, that thou tell us whether thou be the Christ, the Son of God."
+        },
+        {
+          "number": 64,
+          "line": "Jesus saith unto him, Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven."
+        },
+        {
+          "number": 65,
+          "line": "Then the high priest rent his clothes, saying, He hath spoken blasphemy; what further need have we of witnesses? behold, now ye have heard his blasphemy."
+        },
+        {
+          "number": 66,
+          "line": "What think ye? They answered and said, He is guilty of death."
+        },
+        {
+          "number": 67,
+          "line": "Then did they spit in his face, and buffeted him; and others smote him with the palms of their hands,"
+        },
+        {
+          "number": 68,
+          "line": "Saying, Prophesy unto us, thou Christ, Who is he that smote thee?"
+        },
+        {
+          "number": 69,
+          "line": "Now Peter sat without in the palace: and a damsel came unto him, saying, Thou also wast with Jesus of Galilee."
+        },
+        {
+          "number": 70,
+          "line": "But he denied before them all, saying, I know not what thou sayest."
+        },
+        {
+          "number": 71,
+          "line": "And when he was gone out into the porch, another maid saw him, and said unto them that were there, This fellow was also with Jesus of Nazareth."
+        },
+        {
+          "number": 72,
+          "line": "And again he denied with an oath, I do not know the man."
+        },
+        {
+          "number": 73,
+          "line": "And after a while came unto him they that stood by, and said to Peter, Surely thou also art one of them; for thy speech bewrayeth thee."
+        },
+        {
+          "number": 74,
+          "line": "Then began he to curse and to swear, saying, I know not the man. And immediately the cock crew."
+        },
+        {
+          "number": 75,
+          "line": "And Peter remembered the word of Jesus, which said unto him, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly."
+        }
+      ]
+    },
+    {
+      "reference": "Mark 14:53-72",
+      "verses": [
+        {
+          "number": 53,
+          "line": "And they led Jesus away to the high priest: and with him were assembled all the chief priests and the elders and the scribes."
+        },
+        {
+          "number": 54,
+          "line": "And Peter followed him afar off, even into the palace of the high priest: and he sat with the servants, and warmed himself at the fire."
+        },
+        {
+          "number": 55,
+          "line": "And the chief priests and all the council sought for witness against Jesus to put him to death; and found none."
+        },
+        {
+          "number": 56,
+          "line": "For many bare false witness against him, but their witness agreed not together."
+        },
+        {
+          "number": 57,
+          "line": "And there arose certain, and bare false witness against him, saying,"
+        },
+        {
+          "number": 58,
+          "line": "We heard him say, I will destroy this temple that is made with hands, and within three days I will build another made without hands."
+        },
+        {
+          "number": 59,
+          "line": "But neither so did their witness agree together."
+        },
+        {
+          "number": 60,
+          "line": "And the high priest stood up in the midst, and asked Jesus, saying, Answerest thou nothing? what is it which these witness against thee?"
+        },
+        {
+          "number": 61,
+          "line": "But he held his peace, and answered nothing. Again the high priest asked him, and said unto him, Art thou the Christ, the Son of the Blessed?"
+        },
+        {
+          "number": 62,
+          "line": "And Jesus said, I am: and ye shall see the Son of man sitting on the right hand of power, and coming in the clouds of heaven."
+        },
+        {
+          "number": 63,
+          "line": "Then the high priest rent his clothes, and saith, What need we any further witnesses?"
+        },
+        {
+          "number": 64,
+          "line": "Ye have heard the blasphemy: what think ye? And they all condemned him to be guilty of death."
+        },
+        {
+          "number": 65,
+          "line": "And some began to spit on him, and to cover his face, and to buffet him, and to say unto him, Prophesy: and the servants did strike him with the palms of their hands."
+        },
+        {
+          "number": 66,
+          "line": "And as Peter was beneath in the palace, there cometh one of the maids of the high priest:"
+        },
+        {
+          "number": 67,
+          "line": "And when she saw Peter warming himself, she looked upon him, and said, And thou also wast with Jesus of Nazareth."
+        },
+        {
+          "number": 68,
+          "line": "But he denied, saying, I know not, neither understand I what thou sayest. And he went out into the porch; and the cock crew."
+        },
+        {
+          "number": 69,
+          "line": "And a maid saw him again, and began to say to them that stood by, This is one of them."
+        },
+        {
+          "number": 70,
+          "line": "And he denied it again. And a little after, they that stood by said again to Peter, Surely thou art one of them: for thou art a Galilaean, and thy speech agreeth thereto."
+        },
+        {
+          "number": 71,
+          "line": "But he began to curse and to swear, saying, I know not this man of whom ye speak."
+        },
+        {
+          "number": 72,
+          "line": "And the second time the cock crew. And Peter called to mind the word that Jesus said unto him, Before the cock crow twice, thou shalt deny me thrice. And when he thought thereon, he wept."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 22:54-65",
+      "verses": [
+        {
+          "number": 54,
+          "line": "Then took they him, and led him, and brought him into the high priest's house. And Peter followed afar off."
+        },
+        {
+          "number": 55,
+          "line": "And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them."
+        },
+        {
+          "number": 56,
+          "line": "But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him."
+        },
+        {
+          "number": 57,
+          "line": "And he denied him, saying, Woman, I know him not."
+        },
+        {
+          "number": 58,
+          "line": "And after a little while another saw him, and said, Thou art also of them. And Peter said, Man, I am not."
+        },
+        {
+          "number": 59,
+          "line": "And about the space of one hour after another confidently affirmed, saying, Of a truth this fellow also was with him: for he is a Galilaean."
+        },
+        {
+          "number": 60,
+          "line": "And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew."
+        },
+        {
+          "number": 61,
+          "line": "And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice."
+        },
+        {
+          "number": 62,
+          "line": "And Peter went out, and wept bitterly."
+        },
+        {
+          "number": 63,
+          "line": "And the men that held Jesus mocked him, and smote him."
+        },
+        {
+          "number": 64,
+          "line": "And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?"
+        },
+        {
+          "number": 65,
+          "line": "And many other things blasphemously spake they against him."
+        }
+      ]
+    },
+    {
+      "reference": "John 18:25-27",
+      "verses": [
+        {
+          "number": 25,
+          "line": "And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also one of his disciples? He denied it, and said, I am not."
+        },
+        {
+          "number": 26,
+          "line": "One of the servants of the high priest, being his kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him?"
+        },
+        {
+          "number": 27,
+          "line": "Peter then denied again: and immediately the cock crew."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "passion-week",
+      "titleEn": "Passion Week",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Mattias_Stom,_Christ_before_Caiaphas_3-6-2013 10-48-54 AM.jpg",
+      "caption": "Christ before Caiaphas painty by Matthias Stom in the early 1630&#39;s."
+    },
+    {
+      "file": "GoodSalt-pppas0165_8-7-2013 9-47-59 AM.jpg",
+      "caption": "Jesus before the Sanhedrin"
+    },
+    {
+      "file": "iStock_000018819993XSmall_3-6-2013 10-48-54 AM.jpg",
+      "caption": "Now the ones who had arrested Jesus led him to Caiaphas, the high priest, in whose house the experts in the law and the elders had gathered. (Matthew, Chapter 26, 57). Woodcut after a drawing by Julius Schnorr von Carolsfeld (German painter, 1794 - 1872)"
+    }
+  ],
+  "videos": []
 }

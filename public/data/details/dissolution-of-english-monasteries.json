@@ -2,15 +2,31 @@
   "slug": "dissolution-of-english-monasteries",
   "id": 1359,
   "period": 12,
-  "titleEn": "Dissolution of English Monasteries",
+  "titleEn": "Dissolution of English Monasteries ",
   "titleKa": null,
-  "datesEn": "1536–1540 AD",
+  "datesEn": "1536&ndash;1540 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "With the authority given to him by the Act of Supremacy, Henry VIII dissolved all monasteries, convents, priories and friaries in his realm.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Act of Supremacy declared the King of England (and his successors) to be the absolute head of the Church of England. As a result, in 1536, Henry VIII ordered those monasteries that produced less than 200 pounds a year be dissolved and the property given to the crown. This act caused the only major rebellion of the English Reformation. This revolt became known as the Pilgrimage of Grace, and it was the catalyst to bring about the final blow to the monasteries in England. Henry VIII became enraged at the revolutionaries and forced the larger monasteries to surrender their property to the king. This ceding of property began in 1539.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Henry-VIII-kingofengland_1491-1547_2-26-2013 2-45-50 PM.jpg",
+      "caption": "Portrait of King Henry VIII by Hans Holbein the Younger in 1537. This painting is currently located in Walker Art Gallery, Liverpool."
+    },
+    {
+      "file": "Banner_of_the_Holy_Wounds_2-26-2013 2-45-50 PM.png",
+      "caption": "Banner of the Holy Wounds, used during the Pilgrimage of Grace. An English counter-revolution in 1536 against schism from the Catholic Church and against the destruction of the monasteries."
+    }
+  ],
+  "videos": []
 }

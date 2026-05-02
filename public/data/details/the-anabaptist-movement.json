@@ -2,15 +2,27 @@
   "slug": "the-anabaptist-movement",
   "id": 1348,
   "period": 12,
-  "titleEn": "The Anabaptist Movement",
+  "titleEn": "The Anabaptist Movement ",
   "titleKa": null,
-  "datesEn": "1523–1525 AD",
+  "datesEn": "1523&ndash;1525 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A reaction in the 16th century against the baptism of infants.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Anabaptists are considered part of the Radical Reformation; their beliefs were considered more radical than those of Luther&#39;s, Calvin&#39;s, or Zwingli&#39;s. Because the Anabaptist Movement was not perfectly unified, it is nearly impossible to classify their beliefs in a definitive manner. One belief, however, seems to be a common attribute&#8212;Anabaptists rejected infant baptism. In fact, the name &#34;Anabaptists&#34; means &#34;re&#8212;baptizers.&#34; However, Anabaptists didn&#39;t actually believe in rebaptism, but rather in baptizing adults. They did not consider infant baptism valid, so Anabaptists did not consider this &#34;rebaptism&#34; to be a second baptism.<BR /><BR />Some Anabaptists were pacifists, but others likely participated in the Peasants&#39; War. Some Anabaptists, like Hans Denck or Hans Hut, also rejected the Reformation doctrines of righteousness by faith and Sola Scriptura (the Scriptures only). Nevertheless, the Anabaptists played a vital role within the Reformation and many sects, like the Mennonites and the Amish, remain in communion today.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "711px-Witch-scene4_8-28-2013 3-17-55 PM.JPG",
+      "caption": "An Anabaptist being burned, Jan Luyken, 1685"
+    }
+  ],
+  "videos": []
 }

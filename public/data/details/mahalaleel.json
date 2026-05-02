@@ -4,18 +4,49 @@
   "period": 1,
   "titleEn": "Mahalaleel",
   "titleKa": null,
-  "datesEn": "3559–2664 BC (895)",
+  "datesEn": "3559&ndash;2664 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;praise of God.&#34; The son of Cainan, from the line of Seth, also called Maleleel or Mahalaleel (Luke 3:37). He lived 895 years.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 5:12",
+      "verses": [
+        {
+          "number": 12,
+          "line": "And Cainan lived seventy years, and begat Mahalaleel:"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 5:17",
+      "verses": [
+        {
+          "number": 17,
+          "line": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "cainan",
+      "titleEn": "Cainan",
+      "titleKa": null
+    },
+    {
+      "slug": "jared",
+      "titleEn": "Jared",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt- mahalaleel_8-5-2013 5-20-30 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt- mahalaleel_8-5-2013 5-20-30 PM.jpg",
+      "caption": "Mahalaleel"
     }
-  ]
+  ],
+  "videos": []
 }

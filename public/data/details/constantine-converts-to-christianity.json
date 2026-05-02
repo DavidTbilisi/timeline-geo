@@ -4,18 +4,29 @@
   "period": 10,
   "titleEn": "Constantine Converts to Christianity",
   "titleKa": null,
-  "datesEn": "312 AD",
+  "datesEn": "312 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Constantine attributed his conversion to Christianity to a vision supposedly from God following a military victory.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Emperor Constantine the Great had a powerful experience at the Battle of Milvian Bridge in 312A.D. Before battle commenced, he is said to have looked toward the sun and seen a cross made of light above it, along with words in Greek meaning &#34;By this, win!&#34; He subsequently ordered his troops to place the Christian symbol Chi&#8212;Rho on their shields, and the army went on to victory.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
+  "related": [
+    {
+      "slug": "constantine-the-great",
+      "titleEn": "Constantine the Great",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-pppas0006_8-7-2013 9-43-49 AM.jpg",
-      "caption": ""
+      "file": "GoodSalt-pppas0006_8-7-2013 9-43-49 AM.jpg",
+      "caption": "Conversion of Constantine"
+    },
+    {
+      "file": "Constantine's_conversion_8-1-2013 3-13-29 PM.jpg",
+      "caption": "Conversion of Constantine, Jacopo Vignali"
     }
-  ]
+  ],
+  "videos": []
 }

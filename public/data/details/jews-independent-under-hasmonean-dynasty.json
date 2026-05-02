@@ -4,13 +4,25 @@
   "period": 8,
   "titleEn": "Jews Independent under Hasmonean Dynasty",
   "titleKa": null,
-  "datesEn": "164–63 BC",
+  "datesEn": "164&ndash;63 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Simon, the last surviving son of Mattathias, took over the leadership. He succeeded in obtaining freedom from paying taxes to the Syrians, and in this way gained an independent status for his country and people.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jonathan, Judas&#39; brother, now took over the leadership in the struggle against the Syrians. For several years he and his band of fearless men could barely hold their own. But a break came when Alcimus died and when the struggle for the throne of Syria made it possible for him to play off one throne pretender against the other. One of these, Alexander Balas, appointed Jonathan high priest in 153 b.c. and thus gave him the badly needed legitimacy to rule the country. Ten years of comparative peace followed, but then another throne pretender, Tryphon, succeeded in treacherously killing Jonathan in 143 b.c.<BR /><BR />After Jonathan&#39;s death, Simon, the last surviving son of Mattathias, took over the leadership. He succeeded in obtaining freedom from paying taxes to the Syrians, and in this way gained an independent status for his country and people. A national plebiscite confirmed him as high priest. But soon thereafter a power struggle broke out within his own family which resulted in his murder by his son&#8212;in&#8212;law in 135 b.c.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "maccabees-restore-temple-religious-freedom-hanukkah",
+      "titleEn": "Maccabees Restore Temple",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Jonathan-Maccabaeus_8-28-2013 2-16-47 PM.jpg",
+      "caption": "Jonathan Maccabaeus, Guillaume Rouille, &#34;Promptuarii Iconum Insigniorum&#34;, 1553"
+    }
+  ],
+  "videos": []
 }

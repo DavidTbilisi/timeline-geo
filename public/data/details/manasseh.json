@@ -4,13 +4,59 @@
   "period": 3,
   "titleEn": "Manasseh",
   "titleKa": null,
-  "datesEn": "1663–1573 BC",
+  "datesEn": "1663&ndash;1573 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;who makes to forget.&#34; He is the eldest of two sons born to Joseph through Asenath, a wife given to him by Pharaoh. When Jacob blesses Joseph&#39;s two sons, he crosses his arms, placing a hand on Ephraim who becomes greater than his brother.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The elder son of Joseph, by Asenath, the daughter of Potiphera, priest of On (Gen 41:50, 51). When before his death Jacob blessed Manasseh and his brother Ephraim, the old patriarch indicated by crossing his arms and placing his left hand upon Manasseh, that Ephraim, though younger, would become superior (ch 48:8&#8212;21). This prophecy was later fulfilled when Manasseh&#39;s descendants, though forming an influential tribe in Israel, were surpassed in importance by the tribe descended from Ephraim.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 41:45-51",
+      "verses": [
+        {
+          "number": 45,
+          "line": "And Pharaoh called Joseph's name Zaphnathpaaneah; and he gave him to wife Asenath the daughter of Potipherah priest of On. And Joseph went out over all the land of Egypt."
+        },
+        {
+          "number": 46,
+          "line": "And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt."
+        },
+        {
+          "number": 47,
+          "line": "And in the seven plenteous years the earth brought forth by handfuls."
+        },
+        {
+          "number": 48,
+          "line": "And he gathered up all the food of the seven years, which were in the land of Egypt, and laid up the food in the cities: the food of the field, which was round about every city, laid he up in the same."
+        },
+        {
+          "number": 49,
+          "line": "And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number."
+        },
+        {
+          "number": 50,
+          "line": "And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Potipherah priest of On bare unto him."
+        },
+        {
+          "number": 51,
+          "line": "And Joseph called the name of the firstborn Manasseh: For God, said he, hath made me forget all my toil, and all my father's house."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "joseph",
+      "titleEn": "Joseph",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Jacob_with_Ephraim_and_Manasseh.JPG",
+      "caption": "Illustration by Owen Jones in 1869 from &#34;The History of Joseph and His Brethren&#34; (Day & Son, 1869). Scanned and archived at www.OldBookArt.com where it was marked as Public Domain."
+    }
+  ],
+  "videos": []
 }

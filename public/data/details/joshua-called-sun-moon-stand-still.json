@@ -4,13 +4,95 @@
   "period": 5,
   "titleEn": "Joshua Called, Sun & Moon Stand Still",
   "titleKa": null,
-  "datesEn": "1405 BC",
+  "datesEn": "1405 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "God calls Joshua to &#34;conquer the land.&#34; In pursuit of the Amorites, Joshua calls on God to cause the sun to stand still for a whole day in order to finish off the battle. Never before or after in all history has a miracle like this taken place.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "When King Adoni&#8212;Zedek of Jerusalem (before it was conquered by Israel) heard of the Israelites victories, he gathered other kings to attack Gibeon (an ally to Israel). When Joshua heard of this, he responded immediately. The Gibeonites were in sore straits. Their defenses were in adequate against so powerful a coalition. They appealed to Joshua, in the hope that he, despite their fraud, would come to their aid. The way in which they looked to their allies for help in time of trouble may be thought of as illustrating how we may call upon God for assistance when we are hard pressed by spiritual foes. <BR /><BR />We may feel unworthy of divine aid because of our sins, but we may also know for certain that no sincere prayer for help will be unanswered. It is clear that Joshua did not undertake the expedition without seeking counsel of God. He seems at last to have learned this lesson. Joshua was a man of dispatch. The task at hand required immediate action. Many a cause is defeated by lack of action, or action that comes too late. Joshua marched all night, and in the morning was ready for action before the enemy had time to prepare for battle.<BR /><BR />When Joshua realized he needed more daylight to finish his job, he called on God for the sun to stand still. The verb here translated &#34;stand still&#34; is generally rendered &#34;be silent.&#34; However, it can also mean &#34;be motionless,&#34; depending upon what it is applied to. Being addressed to the sun and moon, which ordinarily have no sound, it would naturally have the meaning of the latter. The inspired writer used the popular language of the day in describing matters of science. Actually it is not the sun that moves in the heavens but the earth turning on its axis that marks off the day. But even in our modern age of scientific enlightenment we speak of the sun rising or setting. <BR /><BR />Some, whose limited concept of God leaves Him powerless to interfere with natural law, feel that a halt in the rotation of the earth would have disastrous effects upon the earth itself and possibly upon the entire solar system, if not the universe. Whether the phenomenon was produced in this fashion or by the refraction of light or in some other way, the fact remains that a miracle of some kind occurred. If we believe in an omnipotent God, who, as Creator and Sustainer, controls the works of His creation, there is no problem.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Joshua 10:1-15",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now it came to pass, when Adonizedec king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them;"
+        },
+        {
+          "number": 2,
+          "line": "That they feared greatly, because Gibeon was a great city, as one of the royal cities, and because it was greater than Ai, and all the men thereof were mighty."
+        },
+        {
+          "number": 3,
+          "line": "Wherefore Adonizedec king of Jerusalem sent unto Hoham king of Hebron, and unto Piram king of Jarmuth, and unto Japhia king of Lachish, and unto Debir king of Eglon, saying,"
+        },
+        {
+          "number": 4,
+          "line": "Come up unto me, and help me, that we may smite Gibeon: for it hath made peace with Joshua and with the children of Israel."
+        },
+        {
+          "number": 5,
+          "line": "Therefore the five kings of the Amorites, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, the king of Eglon, gathered themselves together, and went up, they and all their hosts, and encamped before Gibeon, and made war against it."
+        },
+        {
+          "number": 6,
+          "line": "And the men of Gibeon sent unto Joshua to the camp to Gilgal, saying, Slack not thy hand from thy servants; come up to us quickly, and save us, and help us: for all the kings of the Amorites that dwell in the mountains are gathered together against us."
+        },
+        {
+          "number": 7,
+          "line": "So Joshua ascended from Gilgal, he, and all the people of war with him, and all the mighty men of valour."
+        },
+        {
+          "number": 8,
+          "line": "And the LORD said unto Joshua, Fear them not: for I have delivered them into thine hand; there shall not a man of them stand before thee."
+        },
+        {
+          "number": 9,
+          "line": "Joshua therefore came unto them suddenly, and went up from Gilgal all night."
+        },
+        {
+          "number": 10,
+          "line": "And the LORD discomfited them before Israel, and slew them with a great slaughter at Gibeon, and chased them along the way that goeth up to Bethhoron, and smote them to Azekah, and unto Makkedah."
+        },
+        {
+          "number": 11,
+          "line": "And it came to pass, as they fled from before Israel, and were in the going down to Bethhoron, that the LORD cast down great stones from heaven upon them unto Azekah, and they died: they were more which died with hailstones than they whom the children of Israel slew with the sword."
+        },
+        {
+          "number": 12,
+          "line": "Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon."
+        },
+        {
+          "number": 13,
+          "line": "And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day."
+        },
+        {
+          "number": 14,
+          "line": "And there was no day like that before it or after it, that the LORD hearkened unto the voice of a man: for the LORD fought for Israel."
+        },
+        {
+          "number": 15,
+          "line": "And Joshua returned, and all Israel with him, unto the camp to Gilgal."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "joshua",
+      "titleEn": "Joshua",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-stdas0384_8-13-2013 3-12-03 PM.jpg",
+      "caption": "The sun standing still."
+    },
+    {
+      "file": "JoshuaSun_Martin.jpg",
+      "caption": "Joshua commanding the sun to stand still painting by John Martin in 1816"
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,30 @@
   "period": 8,
   "titleEn": "Antiochus IV Persecutes Jews and Desecrates Temple",
   "titleKa": null,
-  "datesEn": "168 BC",
+  "datesEn": "168 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Antiochus IV Epiphanes set out to obliterate every trace of the Jewish religion and in the year 168 b.c. plundered the Temple, suspended its services, and desecrated the altar of burnt offering.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Antiochus IV Epiphanes set out to obliterate every trace of the Jewish religion and in the year 168 b.c. plundered the Temple, suspended its services, and desecrated the altar of burnt offering by erecting an idol altar upon it whereon he caused swine to be offered. This state of affairs continued for at least three full years, until Judas Maccabeus rallied his fellow Jews and repulsed the forces of Antiochus.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "antiochus-iv-epiphanes",
+      "titleEn": "Antiochus IV Epiphanes",
+      "titleKa": null
+    },
+    {
+      "slug": "maccabees-restore-temple-religious-freedom-hanukkah",
+      "titleEn": "Maccabees Restore Temple",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "AntiochusIVEpiphanes_8-28-2013 2-06-51 PM.jpg",
+      "caption": "Coin of Antiochus IV Epiphanes. Greek inscription reads &#39;Antiochus, image of God, bearer of victory&#39;"
+    }
+  ],
+  "videos": []
 }

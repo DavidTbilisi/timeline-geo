@@ -4,13 +4,37 @@
   "period": 8,
   "titleEn": "Cyrus II Conquers Babylon Oct 29",
   "titleKa": null,
-  "datesEn": "539 BC",
+  "datesEn": "539 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The army of Cyrus crosses the &#34;Median wall&#34; put up by Nebuchadnezzar and defeats the Babylonians and soon afterwards captures Babylon which falls without a battle. Belshazzar is slain. His father, Nabonidus, flees but is captured and put in exile.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Although Belshazzar is not mentioned in the cuneiform sources describing the fall of Babylon, Xenophon declares that &#34;the impious king&#34; of Babylon, whose name is not mentioned in the account, was slain when Cyrus&#39; army commander Gobryas entered the palace (Cyropaedia vii. 5. 30). Although it must be recognized that Xenophon&#39;s narrative is not historically reliable in all details, many of his statements are based on fact. According to cuneiform sources Nabonidus was absent from Babylon at the time of its capture. When Nabonidus surrendered, Cyrus sent him to distant Carmania. Therefore the king who was slain during the capture of Babylon could have been none other than Belshazzar.",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Daniel 5:30-31",
+      "verses": [
+        {
+          "number": 30,
+          "line": "In that night was Belshazzar the king of the Chaldeans slain."
+        },
+        {
+          "number": 31,
+          "line": "And Darius the Median took the kingdom, being about threescore and two years old."
+        }
+      ]
+    }
+  ],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "475px-Kuroshekabir_8-28-2013 11-52-49 AM.jpg",
+      "caption": "Cyrus the Great, Tashakor, 2009"
+    },
+    {
+      "file": "Xenophon_in_Thomas_Stanley_History_of_Philosophy_8-28-2013 11-54-12 AM.jpg",
+      "caption": "Xenophon, ancient Greek historian. From Thomas Stanley, (1655), The history of philosophy: containing the lives, opinions, actions and Discourses of the Philosophers of every Sect, illustrated with effigies of divers of them."
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,51 @@
   "period": 10,
   "titleEn": "End of Paul's Second Missionary Journey",
   "titleKa": null,
-  "datesEn": "52 AD",
+  "datesEn": "52 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Paul finishes his second missionary tour and lands in Caesarea. He goes to greet and visit the church in Jerusalem for a short time, but then travels up to Antioch where he spends some time working with the church.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "After an unspecified period, during which he was apparently able to preach without active opposition, Paul set sail for Syria, accompanied by Priscilla and Aquila (Acts 18:18). He tarried briefly in Ephesus, and preached in the synagogue. His message was received with favor by his hearers, who were probably both Gentiles and Jews, and he was invited to remain longer. However, he decided to continue his journey, promising to return if possible. He took ship for Caesarea, leaving Priscilla and Aquila at Ephesus, doubtless to carry on the work begun there. Landing at Caesarea  he briefly visited Jerusalem to salute the church, and then went on to Antioch, from which place his missionary journeys had begun (vs 19&#8212;22). Thus ended Paul&#39;s 2d Missionary Journey, which had lasted about 3 years, probably from some time in A.D. 49 to possibly late in A.D. 52.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Acts 18:22-23",
+      "verses": [
+        {
+          "number": 22,
+          "line": "And when he had landed at Caesarea, and gone up, and saluted the church, he went down to Antioch."
+        },
+        {
+          "number": 23,
+          "line": "And after he had spent some time there, he departed, and went over all the country of Galatia and Phrygia in order, strengthening all the disciples."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-stdas0539_8-6-2013 5-11-07 PM.jpg",
+      "caption": "Statue of Paul the Apostle in Vatican."
+    },
+    {
+      "file": "100249641_2-28-2013 12-08-34 PM.jpg",
+      "caption": "Ancient port in Caesarea"
+    },
+    {
+      "file": "149144388_2-28-2013 12-08-34 PM.jpg",
+      "caption": "The front facade and courtyard of the library building at Ephesus is an imposing ancient Greek and Roman structure. Built from old stone and reconstructed by archaeologists, it is a popular tourist stop near the city of Izmir in Turkey."
+    },
+    {
+      "file": "iStock_000013048147Small_2-28-2013 12-08-34 PM.jpg",
+      "caption": "Akropol in Bergama in Turkey"
+    }
+  ],
+  "videos": []
 }

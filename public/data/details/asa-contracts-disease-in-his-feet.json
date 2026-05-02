@@ -4,13 +4,39 @@
   "period": 7,
   "titleEn": "Asa Contracts Disease in His Feet",
   "titleKa": null,
-  "datesEn": "872 BC",
+  "datesEn": "872 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Asa, the 3rd king of Judah (southern kingdom) reigns 41 years and is a good king. In his later years he develops some sort of disease in his feet and he apparently lets his son Jehoshaphat act as coregent.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 15:23",
+      "verses": [
+        {
+          "number": 23,
+          "line": "The rest of all the acts of Asa, and all his might, and all that he did, and the cities which he built, are they not written in the book of the chronicles of the kings of Judah? Nevertheless in the time of his old age he was diseased in his feet."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "asa",
+      "titleEn": "Asa",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "_GoodSalt-prcas3123_8-26-2013 5-45-07 PM.jpg",
+      "caption": "Asa having the idols destroyed."
+    },
+    {
+      "file": "Asa_destroys_the_idols_4-17-2013 12-52-08 PM.jpg",
+      "caption": "Illustration of Asa destroying the idols and forbidding worship in local shrines by Petrus Comestor. "
+    }
+  ],
+  "videos": []
 }

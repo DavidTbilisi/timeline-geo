@@ -2,15 +2,27 @@
   "slug": "king-edward-vi",
   "id": 1370,
   "period": 12,
-  "titleEn": "King Edward VI",
+  "titleEn": "King Edward VI ",
   "titleKa": null,
-  "datesEn": "1547–1553 AD",
+  "datesEn": "1547&ndash;1553 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Became King of England at the age of nine. During his reign Protestantism grew, but he died in 1553, paving the way for Queen Mary.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Edward VI became king on January 28, 1547; he was only nine years old. Because of his young age, his coronation was modeled after that of Josiah in the Old Testament. Edward VI was tutored by Protestant teachers and read his Bible every day. During his reign, various reforms were brought about through the influence of Thomas Cranmer and others.<BR /><BR />King Edward VI&#39;s reign was very brief. He died July 6, 1553, at the age of 15 and was succeeded by Queen Mary I, also known as &#34;Bloody Mary.&#34; Queen Mary devoted her reign to the restoration of Catholicism, which significantly stunted the English Reformation.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "iStock_000008869749Medium_2-26-2013 2-04-31 PM.jpg",
+      "caption": "Vintage engraving of King Edward the Sixth. Engraving from 1854 photo and color work by D Walker."
+    }
+  ],
+  "videos": []
 }

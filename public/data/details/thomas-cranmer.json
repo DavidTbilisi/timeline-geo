@@ -2,15 +2,39 @@
   "slug": "thomas-cranmer",
   "id": 1326,
   "period": 11,
-  "titleEn": "Thomas Cranmer",
+  "titleEn": "Thomas Cranmer ",
   "titleKa": null,
-  "datesEn": "1489–1556 AD",
+  "datesEn": "1489&ndash;1556 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Archbishop of Canterbury and leader of the English Reformation. He was martyred in 1556.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In 1533 Thomas Cranmer became the archbishop of Canterbury. In that same year, Thomas Cromwell became the most prominent person in the royal government of England. Both of these men were empathetic with the Protestant cause. As a result, both diligently worked to incorporate Protestant theology into the first doctrinal documents of the English Reformation. In 1536, the Ten Articles were written, and then in 1537, the Bishop&#39;s Book went to press. Both books were extremely influential in spreading Protestant teachings throughout the land. In fact, by 1538 it became royal law that an English Bible would be found in every parish church.<BR /><BR />Unfortunately, in July 1540, the king became convinced that Thomas Cromwell was a heretic and executed him along with some of Cromwell&#39;s other colleagues. Nevertheless, Thomas Cranmer managed to escape and, after king Henry VIII&#39;s death in 1547, continued to lead out in the English Reformation.<BR /><BR />However, Cranmer did not experience unlimited freedom to express his religious views. King Edward VI came to power at the age of nine and was not able to rule authoritatively. As a result, Cranmer only had limited support. Nevertheless, in July 1547, he began preaching a 12&#8212;sermon series that focused on the doctrine of justification by faith alone and the supreme authority of the Bible. Between 1549 and 1552, Cranmer was involved in preparing the first Book of Common Prayer. In June 1553, he prepared the Forty&#8212;two Articles, which promulgated his views on justification by faith and the authority of Scripture. King Edward VI died less than a month after this publication, and &#34;Bloody&#34; Mary steered the Church of England back toward Roman Catholicism.<BR /><BR />Shortly after Mary Tudor became queen of England, Cranmer was imprisoned for two&#8212;and&#8212;a&#8212;half years. During this time, he was pressured to give up his faith, but he never did. As a result he was burned at the stake in 1556, only two years before the death of Queen Mary in November 1558.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Thomas_Cranmer_2-26-2013 4-56-08 PM.png",
+      "caption": "Portrait of Cranmer after Henry VIII&#39;s death by an unknown artist. It was said that his beard signified his mourning of the king and his rejection of the old Church."
+    },
+    {
+      "file": "iStock_000008858855Small_2-26-2013 4-56-08 PM.jpg",
+      "caption": "King Henry VIII of England reigned from 1509 to 1547. One of the most famous monarchs of England, he launched of the English Reformation and broke with the Church in Rome, creating the Church of England. He had six wives including Anne Boleyn. Note engraving from 1855 photo and toning by D walker"
+    },
+    {
+      "file": "iStock_000008869749Medium_2-26-2013 4-56-08 PM.jpg",
+      "caption": "Vintage engraving of King Edward the Sixth. Engraving from 1854 photo and color work by D Walker."
+    },
+    {
+      "file": "iStock_000009087127Small_2-26-2013 4-56-08 PM.jpg",
+      "caption": "Vintage colored engraving from 1875 showing the costume of Queen Mary I of England."
+    }
+  ],
+  "videos": []
 }

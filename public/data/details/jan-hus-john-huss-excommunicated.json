@@ -4,13 +4,29 @@
   "period": 11,
   "titleEn": "Jan Hus (John Huss) Excommunicated",
   "titleKa": null,
-  "datesEn": "1410 AD",
+  "datesEn": "1410 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Huss&#39;s attempts at reform were halted by his excommunication from the church in 1410 by &#34;antipope&#34; Alexander V.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Pope Alexander V empowered the Archbishop to take action against all forms of Wycliffism, including the Hussite reforms, in his papal bull dated 20 December 1409. It mandated the surrender of all his books, the revocation of his doctrines, and the cessation of free preaching. Hus appealed to the pope after the bull&#39;s publication in 1410 to no avail. Hus and his followers were excommunicated, and all Wycliffe&#39;s material was burned.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "iStock_000018819337Small_2-26-2013 5-55-20 PM.jpg",
+      "caption": "Jan Hus, a 15th century heretic, is a symbol of Czech nationalism - and so is his monument. Plopped down in Old Town Square during the Cezch National Revival in 1915, Jan Hus keeps watch over Prague and foreign invaders at bay. Seasonal flowers are planted at the base of the monument. Tourists often gather here to rest on the benches or to get a shot of themselves in front of the statue."
+    },
+    {
+      "file": "Antipope_Alexander_V.JPG",
+      "caption": "Portrait of Pope Alexander V in the 15th century."
+    }
+  ],
+  "videos": []
 }

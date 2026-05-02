@@ -2,20 +2,180 @@
   "slug": "new-jerusalem-descends-from-heaven-to-earth",
   "id": 1258,
   "period": 13,
-  "titleEn": "New Jerusalem Descends from Heaven to Earth",
+  "titleEn": "New Jerusalem Descends from Heaven to Earth ",
   "titleKa": null,
-  "datesEn": "After Millenium",
+  "datesEn": "<span class=\"small\">After Millenium</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "At the end of the millennium Christ, His people, and the Holy City (the New Jerusalem) return to this earth. Jesus comes as King over all the earth.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The capital of that new earth will be the New Jerusalem, which, after the millennium, descends from heaven and is established upon this earth (Rev. 21:1, 2, 10 Heb. 11:10, 14&#8212;16). This city is described in detail in Rev. 21 and 22. The presence of the city signifies the presence of God, for after John saw the Holy City descending he &#34;heard a great voice out of heaven saying, Behold, the tabernacle of God is with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, and be their God&#34; (Rev. 21:3).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Revelation 20:5-10",
+      "verses": [
+        {
+          "number": 5,
+          "line": "But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection."
+        },
+        {
+          "number": 6,
+          "line": "Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years."
+        },
+        {
+          "number": 7,
+          "line": "And when the thousand years are expired, Satan shall be loosed out of his prison,"
+        },
+        {
+          "number": 8,
+          "line": "And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom is as the sand of the sea."
+        },
+        {
+          "number": 9,
+          "line": "And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them."
+        },
+        {
+          "number": 10,
+          "line": "And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever."
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 21:1-27",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea."
+        },
+        {
+          "number": 2,
+          "line": "And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband."
+        },
+        {
+          "number": 3,
+          "line": "And I heard a great voice out of heaven saying, Behold, the tabernacle of God is with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, and be their God."
+        },
+        {
+          "number": 4,
+          "line": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away."
+        },
+        {
+          "number": 5,
+          "line": "And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful."
+        },
+        {
+          "number": 6,
+          "line": "And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely."
+        },
+        {
+          "number": 7,
+          "line": "He that overcometh shall inherit all things; and I will be his God, and he shall be my son."
+        },
+        {
+          "number": 8,
+          "line": "But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death."
+        },
+        {
+          "number": 9,
+          "line": "And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, I will shew thee the bride, the Lamb's wife."
+        },
+        {
+          "number": 10,
+          "line": "And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,"
+        },
+        {
+          "number": 11,
+          "line": "Having the glory of God: and her light was like unto a stone most precious, even like a jasper stone, clear as crystal;"
+        },
+        {
+          "number": 12,
+          "line": "And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:"
+        },
+        {
+          "number": 13,
+          "line": "On the east three gates; on the north three gates; on the south three gates; and on the west three gates."
+        },
+        {
+          "number": 14,
+          "line": "And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb."
+        },
+        {
+          "number": 15,
+          "line": "And he that talked with me had a golden reed to measure the city, and the gates thereof, and the wall thereof."
+        },
+        {
+          "number": 16,
+          "line": "And the city lieth foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand furlongs. The length and the breadth and the height of it are equal."
+        },
+        {
+          "number": 17,
+          "line": "And he measured the wall thereof, an hundred and forty and four cubits, according to the measure of a man, that is, of the angel."
+        },
+        {
+          "number": 18,
+          "line": "And the building of the wall of it was of jasper: and the city was pure gold, like unto clear glass."
+        },
+        {
+          "number": 19,
+          "line": "And the foundations of the wall of the city were garnished with all manner of precious stones. The first foundation was jasper; the second, sapphire; the third, a chalcedony; the fourth, an emerald;"
+        },
+        {
+          "number": 20,
+          "line": "The fifth, sardonyx; the sixth, sardius; the seventh, chrysolyte; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst."
+        },
+        {
+          "number": 21,
+          "line": "And the twelve gates were twelve pearls: every several gate was of one pearl: and the street of the city was pure gold, as it were transparent glass."
+        },
+        {
+          "number": 22,
+          "line": "And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it."
+        },
+        {
+          "number": 23,
+          "line": "And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb is the light thereof."
+        },
+        {
+          "number": 24,
+          "line": "And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it."
+        },
+        {
+          "number": 25,
+          "line": "And the gates of it shall not be shut at all by day: for there shall be no night there."
+        },
+        {
+          "number": 26,
+          "line": "And they shall bring the glory and honour of the nations into it."
+        },
+        {
+          "number": 27,
+          "line": "And there shall in no wise enter into it any thing that defileth, neither whatsoever worketh abomination, or maketh a lie: but they which are written in the Lamb's book of life."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "millennium",
+      "titleEn": "Millennium",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-smcas0179_8-5-2013 1-08-12 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-smcas0179_8-5-2013 1-08-12 PM.jpg",
+      "caption": "The New Jerusalem descending from heaven"
+    },
+    {
+      "file": "GoodSalt-pppas0357_8-5-2013 1-08-12 PM.jpg",
+      "caption": "The home of the saints ..."
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Glorious Kingdom",
+      "caption": "Heaven will be a glorious kingdom.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp86.mp4"
     }
   ]
 }

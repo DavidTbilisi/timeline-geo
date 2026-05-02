@@ -4,18 +4,44 @@
   "period": 7,
   "titleEn": "Jehoahaz",
   "titleKa": null,
-  "datesEn": "632–609 BC (~23)",
+  "datesEn": "632&ndash;609 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh has grasped my hand.&#34; He is Josiah&#39;s third son (often called Shallum) who succeeds his father on the throne and reigns over Judah for 3 months. He practices idolatry and is taken by Pharaoh Necho to Egypt where he dies.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jehoahaz is the 17th king of Judah (2 Ki 23:31), who reigned only 3 months (609 b.c.). His original name was Shallum (1 Chr 3:15 Jer 22:11, 12 cf. 2 Ki 23:31). He probably took the name Jehoahaz as his throne name. After his father was killed in the battle of Megiddo, fighting against Pharaoh Necho, Jehoahaz was put on the throne by popular demand, although he was not the eldest prince. <BR /><BR />Belonging probably to the anti&#8212;Egyptian party, Jehoahaz continued his father&#39;s policies, and after a reign of 3 months was summoned to Riblah in Syria by Necho, who replaced him by his older brother Jehoiakim. He was then deported to Egypt, where he died (2 Ki 23:31&#8212;34 2 Chr 36:1, 4). A seal of the late 7th cent. b.c. bears the Hebrew inscription, &#34;Belonging to Jehoahaz, son of the king.&#34; It may have belonged to Josiah&#39;s son Jehoahaz before he was placed on the throne.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 23:30",
+      "verses": [
+        {
+          "number": 30,
+          "line": "And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own sepulchre. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father's stead."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 23:34",
+      "verses": [
+        {
+          "number": 34,
+          "line": "And Pharaohnechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "josiah",
+      "titleEn": "Josiah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-Jehoahaz_8-6-2013 11-06-04 AM.jpg",
-      "caption": ""
+      "file": "GoodSalt-Jehoahaz_8-6-2013 11-06-04 AM.jpg",
+      "caption": "King Josiah, who was the father of Jehoahaz."
     }
-  ]
+  ],
+  "videos": []
 }

@@ -4,13 +4,49 @@
   "period": 3,
   "titleEn": "Abram Blessed by Melchizedek",
   "titleKa": null,
-  "datesEn": "1866 BC",
+  "datesEn": "1866 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After delivering Lot and the king of Sodom from four invading kings, Abram is met by Melchizedek, the priest&#8212;king of Salem, and gives him tithe. Salem is later the city of Jerusalem.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Melchizedek. The priest&#8212;king of Salem joins the king of Sodom in welcoming Abram. In the days of Abram, Jerusalem was known as Salem, or Shalem, &#34;peace,&#34; or &#34;security&#34; (see Ps. 76:2). The city of Jerusalem is first attested in Egyptian records of the 19th century b.c., and was then ruled by Amorite kings. Jerusalem means &#34;city of peace,&#34; and Melchizedek, &#34;my king is righteous&#34; or &#34;King of righteousness,&#34; as the name is interpreted in, Heb. 7:2. While Sodom&#39;s king came to meet Abram with the purpose of obtaining the release of his subjects (Gen. 14:21), Melchizedek came to bless the victorious commander.<BR /><BR />Bread and wine. These were the chief products of Canaan. The purpose of Melchizedek&#39;s meeting Abram with bread and wine has been the subject of much speculation. Some have thought that these were presented to Abram and his soldiers as refreshments, others consider them symbolic of the transfer of the soil of Canaan to the patriarch. Most likely they were simply a token of gratitude to Abram for recovering peace, freedom, and prosperity to the land.<BR /><BR />The most high God. It is surprising indeed to find among the wicked Canaanites and Amorites of Abram&#39;s time a local ruler who was not only loyal to the true god but also officiated in a priestly capacity (cf. Ex. 2:16). It shows that God still had His faithful ones scattered here and there. Although in the minority, God&#39;s true servants had by no means vanished from the face of the earth. God has never been without faithful witnesses, however dark the period or however wicked its people.<BR /><BR />Bible commentators have speculated much about the person of Melchizedek, a priest&#8212;king who appears suddenly in the Biblical narrative only to disappear again into the impenetrable obscurity of ancient history. Such speculation is almost entirely without value. His unexpected appearance makes him in a certain sense a timeless figure, and his priesthood a type of the priesthood of Jesus Christ.<BR /><BR />Tithes of all. That Abram, and not Melchizedek, was the tithe payer is clearly stated in Heb. 7:4. Giving the tenth of the booty taken from the enemy was an acknowledgment of the divine priesthood of Melchizedek, and proves that Abram was well acquainted with the sacred institution of tithe paying.<BR />This is the first mention of tithing, repeatedly recognized throughout both the OT and the New Testamentas a divine requirement (see Gen. 28:22 Lev. 27:30&#8212;33 Num. 18:21&#8212;28 Neh. 13:12 Matt. 23:23 Heb. 7:8). <BR /><BR />That Abram paid tithe shows clearly that this institution was not later, temporary expedient to provide for the sacrificial services, but that it was a divinely instituted practice from the earliest times. By returning to God one tenth of his income the believer recognizes God&#39;s ownership over all his property.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 14:18-20",
+      "verses": [
+        {
+          "number": 18,
+          "line": "And Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God."
+        },
+        {
+          "number": 19,
+          "line": "And he blessed him, and said, Blessed be Abram of the most high God, possessor of heaven and earth:"
+        },
+        {
+          "number": 20,
+          "line": "And blessed be the most high God, which hath delivered thine enemies into thy hand. And he gave him tithes of all."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "abraham",
+      "titleEn": "Abraham",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Foster_Bible_Pictures_0028-1-Melchizedek_7-31-2013 1-54-19 PM.jpg",
+      "caption": "Melchizedek blessing Abram. Artist: Unknown, c. 1897"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Abraham, Part 4: Rescue & Reward",
+      "caption": "The fourth in a 12 part series on the life of Abraham. His experiences are a miniature story of what happens to God&#39;s people in later times. Lot is like God&#39;s people who were carried away in war and then rescued.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2409.mp4"
+    }
+  ]
 }

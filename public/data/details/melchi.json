@@ -4,13 +4,40 @@
   "period": 7,
   "titleEn": "Melchi",
   "titleKa": null,
-  "datesEn": "635–537 BC",
+  "datesEn": "635&ndash;537 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;my king.&#34; He is the son of Addi, a Judahite listed in Luke&#39;s genealogy of Jesus Christ. Also spelled &#34;Melki.&#34; His son is Neri.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:28",
+      "verses": [
+        {
+          "number": 28,
+          "line": "Which was the son of Melchi, which was the son of Addi, which was the son of Cosam, which was the son of Elmodam, which was the son of Er,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "addi",
+      "titleEn": "Addi",
+      "titleKa": null
+    },
+    {
+      "slug": "neri",
+      "titleEn": "Neri",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "_GoodSalt-smcas0177_8-27-2013 3-53-18 PM.jpg",
+      "caption": "Which was the son of <b>Melchi</b>, which was the son of Addi, which was the son of Cosam, which was the son of Elmodam, which was the son of Er, (Luke 3:28)"
+    }
+  ],
+  "videos": []
 }

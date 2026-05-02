@@ -4,13 +4,35 @@
   "period": 3,
   "titleEn": "Terah Leaves Ur for City of Haran",
   "titleKa": null,
-  "datesEn": "1896 BC",
+  "datesEn": "1896 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Terah takes his son Abraham, his grandson Lot, and his daughter&#8212;in&#8212;law Sarai and leaves Ur of the Chaldeans and goes toward Canaan. They first go to Haran where Terah later dies.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "They went forth. The Scriptures make it clear that Abram was the one to whom God revealed Himself in Ur of the Chaldees, and not to Terah, as might be inferred from this passage. Stephen told his hearers that Abram had left &#34;Mesopotamia, before he dwelt in Haran, in response to an explicit command addressed to him personally of God (Acts 7:2, 3). God later reminded Abram that He had brought him out of Ur of the Chaldees (Gen. 15:7), not out of Haran (see also Neh. 9:7). <BR /><BR />We conclude that Abram&#39;s call occurred in two stages. The first call, when he lived at Ur, was to leave his ancestral tribe, but the second, at Haran, was to forsake his immediate relatives, even his father&#39;s house. When the first call came to Abram, he obeyed immediately and left the old environment to find a new home in the country God promised to provide for him. He must have had considerable influence over his father, Terah, his brother Nahor, and his nephew Lot, because they all chose to accompany him.<BR /><BR />To go into the land of Canaan. This indicates that Canaan was their destination from the very beginning. There were two possible routes of travel from Ur in southern Mesopotamia to Canaan. One route lay directly across the great Arabian Desert, but a large caravan of flocks, herds, and many servants could not possibly traverse such terrain. The other route lay up the Euphrates, across the narrow desert of northern Syria, and then through the Orontes valley southward into Canaan. This was obviously the way by which they must travel.<BR /><BR />They came unto Haran. Haran is situated on the Balikh river in northern Mesopotamia, halfway between Ur and Canaan. The reason for this interruption of the journey is not given, but it may have been occasioned by the attractiveness of the region, or more likely by the advancing age and feebleness of Terah. For the greater part of the family Haran became a permanent place of abode, which implies, perhaps, that the attractiveness of the region may have led to the original decision to stop there. The Balikh and Chabur valleys contain fertile pastureland. It is possible that the whole region was sparsely populated, and seemed to offer fine possibilities for increasing the wealth of the family before they proceeded on to Canaan.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 11:31",
+      "verses": [
+        {
+          "number": 31,
+          "line": "And Terah took Abram his son, and Lot the son of Haran his son's son, and Sarai his daughter in law, his son Abram's wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "terah",
+      "titleEn": "Terah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Abram and Sarai_5-15-2013 5-18-40 PM.jpg",
+      "caption": "Abraham giving counsel to Sarai painting by James Tissot between 1896-1902."
+    }
+  ],
+  "videos": []
 }

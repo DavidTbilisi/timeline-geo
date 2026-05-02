@@ -4,13 +4,29 @@
   "period": 8,
   "titleEn": "Cambyses",
   "titleKa": null,
-  "datesEn": "570–522 BC",
+  "datesEn": "570&ndash;522 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Cambyses is the son of Cyrus I. He ruled the Persian empire from 530 BC to 522 BC, and expanded its territory to include Egypt.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Cambyses 530&#8212;522 b.c., who is not mentioned in the Bible, followed his father on the throne. His major accomplishment was the conquest of Egypt 525 b.c.. He stayed in that country for 3 years and organized the Nile valley into a strong Persian satrapy. However, before he left for Egypt he had his brother Bardiya called Smerdis, by the Greeks slain for fear that he might usurp the throne during his absence, since Bardiya was much more popular than he. In 522 b.c., while Cambyses was still in Egypt, Gaumata, a Median Magian, claimed to be Bardiya Smerdis and usurped the throne. Cambyses hurried back to Persia, but died on the way home, either by his own hand or as the result of an accident. He left no heir.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "cyrus-ii-cyrus-the-great",
+      "titleEn": "Cyrus II (Cyrus the Great)",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Cambyses_II_8-28-2013 11-11-14 AM.jpg",
+      "caption": "Cambyses, Guillaume Rouille, &#34;Promptuarii Iconum Insigniorum&#34;, 1553"
+    },
+    {
+      "file": "Cambyses_II_of_Persia_8-28-2013 11-11-14 AM.jpg",
+      "caption": "Cambyses, Artist: Unknown, c. 525 BC"
+    }
+  ],
+  "videos": []
 }

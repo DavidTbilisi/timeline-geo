@@ -4,18 +4,23 @@
   "period": 12,
   "titleEn": "The Catholic Counter-Reformation",
   "titleKa": null,
-  "datesEn": "1545–1648 AD",
+  "datesEn": "1545&ndash;1648 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The Catholic response to the Protestant Reformation. Began with the Council of Trent in 1545 and ended with the conclusion of the Thirty Years&#39; War in 1648.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Counter&#8212;Reformation was a Catholic response to the Protestant Reformation. It began with the Council of Trent (1545&#8212;1563) and ended with the Treaty of Westphalia, which effectively ended the Thirty Years&#39; War.<BR /><BR />The Counter&#8212;Reformation is illustrated best by the ecclesiastical reforms of the Council of Trent, the revival of the Inquisition, the appearance of the Index of Prohibited Books, and the work of the Jesuits.<BR />",
   "articleKa": null,
   "scriptures": [],
   "related": [],
   "images": [
     {
-      "file": "media/images/t/774px-Westfaelischer_Friede_in_Muenster_Gerard_Terborch_1648_8-5-2013 10-41-37 AM.jpg",
-      "caption": ""
+      "file": "774px-Westfaelischer_Friede_in_Muenster_Gerard_Terborch_1648_8-5-2013 10-41-37 AM.jpg",
+      "caption": "Ratification of the Peace of M&#252;nster between Spain and the Dutch Republic in the town hall of M&#252;nster, 15 May 1648. Oil on canvas painting by Gerard ter Borch (1617-1681)."
+    },
+    {
+      "file": "WestphaliaIPM_8-5-2013 10-41-37 AM.jpg",
+      "caption": "Signing of the Treaty of M&#252;nster"
     }
-  ]
+  ],
+  "videos": []
 }

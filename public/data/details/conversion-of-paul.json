@@ -4,18 +4,130 @@
   "period": 10,
   "titleEn": "Conversion of Paul",
   "titleKa": null,
-  "datesEn": "35 AD",
+  "datesEn": "35 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Paul persecutes the church and consents to Stephen&#39;s stoning and death. On the way to Damascus Paul meets Christ and falls down in blindness. The Lord tells Him what to do and where to go. Later Ananias prays for his healing and baptizes him.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "It was on one of these persecuting excursions that the course of Paul&#39;s life was spectacularly and completely changed. Hearing that there were Christians in Damascus, he sought from the high priest letters&#8212;evidently letters of extradition&#8212;authorizing him to arrest and bring to Jerusalem any Christian found in that city (Acts 9:1, 2). As Paul approached Damascus at midday with a company of men to aid him in his murderous designs, he was suddenly surrounded by a blinding light, brighter than the sun. Paul and his companions fell to the earth (ch 26:14), and a voice, identifying its owner as Jesus of Nazareth, inquired, &#34;Saul, Saul, why persecutest thou me?&#34; adding, &#34;It is hard for thee to kick against the pricks.&#34; Paul, overwhelmed by the experience, asked what he was to do, upon which Jesus informed him that he was to become a witness for Him to the Gentiles (vs 16, 17). He was instructed to go into Damascus, where he would receive further information. Meanwhile his amazed and fearful companions, who had arisen from the ground (see ch 9:7), understood nothing of what was taking place, for although they saw the light and heard the words of Jesus, they could not understand what was being said (cf. chs 9:7 22:9). Rising to his feet, Paul discovered that he was blind.<BR /><BR />In that condition Paul was led by his companions to the home of a certain Judas in Damascus, where he stayed 3 days without food or drink (Acts 9:8, 9, 11). While Paul was engaged in prayer, Jesus appeared in vision to one Ananias and directed him to the home of Judas, on the &#34;street which is called Straight,&#34; where he would find Paul, who had been given a vision of his coming. Ananias respectfully reminded Jesus of Paul&#39;s acts of persecution, but was informed that the erstwhile persecutor had been chosen of God (vs 11&#8212;16). Following instructions, Ananias found Paul and laid his hands upon him, whereupon Paul&#39;s sight was immediately restored and he received the gift of the Holy Spirit and was baptized (vs 17, 18).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Acts 9:1-19",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,"
+        },
+        {
+          "number": 2,
+          "line": "And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem."
+        },
+        {
+          "number": 3,
+          "line": "And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:"
+        },
+        {
+          "number": 4,
+          "line": "And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?"
+        },
+        {
+          "number": 5,
+          "line": "And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks."
+        },
+        {
+          "number": 6,
+          "line": "And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do."
+        },
+        {
+          "number": 7,
+          "line": "And the men which journeyed with him stood speechless, hearing a voice, but seeing no man."
+        },
+        {
+          "number": 8,
+          "line": "And Saul arose from the earth; and when his eyes were opened, he saw no man: but they led him by the hand, and brought him into Damascus."
+        },
+        {
+          "number": 9,
+          "line": "And he was three days without sight, and neither did eat nor drink."
+        },
+        {
+          "number": 10,
+          "line": "And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, Ananias. And he said, Behold, I am here, Lord."
+        },
+        {
+          "number": 11,
+          "line": "And the Lord said unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth,"
+        },
+        {
+          "number": 12,
+          "line": "And hath seen in a vision a man named Ananias coming in, and putting his hand on him, that he might receive his sight."
+        },
+        {
+          "number": 13,
+          "line": "Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem:"
+        },
+        {
+          "number": 14,
+          "line": "And here he hath authority from the chief priests to bind all that call on thy name."
+        },
+        {
+          "number": 15,
+          "line": "But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:"
+        },
+        {
+          "number": 16,
+          "line": "For I will shew him how great things he must suffer for my name's sake."
+        },
+        {
+          "number": 17,
+          "line": "And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost."
+        },
+        {
+          "number": 18,
+          "line": "And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized."
+        },
+        {
+          "number": 19,
+          "line": "And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas3972_8-7-2013 10-14-58 AM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas3972_8-7-2013 10-14-58 AM.jpg",
+      "caption": "Paul&#39;s conversion"
+    },
+    {
+      "file": "Pauls-conversion_7-31-2013 5-59-43 PM.jpg",
+      "caption": "Conversion on the Way to Damascus,  Providence Lithograph Company, 1900"
+    },
+    {
+      "file": "147094593_2-28-2013 1-58-30 PM.jpg",
+      "caption": "Damascus city panorama view."
+    },
+    {
+      "file": "Saint_Paul_Ananias_Sight_Restored_2-28-2013 1-58-30 PM.jpg",
+      "caption": "Ananias restoring the sight of Saint Paul by Pietro da Cortona in 1631."
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Damascus Road: Seeing the Light",
+      "caption": "First in a two part series on the life of Paul the Apostle. A foundation for Paul&#39;s work of reaching the Gentiles begins in Daniel 9. Paul&#39;s conversion is a prophetic turning point in history. He went through a dramatic experience of seeing the light of God.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2022.mp4"
+    },
+    {
+      "title": "The Damascus Road: Making a You-Turn",
+      "caption": "The second in a two part series on the life of Paul, particularly his conversion experience on the road to Damascus. Like Paul we are all saved with a purpose, to share the love of Christ with the world.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2023.mp4"
     }
   ]
 }

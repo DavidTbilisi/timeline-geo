@@ -4,18 +4,55 @@
   "period": 7,
   "titleEn": "Josiah Consecrates Himself to God",
   "titleKa": null,
-  "datesEn": "633 BC",
+  "datesEn": "633 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "In his 12th year of reign, Josiah begins to cleanse Judah of the &#34;high places&#34; and destroy the Baal altars, Asherah images, and all traces of paganism. His work extends into Israel in the north. In his 18th year the Law of Moses scroll is found.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Josiah was only 16 years of age (see v. 1) when he began to consider seriously his responsibility. The record does not place the entire reformation in the 12th year, but only its beginning. The first campaign resulted in the destruction of idolatrous objects throughout the country, but the reform was not complete. The 18th year found idolatry still firmly entrenched in the popular mind. The narrative of Josiah&#39;s measures against idolatry in the 12th year is similar to the account of 2 Kings 23, which, however, places the events in the 18th year. Perhaps the Kings account covers the whole period of reform since its beginning in the 12th year.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Chronicles 34:3-7",
+      "verses": [
+        {
+          "number": 3,
+          "line": "For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father: and in the twelfth year he began to purge Judah and Jerusalem from the high places, and the groves, and the carved images, and the molten images."
+        },
+        {
+          "number": 4,
+          "line": "And they brake down the altars of Baalim in his presence; and the images, that were on high above them, he cut down; and the groves, and the carved images, and the molten images, he brake in pieces, and made dust of them, and strowed it upon the graves of them that had sacrificed unto them."
+        },
+        {
+          "number": 5,
+          "line": "And he burnt the bones of the priests upon their altars, and cleansed Judah and Jerusalem."
+        },
+        {
+          "number": 6,
+          "line": "And so did he in the cities of Manasseh, and Ephraim, and Simeon, even unto Naphtali, with their mattocks round about."
+        },
+        {
+          "number": 7,
+          "line": "And when he had broken down the altars and the groves, and had beaten the graven images into powder, and cut down all the idols throughout all the land of Israel, he returned to Jerusalem."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "josiah",
+      "titleEn": "Josiah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/_GoodSalt-prcas3303_8-27-2013 3-56-08 PM.jpg",
-      "caption": ""
+      "file": "_GoodSalt-prcas3303_8-27-2013 3-56-08 PM.jpg",
+      "caption": "Then Shaphan the scribe told the king, &#34;Hilkiah the priest has given me a scroll.&#34; Shaphan read it out loud before the king. When the king heard the words of the law scroll, he tore his clothes. (2 Chronicles, Chapter 34, 18-19). "
+    },
+    {
+      "file": "_GoodSalt-prcas0649_8-27-2013 3-56-08 PM.jpg",
+      "caption": "Josiah cleansing the land of idols"
     }
-  ]
+  ],
+  "videos": []
 }

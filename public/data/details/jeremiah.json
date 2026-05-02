@@ -4,18 +4,49 @@
   "period": 7,
   "titleEn": "Jeremiah",
   "titleKa": null,
-  "datesEn": "643–570 BC (~73)",
+  "datesEn": "643&ndash;570 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh is exalted.&#34; One of the greatest of the Old Testament prophets, the son of Hilkiah a high priest, who works during the time of King Josiah and Zedekiah. He calls for cooperation with Babylon during the captivity, very unpopular.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jeremiah, name means &#34;Yahweh is exalted,&#34; or possibly &#34;Yahweh strikes.&#34; A prophet who encourage the work of reform under King Josiah. He counseled the Jews in Jerusalem prior to and during the Babylonian captivity and wrote the book that bears his name. Jeremiah is perhaps the most colorful of all the OT prophets. Interspersed with his prophetic messages are frequent glimpses into his own soul that give a vivid picture of the feelings and experience of a prophet who was called to bear unpopular messages in a time of national crisis. Jeremiah&#39;s prophetic ministry continued for more than 40 years, beginning about 626 b.c. (Jer 1:2) and extending beyond the Captivity in 586 b.c. (ch 39:1, 2)&#8212;perhaps the most critical period of Israelite history in all OT times.<BR /><BR />The history of the southern kingdom of Judah since the captivity of the 10 tribes a century earlier was one of deepening national apostasy. By Jeremiah&#39;s time it had become apparent that drastic measures must be taken if God&#39;s purpose for Israel was ever to be fulfilled. Canaan was theirs only by virtue of their covenant relationship with God, and by their persistent violation of the covenant provisions they forfeited their right to the land. Captivity was inevitable, not as retributive punishment but as remedial discipline, and it fell to Jeremiah to explain the reasons for the Captivity and to encourage cooperation with God&#39;s plan in that experience. Again and again, through Jeremiah, God appealed to His people to submit to the king of Babylon and to be willing to learn the lesson this bitter experience was ordained to teach. The 1st captivity came in 605 b.c., but their refusal to cooperate led to a 2d in 597 b.c., and a 3d in 586 b.c. that was accompanied by the utter desolation of the city and the Temple. Ezekiel was called to a similar role for the exiles in Babylonia, and about the same time God appointed Daniel to the court of Nebuchadnezzar for the purpose of mitigating the natural harshness and severity of the Babylonians toward the Jews. The messages of Jeremiah, Ezekiel, and Daniel were designed to make clear the nature and purpose of the Captivity and to hasten the return of the exiles to their homeland.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Jeremiah 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "hilkiah",
+      "titleEn": "Hilkiah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Jeremiah_4-2-2013 2-17-43 PM.jpg",
-      "caption": ""
+      "file": "Jeremiah_4-2-2013 2-17-43 PM.jpg",
+      "caption": "Jeremiah lamenting the destruction of Jerusalem painting by Rembrandt in 1630. Locatead at the Rijksmuseum Amsterdam in Amsterdam."
+    },
+    {
+      "file": "GoodSalt-Jeremiah_8-5-2013 4-22-35 PM.jpg",
+      "caption": "Jeremiah in a cistern.  "
+    },
+    {
+      "file": "cry-of-prophet-jeremiah-on-the-ruins-of-jerusalem-on-a-bible-subject-1870_7-31-2013 4-25-47 PM.jpg",
+      "caption": "Cry of prophet Jeremiah on the Ruins of Jerusalem, Ilya Repin, 1870"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Saved From the Horrible Pit",
+      "caption": "Many times in the Bible God&#39;s people have been put into a pit. Joseph&#39;s brothers put him in a pit. David writes about being sunk in the mire. This sermon focuses on the experience of the prophet Jeremiah who was thrown into a pit. We are in a pit. Jesus came down to our pit and lift us out.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2029.mp4"
     }
   ]
 }

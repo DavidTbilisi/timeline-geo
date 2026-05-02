@@ -4,13 +4,35 @@
   "period": 3,
   "titleEn": "Reuben Lays with Bilhah",
   "titleKa": null,
-  "datesEn": "1680 BC",
+  "datesEn": "1680 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Reuben lays with his father&#39;s concubine Bilhah, perhaps to assert his leadership role as first&#8212;born or perhaps in anger at his father for not loving Leah, his mother. He later loses Jacob&#39;s blessing which would have gone to him as the first&#8212;born son.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Since Bilhah was the wife of Reuben&#39;s father, this was an act of incest. Under Mosaic law it was punishable by death (Lev. 18:8), and was greatly despised even by pagans (1 Cor. 5:1). Though Bilhah may not have been entirely innocent, Reuben was certainly guilty of a most heinous moral lapse. Following these words (&#34;Israel heard of it&#34;) the Hebrew text has a gap which led the ancient Jewish rabbis to comment, &#34;There is a hiatus in the verse.&#34; The LXX fills in the gap by adding, &#34;and it appeared evil in his sight.&#34; <BR /><BR />This would seem to represent but inadequately the mingled shame and sorrow, indignation and horror, with which the wickedness of Jacob&#39;s eldest son must have filled him. More bitter and crushing was this last blow than even the death of Rachel or the ravishment of Dinah. Jacob&#39;s silence may be interpreted as the silence of devout resignation. But when the time came to pronounce a blessing on his sons, the dying Jacob felt that Reuben had by his crime forfeited the birthright, his position of temporal and spiritual leadership in the family (Gen. 49:4 1 Chron. 5:1). The first was given to Judah, the second to Levi.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 35:22",
+      "verses": [
+        {
+          "number": 22,
+          "line": "And it came to pass, when Israel dwelt in that land, that Reuben went and lay with Bilhah his father's concubine: and Israel heard it. Now the sons of Jacob were twelve:"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "reuben",
+      "titleEn": "Reuben",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-wjpas0016_8-6-2013 9-55-33 AM.jpg",
+      "caption": "And it came to pass, when Israel dwelt in that land, that Reuben went and lay with Bilhah his father&#39;s concubine: and Israel heard it. Now the sons of Jacob were twelve: (Genesis 35:22)"
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,47 @@
   "period": 10,
   "titleEn": "Revelation Written",
   "titleKa": null,
-  "datesEn": "95 AD",
+  "datesEn": "95 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Many early church Christian writers point to John, the disciple of Jesus, as the writer of the book of Revelation. He wrote of visions given to him of things to come while a prisoner exiled on the Isle of Patmos during the time of Domitian&#39;s reign.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The testimony of early Christian writers is almost unanimous that the book of Revelation was written during the reign of Domitian. Irenaeus, who claims to have had a personal connection with John through Polycarp, declares of the Revelation, &#34;For that was seen no very long time since, but almost in our day, towards the end of Domitian&#39;s reign&#34; (op. cit. v. 30. 3 ANF, vol. 1, pp. 559, 560). Victorinus (died c. A.D. 303) says, &#34;When John said these things he was in the island of Patmos, condemned to the labour of the mines by Caesar Domitian. <BR /><BR />There, therefore, he saw the Apocalypse&#34; (Commentary on the Apocalypse, on ch. 10:11 ANF, vol. 7, p. 353 see on Rev. 1:9). Eusebius (op. cit. iii. 20. 8, 9) records that John was sent to Patmos by Domitian, and that when those who had been unjustly banished by Domitian were released by his successor, Nerva (A.D. 96&#8212;98 see Vol. VI, p. 87), the apostle returned to Ephesus. Such early Christian testimony leads the authors of this commentary to place the writing of the Revelation during the time of Domitian&#39;s reign, which ended in A.D. 96.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Revelation 1:1-2",
+      "verses": [
+        {
+          "number": 1,
+          "line": "The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:"
+        },
+        {
+          "number": 2,
+          "line": "Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "john",
+      "titleEn": "John",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-stdas0439_8-6-2013 5-16-56 PM.jpg",
+      "caption": "John the Revelator on the island of Patmos, Tobias Verhaecht, 1598"
+    },
+    {
+      "file": "_98A1499_DTK_Z_2-28-2013 9-09-51 AM.jpg",
+      "caption": "John the Revelator on the island of Patmos."
+    },
+    {
+      "file": "Message_of_the_Risen_Christ-Revelation_1_18a_8-1-2013 2-14-46 PM.jpg",
+      "caption": "John the Revelator in vision, Providence Lithograph Company, 1904"
+    }
+  ],
+  "videos": []
 }

@@ -4,18 +4,45 @@
   "period": 8,
   "titleEn": "Xerxes I",
   "titleKa": null,
-  "datesEn": "519–465 BC (~54)",
+  "datesEn": "519&ndash;465 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The son of Darius I, he is a weak ruler compared to his father and suffers heavy losses in Greece. He is known in the Bible by the name Ahasuerus and is king during the time of Queen Esther.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Ahasuerus, a son and successor of Darius I on the Persian throne (486&#8212;465 b.c.), known in secular history as Xerxes. Shortly after taking the throne he successfully put down a serious rebellion in Egypt that had broken out before his father&#39;s death. He also quenched a serious Babylonian revolt and largely destroyed the city of Babylon, especially its fortifications, palaces, and temples. <BR /><BR />His military campaigns against the Greeks, however, ended in failures, so that the battles at Salamis, Plataea, Mycale, and the Eurymedon are known for the defeats the Persians suffered. Yet Xerxes was not perturbed by these misfortunes, and lived the carefree life of an Oriental despot. The description of his character by contemporary historians agrees well with the impression one gains from reading the story of Esther, his queen (Est 2:16, 17). He was a weak character and was easily influenced by his courtiers and wives. Ezr 4:6 tells how the Samaritans attempted to influence &#34;Ahasuerus,&#34; identified by many with Xerxes, against the Jews. Whether this effort succeeded or failed is not known.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Esther 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now it came to pass in the days of Ahasuerus, (this is Ahasuerus which reigned, from India even unto Ethiopia, over an hundred and seven and twenty provinces:)"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "darius-the-mede",
+      "titleEn": "Darius the Mede",
+      "titleKa": null
+    },
+    {
+      "slug": "artaxerxes-i",
+      "titleEn": "Artaxerxes I",
+      "titleKa": null
+    },
+    {
+      "slug": "queen-vashti-falls-into-disfavor",
+      "titleEn": "Queen Vashti  Falls into Disfavor",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-stdas0429_8-28-2013 12-02-30 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-stdas0429_8-28-2013 12-02-30 PM.jpg",
+      "caption": "Xerxes and Esther"
     }
-  ]
+  ],
+  "videos": []
 }

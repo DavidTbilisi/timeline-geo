@@ -4,13 +4,40 @@
   "period": 2,
   "titleEn": "Salah",
   "titleKa": null,
-  "datesEn": "2261–1828 BC",
+  "datesEn": "2261&ndash;1828 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name possibly means &#34;sprout.&#34; He is the son of Arphaxad and one of the postdiluvian ancestors of Abraham. Sometimes spelled Shelah or Sala.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 10:24",
+      "verses": [
+        {
+          "number": 24,
+          "line": "And Arphaxad begat Salah; and Salah begat Eber."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "arphaxad",
+      "titleEn": "Arphaxad",
+      "titleKa": null
+    },
+    {
+      "slug": "eber",
+      "titleEn": "Eber",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Salah-son_of_Arphaxad_7-31-2013 11-51-12 AM.jpg",
+      "caption": "Salah son of Arphaxad. Published: Guillaume Rouille, Source:  &#34;Promptuarii Iconum Insigniorum &#34;, c. 1553"
+    }
+  ],
+  "videos": []
 }

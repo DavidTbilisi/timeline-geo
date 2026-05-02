@@ -4,13 +4,47 @@
   "period": 6,
   "titleEn": "Saul's Hatred Against David Begins",
   "titleKa": null,
-  "datesEn": "1024 BC",
+  "datesEn": "1024 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "When David returns from battle, the women sing and dance, saying, &#34;Saul has slain his thousands, and David his ten thousands.&#34; Saul is very angry. &#34;So Saul eyed David from that day forward&#34; (1 Sam. 18:9).",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "No time interval is given between the announcement of God&#39;s choice of another man, &#34;better than thou&#34; (ch. 15:28), as king, and this present experience of David in the court of the king. Though it is probable that several years had passed, Saul would certainly be on the watch for signs of the man who was to succeed him (see v. 9). He had recently proved powerless before the Philistines, and had it not been for the courageous exploit of this shepherd lad he might have lost his own life. <BR /><BR />Yet, he resented the thought that this lad whom he had honored and associated closely with himself might be winning away from him the affections of the people and the army as well. What kind of gratitude would that be? Time had not eased the smart of the prophetic rebuke (see ch. 15:23). Saul again gave way to feelings of discontent and evil surmisings until his jealous mind finally became deranged.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Samuel 18:9",
+      "verses": [
+        {
+          "number": 9,
+          "line": "And Saul eyed David from that day and forward."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "saul",
+      "titleEn": "Saul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-stdas0211_8-13-2013 4-18-16 PM.jpg",
+      "caption": "Saul attempting to murder David"
+    },
+    {
+      "file": "Saul Hatred of David Begins_8-1-2013 9-20-37 AM.JPG",
+      "caption": "Saul, glowering at David as David plays his harp for Saul."
+    },
+    {
+      "file": "Saul and David 1205-214_8-1-2013 9-20-37 AM.jpg",
+      "caption": "Saul raising a spear to kill David."
+    },
+    {
+      "file": "David and Saul_5-1-2013 3-54-25 PM.jpg",
+      "caption": "Vintage engraving from the 1870 of a scene from the Old Testament by Gustave Dore showing Saul attempts the life of David."
+    }
+  ],
+  "videos": []
 }

@@ -4,18 +4,118 @@
   "period": 8,
   "titleEn": "Artaxerxes I",
   "titleKa": null,
-  "datesEn": "490–423 BC (~67)",
+  "datesEn": "490&ndash;423 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Three Persian kings are known by this name, but only Artaxerxes I is spoken of in the Bible. He sends Ezra to Jerusalem with generous support to rebuild the Temple and later his cupbearer, Nehemiah, to help rebuild the walls and be governor.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Artaxerxes, known as Artaxerxes I Longimanus (465&#8212;423 b.c.), king of Persia, 3rd son and successor of Xerxes. Three kings bore the name Artaxerxes in Persian history, but only the 1st is mentioned in Biblical history. Like his father, he was a weak ruler, easily influenced by courtiers and women, and spent most of his life in his various palace cities while the empire was ruled by trusted friends and relatives, and his military campaigns were carried out by his generals. According to Ezr 4:7&#8212;23, Artaxerxes once prohibited the rebuilding of Jerusalem. <BR /><BR />According to ch 7, Artaxerxes in his 7th regnal year (457 b.c. according to the Jewish civil year running 6 months later than the Persian) sent the Jewish scribe Ezra back to Jerusalem with extensive privileges to reorganize Judah&#39;s judicial and administrative structure as a Jewish state within the Persian Empire&#8212;in harmony with the Laws of Moses. Ezra also received generous financial support from the king, and a permit to lead back to Palestine all Jews who desired to return to their homeland. Several thousand exiles made use of this opportunity. <BR /><BR />Artaxerxes later appointed his Jewish cupbearer, Nehemiah, as governor of the province of Judah, and sent him to Jerusalem to complete the city wall, the rebuilding of which had run into difficulties because of the antagonism of Judah&#39;s neighboring nations (Neh. 1 2). This permit was given in the 20th year of Artaxerxes (444 b.c. by the same Jewish calendar). After Nehemiah had served as governor of Judea for 12 years he was recalled to the Persian court but later was allowed to serve a second term (chs 5:14 13:6, 7).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Ezra 4:7-23",
+      "verses": [
+        {
+          "number": 7,
+          "line": "And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of their companions, unto Artaxerxes king of Persia; and the writing of the letter was written in the Syrian tongue, and interpreted in the Syrian tongue."
+        },
+        {
+          "number": 8,
+          "line": "Rehum the chancellor and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king in this sort:"
+        },
+        {
+          "number": 9,
+          "line": "Then wrote Rehum the chancellor, and Shimshai the scribe, and the rest of their companions; the Dinaites, the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Susanchites, the Dehavites, and the Elamites,"
+        },
+        {
+          "number": 10,
+          "line": "And the rest of the nations whom the great and noble Asnapper brought over, and set in the cities of Samaria, and the rest that are on this side the river, and at such a time."
+        },
+        {
+          "number": 11,
+          "line": "This is the copy of the letter that they sent unto him, even unto Artaxerxes the king; Thy servants the men on this side the river, and at such a time."
+        },
+        {
+          "number": 12,
+          "line": "Be it known unto the king, that the Jews which came up from thee to us are come unto Jerusalem, building the rebellious and the bad city, and have set up the walls thereof, and joined the foundations."
+        },
+        {
+          "number": 13,
+          "line": "Be it known now unto the king, that, if this city be builded, and the walls set up again, then will they not pay toll, tribute, and custom, and so thou shalt endamage the revenue of the kings."
+        },
+        {
+          "number": 14,
+          "line": "Now because we have maintenance from the king's palace, and it was not meet for us to see the king's dishonour, therefore have we sent and certified the king;"
+        },
+        {
+          "number": 15,
+          "line": "That search may be made in the book of the records of thy fathers: so shalt thou find in the book of the records, and know that this city is a rebellious city, and hurtful unto kings and provinces, and that they have moved sedition within the same of old time: for which cause was this city destroyed."
+        },
+        {
+          "number": 16,
+          "line": "We certify the king that, if this city be builded again, and the walls thereof set up, by this means thou shalt have no portion on this side the river."
+        },
+        {
+          "number": 17,
+          "line": "Then sent the king an answer unto Rehum the chancellor, and to Shimshai the scribe, and to the rest of their companions that dwell in Samaria, and unto the rest beyond the river, Peace, and at such a time."
+        },
+        {
+          "number": 18,
+          "line": "The letter which ye sent unto us hath been plainly read before me."
+        },
+        {
+          "number": 19,
+          "line": "And I commanded, and search hath been made, and it is found that this city of old time hath made insurrection against kings, and that rebellion and sedition have been made therein."
+        },
+        {
+          "number": 20,
+          "line": "There have been mighty kings also over Jerusalem, which have ruled over all countries beyond the river; and toll, tribute, and custom, was paid unto them."
+        },
+        {
+          "number": 21,
+          "line": "Give ye now commandment to cause these men to cease, and that this city be not builded, until another commandment shall be given from me."
+        },
+        {
+          "number": 22,
+          "line": "Take heed now that ye fail not to do this: why should damage grow to the hurt of the kings?"
+        },
+        {
+          "number": 23,
+          "line": "Now when the copy of king Artaxerxes' letter was read before Rehum, and Shimshai the scribe, and their companions, they went up in haste to Jerusalem unto the Jews, and made them to cease by force and power."
+        }
+      ]
+    },
+    {
+      "reference": "Nehemiah 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "xerxes-i",
+      "titleEn": "Xerxes I",
+      "titleKa": null
+    },
+    {
+      "slug": "darius-ii",
+      "titleEn": "Darius II",
+      "titleKa": null
+    },
+    {
+      "slug": "artaxerxes-i-decree",
+      "titleEn": "Artaxerxes I Decree",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas0699_8-28-2013 12-48-10 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas0699_8-28-2013 12-48-10 PM.jpg",
+      "caption": "King Artaxerxes"
     }
-  ]
+  ],
+  "videos": []
 }

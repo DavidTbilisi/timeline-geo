@@ -4,13 +4,52 @@
   "period": 7,
   "titleEn": "Shalmaneser III",
   "titleKa": null,
-  "datesEn": "894–824 BC",
+  "datesEn": "894&ndash;824 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Shalmaneser III was the first Assyrian king to come in contact with Israel. Jehu, king of Israel is mentioned in one of his victory steles.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Shalmaneser III (859&#8212;834 b.c.), a son of Ashurnasirpal II. He was a great warrior and the first Assyrian king to come in contact with Israel. In his first year he waged an aggressive war in northern Syria, causing several kings of Syria and Palestine to form a league to meet his menace. Twelve kings in all joined the league whom Shalmaneser met in his 6th year (853 b.c.) at Qarqar in central Syria. <BR /><BR />The allied armies were led by Ben&#8212;hadad of Damascus and the king of Hamath. Ahab of Israel furnished 10,000 foot soldiers and 2,000 chariots, about half of all the chariots of the allied armies. Shalmaneser claims to have won a victory, but the truthfulness of his claim is doubted, because he returned at once to Assyria, and therefore must have been weakened. He returned after 5 years, but was again stopped by the allies, and again during the following campaign. However, he was finally able to break the power of the league in his 14th year (845 b.c.), and in his 18th year (841 b.c.) he defeated King Hazael of Damascus at Mount Hermon. <BR /><BR />The kings of Tyre and Sidon, as well as King Jehu of Israel, paid tribute and at once became Assyrian vassals. On the famous Black Obelisk, found in 1845 by Henry Layard at Nimrud, and now in the British Museum, the payment of Jehu&#39;s tribute is depicted in sculpture. On the 2nd of the 5 rows of relief King Jehu is seen kissing the ground at the feet of Shalmaneser and offering him, as tribute, bars and vessels of precious metals, which are carried by Israelite courtiers.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 17:3",
+      "verses": [
+        {
+          "number": 3,
+          "line": "Against him came up Shalmaneser king of Assyria; and Hoshea became his servant, and gave him presents."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 18:9",
+      "verses": [
+        {
+          "number": 9,
+          "line": "And it came to pass in the fourth year of king Hezekiah, which was the seventh year of Hoshea son of Elah king of Israel, that Shalmaneser king of Assyria came up against Samaria, and besieged it."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "shalmaneser-iii-of-assyria-defeats-hazael-of-damascus",
+      "titleEn": "Shalmaneser III Defeats Hazael",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "King_Shalmaneser_III_Istanbul_Museum.JPG",
+      "caption": "Basalt statue of King Shalmaneser II, 858-824 BCE (Neo-Assyrian Period). Found in Assur (Qala&#39;t Sharqat)."
+    },
+    {
+      "file": "Shalmaneser III_4-17-2013 3-42-38 PM.jpg",
+      "caption": "Black Obelisk of Shalmaneser III, erected in 825 BC located in the British Museum. "
+    },
+    {
+      "file": "Black Obelisk of Shalmanese III_4-17-2013 3-42-38 PM.jpg",
+      "caption": "The &#34;Black Obelisk&#34; of Shalmaneser III (reigned 858-824 BC) is a black limestone Neo-Assyrian bas-relief sculpture from Nimrud (ancient Kalhu), in northern Iraq."
+    }
+  ],
+  "videos": []
 }

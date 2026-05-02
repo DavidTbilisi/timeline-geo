@@ -4,18 +4,48 @@
   "period": 1,
   "titleEn": "Abel",
   "titleKa": null,
-  "datesEn": "3897–3825 BC",
+  "datesEn": "3897&ndash;3825 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Meaning of name: &#34;breath.&#34; He was the second son of Adam and Eve. Abel was put to death by his brother Cain when his sacrifice was accepted by God and his brother&#39;s was not. Abel was a shepherd.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The second son of Adam and Eve (Gen 4:2 etc.). The one incident of his life that Scripture records is his offering of a more acceptable sacrifice than that of his brother Cain (vs 3&#8212;5). Abel&#39;s offering was noteworthy in that, being of the flock, it bespoke his faith in the promised Deliverer, the true Lamb of God, who was to bruise the serpent&#39;s head (Gen 3:15 Jn 1:29). <BR /><BR />The shedding of its blood was an acknowledgment on the part of Abel that he was a sinner in need of divine mercy and forgiveness (see Lev 17:11 Heb 9:22). Furthermore, Abel&#39;s offering was of the choicest of the flock&#8212;a &#34;firstling,&#34; and &#34;of the fat thereof&#34;&#8212;and as such, an evidence of his readiness to give the Lord the best he had. Abel&#39;s faithfulness won for his name a place of honor among the worthies of Heb 11.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 4:2",
+      "verses": [
+        {
+          "number": 2,
+          "line": "And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 4:8",
+      "verses": [
+        {
+          "number": 8,
+          "line": "And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "adam",
+      "titleEn": "Adam",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas4883_8-7-2013 3-59-55 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas4883_8-7-2013 3-59-55 PM.jpg",
+      "caption": "Abel, a keeper of sheep"
+    },
+    {
+      "file": "GoodSalt-Abel_8-5-2013 3-56-38 PM.jpg",
+      "caption": "Abel and his brother"
     }
-  ]
+  ],
+  "videos": []
 }

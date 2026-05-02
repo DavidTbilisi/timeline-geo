@@ -4,13 +4,77 @@
   "period": 9,
   "titleEn": "Celebration of the Passover",
   "titleKa": null,
-  "datesEn": "31 AD",
+  "datesEn": "31 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Christ celebrates His last Passover on Earth with His disciples in the upper room of a house. As they begin to eat, Jesus tells them that one of the disciples will betray Him.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The hour had come for the Passover meal. It was Thursday night. Jesus instituted the Christian ordinance of the Lord&#39;s Supper during the course of the regular Passover meal. The group reclined at a table as was common in ancient Oriental feasts (see Mark 2:15). At the first Passover meal the participants were to stand as they ate, ready to take their departure from Egypt. After entering the Promised Land, however, ever, they no longer stood, but sat or reclined. Whereas upon the first Passover their standing posture indicated their haste to depart, the reclining posture now indicated composure and security in the land promised to them.<BR /><BR />This proved to be the last occasion on which all the Twelve were together in one place. It was the final time on which Jesus would be together with His beloved disciples before the agony of betrayal, trial, and crucifixion. This, the climax of His earthly ministry, had ever been before Him as He labored among men. For nearly a year Jesus had diligently been seeking to prepare His followers for the events of these final hours of His life. This was the fourth Passover of Jesus&#39; ministry, the third celebrated with the disciples in Jerusalem. Not all of them, however, had been present as members of this group upon either of the previous occasions&#8212;the Passovers of A.D. 28 and 29&#8212;which occurred prior to the selection and appointment of the Twelve in the summer of A.D. 29. It was definitely the Passover meal that Jesus and the Twelve now celebrated together on this occasion.<BR /><BR />This was the last Passover season in which followers of Christ might meaningfully participate. The rent veil in the Temple at the moment of Christ&#39;s death upon the cross (see on Matt. 27:51) was Heaven&#39;s sign that the symbols of the Jewish religious system became obsolete when Christ, to whom all these things pointed (see Col. 2:17), gave His life a ransom for many. Jesus was about to replace the symbols of the dead past with the living symbols of His own body and His shed blood. The final and complete celebration of deliverance from sin was to take place in the kingdom of &#34;glory,&#34; concerning which Christ had already told the disciples (see on Matt. 25:31). This statement by Jesus is probably a reference to &#34;the marriage supper of the Lamb&#34; (see Rev. 19:7&#8212;9), held in commemoration of the fact that &#34;the Lord God omnipotent reigneth&#34; (see vs. 1&#8212;6).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 26:20",
+      "verses": [
+        {
+          "number": 20,
+          "line": "Now when the even was come, he sat down with the twelve."
+        }
+      ]
+    },
+    {
+      "reference": "Mark 14:17-18",
+      "verses": [
+        {
+          "number": 17,
+          "line": "And in the evening he cometh with the twelve."
+        },
+        {
+          "number": 18,
+          "line": "And as they sat and did eat, Jesus said, Verily I say unto you, One of you which eateth with me shall betray me."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 22:14-16",
+      "verses": [
+        {
+          "number": 14,
+          "line": "And when the hour was come, he sat down, and the twelve apostles with him."
+        },
+        {
+          "number": 15,
+          "line": "And he said unto them, With desire I have desired to eat this passover with you before I suffer:"
+        },
+        {
+          "number": 16,
+          "line": "For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "passion-week",
+      "titleEn": "Passion Week",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-wjpas0354_8-7-2013 9-14-41 AM.jpg",
+      "caption": "Jesus celebrating the Passover with His disciples."
+    },
+    {
+      "file": "Upper Room interior, tb070807015_3-6-2013 1-09-13 PM.jpg",
+      "caption": "Picture of the upper room as it is today"
+    },
+    {
+      "file": "Last Supper_3-6-2013 1-09-13 PM.jpg",
+      "caption": "Last Supper painting "
+    },
+    {
+      "file": "Upper Room interior, tb070807004_3-6-2013 1-09-13 PM.jpg",
+      "caption": "Picture of the upper room as it is today"
+    }
+  ],
+  "videos": []
 }

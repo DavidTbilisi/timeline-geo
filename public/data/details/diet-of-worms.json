@@ -2,15 +2,25 @@
   "slug": "diet-of-worms",
   "id": 1345,
   "period": 12,
-  "titleEn": "Diet of Worms",
+  "titleEn": "Diet of Worms ",
   "titleKa": null,
-  "datesEn": "1521 AD",
+  "datesEn": "1521 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A formal assembly that gathered in Worms, Germany, in 1521 to discuss Luther and his writings.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Many in Europe reacted strongly to Luther&#39;s excommunication. Emperor Charles V was no exception. He did not want Luther to be condemned without a public hearing; therefore, on March 6, 1521, he commissioned Luther to appear before a diet (a legislative assembly) in Worms. Martin Luther&#39;s first appearance before the diet was on April 17, 1521. <BR /><BR />The splendor of the atmosphere was initially intimidating and unexpected for Luther. Therefore, when asked to recant his beliefs, he was caught off guard and did not feel prepared to answer the assembly in a just manner. He asked for a day to prepare an answer. On the next day, April 18, Luther bravely told the diet, &#34;My conscience is captive to the Word of God. I cannot, I will not recant anything, for it is neither safe nor right to act against one&#39;s conscience. God help me.&#34;<BR /><BR />Luther left the Diet of Worms in peace, but was abducted by friendly knights and escorted to Wartburg Castle for his own protection. He remained in Wartburg for 10 months and worked on translating the New Testament into German. After completing that task he returned to Wittenberg.",
   "articleKa": null,
   "scriptures": [],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "1024px-Diet_Of-Worms_2-26-2013 3-39-08 PM.jpg",
+      "caption": "Martin Luther at the Diet of Worms, painting by Anton von Werner in 1877"
+    },
+    {
+      "file": "89919232_2-26-2013 3-39-08 PM.jpg",
+      "caption": "12th century castle Wartburg in Thuringia, East Germany, the place where Martin Luther translated the bible into German."
+    }
+  ],
+  "videos": []
 }

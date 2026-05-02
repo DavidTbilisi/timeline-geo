@@ -4,13 +4,62 @@
   "period": 8,
   "titleEn": "Jehoiachin Released from Prison",
   "titleKa": null,
-  "datesEn": "560 BC",
+  "datesEn": "560 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "In the 37th year of his captivity, Jehoiachin is released from prison and exonerated by Evil&#8212;Merodach, Nebuchadnezzar&#39;s son. He eats from the king&#39;s table and is given a daily allowance. He is treated kindly by the Babylonian king.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jehoiachin was released in the 37th year of his captivity, in the twelfth month, which is the end of the Babylonian year, in the spring, just before the new&#8212;year festivities. This would be a suitable time for the release of political prisoners. Evil&#8212;merodach, the Babylonian king, is also called Amel&#8212;Marduk in secular history. He was the son and successor of Nebuchadnezzar, and came to the throne early in October, 562 b.c., and reigned till August, 560 b.c. He gave Jehoiachin precedence over other captive kings who were also in Babylon. The king gave bread to Jehoiachin, that is, he received his support from the royal purse, as was the case with the 450 prophets of Baal and the 400 prophets of the groves who ate &#34;at Jezebel&#39;s table&#34; (1 Kings 18:19).<BR /><BR />In speaking of continued support for the king of Judah, Several cuneiform tablets of 592 b.c., listing payments of rations of oil, barley, etc., to captives and skilled workmen in and around Babylon, include the name of Yaukin (Jehoiachin), king of Judah, and five of his sons. This shows he was still at liberty in 592 b.c. For some unknown reason he was later imprisoned, where he remained until Evil&#8212;merodach freed him. From that time on till his death Jehoiachin once more received his support from the royal purse, living in peace and comfort in the land of his captivity. The writer of Kings closes his book with a picture of a former king of Judah, after a long and wearisome captivity, closing his life in comparative comfort and honor. Under extreme affliction, the seed of David was at least not wholly cast off.",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 25:27-30",
+      "verses": [
+        {
+          "number": 27,
+          "line": "And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth day of the month, that Evilmerodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;"
+        },
+        {
+          "number": 28,
+          "line": "And he spake kindly to him, and set his throne above the throne of the kings that were with him in Babylon;"
+        },
+        {
+          "number": 29,
+          "line": "And changed his prison garments: and he did eat bread continually before him all the days of his life."
+        },
+        {
+          "number": 30,
+          "line": "And his allowance was a continual allowance given him of the king, a daily rate for every day, all the days of his life."
+        }
+      ]
+    },
+    {
+      "reference": "Jeremiah 52:31-34",
+      "verses": [
+        {
+          "number": 31,
+          "line": "And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, in the five and twentieth day of the month, that Evilmerodach king of Babylon in the first year of his reign lifted up the head of Jehoiachin king of Judah, and brought him forth out of prison,"
+        },
+        {
+          "number": 32,
+          "line": "And spake kindly unto him, and set his throne above the throne of the kings that were with him in Babylon,"
+        },
+        {
+          "number": 33,
+          "line": "And changed his prison garments: and he did continually eat bread before him all the days of his life."
+        },
+        {
+          "number": 34,
+          "line": "And for his diet, there was a continual diet given him of the king of Babylon, every day a portion until the day of his death, all the days of his life."
+        }
+      ]
+    }
+  ],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "GoodSalt-wjpas0523_8-28-2013 11-34-51 AM.jpg",
+      "caption": "Evil-Merodach released Jehoiachin from prison"
+    }
+  ],
+  "videos": []
 }

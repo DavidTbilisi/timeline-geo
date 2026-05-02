@@ -2,15 +2,27 @@
   "slug": "thomas-cranmer-appointed-archbishop-of-canterbury",
   "id": 1355,
   "period": 12,
-  "titleEn": "Thomas Cranmer Appointed Archbishop of Canterbury",
+  "titleEn": "Thomas Cranmer Appointed Archbishop of Canterbury ",
   "titleKa": null,
-  "datesEn": "1533 AD",
+  "datesEn": "1533 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Cranmer was appointed Archbishop of Canterbury in 1533, thanks to the influence of Henry VIII and the family of Anne Boleyn.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Thomas_Cranmer_2-26-2013 3-01-14 PM.png",
+      "caption": "Portrait of Cranmer after Henry VIII&#39;s death by an unknown artist. It was said that his beard signified his mourning of the king and his rejection of the old Church, Artist Unknown"
+    }
+  ],
+  "videos": []
 }

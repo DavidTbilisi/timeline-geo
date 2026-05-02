@@ -4,13 +4,40 @@
   "period": 8,
   "titleEn": "Mattathias",
   "titleKa": null,
-  "datesEn": "360–300 BC",
+  "datesEn": "360&ndash;300 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;gift of Yahweh.&#34; He is the son of Semei or Semein and father of Maath, a Judahite listed in Luke&#39;s genealogy of Jesus Christ. There is another Mattathias just a few generations later as well.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:26",
+      "verses": [
+        {
+          "number": 26,
+          "line": "Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of Juda,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "semei",
+      "titleEn": "Semei",
+      "titleKa": null
+    },
+    {
+      "slug": "maath",
+      "titleEn": "Maath",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "AncestorOfJesusColor.jpg",
+      "caption": "Ancestor of Jesus"
+    }
+  ],
+  "videos": []
 }

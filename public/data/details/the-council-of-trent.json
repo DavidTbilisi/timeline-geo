@@ -2,15 +2,31 @@
   "slug": "the-council-of-trent",
   "id": 1368,
   "period": 12,
-  "titleEn": "The Council of Trent",
+  "titleEn": "The Council of Trent ",
   "titleKa": null,
-  "datesEn": "1545 AD",
+  "datesEn": "1545 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Convened to issue condemnations against Protestant heresies and to reassert and define church teachings.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Council of Trent began on December 13, 1545, and ended on December 4, 1563. The council consisted of 25 different sessions and involved three different popes: Paul III (1534&#8212;1549), Julius III (1550&#8212;1555), and Pius IV (1559&#8212;1565).<BR /><BR />The Council of Trent set the precedents of the Catholic Church, which remained until the church was reinterpreted at the Vatican II Council (1962&#8212;1965).<BR /><BR />In essence, the Council of Trent sought to distinguish the Roman Catholic Church from all Protestant denominations. Therefore, it was extremely anti&#8212;Protestant and portrayed the Roman Catholic Church as the only true church: the &#34;One, Holy, Catholic, and Apostolic&#34; church of God.<BR /><BR />Early in the council, the doctrine of Sola Scriptura (the Bible only) was rejected and tradition and Scripture were considered equal in theory. The council did not define this relationship between tradition and Scripture; therefore, tradition usually held a primacy over Scripture in actual practice. The council also pronounced the Latin Vulgate (not written in a common language) to be the official and only true Scriptures. It further condemned those who attempted to interpret Scripture in any way that contradicted the Roman Catholic Church.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Council_of_Trent_8-5-2013 10-34-06 AM.JPG",
+      "caption": "A session of the Council of Trent in 1555. The Council of Trent was an Ecumenical Council of the Roman Catholic Church. It is considered to be one of the Church&#39;s most important councils."
+    },
+    {
+      "file": "800px-Tridentinum2_8-5-2013 10-34-06 AM.jpg",
+      "caption": "The Council of Trent"
+    }
+  ],
+  "videos": []
 }

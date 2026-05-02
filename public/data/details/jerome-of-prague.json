@@ -2,15 +2,39 @@
   "slug": "jerome-of-prague",
   "id": 1315,
   "period": 11,
-  "titleEn": "Jerome of Prague",
+  "titleEn": "Jerome of Prague ",
   "titleKa": null,
-  "datesEn": "1379–1416 AD",
+  "datesEn": "1379&ndash;1416 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A follower of Huss who worked to eliminate church doctrines that he considered corrupt, which eventually brought about his death at the stake.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Jerome was born in Bohemia (essentially modern&#8212;day Czech Republic) in 1379. In 1398 he graduated from the University of Prague and then traveled to Oxford to continue his studies. It was at Oxford that he became familiar with the writings of John Wycliffe. Sometime later, Jerome introduced the writings of Wycliffe to John Huss back in Prague.<BR /><BR />Jerome&#39;s life was devoted to the cause of reformation. He was imprisoned numerous times because of his radical views against the Catholic Church. On May 30, 1416, Jerome was condemned as a heretic and burned at the stake.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas1846_8-28-2013 3-10-16 PM.jpg",
+      "caption": "Jerome"
+    },
+    {
+      "file": "iStock_000020354782Small_2-26-2013 5-35-23 PM.jpg",
+      "caption": "Jerome of Prague (1379 to 30 May 1416) was part of the pre-reformation movement. He was one of the chief followers and friends of John Hus and was heavily influenced by the writings of John Wycliffe."
+    },
+    {
+      "file": "iStock_000018819337Small_2-26-2013 5-35-23 PM.jpg",
+      "caption": "Jan Hus, a 15th century heretic, is a symbol of Czech nationalism - and so is his monument. Plopped down in Old Town Square during the Cezch National Revival in 1915, Jan Hus keeps watch over Prague and foreign invaders at bay. "
+    },
+    {
+      "file": "135159658_2-26-2013 5-35-23 PM.jpg",
+      "caption": "Palace Karolinum medivel education complex, old European international university of Protector Emperor Charles IV in Prague, Czech Republic."
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,251 @@
   "period": 3,
   "titleEn": "Jacob Leaves Haran",
   "titleKa": null,
-  "datesEn": "1689 BC",
+  "datesEn": "1689 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Jacob agrees to work seven more years in order to receive Rachel after being deceived by Laban. When Jacob seeks to leave the country, Laban is fickle. Jacob flees and Laban pursues him. They finally part after making a covenant.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Laban is reluctant to let Jacob go, so Jacob flees with his family and flocks. Since Laban received word two or three days after Jacob&#39;s flight (v. 22), and overtook him after a pursuit of seven days, it appears that the two met nine or ten days after Jacob&#39;s departure from the vicinity of Haran. The mountains of Gilead lie more than 275 mi. from Haran, a distance that can be covered by fast camels in 7 days, the time required by Laban. But it would be impossible to drive the flocks and herds such a distance in that length of time, since they could cover no more than 9 or 10 mi. a day. <BR /><BR />Apparently Laban did not pursue the fugitives immediately upon receiving word of their flight. He knew that Jacob could make but slow progress (ch. 33:13, 14), and that he himself need therefore be in no haste. Since Rachel had taken her father&#39;s household gods, her departure must have been from Haran, where her father&#39;s home was situated (ch. 29:4, 5). The fact that Laban knew his idols had been stolen suggests that he must have returned home before pursuing Jacob. He may have finished the shearing of his sheep, concluded the accompanying festivities, and arranged for the care of the flocks Jacob had forsaken before leaving Haran. The time that elapsed between his receiving word of Jacob&#39;s flight and his own departure may easily have been 30 days or more.<BR /><BR />Overtaking Jacob, Laban assumed the role of a good&#8212;natured but grievously wronged and deeply hurt father. Did Jacob not realize how easily Laban could compel him to return to Haran? That Laban was talking with him at all instead of treating him as he presumably deserved, Jacob owed solely to the intervention of the God of his fathers the previous night. But why should Jacob&#39;s ardent longing to return to his father lead him to steal his father&#8212;in&#8212;law&#39;s gods? This was Laban&#39;s only legitimate complaint, a polished shaft aimed to hit hard and well. After making a covenant, they part their ways. It does not appear that Laban kissed Jacob on taking his final leave, as he had done upon meeting him the first time (ch. 29:13). <BR /><BR />Though Laban and Jacob parted reconciled to each other, and not as enemies, they were not exactly the best of friends. Laban blessed them. Laban, whose better nature appears to have prevailed as a result of the covenant, or perhaps of the feast, or of the contemplated parting with his daughters, poured out his feelings in a farewell blessing upon them. Thus Laban disappears from the Scripture narrative. With this, all contact between the family in Canaan and relatives in Mesopotamia ceases.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 31:1-55",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And he heard the words of Laban's sons, saying, Jacob hath taken away all that was our father's; and of that which was our father's hath he gotten all this glory."
+        },
+        {
+          "number": 2,
+          "line": "And Jacob beheld the countenance of Laban, and, behold, it was not toward him as before."
+        },
+        {
+          "number": 3,
+          "line": "And the LORD said unto Jacob, Return unto the land of thy fathers, and to thy kindred; and I will be with thee."
+        },
+        {
+          "number": 4,
+          "line": "And Jacob sent and called Rachel and Leah to the field unto his flock,"
+        },
+        {
+          "number": 5,
+          "line": "And said unto them, I see your father's countenance, that it is not toward me as before; but the God of my father hath been with me."
+        },
+        {
+          "number": 6,
+          "line": "And ye know that with all my power I have served your father."
+        },
+        {
+          "number": 7,
+          "line": "And your father hath deceived me, and changed my wages ten times; but God suffered him not to hurt me."
+        },
+        {
+          "number": 8,
+          "line": "If he said thus, The speckled shall be thy wages; then all the cattle bare speckled: and if he said thus, The ringstraked shall be thy hire; then bare all the cattle ringstraked."
+        },
+        {
+          "number": 9,
+          "line": "Thus God hath taken away the cattle of your father, and given them to me."
+        },
+        {
+          "number": 10,
+          "line": "And it came to pass at the time that the cattle conceived, that I lifted up mine eyes, and saw in a dream, and, behold, the rams which leaped upon the cattle were ringstraked, speckled, and grisled."
+        },
+        {
+          "number": 11,
+          "line": "And the angel of God spake unto me in a dream, saying, Jacob: And I said, Here am I."
+        },
+        {
+          "number": 12,
+          "line": "And he said, Lift up now thine eyes, and see, all the rams which leap upon the cattle are ringstraked, speckled, and grisled: for I have seen all that Laban doeth unto thee."
+        },
+        {
+          "number": 13,
+          "line": "I am the God of Bethel, where thou anointedst the pillar, and where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred."
+        },
+        {
+          "number": 14,
+          "line": "And Rachel and Leah answered and said unto him, Is there yet any portion or inheritance for us in our father's house?"
+        },
+        {
+          "number": 15,
+          "line": "Are we not counted of him strangers? for he hath sold us, and hath quite devoured also our money."
+        },
+        {
+          "number": 16,
+          "line": "For all the riches which God hath taken from our father, that is ours, and our children's: now then, whatsoever God hath said unto thee, do."
+        },
+        {
+          "number": 17,
+          "line": "Then Jacob rose up, and set his sons and his wives upon camels;"
+        },
+        {
+          "number": 18,
+          "line": "And he carried away all his cattle, and all his goods which he had gotten, the cattle of his getting, which he had gotten in Padanaram, for to go to Isaac his father in the land of Canaan."
+        },
+        {
+          "number": 19,
+          "line": "And Laban went to shear his sheep: and Rachel had stolen the images that were her father's."
+        },
+        {
+          "number": 20,
+          "line": "And Jacob stole away unawares to Laban the Syrian, in that he told him not that he fled."
+        },
+        {
+          "number": 21,
+          "line": "So he fled with all that he had; and he rose up, and passed over the river, and set his face toward the mount Gilead."
+        },
+        {
+          "number": 22,
+          "line": "And it was told Laban on the third day that Jacob was fled."
+        },
+        {
+          "number": 23,
+          "line": "And he took his brethren with him, and pursued after him seven days' journey; and they overtook him in the mount Gilead."
+        },
+        {
+          "number": 24,
+          "line": "And God came to Laban the Syrian in a dream by night, and said unto him, Take heed that thou speak not to Jacob either good or bad."
+        },
+        {
+          "number": 25,
+          "line": "Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead."
+        },
+        {
+          "number": 26,
+          "line": "And Laban said to Jacob, What hast thou done, that thou hast stolen away unawares to me, and carried away my daughters, as captives taken with the sword?"
+        },
+        {
+          "number": 27,
+          "line": "Wherefore didst thou flee away secretly, and steal away from me; and didst not tell me, that I might have sent thee away with mirth, and with songs, with tabret, and with harp?"
+        },
+        {
+          "number": 28,
+          "line": "And hast not suffered me to kiss my sons and my daughters? thou hast now done foolishly in so doing."
+        },
+        {
+          "number": 29,
+          "line": "It is in the power of my hand to do you hurt: but the God of your father spake unto me yesternight, saying, Take thou heed that thou speak not to Jacob either good or bad."
+        },
+        {
+          "number": 30,
+          "line": "And now, though thou wouldest needs be gone, because thou sore longedst after thy father's house, yet wherefore hast thou stolen my gods?"
+        },
+        {
+          "number": 31,
+          "line": "And Jacob answered and said to Laban, Because I was afraid: for I said, Peradventure thou wouldest take by force thy daughters from me."
+        },
+        {
+          "number": 32,
+          "line": "With whomsoever thou findest thy gods, let him not live: before our brethren discern thou what is thine with me, and take it to thee. For Jacob knew not that Rachel had stolen them."
+        },
+        {
+          "number": 33,
+          "line": "And Laban went into Jacob's tent, and into Leah's tent, and into the two maidservants' tents; but he found them not. Then went he out of Leah's tent, and entered into Rachel's tent."
+        },
+        {
+          "number": 34,
+          "line": "Now Rachel had taken the images, and put them in the camel's furniture, and sat upon them. And Laban searched all the tent, but found them not."
+        },
+        {
+          "number": 35,
+          "line": "And she said to her father, Let it not displease my lord that I cannot rise up before thee; for the custom of women is upon me. And he searched, but found not the images."
+        },
+        {
+          "number": 36,
+          "line": "And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What is my trespass? what is my sin, that thou hast so hotly pursued after me?"
+        },
+        {
+          "number": 37,
+          "line": "Whereas thou hast searched all my stuff, what hast thou found of all thy household stuff? set it here before my brethren and thy brethren, that they may judge betwixt us both."
+        },
+        {
+          "number": 38,
+          "line": "This twenty years have I been with thee; thy ewes and thy she goats have not cast their young, and the rams of thy flock have I not eaten."
+        },
+        {
+          "number": 39,
+          "line": "That which was torn of beasts I brought not unto thee; I bare the loss of it; of my hand didst thou require it, whether stolen by day, or stolen by night."
+        },
+        {
+          "number": 40,
+          "line": "Thus I was; in the day the drought consumed me, and the frost by night; and my sleep departed from mine eyes."
+        },
+        {
+          "number": 41,
+          "line": "Thus have I been twenty years in thy house; I served thee fourteen years for thy two daughters, and six years for thy cattle: and thou hast changed my wages ten times."
+        },
+        {
+          "number": 42,
+          "line": "Except the God of my father, the God of Abraham, and the fear of Isaac, had been with me, surely thou hadst sent me away now empty. God hath seen mine affliction and the labour of my hands, and rebuked thee yesternight."
+        },
+        {
+          "number": 43,
+          "line": "And Laban answered and said unto Jacob, These daughters are my daughters, and these children are my children, and these cattle are my cattle, and all that thou seest is mine: and what can I do this day unto these my daughters, or unto their children which they have born?"
+        },
+        {
+          "number": 44,
+          "line": "Now therefore come thou, let us make a covenant, I and thou; and let it be for a witness between me and thee."
+        },
+        {
+          "number": 45,
+          "line": "And Jacob took a stone, and set it up for a pillar."
+        },
+        {
+          "number": 46,
+          "line": "And Jacob said unto his brethren, Gather stones; and they took stones, and made an heap: and they did eat there upon the heap."
+        },
+        {
+          "number": 47,
+          "line": "And Laban called it Jegarsahadutha: but Jacob called it Galeed."
+        },
+        {
+          "number": 48,
+          "line": "And Laban said, This heap is a witness between me and thee this day. Therefore was the name of it called Galeed;"
+        },
+        {
+          "number": 49,
+          "line": "And Mizpah; for he said, The LORD watch between me and thee, when we are absent one from another."
+        },
+        {
+          "number": 50,
+          "line": "If thou shalt afflict my daughters, or if thou shalt take other wives beside my daughters, no man is with us; see, God is witness betwixt me and thee."
+        },
+        {
+          "number": 51,
+          "line": "And Laban said to Jacob, Behold this heap, and behold this pillar, which I have cast betwixt me and thee:"
+        },
+        {
+          "number": 52,
+          "line": "This heap be witness, and this pillar be witness, that I will not pass over this heap to thee, and that thou shalt not pass over this heap and this pillar unto me, for harm."
+        },
+        {
+          "number": 53,
+          "line": "The God of Abraham, and the God of Nahor, the God of their father, judge betwixt us. And Jacob sware by the fear of his father Isaac."
+        },
+        {
+          "number": 54,
+          "line": "Then Jacob offered sacrifice upon the mount, and called his brethren to eat bread: and they did eat bread, and tarried all night in the mount."
+        },
+        {
+          "number": 55,
+          "line": "And early in the morning Laban rose up, and kissed his sons and his daughters, and blessed them: and Laban departed, and returned unto his place."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas3356_8-6-2013 9-13-24 AM.jpg",
+      "caption": "And the LORD said unto Jacob, Return unto the land of thy fathers, and to thy kindred; and I will be with thee. (Genesis 31:3) "
+    }
+  ],
+  "videos": []
 }

@@ -2,15 +2,31 @@
   "slug": "luthers-new-testament",
   "id": 1346,
   "period": 12,
-  "titleEn": "Luther's New Testament",
+  "titleEn": "Luther's New Testament ",
   "titleKa": null,
-  "datesEn": "1521–1522 AD",
+  "datesEn": "1521&ndash;1522 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Luther published his translation of the New Testament into German in 1522.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "During the time that Luther spent in Wartburg Castle, he wrote sermons. But his most important work was translating the New Testament into German. Although it was an extremely difficult task, he completed his translation in just 11 weeks.<BR /><BR />Luther brought his New Testament to Wittenberg in March 1522, and Philip Melanchthon proofread the texts for errors. The final product was published in September 1522 and was dedicated to Luther&#39;s protector and friend, Frederick, Duke of Saxony.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "92831905_2-26-2013 3-35-13 PM.jpg",
+      "caption": "Portrait of Martin Luther by Lucas Cranach the Elder."
+    },
+    {
+      "file": "89919232_2-26-2013 3-35-13 PM.jpg",
+      "caption": "12th century castle Wartburg in Thuringia, East Germany, the place where Martin Luther translated the bible into German."
+    }
+  ],
+  "videos": []
 }

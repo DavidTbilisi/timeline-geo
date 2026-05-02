@@ -4,18 +4,179 @@
   "period": 2,
   "titleEn": "Noah",
   "titleKa": null,
-  "datesEn": "2898–1948 BC (950)",
+  "datesEn": "2898&ndash;1948 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Meaning of name: &#34;rest.&#34; He was son of Lamech, grandson of Methuselah. Noah is a link between the old and new world and the second great progenitor of the human race. He was a builder and preacher.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Noah was one of the ancient patriarchs, the 10th in order of descent beginning with Adam (Gen 5:3&#8212;29 1 Chr 1:1&#8212;4). His sons belonged to the last generation of the antediluvian period, and Noah through his sons became the progenitor of the whole human race that lived on earth after the Flood. He was the son of Lamech of the lineage of Seth, and like his ancestor Enoch was a man who &#34;walked with God&#34; (Gen 6:9). He was about 480 years of age when God announced the coming Flood to him (ch 6:3 cf. ch 7:6) and gave him instructions to build a ship in which he and his family would be saved (ch 6:13&#8212;21). <BR /><BR />A few years later 3 sons were born to him (ch 5:32), who with their wives were saved in the ark (Gen 7:7, 13 1 Pe 3:20). That Noah did more than simply build the ark for his family&#39;s safety is indicated by the statement in 2 Pe 2:5 that he was &#34;a preacher of righteousness.&#34; He must have warned his fellow citizens of the impending catastrophe, but none of that wicked generation responded (cf. 1 Pe 3:20). When the ark was completed the Lord commanded Noah to enter it (Gen 6:22 to 7:5). With Noah also went in clean and unclean animals by pairs (ch 7:2&#8212;4, 8, 9, 14&#8212;16). <BR /><BR />God Himself closed the only door into the ark (v 16). Seven days later (vv10) began the Flood that destroyed all human beings and animals on earth, except those who were in the ark. The ark floated on the Flood waters for 5 months, and then came to rest &#34;upon the mountains of Ararat&#34; (Gen 8:4). After almost 21/2 months more the waters had subsided sufficiently to expose the mountaintops (v 5). More than a month later, by means of bird scouts sent out at intervals of 7 days, Noah was able to discover when the earth was dry enough for him to leave the ark. However, he did not abandon the ship until divinely commanded to do so (vs 6&#8212;19). Once on the outside he expressed his gratitude to God for his deliverance by building an altar and offering sacrifices. God accepted his offerings and made a covenant with him (chs 8:20 to 9:17).<BR /><BR />Some time later Noah planted a vineyard, the first after the Flood, and became drunk with its product, an act that stands in marked contrast with his exemplary life as recorded elsewhere. While in a drunken stupor Noah exposed himself, and Ham, his youngest son, probably also Canaan, Ham&#39;s son, seeing his shame, showed disrespect apparently by publishing the fact. The other 2 sons dutifully covered up their father. Because of Ham&#39;s disrespectful behavior Noah later pronounced a prophetic curse on Ham&#39;s descendants through Canaan, but a blessing on Japheth and Shem (Gen 9:20&#8212;27). Nothing more is known of the patriarch, except that he lived another 31/2 cent. after the Flood, reaching the age of 950 years (vs 28, 29). Ezekiel lists Noah with Job and Daniel as an example of righteousness (Eze 14:14, 20).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 5:28-29",
+      "verses": [
+        {
+          "number": 28,
+          "line": "And Lamech lived an hundred eighty and two years, and begat a son:"
+        },
+        {
+          "number": 29,
+          "line": "And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 9:28-29",
+      "verses": [
+        {
+          "number": 28,
+          "line": "And Noah lived after the flood three hundred and fifty years."
+        },
+        {
+          "number": 29,
+          "line": "And all the days of Noah were nine hundred and fifty years: and he died."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 7:1-6",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation."
+        },
+        {
+          "number": 2,
+          "line": "Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that are not clean by two, the male and his female."
+        },
+        {
+          "number": 3,
+          "line": "Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth."
+        },
+        {
+          "number": 4,
+          "line": "For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living substance that I have made will I destroy from off the face of the earth."
+        },
+        {
+          "number": 5,
+          "line": "And Noah did according unto all that the LORD commanded him."
+        },
+        {
+          "number": 6,
+          "line": "And Noah was six hundred years old when the flood of waters was upon the earth."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 5:28-29",
+      "verses": [
+        {
+          "number": 28,
+          "line": "And Lamech lived an hundred eighty and two years, and begat a son:"
+        },
+        {
+          "number": 29,
+          "line": "And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 9:28-29",
+      "verses": [
+        {
+          "number": 28,
+          "line": "And Noah lived after the flood three hundred and fifty years."
+        },
+        {
+          "number": 29,
+          "line": "And all the days of Noah were nine hundred and fifty years: and he died."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 7:1-6",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation."
+        },
+        {
+          "number": 2,
+          "line": "Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that are not clean by two, the male and his female."
+        },
+        {
+          "number": 3,
+          "line": "Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth."
+        },
+        {
+          "number": 4,
+          "line": "For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living substance that I have made will I destroy from off the face of the earth."
+        },
+        {
+          "number": 5,
+          "line": "And Noah did according unto all that the LORD commanded him."
+        },
+        {
+          "number": 6,
+          "line": "And Noah was six hundred years old when the flood of waters was upon the earth."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "lamech",
+      "titleEn": "Lamech",
+      "titleKa": null
+    },
+    {
+      "slug": "noahs-preaching",
+      "titleEn": "Noah's Preaching",
+      "titleKa": null
+    },
+    {
+      "slug": "japheth",
+      "titleEn": "Japheth",
+      "titleKa": null
+    },
+    {
+      "slug": "shem",
+      "titleEn": "Shem",
+      "titleKa": null
+    },
+    {
+      "slug": "ham",
+      "titleEn": "Ham",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-pppas0233_8-7-2013 3-06-32 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-pppas0233_8-7-2013 3-06-32 PM.jpg",
+      "caption": "And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation. (Genesis 7:1)"
+    },
+    {
+      "file": "Noah Ark_5-21-2013 9-33-14 AM.jpg",
+      "caption": "Noah&#39;s Ark on Mount Ararat"
+    },
+    {
+      "file": "Great Flood_5-21-2013 9-33-14 AM.jpg",
+      "caption": "The great deluge of water that covered the entire earth at the time of Noah, it came as a judgment on the wicked people of the earth."
+    },
+    {
+      "file": "james-tissot-the-animals-enter-the-ark_7-30-2013 4-01-14 PM.jpg",
+      "caption": "The animals entering into the ark in twos and sevens. Artist: James Tissot, c. 1902"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Days of Noah and Lot",
+      "caption": "This sermon considers the days of Noah and Lot, as referenced by Jesus. Perilous times will come, but people will not be aware. The events (eating, drinking, marrying) spoken of were done in excess.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp18-22.mp4"
+    },
+    {
+      "title": "Noah Found Grace",
+      "caption": "Noah&#39;s experience and time are an example for our time. Just as Noah was saved by God&#39;s grace, so are we. A storm is coming and we are safe only in God&#39;s hands.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2044.mp4"
     }
   ]
 }

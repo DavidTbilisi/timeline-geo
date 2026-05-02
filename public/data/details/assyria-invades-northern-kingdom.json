@@ -4,13 +4,52 @@
   "period": 7,
   "titleEn": "Assyria Invades Northern Kingdom",
   "titleKa": null,
-  "datesEn": "725 BC",
+  "datesEn": "725 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Shalmaneser begins a 3&#8212;year siege against Samaria. Sargon II claims in documents found that he captured the city. The Israelites are taken captive and scattered so that &#34;there was none left&#34; (2 Ki. 17:18) because of their great sins against God.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Shalmaneser began a three&#8212;year siege (see on ch. 18:9, 10) of Samaria. The Bible mentions Shalmaneser as beginning the siege, but does not name the king who took the city. The Babylonian Chronicle states that the city Shamarain (probably Samaria) fell during the reign of Shalmaneser, but his successor, Sargon II, made the claim, in documents written toward the close of his reign, that he himself captured the city of Samaria at the beginning of his reign. If this claim is true, then it could have been in the capacity of commanding general of the Assyrian armies and not as king that he effected the capture of the city. Historians differ, but there seems to be reasonable evidence for its fall in the latter part of Shalmaneser&#39;s reign.<BR /><BR />The plural &#34;they&#34; is of interest in reference to who took the city. It might refer to the Assyrians in general, but that is hardly likely, for the previous verse speaks of Shalmaneser as coming against Samaria and besieging it. It has been suggested that the &#34;they&#34; here probably refers to Shalmaneser and someone associated with him. This may have been Shalmaneser&#39;s general and successor on the throne, Sargon.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 17:5",
+      "verses": [
+        {
+          "number": 5,
+          "line": "Then the king of Assyria came up throughout all the land, and went up to Samaria, and besieged it three years."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 18:9-10",
+      "verses": [
+        {
+          "number": 9,
+          "line": "And it came to pass in the fourth year of king Hezekiah, which was the seventh year of Hoshea son of Elah king of Israel, that Shalmaneser king of Assyria came up against Samaria, and besieged it."
+        },
+        {
+          "number": 10,
+          "line": "And at the end of three years they took it: even in the sixth year of Hezekiah, that is the ninth year of Hoshea king of Israel, Samaria was taken."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "hoshea",
+      "titleEn": "Hoshea",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "_GoodSalt-stdas0037B_8-27-2013 2-39-01 PM.jpg",
+      "caption": "Captivity and fall of Israel"
+    },
+    {
+      "file": "_GoodSalt-stdas0037_8-27-2013 2-39-01 PM.jpg",
+      "caption": "Captivity and fall of Israel"
+    }
+  ],
+  "videos": []
 }

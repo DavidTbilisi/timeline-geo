@@ -4,18 +4,29 @@
   "period": 4,
   "titleEn": "Othniel",
   "titleKa": null,
-  "datesEn": "1425–1316 BC (~109)",
+  "datesEn": "1425&ndash;1316 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;lion of God.&#34; He is the first judge of Israel and receives the daughter of Caleb, Achsah, when he bravely leads a successful expedition against Debir. Under him the land has rest for forty years.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A son of Kenaz, and either a younger brother or a nephew of Caleb (Jos 15:17 Jgs 1:13 1 Chr 4:13). He distinguished himself by capturing the town of Debir (or Kiriath&#8212;sepher) in Judah from the Canaanites. As a reward he received Achsah, Caleb&#39;s daughter, who had been promised to the conqueror of that city (Jos 15:15&#8212;17 Jgs 1:11&#8212;13). His bravery was exhibited once more when he defeated Cushan&#8212;rishathaim, king of Mesopotamia, who had oppressed the Israelites for 8 years. His victory brought 40 years of peace to his country, and he became the 1st of the judges (Jgs 3:8&#8212;11).",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Joshua 15:17",
+      "verses": [
+        {
+          "number": 17,
+          "line": "And Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter to wife."
+        }
+      ]
+    }
+  ],
   "related": [],
   "images": [
     {
-      "file": "media/images/t/Othoniel_Ben_Kenaz_8-6-2013 1-20-17 PM.jpg",
-      "caption": ""
+      "file": "Othoniel_Ben_Kenaz_8-6-2013 1-20-17 PM.jpg",
+      "caption": "Othniel, Guillaume Rouille, 1553"
     }
-  ]
+  ],
+  "videos": []
 }

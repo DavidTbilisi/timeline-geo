@@ -4,13 +4,40 @@
   "period": 8,
   "titleEn": "Juda (or Joda)",
   "titleKa": null,
-  "datesEn": "430–380 BC",
+  "datesEn": "430&ndash;380 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Juda",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:26",
+      "verses": [
+        {
+          "number": 26,
+          "line": "Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of Juda,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "joanna-or-joanan",
+      "titleEn": "Joanna (or Joanan)",
+      "titleKa": null
+    },
+    {
+      "slug": "joseph-or-josech",
+      "titleEn": "Joseph (or Josech)",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-Juda_8-6-2013 3-19-37 PM.jpg",
+      "caption": "Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of <b>Juda</b>, (Luke 3:26)"
+    }
+  ],
+  "videos": []
 }

@@ -4,18 +4,51 @@
   "period": 11,
   "titleEn": "1290 and 1335 Day Prophecies",
   "titleKa": null,
-  "datesEn": "508–1798 AD",
+  "datesEn": "508&ndash;1798 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "There are two time prophecies in the last part of Daniel 12. The 1290 and 1335 day time prophecies are related to the other prophecies in Daniel and overlap a similar period of history.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "There are two time prophecies in the last part of Daniel 12. Verse 11 states, &#34;And from the time that the daily sacrifice is taken away, and the abomination of desolation is set up, there shall be one thousand two hundred and ninety days&#34; (NKJV). Verse 12 adds, &#34;Blessed is he who waits, and comes to the one thousand three hundred and thirty&#8212;five days.&#34; The 1290 and 1335 day time prophecies are related to the other prophecies in Daniel and overlap a similar period of history. <BR /><BR />Building on the principle of repetition and enlargement, the 1290 days begin during Daniel&#39;s time and extend to the time of the end just as the other major prophecies in this book (Daniel 2, Daniel 7, Daniel 8 and 9, and Daniel 10&#8212;12). These parallel prophecies cover the same sweep of time, emphasizing a different aspect. A historicist interpretation of the 1290 days understands these prophetic days are 1290 years. They begin in 508 A.D. and terminate in 1798 A.D., the same ending date for the 1260 year prophecy (see Daniel 12:7). The 1335 day prophecy extends 45 years beyond 1798 to 1843/44 when a crucial event took place in heaven.<BR /><BR /><B>The Abomination of Desolation and 1290 Days</B><BR />What is the &#34;abomination of desolation&#34; that comes after the &#34;daily&#34; is taken away spoken of in Daniel 12:11? In a parallel passage, Daniel 11:31 also describes &#34;the daily&#34; being taken away. In chapter 11 we understand Christ&#39;s intercessory ministry was usurped by the work of priests through the mass and confessional. By sacrificing Christ anew in every mass, a religious power has removed Christ&#39;s heavenly ministry. This &#34;taking away&#34; which prepares for the abomination of desolation marks the beginning point of the 1290 year prophecy. Something happened in the sixth century to establish the abomination of desolation.<BR /><BR />In 496, Clovis, king of the Franks, joined the Catholic faith. Germanic tribes dismantled the Roman Empire and opposed the pope in Rome. But Clovis defeated the Visigoths and became the very first government power to join with the rising Roman Church. After defeating the Goths he met Byzantine representatives in 508 who named him an honorary consul of Rome. Here was the first connection between church and state (Franks and papacy) to form a union to enforce religious legislation. It is the beginning of the abomination of desolation. Strange as it may seem, the same country that first joined ranks with the church in Rome was the same country that brought about its demise in 1798 when Napoleon had the pope taken prisoner.<BR /><BR />Some interpreters see the &#34;daily&#34; that is taken away in Daniel 12:11 (and 8:11) as &#34;paganism&#34; and a persecuting power (pagan Rome) which made way for the abomination of desolation brought on by a new persecuting power (papal Rome). Regardless of how the &#34;daily&#34; is interpreted, it is clear that an apostate religious power comes into play and continues the work of removing Christ&#39;s atoning work in heaven and enforcing a teaching to the point of persecution.<BR /><BR /><B>The 1335 Days</B><BR />There is no specific event mentioned for the beginning of the 1335 days (years), but the context shows that it began at the same time as the 1290 days (years). If this is true and both prophecies begin at the same time, then the 1335 prophecy would end 45 years after 1798, which would be 1843. This time period was the ending of the longest time prophecy in Scripture, the 2300 day (year) prophecy of Daniel 8:14. It marked not only the great advent awakening, but the cleansing work in the heavenly sanctuary in which Christ moved from His role as our High Priest from the Holy Place to the Most Holy Place. Jesus&#39; role in heaven as our intercessor took on greater significance as He began the work of the cleansing the heavenly sanctuary sin, just as the earthly sanctuary portrayed in the Day of Atonement service.<BR /><BR />Though some Bible students seek to interpret the 1290 and 1335 day prophecies as literal years still in the future, this cannot be supported from Daniel where there are clear connections between the major prophecies. Daniel 12:11, 12 is not a new prophecy covering a different period of history. Daniel 12:6 asks, &#34;How long shall the fulfillment of these wonders be?&#34; and indicates a reference to Daniel 11 and the taking away of the daily, also spoken of there.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Daniel 12:11-12",
+      "verses": [
+        {
+          "number": 11,
+          "line": "And from the time that the daily sacrifice shall be taken away, and the abomination that maketh desolate set up, there shall be a thousand two hundred and ninety days."
+        },
+        {
+          "number": 12,
+          "line": "Blessed is he that waiteth, and cometh to the thousand three hundred and five and thirty days."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "prophecies-of-the-end-of-time",
+      "titleEn": "Prophecies of the End of Time",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/iStock_000017993646Small_2-27-2013 1-04-14 PM.jpg",
-      "caption": ""
+      "file": "iStock_000017993646Small_2-27-2013 1-04-14 PM.jpg",
+      "caption": "Napoleon marble bust"
+    },
+    {
+      "file": "154970219_7-24-2013 3-41-10 PM.jpg",
+      "caption": "Napoleon crypt in Les Invalides, Paris, France."
+    },
+    {
+      "file": "42-28945692_cmyk_sm_2-27-2013 1-04-14 PM.jpg",
+      "caption": "&#34;Napoleon Crossing the Saint-Bernard Pass&#34; on May 20, 1800.  Painting by Jacques-Louis David. "
+    },
+    {
+      "file": "Clovis the Frank_2-27-2013 1-04-14 PM.jpg",
+      "caption": "Portrait of Clovis I by Francois-Louis Dejuinne (1786-1844)."
     }
-  ]
+  ],
+  "videos": []
 }

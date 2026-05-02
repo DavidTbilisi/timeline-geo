@@ -4,13 +4,40 @@
   "period": 8,
   "titleEn": "Naum (or Nahum)",
   "titleKa": null,
-  "datesEn": "260–180 BC",
+  "datesEn": "260&ndash;180 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;consolation.&#34; He is the son of Esli (or Eslie) and father of Amos, a Judahite listed in Luke&#39;s genealogy of Jesus Christ. His name has also been spelled &#34;Nahum.&#34;",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:25",
+      "verses": [
+        {
+          "number": 25,
+          "line": "Which was the son of Mattathias, which was the son of Amos, which was the son of Naum, which was the son of Esli, which was the son of Nagge,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "esli",
+      "titleEn": "Esli",
+      "titleKa": null
+    },
+    {
+      "slug": "amos",
+      "titleEn": "Amos",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt- Nahum_8-6-2013 10-42-55 AM.jpg",
+      "caption": "Which was the son of Mattathias, which was the son of Amos, which was the son of <b>Naum</b>, which was the son of Esli, which was the son of Nagge, (Luke 3:25)"
+    }
+  ],
+  "videos": []
 }

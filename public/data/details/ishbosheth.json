@@ -4,18 +4,52 @@
   "period": 6,
   "titleEn": "Ishbosheth",
   "titleKa": null,
-  "datesEn": "1050–1010 BC",
+  "datesEn": "1050&ndash;1010 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;man of shame.&#34; He is one of Saul&#39;s younger sons, who is made king over the northern tribes by Abner. He is unsuccessful in uniting the country and is murdered by two of his own army officers who behead him and give his head to David.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The name Ish&#8212;bosheth may have been applied to him after his death, which ended the dynasty of Saul. If the change of name occurred during his lifetime, it must have come after the decline of his power. After the battle of Gilboa, in which Saul and 3 of his sons lost their lives, Abner, Saul&#39;s general, made Ish&#8212;bosheth king over the northern tribes, who did not join Judah in accepting David as their king. He was about 40 years of age when he began to reign and reigned two years (2 Sa 2:10). He made his headquarters at Mahanaim in Transjordan doubtless because of the hostility of the Philistines (vs 8, 9). <BR /><BR />His efforts to reunite the country by force were unsuccessful (vs 12&#8212;17 ch 3:1). Soon, too, he lost his strongest supporter, Abner (ch 3:6&#8212;11), whom he accused of serious misdemeanor. Abner thereupon negotiated to transfer the whole northern kingdom to David (vs 12&#8212;21). During the negotiations Abner was assassinated by Joab (v 27), and Ish&#8212;bosheth gave up hope of retaining his power. Shortly afterward Ish&#8212;bosheth was murdered by 2 of his own army officers, who took his head to David in expectation of a reward. David ordered them to be executed instead, and buried Ish&#8212;bosheth&#39;s head in Abner&#39;s grave at Hebron (ch 4:1&#8212;12).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Samuel 2:8-10",
+      "verses": [
+        {
+          "number": 8,
+          "line": "But Abner the son of Ner, captain of Saul's host, took Ishbosheth the son of Saul, and brought him over to Mahanaim;"
+        },
+        {
+          "number": 9,
+          "line": "And made him king over Gilead, and over the Ashurites, and over Jezreel, and over Ephraim, and over Benjamin, and over all Israel."
+        },
+        {
+          "number": 10,
+          "line": "Ishbosheth Saul's son was forty years old when he began to reign over Israel, and reigned two years. But the house of Judah followed David."
+        }
+      ]
+    },
+    {
+      "reference": "2 Samuel 4:7",
+      "verses": [
+        {
+          "number": 7,
+          "line": "For when they came into the house, he lay on his bed in his bedchamber, and they smote him, and slew him, and beheaded him, and took his head, and gat them away through the plain all night."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "saul",
+      "titleEn": "Saul",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/ishbosheth_8-6-2013 5-16-18 PM.jpg",
-      "caption": ""
+      "file": "ishbosheth_8-6-2013 5-16-18 PM.jpg",
+      "caption": "Battle between soldiers of Ishbosheth and David, Gustave Dor&#233;, 1866"
     }
-  ]
+  ],
+  "videos": []
 }

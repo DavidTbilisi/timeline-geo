@@ -4,13 +4,126 @@
   "period": 9,
   "titleEn": "The Centurion's Servant Healed",
   "titleKa": null,
-  "datesEn": "29 AD",
+  "datesEn": "29 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A Roman centurion in Capernaum approaches Jesus requesting healing of his servant. Jesus says He will come, but the centurion says he is not worthy of Christ coming to his home but He can heal by speaking a word. Jesus marvels at this man&#39;s faith.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "After giving the sermon on the mount, Christ entered Capernaum. It seems that the deputation of elders bearing the centurion&#39;s request met Jesus as He returned to the city. This man&#39;s servant was sick. This &#34;servant&#34; was held in high esteem by the centurion, doubtless for the valuable service he had rendered. The term itself may or may not imply personal affection, but in this particular case the centurion was &#34;tenderly attached&#34; to the slave. The servant was about to die. The centurion&#39;s knowledge of Jesus was limited to the reports that had reached him of the Saviour&#39;s great deeds. He had never seen Jesus previous to the present occasion.<BR /><BR />The elders of the city approach Jesus on behalf of this centurion. These may have been either the leading citizens of the town or the board of elders of the local synagogue (see p. 56), or they may have served in both capacities. In the centurion&#39;s own eyes he was unworthy (vs. 6, 7). In the eyes of the &#34;elders&#34; he was &#34;worthy&#34; (v. 4). A consciousness of one&#39;s own unworthiness is a recommendation of the highest order. But with the centurion it seems that this appraisal of his status before Jesus was more than humility. Though a believer in the true God, the centurion was not yet a full proselyte, and accordingly in Jewish eyes still a heathen and therefore not eligible to participate in religious services (see on vs. 2, 5). Truly humble of heart before God, and probably conscious as well of his status in the eyes of the Jews, he sought to avoid embarrassing Jesus by obligating Him to enter a Gentile home. This would at best be repulsive to a pious Jew and would doubtless render him ceremonially unclean (see John 18:28).<BR /><BR />Though the centurion protested his own unworthiness, Jesus later said of him, &#34;I have not found so great faith, no, not in Israel&#34; (v. 9). The remarkable faith of this supposed heathen made him more worthy in the sight of Heaven than any of Jesus&#39; fellow countrymen. The centurion&#39;s faith that a word from Jesus would be sufficient to heal his servant was extraordinary in itself. The fact that the centurion had never seen or conversed with Jesus made that faith all the more remarkable, particularly in view of the slowness of the Jews and even of Christ&#39;s own disciples to exercise faith (Matt. 6:30 8:26 16:8 see Mark 4:40 Luke 8:25 12:28 17:6). But the fact that the centurion was&#8212;officially, from the Jewish standpoint&#8212;a Gentile, made his faith seem great, almost beyond belief.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 8:5-13",
+      "verses": [
+        {
+          "number": 5,
+          "line": "And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,"
+        },
+        {
+          "number": 6,
+          "line": "And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented."
+        },
+        {
+          "number": 7,
+          "line": "And Jesus saith unto him, I will come and heal him."
+        },
+        {
+          "number": 8,
+          "line": "The centurion answered and said, Lord, I am not worthy that thou shouldest come under my roof: but speak the word only, and my servant shall be healed."
+        },
+        {
+          "number": 9,
+          "line": "For I am a man under authority, having soldiers under me: and I say to this man, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it."
+        },
+        {
+          "number": 10,
+          "line": "When Jesus heard it, he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel."
+        },
+        {
+          "number": 11,
+          "line": "And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven."
+        },
+        {
+          "number": 12,
+          "line": "But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth."
+        },
+        {
+          "number": 13,
+          "line": "And Jesus said unto the centurion, Go thy way; and as thou hast believed, so be it done unto thee. And his servant was healed in the selfsame hour."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 7:1-10",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now when he had ended all his sayings in the audience of the people, he entered into Capernaum."
+        },
+        {
+          "number": 2,
+          "line": "And a certain centurion's servant, who was dear unto him, was sick, and ready to die."
+        },
+        {
+          "number": 3,
+          "line": "And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant."
+        },
+        {
+          "number": 4,
+          "line": "And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:"
+        },
+        {
+          "number": 5,
+          "line": "For he loveth our nation, and he hath built us a synagogue."
+        },
+        {
+          "number": 6,
+          "line": "Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:"
+        },
+        {
+          "number": 7,
+          "line": "Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed."
+        },
+        {
+          "number": 8,
+          "line": "For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it."
+        },
+        {
+          "number": 9,
+          "line": "When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you, I have not found so great faith, no, not in Israel."
+        },
+        {
+          "number": 10,
+          "line": "And they that were sent, returning to the house, found the servant whole that had been sick."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "galilean-ministry",
+      "titleEn": "Galilean Ministry",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "The-centurion-beseeching-Jesus-on-behalf-of-his-servant-001_8-1-2013 11-38-13 AM.jpg",
+      "caption": "&#34;The Centurion beseaches Jesus on behalf of his servant&#34; William Hole"
+    },
+    {
+      "file": "Roman Centurion_3-20-2013 9-26-37 AM.jpg",
+      "caption": "A Roman centurion in Capernaum approaches Jesus requesting healing of his servant."
+    },
+    {
+      "file": "Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596_3-20-2013 9-26-37 AM.jpg",
+      "caption": "Capernaum and Mount of Beatitudes from Sea of Galilee."
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Centurion - A Faithful Soldier",
+      "caption": "There are simple but powerful lessons in the story of Christ healing the servant of the centurion. It was not the works of this man that made him worthy, but his great faith in Christ. He believed that Jesus&#39; power could heal the servant because of Christ&#39;s authority.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg21209.mp4"
+    }
+  ]
 }

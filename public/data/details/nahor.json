@@ -4,13 +4,49 @@
   "period": 2,
   "titleEn": "Nahor",
   "titleKa": null,
-  "datesEn": "2105–1957 BC",
+  "datesEn": "2105&ndash;1957 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;snorting.&#34; Son of Serug and the father of Terah. Nahor was the grandfather of Abraham and lived for 148 years. A city was probably founded by or named after him (Gen. 24:10).",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 11:22",
+      "verses": [
+        {
+          "number": 22,
+          "line": "And Serug lived thirty years, and begat Nahor:"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 11:25",
+      "verses": [
+        {
+          "number": 25,
+          "line": "And Nahor lived after he begat Terah an hundred and nineteen years, and begat sons and daughters."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "serug",
+      "titleEn": "Serug",
+      "titleKa": null
+    },
+    {
+      "slug": "terah",
+      "titleEn": "Terah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Nahor.jpg",
+      "caption": "Illustration of Nahor in 1553 published by Guillaume Rouille"
+    }
+  ],
+  "videos": []
 }

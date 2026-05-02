@@ -4,18 +4,39 @@
   "period": 9,
   "titleEn": "Julius Caesar",
   "titleKa": null,
-  "datesEn": "100–44 BC (55)",
+  "datesEn": "100&ndash;44 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Julius Caesar is the well&#8212;known Roman general who played a major role in the transformation of the Roman Republic into the Roman Empire. He was assassinated by a group of Roman senators.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Born into the republic of Rome in approximately 100 B.C., Julius Caesar was one of the most successful war generals in history, having never lost a war. Moreover, a political genius with great ambition, he engineered the great Triumvirate, which divided power between three warring factions, saving what was a burgeoning Roman Empire from civil war. However, eventually, Caesar took advantage of political forces, his military prowess, and happenstance to amass great power and was eventually named &#34;dictator for life.&#34; <BR /><BR />Under his influence, the republic of Rome transformed into the Roman Empire. But shortly thereafter, Caesar was assassinated on March 15, 44 B.C., the date know as the Ides of March. During his eventful life, he was once captured by pirates, was a respected writer, and had an extramarital affair with Cleopatra, whom he would help gain the throne of Egypt. Caesar was the great uncle and adoptive father of Caesar Augustus, the Roman emperor who ordered the census at the time of Jesus&#39; birth.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
+  "related": [
+    {
+      "slug": "augustus-caesar",
+      "titleEn": "Augustus Caesar",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Portrait_of_Julius_Caesar_color_8-8-2013 1-46-35 PM.jpg",
-      "caption": ""
+      "file": "Portrait_of_Julius_Caesar_color_8-8-2013 1-46-35 PM.jpg",
+      "caption": "Portrait of Julius Caesar, Mark James Miller"
+    },
+    {
+      "file": "Karl_Theodor_von_Piloty_Murder_of_Caesar_1865_3-20-2013 5-10-28 PM.jpg",
+      "caption": "The Murder of Caesar painting by Karl von Piloty in 1865. Located at the Lower Saxony State Museum."
+    },
+    {
+      "file": "Julius Caesar_3-20-2013 5-10-28 PM.jpg",
+      "caption": "Old statue of the famous Roman Julius Caesar"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Primary Players",
+      "caption": "This story is about the primary players in the great cosmic conflict between good and evil. There are lessons we can learn from references in Scripture about a woman and a serpent. The woman represents the church and the serpent is Satan. Seven miracle babies in the Bible are also spoken of as types of Christ.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2351.mp4"
     }
   ]
 }

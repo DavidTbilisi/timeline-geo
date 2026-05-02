@@ -4,9 +4,9 @@
   "period": 8,
   "titleEn": "Artaxerxes III",
   "titleKa": null,
-  "datesEn": "400–338 BC (~62)",
+  "datesEn": "400&ndash;338 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "He was the son and successor of Artaxerxes II and was succeeded by his son, Arses of Persia also known as Artaxerxes IV. His reign coincided with the reign of Philip II in Macedon and Nectanebo II in Egypt.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
@@ -14,8 +14,9 @@
   "related": [],
   "images": [
     {
-      "file": "media/images/t/Persepolis_Artaxerxes_III_tomb.jpg",
-      "caption": ""
+      "file": "Persepolis_Artaxerxes_III_tomb.jpg",
+      "caption": "Artaxerxes III tomb in Persepolis Iran. Photographed in 2006."
     }
-  ]
+  ],
+  "videos": []
 }

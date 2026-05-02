@@ -4,13 +4,155 @@
   "period": 8,
   "titleEn": "Belshazzar King - Babylon Waning",
   "titleKa": null,
-  "datesEn": "553–539 BC",
+  "datesEn": "553&ndash;539 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Belshazzar, king of Babylon, holds a feast with great confidence that the Persian army could never break through and capture Babylon. He arrogantly brings the Temple vessels and drinks from them. But that night the kingdom falls.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "When Nabonidus was in Lebanon recuperating from an illness, just before setting out on a campaign against Tema in western Arabia, he summoned his eldest son (Belshazzar), and &#34;entrusted the kingship to him&#34;. This was in &#34;the third year.&#34; If this was the third regnal year, it was in the winter of 553/552. Some scholars think it was in the third year after the completion of a temple at Haran if so, Belshazzar&#39;s appointment as coregent occurred two or three years later, but some time before Nabonidus&#39; seventh regnal year, in which Nabonidus was in Tema. From that time on Belshazzar controlled the affairs of Babylonia as his father&#39;s coruler, while Nabonidus resided in Tema for many years. According to the &#34;Verse Account of Nabonidus,&#34; Belshazzar held the &#34;kingship.&#34; Daniel therefore made no mistake when he called Belshazzar &#34;king,&#34; though critics formerly declared that Daniel here erred.<BR /><BR />Belshazzar held a great feast. From vs. 28 and 30 it can be concluded that the feast took place during the night that Babylon fell to Cyrus&#39; forces. Xenophon preserved the tradition that at the time of Babylon&#39;s fall &#34;a certain festival had come round in Babylon, during which all Babylon was accustomed to drink and revel all night long&#34; (Cyropaedia vii. 5. 15). It is inexplicable that Belshazzar should have made a feast immediately after the fall of Sippar, and only a few days after the lost battle at Opis (see Vol. III, p. 49). Apparently, he felt recklessly secure in his capital, protected by strong walls and a system of canals which could, in case of danger, put the surrounding country under water and so make it difficult for an invader to reach the city.<BR /><BR />During the feast a Mysterious Hand writes a message on the wall that Daniel is called to interpret. The message of doom happens that very night. Although Belshazzar is not mentioned in the cuneiform sources describing the fall of Babylon, Xenophon declares that &#34;the impious king&#34; of Babylon, whose name is not mentioned in the account, was slain when Cyrus&#39; army commander Gobryas entered the palace (Cyropaedia vii. 5. 30). Although it must be recognized that Xenophon&#39;s narrative is not historically reliable in all details, many of his statements are based on fact. According to cuneiform sources Nabonidus was absent from Babylon at the time of its capture. When Nabonidus surrendered, Cyrus sent him to distant Carmania. Therefore the king who was slain during the capture of Babylon could have been none other than Belshazzar. For a summary of the history of Belshazzar see Additional Note at the end of this chapter.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Daniel 5:1-31",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand."
+        },
+        {
+          "number": 2,
+          "line": "Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which was in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein."
+        },
+        {
+          "number": 3,
+          "line": "Then they brought the golden vessels that were taken out of the temple of the house of God which was at Jerusalem; and the king, and his princes, his wives, and his concubines, drank in them."
+        },
+        {
+          "number": 4,
+          "line": "They drank wine, and praised the gods of gold, and of silver, of brass, of iron, of wood, and of stone."
+        },
+        {
+          "number": 5,
+          "line": "In the same hour came forth fingers of a man's hand, and wrote over against the candlestick upon the plaister of the wall of the king's palace: and the king saw the part of the hand that wrote."
+        },
+        {
+          "number": 6,
+          "line": "Then the king's countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another."
+        },
+        {
+          "number": 7,
+          "line": "The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers. And the king spake, and said to the wise men of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed with scarlet, and have a chain of gold about his neck, and shall be the third ruler in the kingdom."
+        },
+        {
+          "number": 8,
+          "line": "Then came in all the king's wise men: but they could not read the writing, nor make known to the king the interpretation thereof."
+        },
+        {
+          "number": 9,
+          "line": "Then was king Belshazzar greatly troubled, and his countenance was changed in him, and his lords were astonied."
+        },
+        {
+          "number": 10,
+          "line": "Now the queen by reason of the words of the king and his lords came into the banquet house: and the queen spake and said, O king, live for ever: let not thy thoughts trouble thee, nor let thy countenance be changed:"
+        },
+        {
+          "number": 11,
+          "line": "There is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, I say, thy father, made master of the magicians, astrologers, Chaldeans, and soothsayers;"
+        },
+        {
+          "number": 12,
+          "line": "Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation."
+        },
+        {
+          "number": 13,
+          "line": "Then was Daniel brought in before the king. And the king spake and said unto Daniel, Art thou that Daniel, which art of the children of the captivity of Judah, whom the king my father brought out of Jewry?"
+        },
+        {
+          "number": 14,
+          "line": "I have even heard of thee, that the spirit of the gods is in thee, and that light and understanding and excellent wisdom is found in thee."
+        },
+        {
+          "number": 15,
+          "line": "And now the wise men, the astrologers, have been brought in before me, that they should read this writing, and make known unto me the interpretation thereof: but they could not shew the interpretation of the thing:"
+        },
+        {
+          "number": 16,
+          "line": "And I have heard of thee, that thou canst make interpretations, and dissolve doubts: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and have a chain of gold about thy neck, and shalt be the third ruler in the kingdom."
+        },
+        {
+          "number": 17,
+          "line": "Then Daniel answered and said before the king, Let thy gifts be to thyself, and give thy rewards to another; yet I will read the writing unto the king, and make known to him the interpretation."
+        },
+        {
+          "number": 18,
+          "line": "O thou king, the most high God gave Nebuchadnezzar thy father a kingdom, and majesty, and glory, and honour:"
+        },
+        {
+          "number": 19,
+          "line": "And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: whom he would he slew; and whom he would he kept alive; and whom he would he set up; and whom he would he put down."
+        },
+        {
+          "number": 20,
+          "line": "But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him:"
+        },
+        {
+          "number": 21,
+          "line": "And he was driven from the sons of men; and his heart was made like the beasts, and his dwelling was with the wild asses: they fed him with grass like oxen, and his body was wet with the dew of heaven; till he knew that the most high God ruled in the kingdom of men, and that he appointeth over it whomsoever he will."
+        },
+        {
+          "number": 22,
+          "line": "And thou his son, O Belshazzar, hast not humbled thine heart, though thou knewest all this;"
+        },
+        {
+          "number": 23,
+          "line": "But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before thee, and thou, and thy lords, thy wives, and thy concubines, have drunk wine in them; and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand thy breath is, and whose are all thy ways, hast thou not glorified:"
+        },
+        {
+          "number": 24,
+          "line": "Then was the part of the hand sent from him; and this writing was written."
+        },
+        {
+          "number": 25,
+          "line": "And this is the writing that was written, MENE, MENE, TEKEL, UPHARSIN."
+        },
+        {
+          "number": 26,
+          "line": "This is the interpretation of the thing: MENE; God hath numbered thy kingdom, and finished it."
+        },
+        {
+          "number": 27,
+          "line": "TEKEL; Thou art weighed in the balances, and art found wanting."
+        },
+        {
+          "number": 28,
+          "line": "PERES; Thy kingdom is divided, and given to the Medes and Persians."
+        },
+        {
+          "number": 29,
+          "line": "Then commanded Belshazzar, and they clothed Daniel with scarlet, and put a chain of gold about his neck, and made a proclamation concerning him, that he should be the third ruler in the kingdom."
+        },
+        {
+          "number": 30,
+          "line": "In that night was Belshazzar the king of the Chaldeans slain."
+        },
+        {
+          "number": 31,
+          "line": "And Darius the Median took the kingdom, being about threescore and two years old."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "belshazzar",
+      "titleEn": "Belshazzar",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-pppas0151_8-28-2013 11-47-04 AM.jpg",
+      "caption": "The handwriting on the wall"
+    }
+  ],
+  "videos": []
 }

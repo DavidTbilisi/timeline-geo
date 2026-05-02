@@ -4,13 +4,40 @@
   "period": 9,
   "titleEn": "Heli",
   "titleKa": null,
-  "datesEn": "55 BC–10 AD",
+  "datesEn": "55 <span>BC</span>&ndash;10 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Father of Joseph in the line of our Lord&#39;s ancestry (Luke 3:23).",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:23",
+      "verses": [
+        {
+          "number": 23,
+          "line": "And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was the son of Heli,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "matthat-father-of-heli",
+      "titleEn": "Matthat",
+      "titleKa": null
+    },
+    {
+      "slug": "joseph-husband-of-mary",
+      "titleEn": "Joseph",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-lwjas0171_8-6-2013 3-41-26 PM.jpg",
+      "caption": "And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was the son of <b>Heli</b>, (Luke 3:23)"
+    }
+  ],
+  "videos": []
 }

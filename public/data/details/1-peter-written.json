@@ -4,13 +4,39 @@
   "period": 10,
   "titleEn": "1 Peter Written",
   "titleKa": null,
-  "datesEn": "63 AD",
+  "datesEn": "63 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The book of 1 Peter indicates that Peter was the author of this letter (1:1). It was probably written from Rome (&#34;Babylon,&#34; 5:13) in the first half of the 60s. Peter, according to tradition, died as a martyr in Rome after Nero&#39;s great persecution.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The precise date of the writing of this epistle cannot be determined. The letter was written probably from Rome, as the name &#34;Babylon&#34; suggests (see 5:13). This would mean that it was written near the end of the apostle&#39;s life. The absence of any reference to Peter&#39;s presence in Rome in Paul&#39;s letters from that city suggests that Peter did not arrive there until about the time of Paul&#39;s final arrest, about a.d. 66. Although nothing definite can be said regarding the date of 1 Peter, the foregoing suggests as a likely date the middle of the sixties of the 1st century. The epistle reflects the existence of an unfriendly attitude toward Christians (2:12 4:12&#8212;16). This may suggest the time of Nero&#39;s persecution, which began in a.d. 64.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Peter 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "peter",
+      "titleEn": "Peter",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-lwjas0190_8-6-2013 5-13-14 PM.jpg",
+      "caption": "Peter,  James Jacques Joseph Tissot, "
+    },
+    {
+      "file": "147090912_2-28-2013 10-37-53 AM.jpg",
+      "caption": "St. Peter&#39;s square in Vatican City, Rome"
+    }
+  ],
+  "videos": []
 }

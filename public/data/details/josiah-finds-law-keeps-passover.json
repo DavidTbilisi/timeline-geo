@@ -4,18 +4,225 @@
   "period": 7,
   "titleEn": "Josiah Finds Law, Keeps Passover",
   "titleKa": null,
-  "datesEn": "622 BC (~0)",
+  "datesEn": "622 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "In the 18th year of Josiah&#39;s reign, Hilkiah finds the Law of Moses in the temple and brings it to the king who repents and seeks to restore true worship and establishes the Passover celebration once more.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 22:3",
+      "verses": [
+        {
+          "number": 3,
+          "line": "And it came to pass in the eighteenth year of king Josiah, that the king sent Shaphan the son of Azaliah, the son of Meshullam, the scribe, to the house of the LORD, saying,"
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 34:8-33",
+      "verses": [
+        {
+          "number": 8,
+          "line": "Now in the eighteenth year of his reign, when he had purged the land, and the house, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz the recorder, to repair the house of the LORD his God."
+        },
+        {
+          "number": 9,
+          "line": "And when they came to Hilkiah the high priest, they delivered the money that was brought into the house of God, which the Levites that kept the doors had gathered of the hand of Manasseh and Ephraim, and of all the remnant of Israel, and of all Judah and Benjamin; and they returned to Jerusalem."
+        },
+        {
+          "number": 10,
+          "line": "And they put it in the hand of the workmen that had the oversight of the house of the LORD, and they gave it to the workmen that wrought in the house of the LORD, to repair and amend the house:"
+        },
+        {
+          "number": 11,
+          "line": "Even to the artificers and builders gave they it, to buy hewn stone, and timber for couplings, and to floor the houses which the kings of Judah had destroyed."
+        },
+        {
+          "number": 12,
+          "line": "And the men did the work faithfully: and the overseers of them were Jahath and Obadiah, the Levites, of the sons of Merari; and Zechariah and Meshullam, of the sons of the Kohathites, to set it forward; and other of the Levites, all that could skill of instruments of musick."
+        },
+        {
+          "number": 13,
+          "line": "Also they were over the bearers of burdens, and were overseers of all that wrought the work in any manner of service: and of the Levites there were scribes, and officers, and porters."
+        },
+        {
+          "number": 14,
+          "line": "And when they brought out the money that was brought into the house of the LORD, Hilkiah the priest found a book of the law of the LORD given by Moses."
+        },
+        {
+          "number": 15,
+          "line": "And Hilkiah answered and said to Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah delivered the book to Shaphan."
+        },
+        {
+          "number": 16,
+          "line": "And Shaphan carried the book to the king, and brought the king word back again, saying, All that was committed to thy servants, they do it."
+        },
+        {
+          "number": 17,
+          "line": "And they have gathered together the money that was found in the house of the LORD, and have delivered it into the hand of the overseers, and to the hand of the workmen."
+        },
+        {
+          "number": 18,
+          "line": "Then Shaphan the scribe told the king, saying, Hilkiah the priest hath given me a book. And Shaphan read it before the king."
+        },
+        {
+          "number": 19,
+          "line": "And it came to pass, when the king had heard the words of the law, that he rent his clothes."
+        },
+        {
+          "number": 20,
+          "line": "And the king commanded Hilkiah, and Ahikam the son of Shaphan, and Abdon the son of Micah, and Shaphan the scribe, and Asaiah a servant of the king's, saying,"
+        },
+        {
+          "number": 21,
+          "line": "Go, enquire of the LORD for me, and for them that are left in Israel and in Judah, concerning the words of the book that is found: for great is the wrath of the LORD that is poured out upon us, because our fathers have not kept the word of the LORD, to do after all that is written in this book."
+        },
+        {
+          "number": 22,
+          "line": "And Hilkiah, and they that the king had appointed, went to Huldah the prophetess, the wife of Shallum the son of Tikvath, the son of Hasrah, keeper of the wardrobe; (now she dwelt in Jerusalem in the college:) and they spake to her to that effect."
+        },
+        {
+          "number": 23,
+          "line": "And she answered them, Thus saith the LORD God of Israel, Tell ye the man that sent you to me,"
+        },
+        {
+          "number": 24,
+          "line": "Thus saith the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the curses that are written in the book which they have read before the king of Judah:"
+        },
+        {
+          "number": 25,
+          "line": "Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be poured out upon this place, and shall not be quenched."
+        },
+        {
+          "number": 26,
+          "line": "And as for the king of Judah, who sent you to enquire of the LORD, so shall ye say unto him, Thus saith the LORD God of Israel concerning the words which thou hast heard;"
+        },
+        {
+          "number": 27,
+          "line": "Because thine heart was tender, and thou didst humble thyself before God, when thou heardest his words against this place, and against the inhabitants thereof, and humbledst thyself before me, and didst rend thy clothes, and weep before me; I have even heard thee also, saith the LORD."
+        },
+        {
+          "number": 28,
+          "line": "Behold, I will gather thee to thy fathers, and thou shalt be gathered to thy grave in peace, neither shall thine eyes see all the evil that I will bring upon this place, and upon the inhabitants of the same. So they brought the king word again."
+        },
+        {
+          "number": 29,
+          "line": "Then the king sent and gathered together all the elders of Judah and Jerusalem."
+        },
+        {
+          "number": 30,
+          "line": "And the king went up into the house of the LORD, and all the men of Judah, and the inhabitants of Jerusalem, and the priests, and the Levites, and all the people, great and small: and he read in their ears all the words of the book of the covenant that was found in the house of the LORD."
+        },
+        {
+          "number": 31,
+          "line": "And the king stood in his place, and made a covenant before the LORD, to walk after the LORD, and to keep his commandments, and his testimonies, and his statutes, with all his heart, and with all his soul, to perform the words of the covenant which are written in this book."
+        },
+        {
+          "number": 32,
+          "line": "And he caused all that were present in Jerusalem and Benjamin to stand to it. And the inhabitants of Jerusalem did according to the covenant of God, the God of their fathers."
+        },
+        {
+          "number": 33,
+          "line": "And Josiah took away all the abominations out of all the countries that pertained to the children of Israel, and made all that were present in Israel to serve, even to serve the LORD their God. And all his days they departed not from following the LORD, the God of their fathers."
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 35:1-19",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Moreover Josiah kept a passover unto the LORD in Jerusalem: and they killed the passover on the fourteenth day of the first month."
+        },
+        {
+          "number": 2,
+          "line": "And he set the priests in their charges, and encouraged them to the service of the house of the LORD,"
+        },
+        {
+          "number": 3,
+          "line": "And said unto the Levites that taught all Israel, which were holy unto the LORD, Put the holy ark in the house which Solomon the son of David king of Israel did build; it shall not be a burden upon your shoulders: serve now the LORD your God, and his people Israel,"
+        },
+        {
+          "number": 4,
+          "line": "And prepare yourselves by the houses of your fathers, after your courses, according to the writing of David king of Israel, and according to the writing of Solomon his son."
+        },
+        {
+          "number": 5,
+          "line": "And stand in the holy place according to the divisions of the families of the fathers of your brethren the people, and after the division of the families of the Levites."
+        },
+        {
+          "number": 6,
+          "line": "So kill the passover, and sanctify yourselves, and prepare your brethren, that they may do according to the word of the LORD by the hand of Moses."
+        },
+        {
+          "number": 7,
+          "line": "And Josiah gave to the people, of the flock, lambs and kids, all for the passover offerings, for all that were present, to the number of thirty thousand, and three thousand bullocks: these were of the king's substance."
+        },
+        {
+          "number": 8,
+          "line": "And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings two thousand and six hundred small cattle, and three hundred oxen."
+        },
+        {
+          "number": 9,
+          "line": "Conaniah also, and Shemaiah and Nethaneel, his brethren, and Hashabiah and Jeiel and Jozabad, chief of the Levites, gave unto the Levites for passover offerings five thousand small cattle, and five hundred oxen."
+        },
+        {
+          "number": 10,
+          "line": "So the service was prepared, and the priests stood in their place, and the Levites in their courses, according to the king's commandment."
+        },
+        {
+          "number": 11,
+          "line": "And they killed the passover, and the priests sprinkled the blood from their hands, and the Levites flayed them."
+        },
+        {
+          "number": 12,
+          "line": "And they removed the burnt offerings, that they might give according to the divisions of the families of the people, to offer unto the LORD, as it is written in the book of Moses. And so did they with the oxen."
+        },
+        {
+          "number": 13,
+          "line": "And they roasted the passover with fire according to the ordinance: but the other holy offerings sod they in pots, and in caldrons, and in pans, and divided them speedily among all the people."
+        },
+        {
+          "number": 14,
+          "line": "And afterward they made ready for themselves, and for the priests: because the priests the sons of Aaron were busied in offering of burnt offerings and the fat until night; therefore the Levites prepared for themselves, and for the priests the sons of Aaron."
+        },
+        {
+          "number": 15,
+          "line": "And the singers the sons of Asaph were in their place, according to the commandment of David, and Asaph, and Heman, and Jeduthun the king's seer; and the porters waited at every gate; they might not depart from their service; for their brethren the Levites prepared for them."
+        },
+        {
+          "number": 16,
+          "line": "So all the service of the LORD was prepared the same day, to keep the passover, and to offer burnt offerings upon the altar of the LORD, according to the commandment of king Josiah."
+        },
+        {
+          "number": 17,
+          "line": "And the children of Israel that were present kept the passover at that time, and the feast of unleavened bread seven days."
+        },
+        {
+          "number": 18,
+          "line": "And there was no passover like to that kept in Israel from the days of Samuel the prophet; neither did all the kings of Israel keep such a passover as Josiah kept, and the priests, and the Levites, and all Judah and Israel that were present, and the inhabitants of Jerusalem."
+        },
+        {
+          "number": 19,
+          "line": "In the eighteenth year of the reign of Josiah was this passover kept."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "josiah",
+      "titleEn": "Josiah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/_GoodSalt-prcas1523_8-27-2013 4-22-30 PM.jpg",
-      "caption": ""
+      "file": "_GoodSalt-prcas1523_8-27-2013 4-22-30 PM.jpg",
+      "caption": "In the 18th year of Josiah&#39;s reign, Hilkiah finds the Law of Moses in the temple and brings it to the king who repents and seeks to restore true worship."
     }
-  ]
+  ],
+  "videos": []
 }

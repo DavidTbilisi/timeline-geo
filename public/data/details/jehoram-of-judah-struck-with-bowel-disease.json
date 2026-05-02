@@ -4,13 +4,39 @@
   "period": 7,
   "titleEn": "Jehoram of Judah Struck with Bowel Disease",
   "titleKa": null,
-  "datesEn": "843 BC",
+  "datesEn": "843 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Jehoram, a wicked king in Judah married to Athaliah the daughter of Ahab rules for 8 years and suffers several calamities because of his sin, including an incurable intestinal disease from which he dies. He is not mourned but buried in Jerusalem.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Chronicles 21:18-19",
+      "verses": [
+        {
+          "number": 18,
+          "line": "And after all this the LORD smote him in his bowels with an incurable disease."
+        },
+        {
+          "number": 19,
+          "line": "And it came to pass, that in process of time, after the end of two years, his bowels fell out by reason of his sickness: so he died of sore diseases. And his people made no burning for him, like the burning of his fathers."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jehoram-of-judah",
+      "titleEn": "Jehoram of Judah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Jehoram_of_Judah_4-4-2013 10-24-08 AM.jpg",
+      "caption": "Icon of Jehoram of Judah by Guillaume Rouille in 1553."
+    }
+  ],
+  "videos": []
 }

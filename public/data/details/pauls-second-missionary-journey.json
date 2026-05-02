@@ -4,13 +4,59 @@
   "period": 10,
   "titleEn": "Paul's Second Missionary Journey",
   "titleKa": null,
-  "datesEn": "49–52 AD",
+  "datesEn": "49&ndash;52 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After a sharp dispute with Barnabas over taking John Mark on a missionary tour, Paul and Silas begin a second trip to visit churches and establish new ones. Timothy joins them on the trip. They visit many places and return to Jerusalem.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Paul and Silas now began what is termed Paul&#39;s 2d Missionary Journey. Traveling overland, they called upon the churches in Syria and Cilicia (Acts 15:40, 41). Doubtless they visited the believers in Paul&#39;s home town of Tarsus, in the latter province. Arriving in the area of Derbe and Lystra, Paul found another traveling companion, Timothy, a young man of good reputation, whose mother was Jewish and his father Greek (ch 16:1&#8212;3).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Acts 15:36-41",
+      "verses": [
+        {
+          "number": 36,
+          "line": "And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the LORD, and see how they do."
+        },
+        {
+          "number": 37,
+          "line": "And Barnabas determined to take with them John, whose surname was Mark."
+        },
+        {
+          "number": 38,
+          "line": "But Paul thought not good to take him with them, who departed from them from Pamphylia, and went not with them to the work."
+        },
+        {
+          "number": 39,
+          "line": "And the contention was so sharp between them, that they departed asunder one from the other: and so Barnabas took Mark, and sailed unto Cyprus;"
+        },
+        {
+          "number": 40,
+          "line": "And Paul chose Silas, and departed, being recommended by the brethren unto the grace of God."
+        },
+        {
+          "number": 41,
+          "line": "And he went through Syria and Cilicia, confirming the churches."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas3982_8-6-2013 5-10-39 PM.jpg",
+      "caption": "Statue of Paul the Apostle in Vatican."
+    },
+    {
+      "file": "119645001_2-28-2013 12-40-43 PM.jpg",
+      "caption": "Old bazaar in Tarsus, Turkey"
+    }
+  ],
+  "videos": []
 }

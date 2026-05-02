@@ -2,15 +2,31 @@
   "slug": "zwingli-begins-his-ministry",
   "id": 1341,
   "period": 12,
-  "titleEn": "Zwingli Begins His Ministry",
+  "titleEn": "Zwingli Begins His Ministry ",
   "titleKa": null,
-  "datesEn": "1519 AD",
+  "datesEn": "1519 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Zwingli began his ministry in January 1519 in Zurich, Switzerland.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Ulrich-Zwingli-1_2-26-2013 3-57-30 PM.jpg",
+      "caption": "Huldrych Zwingli as depicted by Hans Asper in an oil portrait from 1531 located at the The Winterthur Museum of Art."
+    },
+    {
+      "file": "115811519_2-26-2013 3-57-30 PM.jpg",
+      "caption": "Zurich at dusk."
+    }
+  ],
+  "videos": []
 }

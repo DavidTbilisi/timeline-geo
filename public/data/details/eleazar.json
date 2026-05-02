@@ -4,13 +4,44 @@
   "period": 4,
   "titleEn": "Eleazar",
   "titleKa": null,
-  "datesEn": "1463–1353 BC",
+  "datesEn": "1463&ndash;1353 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;God has helped.&#34; He is the third son of Aaron and Elisheba. He is put in charge of the sanctuary after his two older brothers Nadab and Abihu died. He is clothed with his father&#39;s priestly garments on Mount Hor before Aaron dies.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The third son of Aaron (Ex 6:23 Num 3:2). He served as priest with his father and brothers during the wilderness wanderings (Ex 28:1, 44 Num 3:4 16:39 19:3). He outlived his older brothers, whom God slew when they offered strange fire (Lev 10:1&#8212;7), and was divinely appointed as high priest when his father died (Num 20:25&#8212;28 cf. Deut 10:6). He took part in the division of the Promised Land (Jos 14:1). <BR /><BR />He was buried near the home of his son Phinehas, who succeeded him as high priest (ch 24:33 Jgs 20:28). Eleazar was the ancestor of the Zadokite priests, who in Solomon&#39;s time won precedence over the family of Abiathar, which descended from Ithamar, Eleazar&#39;s younger brother (1 Chr 6:4&#8212;15 1 Ki 2:26, 27, 35).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Exodus 6:23",
+      "verses": [
+        {
+          "number": 23,
+          "line": "And Aaron took him Elisheba, daughter of Amminadab, sister of Naashon, to wife; and she bare him Nadab, and Abihu, Eleazar, and Ithamar."
+        }
+      ]
+    },
+    {
+      "reference": "Joshua 24:33",
+      "verses": [
+        {
+          "number": 33,
+          "line": "And Eleazar the son of Aaron died; and they buried him in a hill that pertained to Phinehas his son, which was given him in mount Ephraim."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "aaron",
+      "titleEn": "Aaron",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Eleasar.jpg",
+      "caption": "Illustration of Eleazar in 1553 published by Guillaume Rouille"
+    }
+  ],
+  "videos": []
 }

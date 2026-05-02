@@ -4,13 +4,61 @@
   "period": 9,
   "titleEn": "John the Baptist Imprisoned",
   "titleKa": null,
-  "datesEn": "30 AD",
+  "datesEn": "30 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Herod the tetrarch has an adulterous relationship with Herodias, his brother Philip&#39;s wife. When John the Baptist speaks against this sin, Herod throws John in prison.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Luke makes reference to the imprisonment and death of John the Baptist at this point in order to complete his account concerning John before proceeding to narrate the ministry of Christ. It seems that John was not imprisoned until a number of months, perhaps a year or more, after the baptism of Jesus, at approximately the time of the Passover of a.d. 29. He remained in prison until the early spring of a.d. 30, and was beheaded a few weeks before the Passover of that year.<BR />It appeared to Herod that the people were ready to do whatever John told them to do, and Herod feared that a popular uprising might be the result (Antiquities xviii. 5. 2 DA 360). Josephus does not mention the matter of Herodias in connection with John&#39;s imprisonment, though he elsewhere mentions Herodias&#39; marriage to Antipas (Antiquities xviii. 5. 4). Thus Josephus probably records Herod&#39;s publicly alleged reason for imprisoning John. It would be unlikely that Herod would announce as his reason for so doing the private matter of Herodias, of which the Jews as a whole disapproved.<BR /><BR />According to Josephus (Antiquities xviii. 5. 2) the prison in which John was placed was the fortress of Machaerus, in Peraea, east of the Dead Sea. The site of Machaerus was discovered in 1807, and ruins of the dungeons can still be seen. However, in view of the sequence of events in Mark 6:17&#8212;30 certain scholars think that the birthday celebration may have been held in Tiberias, and therefore question the accuracy of Josephus&#39; statement.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 14:3-5",
+      "verses": [
+        {
+          "number": 3,
+          "line": "For Herod had laid hold on John, and bound him, and put him in prison for Herodias' sake, his brother Philip's wife."
+        },
+        {
+          "number": 4,
+          "line": "For John said unto him, It is not lawful for thee to have her."
+        },
+        {
+          "number": 5,
+          "line": "And when he would have put him to death, he feared the multitude, because they counted him as a prophet."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 3:19-20",
+      "verses": [
+        {
+          "number": 19,
+          "line": "But Herod the tetrarch, being reproved by him for Herodias his brother Philip's wife, and for all the evils which Herod had done,"
+        },
+        {
+          "number": 20,
+          "line": "Added yet this above all, that he shut up John in prison."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "christs-ministry-in-judea",
+      "titleEn": "Christ's Ministry in Judea",
+      "titleKa": null
+    },
+    {
+      "slug": "martyrdom-of-john-the-baptist",
+      "titleEn": "Martyrdom of John the Baptist",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "john_the_baptist_in_prison_8-1-2013 2-13-42 PM.jpg",
+      "caption": "John the Baptist in prison."
+    }
+  ],
+  "videos": []
 }

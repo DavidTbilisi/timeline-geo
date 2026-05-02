@@ -4,18 +4,198 @@
   "period": 5,
   "titleEn": "Balak Summons Balaam",
   "titleKa": null,
-  "datesEn": "1408 BC",
+  "datesEn": "1408 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Balak, whose name means &#34;empty,&#34; the son of Zippor, is the king of the Moabites and afraid when Israel comes into his land. He hires Balaam to curse the Israelites.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Balak and the Moabites were afraid of the children of Israel. The king and his people were believers in the power of the sorcerer and his incantations. Magic, the black art, and devil possession are the natural accompaniments of idolatry. Balak realized he needed more than human help to cope with the apparent power of Israel. Balak was planning to destroy Israel but was afraid to attempt it in his own strength. <BR /><BR />He had heard of the effectiveness of Balaam&#39;s powers. In ancient times blessing and cursing were both common, as by Noah (Gen. 9:25&#8212;27), Isaac (Gen. 27:27), Jacob (Gen. 49), Joshua (Joshua 6:26), and Elisha (2 Kings 2:24). Similarly, Goliath prefaced his combat with David by calling down the curse of his gods upon the lad (1 Sam. 17:43). It is folly to seek to explain all the phenomena of heathen magic by assuming it to be merely trickery. Balaam is summoned. An apostate prophet plays with fire, in the hope of worldly gain. Balaam already knew of the Israelites and of God&#39;s attitude toward them. Nevertheless, he is greedy and agrees to try to curse Israel.",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Numbers 22:1-21",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan by Jericho."
+        },
+        {
+          "number": 2,
+          "line": "And Balak the son of Zippor saw all that Israel had done to the Amorites."
+        },
+        {
+          "number": 3,
+          "line": "And Moab was sore afraid of the people, because they were many: and Moab was distressed because of the children of Israel."
+        },
+        {
+          "number": 4,
+          "line": "And Moab said unto the elders of Midian, Now shall this company lick up all that are round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor was king of the Moabites at that time."
+        },
+        {
+          "number": 5,
+          "line": "He sent messengers therefore unto Balaam the son of Beor to Pethor, which is by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:"
+        },
+        {
+          "number": 6,
+          "line": "Come now therefore, I pray thee, curse me this people; for they are too mighty for me: peradventure I shall prevail, that we may smite them, and that I may drive them out of the land: for I wot that he whom thou blessest is blessed, and he whom thou cursest is cursed."
+        },
+        {
+          "number": 7,
+          "line": "And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came unto Balaam, and spake unto him the words of Balak."
+        },
+        {
+          "number": 8,
+          "line": "And he said unto them, Lodge here this night, and I will bring you word again, as the LORD shall speak unto me: and the princes of Moab abode with Balaam."
+        },
+        {
+          "number": 9,
+          "line": "And God came unto Balaam, and said, What men are these with thee?"
+        },
+        {
+          "number": 10,
+          "line": "And Balaam said unto God, Balak the son of Zippor, king of Moab, hath sent unto me, saying,"
+        },
+        {
+          "number": 11,
+          "line": "Behold, there is a people come out of Egypt, which covereth the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out."
+        },
+        {
+          "number": 12,
+          "line": "And God said unto Balaam, Thou shalt not go with them; thou shalt not curse the people: for they are blessed."
+        },
+        {
+          "number": 13,
+          "line": "And Balaam rose up in the morning, and said unto the princes of Balak, Get you into your land: for the LORD refuseth to give me leave to go with you."
+        },
+        {
+          "number": 14,
+          "line": "And the princes of Moab rose up, and they went unto Balak, and said, Balaam refuseth to come with us."
+        },
+        {
+          "number": 15,
+          "line": "And Balak sent yet again princes, more, and more honourable than they."
+        },
+        {
+          "number": 16,
+          "line": "And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:"
+        },
+        {
+          "number": 17,
+          "line": "For I will promote thee unto very great honour, and I will do whatsoever thou sayest unto me: come therefore, I pray thee, curse me this people."
+        },
+        {
+          "number": 18,
+          "line": "And Balaam answered and said unto the servants of Balak, If Balak would give me his house full of silver and gold, I cannot go beyond the word of the LORD my God, to do less or more."
+        },
+        {
+          "number": 19,
+          "line": "Now therefore, I pray you, tarry ye also here this night, that I may know what the LORD will say unto me more."
+        },
+        {
+          "number": 20,
+          "line": "And God came unto Balaam at night, and said unto him, If the men come to call thee, rise up, and go with them; but yet the word which I shall say unto thee, that shalt thou do."
+        },
+        {
+          "number": 21,
+          "line": "And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab."
+        }
+      ]
+    },
+    {
+      "reference": "Numbers 22:1-21",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan by Jericho."
+        },
+        {
+          "number": 2,
+          "line": "And Balak the son of Zippor saw all that Israel had done to the Amorites."
+        },
+        {
+          "number": 3,
+          "line": "And Moab was sore afraid of the people, because they were many: and Moab was distressed because of the children of Israel."
+        },
+        {
+          "number": 4,
+          "line": "And Moab said unto the elders of Midian, Now shall this company lick up all that are round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor was king of the Moabites at that time."
+        },
+        {
+          "number": 5,
+          "line": "He sent messengers therefore unto Balaam the son of Beor to Pethor, which is by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:"
+        },
+        {
+          "number": 6,
+          "line": "Come now therefore, I pray thee, curse me this people; for they are too mighty for me: peradventure I shall prevail, that we may smite them, and that I may drive them out of the land: for I wot that he whom thou blessest is blessed, and he whom thou cursest is cursed."
+        },
+        {
+          "number": 7,
+          "line": "And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came unto Balaam, and spake unto him the words of Balak."
+        },
+        {
+          "number": 8,
+          "line": "And he said unto them, Lodge here this night, and I will bring you word again, as the LORD shall speak unto me: and the princes of Moab abode with Balaam."
+        },
+        {
+          "number": 9,
+          "line": "And God came unto Balaam, and said, What men are these with thee?"
+        },
+        {
+          "number": 10,
+          "line": "And Balaam said unto God, Balak the son of Zippor, king of Moab, hath sent unto me, saying,"
+        },
+        {
+          "number": 11,
+          "line": "Behold, there is a people come out of Egypt, which covereth the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out."
+        },
+        {
+          "number": 12,
+          "line": "And God said unto Balaam, Thou shalt not go with them; thou shalt not curse the people: for they are blessed."
+        },
+        {
+          "number": 13,
+          "line": "And Balaam rose up in the morning, and said unto the princes of Balak, Get you into your land: for the LORD refuseth to give me leave to go with you."
+        },
+        {
+          "number": 14,
+          "line": "And the princes of Moab rose up, and they went unto Balak, and said, Balaam refuseth to come with us."
+        },
+        {
+          "number": 15,
+          "line": "And Balak sent yet again princes, more, and more honourable than they."
+        },
+        {
+          "number": 16,
+          "line": "And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:"
+        },
+        {
+          "number": 17,
+          "line": "For I will promote thee unto very great honour, and I will do whatsoever thou sayest unto me: come therefore, I pray thee, curse me this people."
+        },
+        {
+          "number": 18,
+          "line": "And Balaam answered and said unto the servants of Balak, If Balak would give me his house full of silver and gold, I cannot go beyond the word of the LORD my God, to do less or more."
+        },
+        {
+          "number": 19,
+          "line": "Now therefore, I pray you, tarry ye also here this night, that I may know what the LORD will say unto me more."
+        },
+        {
+          "number": 20,
+          "line": "And God came unto Balaam at night, and said unto him, If the men come to call thee, rise up, and go with them; but yet the word which I shall say unto thee, that shalt thou do."
+        },
+        {
+          "number": 21,
+          "line": "And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab."
+        }
+      ]
+    }
+  ],
   "related": [],
   "images": [
     {
-      "file": "media/images/t/Balaam_5-7-2013 10-03-25 AM.jpg",
-      "caption": ""
+      "file": "Balaam_5-7-2013 10-03-25 AM.jpg",
+      "caption": "Oil on canvas painting of Balaam and the Angel painting by Gustave Jaeger in 1836. "
     }
-  ]
+  ],
+  "videos": []
 }

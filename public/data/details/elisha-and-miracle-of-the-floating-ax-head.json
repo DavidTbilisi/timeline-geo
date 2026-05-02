@@ -4,18 +4,67 @@
   "period": 7,
   "titleEn": "Elisha and Miracle of the Floating Ax Head",
   "titleKa": null,
-  "datesEn": "846 BC",
+  "datesEn": "846 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "While cutting trees for wood for a school for the sons of the prophets, a borrowed iron ax head falls into the Jordan. Elisha is asked for help. He cuts a stick and throws it into the water and the ax head floats and is retrieved.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The sons of the prophets were students at one of the schools of the prophets, probably the one at Jericho, for they went to the Jordan to secure timber (v. 2). When they explained to Elisha that the school had grown and could no longer accommodate the students, someone suggested they enlarge the school.  These young men were not afraid of work. One of the objectives of the schools of the prophets was to give the students a practical training for life. The young men were trained to work like the people about them, for the they were not to hold themselves aloof from those it was their responsibility to serve. Training the hand was in perfect accord with training the mind and the heart.<BR /><BR />Elisha agreed with the plan. The fact that permission was asked of Elisha and that it was he who gave the orders to proceed with the project shows that the prophet was a man of authority, having under his charge the direction of the various schools. They had first asked for permission to go and do the work themselves, and now the invitation was extended to Elisha to accompany them. He agreed to go. Elisha was a man of the people. He was equally at home with kings and generals and with the workers at their daily toil. Never did the he hold himself aloof. Wherever there was the opportunity to serve, wherever his presence was welcome, there he desired to be. The greater the leader, the greater the willingness to serve.<BR /><BR />One student borrowed an axe for the work. The Jews used iron for axheads at a very early date. An axhead in those days was no more secure than it is in modern times, for the legislation of Moses deals with cases in which an axhead slips from the wood while a man is felling a tree (Deut. 19:5). When the borrowed axe head came off the handle and landed in the river, the student exclaimed, &#34;It was borrowed!&#34; Elisha asked where it fell in and then cut a stick and threw it in the water. The axe head floated and was retrieved.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 6:1-7",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us."
+        },
+        {
+          "number": 2,
+          "line": "Let us go, we pray thee, unto Jordan, and take thence every man a beam, and let us make us a place there, where we may dwell. And he answered, Go ye."
+        },
+        {
+          "number": 3,
+          "line": "And one said, Be content, I pray thee, and go with thy servants. And he answered, I will go."
+        },
+        {
+          "number": 4,
+          "line": "So he went with them. And when they came to Jordan, they cut down wood."
+        },
+        {
+          "number": 5,
+          "line": "But as one was felling a beam, the axe head fell into the water: and he cried, and said, Alas, master! for it was borrowed."
+        },
+        {
+          "number": 6,
+          "line": "And the man of God said, Where fell it? And he shewed him the place. And he cut down a stick, and cast it in thither; and the iron did swim."
+        },
+        {
+          "number": 7,
+          "line": "Therefore said he, Take it up to thee. And he put out his hand, and took it."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "elisha",
+      "titleEn": "Elisha",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-pppas0209_8-6-2013 3-10-18 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-pppas0209_8-6-2013 3-10-18 PM.jpg",
+      "caption": "Elisha retrieves floating ax head"
+    },
+    {
+      "file": "Jordan River north of Sea of Galilee, tb032807009_4-4-2013 10-45-07 AM.jpg",
+      "caption": "Jordan River "
+    },
+    {
+      "file": "Jordan River north of Sea of Galilee, tb053106694_4-4-2013 10-45-07 AM.jpg",
+      "caption": "Up close photograph of the Jordan River"
     }
-  ]
+  ],
+  "videos": []
 }

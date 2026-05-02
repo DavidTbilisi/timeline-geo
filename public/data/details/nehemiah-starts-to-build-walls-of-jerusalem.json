@@ -4,13 +4,35 @@
   "period": 8,
   "titleEn": "Nehemiah Starts to Build Walls of Jerusalem",
   "titleKa": null,
-  "datesEn": "444 BC",
+  "datesEn": "444 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After secretly surveying the walls at night, Nehemiah calls the people in Jerusalem together and says, &#34;Let us rise up and build.&#34; The people unite behind his leadership, though there is resistance from Sanballat and Tobiah.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "After surveying the broken down walls of Jerusalem, Nehemiah rallies the people to rebuild the city&#39;s walls. It is fitting to find Eliashib the high priest setting a right example on this occasion. Later on he became &#34;allied&#34; by marriage to Tobiah (ch. 13:4) and was guilty of profaning the Temple (ch. 13:5). According to the line of high priests given in ch. 12:10, 11, it appears that Eliashib was the son of Joiakim, and the grandson of Jeshua, who had returned from Babylon with Zerubbabel (Ezra 2:2 3:2). The special purpose of this chapter seems to be the rendering of honor where honor was due&#8212;the placing on record of the names of the men who nobly came to the front on this important occasion, sacrificed ease to duty, and thereby exposed themselves to a threatened hostile attack (ch. 4:18&#8212;20).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Nehemiah 3:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Then Eliashib the high priest rose up with his brethren the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "nehemiah",
+      "titleEn": "Nehemiah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas1526_8-28-2013 1-33-45 PM.jpg",
+      "caption": "Nehemiah surveying the walls of Jerusalem at night"
+    }
+  ],
+  "videos": []
 }

@@ -4,18 +4,60 @@
   "period": 3,
   "titleEn": "Lot",
   "titleKa": null,
-  "datesEn": "1925–1825 BC (~100)",
+  "datesEn": "1925&ndash;1825 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;veil&#34; or &#34;covering.&#34; He is the son of Haran and a nephew of Abraham. He went with his uncle to Canaan and after their shepherds quarreled about pastures, they separated. Lot chose the Jordan Valley and later lost his wife near Sodom.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Son of Abraham&#39;s brother Haran (Gen 11:26, 27). Lot went with his grandfather&#39;s family from Ur to northern Mesopotamia (v 31). Later he accompanied Abraham to Canaan (ch 12:4, 5), and also to Egypt (ch 13:1). Like his uncle Abraham, Lot had large flocks, and when the shepherds of the two families quarreled about the available pasturage, Abraham suggested a separation. Lot agreed and chose the Jordan Valley. <BR /><BR />Ultimately he selected the prosperous but wicked city of Sodom as his residence (vs 5&#8212;13). When Chedorlaomer and his confederates captured Sodom, Lot and his family were carried away as prisoners, but were rescued by Abraham and then returned to Sodom (ch 14:12, 16). The wickedness of the cities in the area where Lot dwelt became so great that God decided to destroy them. However, since Lot was a righteous man (2 Pe 2:7, RSV), angels were dispatched to rescue him and his family. Appearing in human form, the angels were received in Lot&#39;s hospitable home. <BR /><BR />When the Sodomites attempted to ravish Lot&#39;s guests, he considered himself bound, according to the Oriental custom of hospitality, to protect the honor and lives of his guests at any cost&#8212;in this case even if it would have meant giving up his own daughters (Gen 19:1&#8212;14). The two guests admonished him to flee from the city in order to save his life and the lives of his family. However, his sons&#8212;in&#8212;law, and probably their families, ridiculed his message and refused to leave the doomed city. The next morning, urged by the angels to hasten on, Lot, with his wife and two unmarried daughters, fled from the city toward the small town of Zoar. <BR /><BR />His wife, neglecting to heed the divine instruction, perished during the flight and became a pillar of salt, possibly by being engulfed by falling masses of salt (vs 15&#8212;26). Lot and his daughters later fled into the hills, where they lived in a cave. During their stay in the lonely hills east of the Jordan, two sons were born to the daughters by incestuous unions with their father. They were called Moab (probably meaning &#34;[seed] from father&#34;) and Ben&#8212;ammi (&#34;son of kinsman&#34;), and were the ancestors of the Moabites and the Ammonites (vs 31&#8212;38). Lot&#39;s memory still lingers on in the area of his stay.  The English translation of the modern Arabic name for the Dead Sea is the &#34;Sea of Lot.&#34;",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 11:27",
+      "verses": [
+        {
+          "number": 27,
+          "line": "Now these are the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "haran",
+      "titleEn": "Haran",
+      "titleKa": null
+    },
+    {
+      "slug": "lot-moves-to-sodom",
+      "titleEn": "Lot Moves to Sodom",
+      "titleKa": null
+    },
+    {
+      "slug": "lot-and-daughters-dwell-in-a-cave",
+      "titleEn": "Lot and Daughters Dwell in a Cave",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-pppas0304_8-7-2013 1-20-30 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-pppas0304_8-7-2013 1-20-30 PM.jpg",
+      "caption": "Lot and family being ushered out of Sodom by the angels"
+    },
+    {
+      "file": "GoodSalt-Lot_8-5-2013 4-01-25 PM.jpg",
+      "caption": "Lot&#39;s wife, a pillar of salt."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Abraham, Part 4: Rescue & Reward",
+      "caption": "The fourth in a 12 part series on the life of Abraham. His experiences are a miniature story of what happens to God&#39;s people in later times. Lot is like God&#39;s people who were carried away in war and then rescued.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2409.mp4"
+    },
+    {
+      "title": "Days of Noah and Lot",
+      "caption": "This sermon considers the days of Noah and Lot, as referenced by Jesus. Perilous times will come, but people will not be aware. The events (eating, drinking, marrying) spoken of were done in excess.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp18-22.mp4"
     }
   ]
 }

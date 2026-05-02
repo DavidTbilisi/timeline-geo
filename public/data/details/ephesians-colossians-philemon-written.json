@@ -4,13 +4,59 @@
   "period": 10,
   "titleEn": "Ephesians, Colossians, Philemon Written",
   "titleKa": null,
-  "datesEn": "60–62 AD",
+  "datesEn": "60&ndash;62 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Paul wrote the letters of Ephesians, Colossians, and Philemon while a prisoner in Rome. He makes reference in Philippians 2:24 (and Philemon 22) of his &#34;soon release.&#34; Ephesians and Colossians have strong similarities in content and style.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "From the earliest times Rome has been considered as the place from which the prison epistles were dispatched. They usually have been dated in the latter part of the apostle&#39;s imprisonment there, since in them he expresses a hope of being released, for which he must have had some reason (Phil. 2:24 Philemon 22). His imprisonment in Rome lasted two years (Acts 28:30), from the spring of a.d. 60 to 62, according to the chronology of Paul&#39;s ministry. Therefore Ephesians, Colossians, and Philemon can be dated about a.d. 62.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Ephesians 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:"
+        }
+      ]
+    },
+    {
+      "reference": "Colossians 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,"
+        }
+      ]
+    },
+    {
+      "reference": "Philemon 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Saint_Paul_01_8-1-2013 11-44-59 AM.jpg",
+      "caption": "Paul the Apostle, James Jacques Joseph Tissot"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Saved to Serve",
+      "caption": "This sermon explores the book of Philemon and speaks of service and slavery. Paul teaches that people who are servants are greatest in God&#39;s kingdom.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2004.mp4"
+    }
+  ]
 }

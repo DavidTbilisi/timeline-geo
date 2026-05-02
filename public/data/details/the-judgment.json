@@ -4,13 +4,43 @@
   "period": 13,
   "titleEn": "The Judgment",
   "titleKa": null,
-  "datesEn": "1844–1929 AD",
+  "datesEn": "1844&ndash;",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Daniel&#39;s dream of four beasts is followed by a dream of the Ancient of Days being seated and the books were opened. It describes a judgment over which God presides. This scene follows the claims made by the little horn in Daniel 7:8.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Daniel 7:9, 10 cannot represent the second coming of Christ to this earth, for Christ comes to &#34;the Ancient of days.&#34; The coming of Christ to the most holy place for the cleansing of the sanctuary is here represented.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Daniel 7:9-10",
+      "verses": [
+        {
+          "number": 9,
+          "line": "I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire."
+        },
+        {
+          "number": 10,
+          "line": "A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "daniel-7-four-great-beasts",
+      "titleEn": "Daniel 7 - Four Great Beasts",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-pppas0230_8-13-2013 2-08-02 PM.jpg",
+      "caption": "The Judgment."
+    },
+    {
+      "file": "Wilderness Tabernacle  BBL1075-106a_2-27-2013 3-02-38 PM.jpg",
+      "caption": "Artist rendition of the wilderness tabernacle. "
+    }
+  ],
+  "videos": []
 }

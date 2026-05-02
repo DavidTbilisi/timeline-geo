@@ -4,13 +4,56 @@
   "period": 2,
   "titleEn": "Migration to Plain of Shinar",
   "titleKa": null,
-  "datesEn": "2280 BC",
+  "datesEn": "2280 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Genesis 11 describes the whole earth having one language and people journeying east not a good move. Shinar is apparently the country of Babylonia and this is the plain on which the tower of Babel is built.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "<b>As they journeyed.</b> As indicated by the verb &#34;journeyed,&#34; literally, &#34;to pull out,&#34; like the pegs of a tent, men lived a nomadic life for a time after the Flood. The mountainous region of Ararat was not well adapted to agricultural pursuits. Furthermore, those who forsook God resented the silent witness of the holy lives of those who were loyal to Him. Accordingly, there occurred a separation of the evil from among the good, with those who defied God leaving the mountains.<BR /><BR /><b>From the east.</b> The KJV translation &#34;from the east,&#34; for miqqedem, is misleading. The same Hebrew expression is translated &#34;eastward&#34; in ch. 2:8 and &#34;east&#34; in ch. 13:11. To reach the land of Shinar, Babylonia, from the mountains of Ararat, the direction of travel would of necessity be southeasterly, not &#34;from the east&#34; in a westerly direction.<BR /><BR /><b>They found a plain.</b> That is, a wide, open land. In antiquity the southern Mesopotamian lowland, often called &#34;Shinar&#34; in the Bible (see on ch. 10:10), was a well&#8212;watered, fertile region. The oldest known civilization, that of the Sumerians, thrived here. The spade of the archeologist reveals this land to have been densely populated in earliest historical times. This fact agrees with Genesis as to the locality in which a permanent settlement was first attempted. Excavations have shown, furthermore, that the earliest population of Lower Mesopotamia possessed a high culture. The Sumericans invented the art of writing on clay tablets, built well&#8212;constructed houses, and were masters in the production of jewelry, tools, and household utensils.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 11:1-2",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And the whole earth was of one language, and of one speech."
+        },
+        {
+          "number": 2,
+          "line": "And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 11:1-2",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And the whole earth was of one language, and of one speech."
+        },
+        {
+          "number": 2,
+          "line": "And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "tower-of-babel-division-of-earth",
+      "titleEn": "Tower of Babel, Division of Earth",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Building_the_Tower_of_Babel_8-5-2013 2-18-15 PM.jpg",
+      "caption": "Building the tower of Babel,  James Joseph Jacques Tissot, 1902"
+    },
+    {
+      "file": "Cuneiform_5-20-2013 4-51-34 PM.jpg",
+      "caption": "The Sumericans invented the art of writing on clay tablets, built well-constructed houses, and were masters in the production of jewelry, tools, and household utensils."
+    }
+  ],
+  "videos": []
 }

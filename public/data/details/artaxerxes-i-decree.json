@@ -4,13 +4,43 @@
   "period": 8,
   "titleEn": "Artaxerxes I Decree",
   "titleKa": null,
-  "datesEn": "457 BC",
+  "datesEn": "457 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Ezra is sent by Artaxerxes I to Jerusalem to set up structures of government for the Jews, also giving him authority to bring back any Jew who wanted to return to their homeland. He takes with him a diplomatic letter from the king.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Ezra is sent by King Artaxerxes to Jerusalem in the king&#39;s seventh year. Ezra probably counted the 7th year of Artaxerxes according to the Jewish custom, that is, in terms of the Jewish civil calendar year, which began in the fall. The 7th regnal year of Artaxerxes I began in the fall of 458 b.c. and ended in the fall of 457. Ezra arrives in Jerusalem. From v. 9 it appears that the first day of the first month (Nisan) of the religious year had been selected for the beginning of the journey. <BR /><BR />This is not surprising, since the dry season was usually used for such a journey, one that a caravan required several months to complete. Similarly, all military campaigns were begun in the spring. The day of departure, according to the Jewish calendar was most probably March 27, 457 b.c. The time occupied on the way was nearly four months. The exiles arrived at Jerusalem on the first day of the fifth month (Ab), or approximately July 23, 457 b.c. <BR /><BR />That it took Ezra&#39;s group four months to reach Jerusalem seems at first thought a long time, but it should not be forgotten that a caravan like his must have taken a number of prolonged rests, one of which is recorded as occurring at Ahava (ch. 8:15). The log of the march of the army of the younger Cyrus from Ephesus to Cunaxa near Babylon provides an actual record of such a journey. Although Cunaxa was reached in 91 marching days, the entire journey, including resting days, occupied about half a year (Xenophon Anabasis ii. 1. 6). We need not be surprised, therefore, that Ezra&#39;s journey occupied four months. <BR /><BR />Some delay must almost certainly have been occasioned by the perils of the trek (see ch. 8:31). God blessed their journey. Verse 9 indicates the special divine favor here referred to probably includes the royal response to Ezra&#39;s request (see v. 6), and deliverance from enemies who had intended to attack the caravan on the way (see ch. 8:21&#8212;23, 31).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Ezra 7:7-9",
+      "verses": [
+        {
+          "number": 7,
+          "line": "And there went up some of the children of Israel, and of the priests, and the Levites, and the singers, and the porters, and the Nethinims, unto Jerusalem, in the seventh year of Artaxerxes the king."
+        },
+        {
+          "number": 8,
+          "line": "And he came to Jerusalem in the fifth month, which was in the seventh year of the king."
+        },
+        {
+          "number": 9,
+          "line": "For upon the first day of the first month began he to go up from Babylon, and on the first day of the fifth month came he to Jerusalem, according to the good hand of his God upon him."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "artaxerxes-i",
+      "titleEn": "Artaxerxes I",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-pppas0481_8-28-2013 1-12-32 PM.jpg",
+      "caption": "Royal decree"
+    }
+  ],
+  "videos": []
 }

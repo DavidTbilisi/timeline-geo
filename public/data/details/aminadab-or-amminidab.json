@@ -4,13 +4,58 @@
   "period": 4,
   "titleEn": "Aminadab (or Amminidab)",
   "titleKa": null,
-  "datesEn": "1448–1358 BC",
+  "datesEn": "1448&ndash;1358 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;one of the prince&#39;s people.&#34; He is the son of Ram (Aram) and the father of Nahshon. He is a father&#8212;in&#8212;law to Aaron and as a son of Judah is an ancestor to both King David and Jesus Christ.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A descendant of Judah through Hezron (1 Chr 2:10). He was father of Nahshon, the prince of Judah in Moses&#39; time (Num 1:7), and father&#8212;in&#8212;law of Aaron, the high priest (Ex 6:23), also an ancestor of David (Ruth 4:19 Mt 1:4 Lk 3:33).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Chronicles 2:10",
+      "verses": [
+        {
+          "number": 10,
+          "line": "And Ram begat Amminadab; and Amminadab begat Nahshon, prince of the children of Judah;"
+        }
+      ]
+    },
+    {
+      "reference": "Matthew 1:4",
+      "verses": [
+        {
+          "number": 4,
+          "line": "And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;"
+        }
+      ]
+    },
+    {
+      "reference": "Luke 3:33",
+      "verses": [
+        {
+          "number": 33,
+          "line": "Which was the son of Aminadab, which was the son of Aram, which was the son of Esrom, which was the son of Phares, which was the son of Juda,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "aram-or-ram",
+      "titleEn": "Aram (or Ram)",
+      "titleKa": null
+    },
+    {
+      "slug": "naasson-or-nahshon",
+      "titleEn": "Naasson (or Nahshon)",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "aminadab_8-6-2013 11-55-02 AM.jpg",
+      "caption": "Aminidab from the Sistine Chapel, Michelangelo Buonarroti, 1509"
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,67 @@
   "period": 6,
   "titleEn": "Asa",
   "titleKa": null,
-  "datesEn": "936–870 BC",
+  "datesEn": "936&ndash;870 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;physician&#34; or &#34;God has healed.&#34; He is the son of Abijah and the 3rd king of Judah. He is good king and seeks to establish the true worship of God and get rid of idolatry and immorality. He reigns for 41 years and is succeeded by his son.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Asa, name possibly means &#34;Myrtle,&#34; &#34;physician,&#34; or &#34;(Yahweh) has healed.&#34; The third king of Judah, the southern kingdom, who reigned for 41 years (c. 911&#8212;c. 869 b.c.). He was a good king, and made strong efforts to purify the religion of his people. He removed his &#34;mother&#34; (actually grandmother), Maachah, the daughter of Absalom, from the powerful office of queen mother, because she had made an image to Asherah. Asa destroyed not only this image but also the idols of his predecessors and all strange altars and sun images. He cleared the country of its male cult prostitutes (sodomites) and of many high places. The people continued to use the remaining high places for worship (1 Ki 15:9&#8212;14 2 Chr 14:1&#8212;5 15:16, 17). <BR /><BR />The first 10 years of his reign were peaceful, and were used to strengthen the country&#39;s fortifications and the army (2 Chr 14:1, 6&#8212;8). Hence he was ready for, and able to repulse, the invasion of Zerah and his great host of Africans (vs 9&#8212;15). In his 15th regnal year, with the help of the prophet Azariah, the son of Oded, he carried out a great religious reformation. He rededicated the altar of burnt offering in the Temple and caused the people to renew their covenant with God (ch 15:1&#8212;15). In the 36th year (probably the 36th year after the division of the kingdom) Baasha of Israel invaded Benjamin and began to fortify Ramah on the main road from Jerusalem to the north, thus blocking Judah&#39;s northern exit. <BR /><BR />Feeling that he was not strong enough to meet Baasha&#39;s threat by force, Asa offered Ben&#8212;hadad I of Damascus a heavy tribute as an inducement to attack Israel. Ben&#8212;hadad accepted the offer and forced Baasha to withdraw from Ramah. Asa then took the building material left by Baasha at Ramah and with it built Geba and Mizpah (1 Ki 15:16&#8212;22 2 Chr 16:1&#8212;6). Asa&#39;s act of seeking foreign aid displeased God, who sent His prophet Hanani to reprove the king. Asa rejected this message and jailed Hanani. He also mistreated other well&#8212;meaning subjects during the latter part of his reign (2 Chr 16:7&#8212;10). The last years of his reign were marked by severe suffering through disease in his feet. During this time he apparently let his son Jehoshaphat act as coregent and take care of administrative duties. Asa was buried in a tomb that he had prepared for himself in Jerusalem (1 Ki 15:23 2 Chr 16:12&#8212;14).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 15:9-10",
+      "verses": [
+        {
+          "number": 9,
+          "line": "And in the twentieth year of Jeroboam king of Israel reigned Asa over Judah."
+        },
+        {
+          "number": 10,
+          "line": "And forty and one years reigned he in Jerusalem. And his mother's name was Maachah, the daughter of Abishalom."
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 15:24",
+      "verses": [
+        {
+          "number": 24,
+          "line": "And Asa slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoshaphat his son reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "abijah",
+      "titleEn": "Abijah",
+      "titleKa": null
+    },
+    {
+      "slug": "jehoshaphat",
+      "titleEn": "Jehoshaphat",
+      "titleKa": null
+    },
+    {
+      "slug": "palestine-invaded-by-zerah",
+      "titleEn": "Palestine Invaded by Zerah",
+      "titleKa": null
+    },
+    {
+      "slug": "asa-contracts-disease-in-his-feet",
+      "titleEn": "Asa Contracts Disease in His Feet",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-stdas0016_8-6-2013 10-53-13 AM.jpg",
+      "caption": "Young King Asa"
+    },
+    {
+      "file": "Asa_destroys_the_idols.jpg",
+      "caption": "Asa destroys the idols and forbids worship in local shrines in 1372 by unknown illustrator of Petrus Comestor&#39;s &#39;Bible Historiale"
+    }
+  ],
+  "videos": []
 }

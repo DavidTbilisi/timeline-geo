@@ -4,13 +4,25 @@
   "period": 10,
   "titleEn": "Paul Imprisoned in Rome Two Years",
   "titleKa": null,
-  "datesEn": "61–62 AD",
+  "datesEn": "61&ndash;62 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After arriving at Rome as a prisoner, Paul is given some freedom and meets with Jewish leaders to share the gospel. The book of Acts ends on a positive note that Paul was able to spread the gospel, from the very center of civilization in Rome.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Upon his arrival at Rome, Paul, with the other prisoners, was delivered to &#34;the captain of the guard&#34; (Acts 28:16, KJV), probably the chief of the Praetorian Guard (the imperial guard stationed at Rome) in charge of prisoners who appealed to the emperor. At this time the office was held by Burrus, a man of good principles, one whose restraining influence had helped to curb the emperor Nero&#39;s excesses. Paul, presumably on the recommendation of the centurion who had escorted him from Caesarea, was permitted to stay in his own living quarters, being guarded, however, by a soldier (v 16), to whom he was chained (see Acts 28:20 cf. Eph 6:20 Col 4:18). <BR /><BR />Three days after his arrival in Rome, Paul invited the Jewish elders to visit him. After he had explained to them the reason for his imprisonment they agreed on a time for Paul to expound to them the Christian doctrines. On the appointed day many came to his lodging to hear him as he &#34;testified the kingdom of God.&#34; This meeting lasted all day, during which the truths that Paul preached were doubtlessly debated back and forth. At the end of the meeting some believed and some, probably the majority, did not &#34;they agreed not among themselves.&#34; At this Paul quoted from Is 6:9, 10, reproving the unbelieving for refusing to accept the light that had come to them (Acts 28:17&#8212;28). The book of Acts and the Bible account of the apostle&#39;s life is rather abruptly ended at this point with the statement that Paul, clearly still a prisoner, was nevertheless able to live for 2 years in his own rented lodging , obviously under guard, and had visitors to whom he preached Christ (vs 30, 31).<BR /><BR />For the rest of the story of Paul&#39;s life we must depend upon scant clues found in his various epistles written during and after his 1st imprisonment in Rome, upon statements contained in other early writings, and upon tradition. The epistles of Ephesians, Philippians, Colossians, and Philemon were written during this 1st period in Rome. These epistles reveal that the imprisonment was a trying experience for the aged apostle (Eph 3:1 6:20 Col 4:18 Phm 1, 9, 10). From Acts 27:2 and Eph 6:21 we know that Luke, Aristarchus, and Tychicus were his companions. He also had with him Mark, Justus, Epaphras, and Demas, possibly for only part time (Col 4:10&#8212;12, 14 cf. 2 Ti 4:10) Epaphroditus delivered Paul&#39;s epistles to the Philippians (Php 2:25&#8212;30). Tychicus carried the letter to the Ephesians (Eph 6:21, 22) and, accompanied by Onesimus, the letter to the Colossians (Col 4:7&#8212;9), and the one to the Christian slaveowner, Philemon. Onesimus, Philemon&#39;s slave who had escaped to Rome, seems to have been converted by Paul at Rome (Col 4:9 Phm 10). From Php 4:18 we learn that the Philippians sent gifts to Paul delivered by Epaphroditus.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Paul_A_Prisoner-Acts_28_11_-_31a_8-1-2013 11-53-33 AM.jpg",
+      "caption": "Paul in Rome as a prisoner,  Providence Lithograph Company, 1897"
+    }
+  ],
+  "videos": []
 }

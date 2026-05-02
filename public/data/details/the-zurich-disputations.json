@@ -2,15 +2,35 @@
   "slug": "the-zurich-disputations",
   "id": 1347,
   "period": 12,
-  "titleEn": "The Zurich Disputations",
+  "titleEn": "The Zurich Disputations ",
   "titleKa": null,
-  "datesEn": "1523 AD",
+  "datesEn": "1523 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The Zurich debates were a result of Zwingli&#39;s preaching in Zurich and his clashes with the bishop of Constance.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Zurich Disputations began on January 29, 1523, in the Town Hall building. The first of these meetings marked the beginning of the legal Reformation in Zurich. The first debate ended on a positive note. The mayor declared Ulrich Zwingli justified in his Reformation beliefs. Because Zwingli was not viewed as a heretic, the canton of Zurich essentially adopted Ulrich&#39;s teachings. Naturally, Zwingli became more diligent in teaching the people. However, as a result of Zwingli&#39;s teaching against images and icons in the churches, people began defacing public statues and pictures. This questionable act brought the authorities together again to address the issue.<BR /><BR />The second disputation occurred in October 1523 and met for two days. More than 800 people were in attendance when Zwingli presented his views to the Council of Zurich. As a result, the council again followed Zwingli&#39;s teaching and voted to remove the images from churches in a peaceful manner. On the second day of this meeting, Zwingli discussed issues regarding the Mass. The Catholics believed that the Mass was a sacrifice, but Zwingli disputed the notion. In his opinion, the Mass should only help people remember Christ&#39;s death on the cross. After the Council of Zurich considered what Zwingli claimed, they accepted it and commissioned people to spread the word to all the people in the canton.<BR /><BR />The third disputation continued to deal with issues regarding the Mass, and as a result of a fourth disputation, the Mass was abolished.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Zwingli_2-26-2013 4-02-56 PM.jpg",
+      "caption": "Statue in tribute to Ulrich Zwingli in Zurich."
+    },
+    {
+      "file": "Zurich City_2-26-2013 4-02-56 PM.jpg",
+      "caption": "The city of Zurich location of the Disputations"
+    },
+    {
+      "file": "Church_2-26-2013 4-02-56 PM.jpg",
+      "caption": "The church of Ulrich Zwingli in Zurich"
+    }
+  ],
+  "videos": []
 }

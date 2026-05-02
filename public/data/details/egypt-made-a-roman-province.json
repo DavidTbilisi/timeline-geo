@@ -4,13 +4,19 @@
   "period": 9,
   "titleEn": "Egypt Made a Roman Province",
   "titleKa": null,
-  "datesEn": "30 BC",
+  "datesEn": "30 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After its conquest by Octavian Augustus in 30 b.c., the year following the battle of Actium, it became a Roman province under the direct rule of the emperor. This was its status throughout the age of the apostles.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "<BR />",
   "articleKa": null,
   "scriptures": [],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "Castro_Battle_of_Actium_3-20-2013 3-46-45 PM.jpg",
+      "caption": "The Battle of Actium painting by Lorenzo A. Castro in 1672."
+    }
+  ],
+  "videos": []
 }

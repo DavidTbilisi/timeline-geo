@@ -2,15 +2,35 @@
   "slug": "publication-of-the-great-bible-in-england",
   "id": 1362,
   "period": 12,
-  "titleEn": "Publication of the \"Great Bible\" in England",
+  "titleEn": "Publication of the \"Great Bible\" in England ",
   "titleKa": null,
-  "datesEn": "1539 AD",
+  "datesEn": "1539 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Also known as the Cranmer Bible, the first authorized Bible in English to be read aloud during church service.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The translation work of this Bible was overseen by Miles Coverdale and was essentially a revised version of the &#34;Matthew Bible,&#34; which was the work of John Rogers. The Matthew Bible was the best compilation of the translations by William Tyndale.<BR /><BR />During the process and preparation of the Great Bible, Thomas Cromwell supported Coverdale. And in September 1538, Cromwell declared on behalf of the king that every church in England should have an English Bible.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Myles_Coverdale_2-26-2013 2-31-27 PM.jpg",
+      "caption": "From: The Letters of the Martyrs : collected and published in 1564; Miles Coverdale; London : J.F. Shaw; 1837"
+    },
+    {
+      "file": "GoodSalt-prcas0612_8-6-2013 5-49-04 PM.jpg",
+      "caption": "William Tyndale"
+    },
+    {
+      "file": "John_Rogers_-_Willem_van_de_Passe_2-26-2013 2-31-27 PM.jpg",
+      "caption": "Engraving of John Rogers (c. 1500 - 1555), possibly by Willem van de Passe."
+    }
+  ],
+  "videos": []
 }

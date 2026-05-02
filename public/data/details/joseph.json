@@ -4,18 +4,107 @@
   "period": 3,
   "titleEn": "Joseph",
   "titleKa": null,
-  "datesEn": "1695–1585 BC (110)",
+  "datesEn": "1695&ndash;1585 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;add&#34; or &#34;increase.&#34; The oldest of two sons of Jacob by Rachel. Jacob favored Joseph, the son of &#34;his old age&#34; and it created jealousies among his brothers who sought to kill him, but sold him into slavery. He became a prince in Egypt.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The son of Jacob, born to his beloved wife Rachel after a long period of barrenness. At his birth his father Jacob had served Laban 14 years, hence was 91 years old (cf. Gen 41:46 45:6 47:9) this was 6 years before the family returned to Canaan (chs 30:22&#8212;26 31:41). Because Joseph was the first&#8212;born son of his favored wife, Jacob showed favoritism to the boy, especially after Rachel&#39;s death. <BR /><BR />He demonstrated this attitude by providing Joseph with an expensive garment, such as was worn by noble youths (ch 37:3). The jealousy created by this was increased when Joseph told his brothers two dreams in which he had seen all the members of his family, including his parents, doing obeisance to him (vs 4&#8212;11). When he was 17 years of age his father sent him to Shechem to visit his brothers, who were pasturing the family&#39;s flocks there. Reaching Shechem he found that they had passed on to Dothan, so he sought them there. <BR /><BR />As soon as they saw him they conspired to kill him, but Reuben, hoping to save him, persuaded the others to throw him into an empty cistern instead. However, when in Reuben&#39;s absence a caravan of Ishmaelites and Midianites came along, traveling to Egypt, the other brothers sold him to these traders as a slave. To deceive their father they stained Joseph&#39;s garment with the blood of a goat killed for that purpose, and took the bloodstained coat to their father, saying that they had found it. Jacob concluded that Joseph had been torn to pieces by a wild animal (vs 12&#8212;33). <BR /><BR />After being sold to Egyptian traders and sent to Egypt, Joseph worked for Potiphar before being thrown in prison and then raised to power. Joseph&#39;s two sons became the ancestors of two large and important tribes, Ephraim and Manasseh, but the name Joseph is frequently used in the OT to denote the combined tribes or the northern kingdom as a whole (Jos 16:1, 4 Jgs 1:22 1 Ki 11:28 Ps 78:67 Eze 37:16 etc.).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 30:22-24",
+      "verses": [
+        {
+          "number": 22,
+          "line": "And God remembered Rachel, and God hearkened to her, and opened her womb."
+        },
+        {
+          "number": 23,
+          "line": "And she conceived, and bare a son; and said, God hath taken away my reproach:"
+        },
+        {
+          "number": 24,
+          "line": "And she called his name Joseph; and said, The LORD shall add to me another son."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 50:26",
+      "verses": [
+        {
+          "number": 26,
+          "line": "So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    },
+    {
+      "slug": "josephs-dreams",
+      "titleEn": "Joseph's Dreams",
+      "titleKa": null
+    },
+    {
+      "slug": "joseph-taken-to-egypt",
+      "titleEn": "Joseph Taken to Egypt",
+      "titleKa": null
+    },
+    {
+      "slug": "joseph-cast-into-prison",
+      "titleEn": "Joseph Cast into Prison",
+      "titleKa": null
+    },
+    {
+      "slug": "joseph-butler-and-baker-cast-into-prison",
+      "titleEn": "Joseph - Butler and Baker Cast into Prison",
+      "titleKa": null
+    },
+    {
+      "slug": "joseph-freed-pharaohs-dream-7-years-of-plenty",
+      "titleEn": "Joseph Interprets Pharaoh's Dream & Freed",
+      "titleKa": null
+    },
+    {
+      "slug": "manasseh",
+      "titleEn": "Manasseh",
+      "titleKa": null
+    },
+    {
+      "slug": "ephraim",
+      "titleEn": "Ephraim",
+      "titleKa": null
+    },
+    {
+      "slug": "7-year-drought-josephs-brothers-come-to-egypt",
+      "titleEn": "7 Year Drought, Joseph's Brothers Come to Egypt",
+      "titleKa": null
+    },
+    {
+      "slug": "joseph-and-end-of-7-year-drought",
+      "titleEn": "Joseph and End of 7 Year Drought",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas0659_8-7-2013 3-16-58 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas0659_8-7-2013 3-16-58 PM.jpg",
+      "caption": "Now Israel loved Joseph more than all his children, because he was the son of his old age: and he made him a coat of many colours. (Genesis 37:3)"
+    },
+    {
+      "file": "Joseph_5-9-2013 1-49-22 PM.jpg",
+      "caption": "Joseph interprets Pharaoh&#39;s dream (Genesis, Chapter 24, 29-32). Woodcut after a drawing by Julius Schnorr von Carolsfeld (German painter, 1794 - 1872)"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Prince & The Paupers",
+      "caption": "The essence of salvation is Jesus trading places with us. Using Mark Twain&#39;s story as a launching point for the message. The Bible has several stories that speaks of this. One is the story of Jonathan and David. Jesus took what we deserve in order to give us what He deserves.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2738.mp4"
     }
   ]
 }

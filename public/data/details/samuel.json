@@ -4,18 +4,67 @@
   "period": 5,
   "titleEn": "Samuel",
   "titleKa": null,
-  "datesEn": "1129–1017 BC (~112)",
+  "datesEn": "1129&ndash;1017 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;heard of God.&#34; He is the son of Elkanah and Hannah who is barren and prays for a miracle. Eli assures her God has heard her prayer. Samuel grows to become one of the greatest prophets of Israel after Moses.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Samuel. The 1st of the great prophets of Israel after Moses, being placed side by side with the great lawgiver Moses by Jeremiah (Jer 15:1). His father Elkanah was a Levite of the family of Kohath (1 Chr 6:26, 33, 34) who lived in the territory of Ephraim and therefore was also called an Ephraimite (1 Sa 1:1). His home town was Ramathaim&#8212;zophim, also called simply Ramah (chs 1:1, 19 2:11). Elkanah had 2 wives, Hannah and Peninnah. The former was his favorite wife, but she was barren (1 Sa 1:2, 7, 8). After much heart searching and prayer, Hannah vowed that if God would give her a son she would dedicate him to God as a Nazirite. God heard her prayer and she gave birth to a son whom she named Samuel. After he was weaned she took him to the high priest Eli at Shiloh to have him trained in the Lord&#39;s service at the tabernacle (1 Sa 1:9&#8212;28).<BR /><BR />At Shiloh, Samuel lived in a room connected with the sanctuary and in close proximity to the room of the high priest. He was dressed in a simple linen ephod, a garment worn by priests and Levites, and performed simple duties such as opening the doors of the sanctuary in the morning (1 Sa 2:18 3:1, 3, 4, 15). While he was still a boy, 12 years of age according to Josephus (Ant. v. 10. 4), the Lord revealed to him the doom that would overtake Eli&#39;s house for the criminal behavior of the high priest&#39;s sons, and for the failure of their father to correct them (ch 3:1&#8212;18).<BR /><BR />Samuel became a leader, prophet, and judge of Israel. He was a great man. The New Testament lists him with the heroes of faith (Heb 11:32). He revealed himself as a political leader, who regained for his people independence and liberty, and who was able to retain it during the long period of his successful administration. He was in communion with God from his childhood and constantly acted according to divine directions. As a judge he was held in high esteem by the people for his impartiality, loyalty, and honesty. As the founder of the kingdom of Israel, he showed humility and prudence by stepping aside when the people demanded a new leader. <BR /><BR />On the other hand, he was a man who permitted no compromise when the honor of God was at stake, or when a direct command of the Lord had not been carried out. His bloody severity against Agag (1 Sa 15:33) is an illustration of this. Yet, Samuel had a warm heart. He constantly prayed for his people (ch 12:23) and could not cease to love Saul even after he had been forced to reject him as king. Unfortunately, his sons did not follow in his footsteps (ch 8:3).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Samuel 1:20",
+      "verses": [
+        {
+          "number": 20,
+          "line": "Wherefore it came to pass, when the time was come about after Hannah had conceived, that she bare a son, and called his name Samuel, saying, Because I have asked him of the LORD."
+        }
+      ]
+    },
+    {
+      "reference": "1 Samuel 28:3",
+      "verses": [
+        {
+          "number": 3,
+          "line": "Now Samuel was dead, and all Israel had lamented him, and buried him in Ramah, even in his own city. And Saul had put away those that had familiar spirits, and the wizards, out of the land."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "prophetic-call-of-samuel",
+      "titleEn": "Prophetic Call of Samuel",
+      "titleKa": null
+    },
+    {
+      "slug": "samuel-judges-israel",
+      "titleEn": "Samuel Judges Israel",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-Samuel_8-5-2013 4-06-07 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-Samuel_8-5-2013 4-06-07 PM.jpg",
+      "caption": "Samuel praying to the Lord."
+    },
+    {
+      "file": "509px-Samuel_answers_God_8-8-2013 11-23-22 AM.jpg",
+      "caption": "Samuel talking to God, Richard Andre, 1884"
+    },
+    {
+      "file": "476px-Hannah_and_Elkanah_Visit_Samuel_-_I_Samuel_2_18-2_19_8-8-2013 11-28-04 AM.jpg",
+      "caption": "Moreover his mother made him a little coat, and brought it to him from year to year, when she came up with her husband to offer the yearly sacrifice. (1 Samuel 2:19)Treasures of the Bible, Henry Davenport Northrop, D.D."
+    },
+    {
+      "file": "Eli_teaching_Samuel_8-8-2013 11-23-22 AM.jpg",
+      "caption": "Samuel and Eli, John Singleton Copley, 1780"
+    }
+  ],
+  "videos": [
+    {
+      "title": "A Mothers Sacrifice",
+      "caption": "Perhaps the highest office in the world is that of being a mother. This sermon looks at the story of two mother&#39;s fighting in Scripture. A woman is a symbol of the church. The story of Hannah and Peninnah spiritually depicts the struggle of the church. God&#39;s love for your children is greater than a mother&#39;s love for her children.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg7197.mp4"
     }
   ]
 }

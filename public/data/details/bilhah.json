@@ -4,13 +4,66 @@
   "period": 3,
   "titleEn": "Bilhah",
   "titleKa": null,
-  "datesEn": "1719–1659 BC",
+  "datesEn": "1719&ndash;1659 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;faltering&#34; or &#34;bashful.&#34; She is Rachel&#39;s handmaid and given by Rachel to Jacob to bear her children since her &#34;womb was closed.&#34; She is the mother of Dan and Naphtali. Reuben commits adultery with her and is cursed by Jacob.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 29:29",
+      "verses": [
+        {
+          "number": 29,
+          "line": "And Laban gave to Rachel his daughter Bilhah his handmaid to be her maid."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 30:1-8",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die."
+        },
+        {
+          "number": 2,
+          "line": "And Jacob's anger was kindled against Rachel: and he said, Am I in God's stead, who hath withheld from thee the fruit of the womb?"
+        },
+        {
+          "number": 3,
+          "line": "And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees, that I may also have children by her."
+        },
+        {
+          "number": 4,
+          "line": "And she gave him Bilhah her handmaid to wife: and Jacob went in unto her."
+        },
+        {
+          "number": 5,
+          "line": "And Bilhah conceived, and bare Jacob a son."
+        },
+        {
+          "number": 6,
+          "line": "And Rachel said, God hath judged me, and hath also heard my voice, and hath given me a son: therefore called she his name Dan."
+        },
+        {
+          "number": 7,
+          "line": "And Bilhah Rachel's maid conceived again, and bare Jacob a second son."
+        },
+        {
+          "number": 8,
+          "line": "And Rachel said, With great wrestlings have I wrestled with my sister, and I have prevailed: and she called his name Naphtali."
+        }
+      ]
+    }
+  ],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "GoodSalt-dmtas0134_8-5-2013 5-37-51 PM.jpg",
+      "caption": "And Laban gave to Rachel his daughter Bilhah his handmaid to be her maid. (Genesis 29:29)"
+    }
+  ],
+  "videos": []
 }

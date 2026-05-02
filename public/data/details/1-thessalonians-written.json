@@ -4,13 +4,43 @@
   "period": 10,
   "titleEn": "1 Thessalonians Written",
   "titleKa": null,
-  "datesEn": "51 AD",
+  "datesEn": "51 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After preaching the gospel to the Thessalonians, Paul, Silas, and Timothy leave the city because of rioting. Later while in Corinth, Paul writes the letter of 1 Thessalonians.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The church at Thessalonica, to which 1 Thessalonians was addressed, had been founded by Paul during his Second Missionary Journey A.D. 49&#8212;52. Thessalonica, the capital of Macedonia, was governed by seven politarchs under a prefect, and had a population of some 200,000. It is unknown how long Paul stayed there before disturbances incited by the Jews forced him to leave the city and continue his journey. His stay seems to have been rather short, as can be gathered from his desire to return to Thessalonica as soon as possible in order to complete work that he considered as needing his further attention. From Thessalonica Paul went first to Berea and then to Athens, leaving converts behind in each place when he departed. <BR /><BR />From Athens Paul sent Timothy to Thessalonica, since he found himself unable to go (1 Thess. 2:17 to 3:6). By the time Timothy returned with Silas, Paul had moved on to Corinth (Acts 18:5), where Timothy reported to him concerning the spiritual condition of the church at Thessalonica. Paul, realizing that certain misunderstanding concerning his teachings needed immediate attention there, wrote a letter known as 1 Thessalonians. It seems, therefore, that 1 Thessalonians was written shortly after Paul&#39;s arrival in Corinth. According to the tentative chronology of Paul&#39;s ministry accepted in this commentary, this would be in A.D. 51",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Acts 18:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "After these things Paul departed from Athens, and came to Corinth;"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Pauls_Instructions_To_The_Thessalonians-1_Thessalonians_5_12_-_24a_8-1-2013 9-58-18 AM.jpg",
+      "caption": "Paul&#39;s letter to the Thessalonians, Providence Lithograph Company, 1908"
+    },
+    {
+      "file": "157994115_2-28-2013 12-20-43 PM.jpg",
+      "caption": "Ancient Corinth."
+    },
+    {
+      "file": "iStock_000017330944Small_2-28-2013 12-20-43 PM.jpg",
+      "caption": "Thessalonika, the second largest city of Greece. In front the old city wall, in the background the Aegean Sea and Mount Olympus."
+    }
+  ],
+  "videos": []
 }

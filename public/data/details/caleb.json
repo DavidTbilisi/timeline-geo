@@ -4,18 +4,44 @@
   "period": 4,
   "titleEn": "Caleb",
   "titleKa": null,
-  "datesEn": "1484–1384 BC (~100)",
+  "datesEn": "1484&ndash;1384 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;dog.&#34; He is the son of Jephunneh, a Kenizzite and listed as one of the 12 spies sent to investigate the Promised Land before the Israelites enter. Only Caleb and Joshua return with a positive report and live to enter it.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A son of Jephunneh, a Kenizzite (Num 32:12). He represented the tribe of Judah as one of the 12 Israelite leaders who were sent out from Kadesh&#8212;barnea as spies to investigate the land of Canaan, and only he and Joshua returned with encouraging reports the other spies completely disheartened the people with their pessimistic reports (Num 13 14). Caleb also took part in the conquest of the land some 40 years later, and was a member of the commission to distribute the land among the 12 tribes (Num 34:19 Jos 14:6&#8212;14 15:13&#8212;15). <BR /><BR />At that time, being 85 years old, he received Hebron and its neighboring territory as an inheritance, and drove out the Anakim from it, while his younger relative Othniel took Debir and thus obtained Caleb&#39;s daughter Achsah as wife (Jos 14:13&#8212;15 15:13&#8212;17). &#34;The south of Caleb&#34; (1 Sa 30:14) probably refers to the area of Hebron and Debir.",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Numbers 32:12",
+      "verses": [
+        {
+          "number": 12,
+          "line": "Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the LORD."
+        }
+      ]
+    },
+    {
+      "reference": "Numbers 13:6",
+      "verses": [
+        {
+          "number": 6,
+          "line": "Of the tribe of Judah, Caleb the son of Jephunneh."
+        }
+      ]
+    }
+  ],
   "related": [],
   "images": [
     {
-      "file": "media/images/t/432px-The-report-of-the-spies-and-remonstrance-of-Caleb-001_8-6-2013 1-27-38 PM.jpg",
-      "caption": ""
+      "file": "432px-The-report-of-the-spies-and-remonstrance-of-Caleb-001_8-6-2013 1-27-38 PM.jpg",
+      "caption": "Caleb&#39;s encouragement after the return from spying out the land of Canaan, William Brassey Hole"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Giant Faith",
+      "caption": "This sermon speaks of Israel&#39;s story of being on the edge of the land of Canaan and turning back. Joshua and Caleb alone said, &#34;We are able,&#34; and ten said, &#34;We can&#39;t.&#34; We are at the borders of Canaan and by faith we can overcome and enter heaven.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2307.mp4"
     }
   ]
 }

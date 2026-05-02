@@ -4,13 +4,49 @@
   "period": 2,
   "titleEn": "Arphaxad",
   "titleKa": null,
-  "datesEn": "2296–1858 BC (438)",
+  "datesEn": "2296&ndash;1858 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name may mean &#34;stronghold of the Chaldees.&#34; He was the son of Shem and born two years after the flood. He lived in Mesopotamia and, according to Josephus, was the progenitor of the Chaldeans. He was an ancestor of Abraham.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 10:22",
+      "verses": [
+        {
+          "number": 22,
+          "line": "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 11:13",
+      "verses": [
+        {
+          "number": 13,
+          "line": "And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "shem",
+      "titleEn": "Shem",
+      "titleKa": null
+    },
+    {
+      "slug": "salah",
+      "titleEn": "Salah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Arphaxad.jpg",
+      "caption": "Illustration of Arphaxad in 1553 published by Guillaume Rouille"
+    }
+  ],
+  "videos": []
 }

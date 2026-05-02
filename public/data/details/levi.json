@@ -4,13 +4,49 @@
   "period": 3,
   "titleEn": "Levi",
   "titleKa": null,
-  "datesEn": "1699–1562 BC",
+  "datesEn": "1699&ndash;1562 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;attached.&#34; He is the third son of Jacob and Leah. His name comes from Leah&#39;s desire for Jacob to be attached to her. Levi and Simeon are known for avenging their sister Dinah. He is also passed by to receive the blessing of his father.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The third son of Jacob by Leah (Gen 29:34). The only recorded event of Levi&#39;s life is his participation in the massacre of Hamor, Shechem, and the rest of the male population of the city of Shechem, in retaliation for Shechem&#39;s humiliation of Dinah, Levi&#39;s sister (ch 34:25&#8212;31). This criminal act of Levi and his full brother Simeon was remembered by Jacob on his deathbed, and his strong disapproval was probably the reason why he passed by these two brothers and gave the blessing of the first&#8212;born, which had been forfeited by Reuben, to Judah, the fourth son (ch 29:35). <BR /><BR />Levi had three sons, Gershon (sometimes spelled Gershom), Kohath, and Merari (ch 46:11). He died at the age of 137 years (Ex 6:16). He became the ancestor of the tribe of the *Levites, who were chosen to serve in the sanctuary.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 29:34",
+      "verses": [
+        {
+          "number": 34,
+          "line": "And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi."
+        }
+      ]
+    },
+    {
+      "reference": "Exodus 6:16",
+      "verses": [
+        {
+          "number": 16,
+          "line": "And these are the names of the sons of Levi according to their generations; Gershon, and Kohath, and Merari: and the years of the life of Levi were an hundred thirty and seven years."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    },
+    {
+      "slug": "the-dinah-incident",
+      "titleEn": "The Dinah Incident",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Tribe_of_Levi_Symbol_001_8-6-2013 8-43-56 AM.jpg",
+      "caption": "Symbol for the tribe of Levi"
+    }
+  ],
+  "videos": []
 }

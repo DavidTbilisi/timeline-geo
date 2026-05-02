@@ -4,13 +4,91 @@
   "period": 6,
   "titleEn": "David Escapes to Samuel",
   "titleKa": null,
-  "datesEn": "1021 BC",
+  "datesEn": "1021 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Saul persecutes David after another Philistine victory and seeks to pin him to the wall with a spear while David is playing the harp. David&#39;s wife tells him to run, and she makes it look like he is in bed sleeping. He escapes to Samuel at Ramah.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The narrative does not state how Michal learned of Saul&#39;s command to kill David. She may have seen the officers lying in wait for David, and, knowing the character of her father, perceived his purpose. Or, perhaps, David was impressed to confide in her. Perhaps David was thinking of this experience when he fervently sang, &#34;A man&#39;s goings are established of Jehovah&#34; (Ps. 37:23, ASV). Imagine David out on the mountainside, homeless and hunted like a wild animal! But after a night of weeping David could say, &#34;I will sing aloud of thy mercy in the morning: for thou hast been my defense and refuge in the day of my trouble&#34;.<BR /><BR />David escapes through a window. The word translated &#34;window&#34; comes from a verb meaning &#34;to bore,&#34; &#34;to pierce.&#34; Anciently, houses were usually built in such a way that all openings faced a walled&#8212;in courtyard, except for one main outside entrance. Often the roofs were flat and could be reached either from the inside of the house or from the courtyard. The record does not state whether the opening through which Michal let down David was onto the roof, or whether it overlooked the rear of the house. In any case it was at some point opposite the front entrance, where the emissaries from the king stood watch. <BR /><BR />The spies were let down from the walls of Jericho in a similar way (Joshua 2:15) Paul was let down over the wall at Damascus (Acts 9:25) the disciples opened the flat roof to let the paralytic down in the presence of Jesus (Luke 5:19). The wisdom of Michal&#39;s prompt action became apparent when the officers commissioned to arrest David clamored for admission the next morning.<BR /><BR />There are times when the cause of right can be advanced better by flight than by fighting. Some may think that inasmuch as God had anointed David, and Saul had so far departed from right as to attempt murder, it would have been better for David to stand his ground. Heretofore he had never turned his back to an enemy. Had he faced Saul in the same spirit that he met Goliath, he could not have failed to draw many of the people to his side but such an action would have led to civil war, for Saul was also popular and many obeyed him implicitly. <BR /><BR />As events later proved, it was seven years after the death of Saul before David was accepted by all Israel. As with David, so with Christ. Fearless and unafraid, the Saviour could have summoned the armies of heaven to His aid. Instead, He permitted evil men to have their day.  Michal makes it look like David is bed sick and tells Saul&#39;s messengers so. He demands they bring him out anyway so he can kill David, but they discover he has escaped.<BR /><BR />Thoroughly frightened because of Saul&#39;s attempt on his life, David naturally sought counsel from the one who had called him from the sheepfold to a place of responsibility in Israel, and had, possibly, taught him at Ramah. With Samuel he would feel as safe from Saul as if there had been a sanctuary to which he might flee (see 1 Kings 1:50&#8212;53 2:28&#8212;34).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Samuel 19:11-24",
+      "verses": [
+        {
+          "number": 11,
+          "line": "Saul also sent messengers unto David's house, to watch him, and to slay him in the morning: and Michal David's wife told him, saying, If thou save not thy life to night, to morrow thou shalt be slain."
+        },
+        {
+          "number": 12,
+          "line": "So Michal let David down through a window: and he went, and fled, and escaped."
+        },
+        {
+          "number": 13,
+          "line": "And Michal took an image, and laid it in the bed, and put a pillow of goats' hair for his bolster, and covered it with a cloth."
+        },
+        {
+          "number": 14,
+          "line": "And when Saul sent messengers to take David, she said, He is sick."
+        },
+        {
+          "number": 15,
+          "line": "And Saul sent the messengers again to see David, saying, Bring him up to me in the bed, that I may slay him."
+        },
+        {
+          "number": 16,
+          "line": "And when the messengers were come in, behold, there was an image in the bed, with a pillow of goats' hair for his bolster."
+        },
+        {
+          "number": 17,
+          "line": "And Saul said unto Michal, Why hast thou deceived me so, and sent away mine enemy, that he is escaped? And Michal answered Saul, He said unto me, Let me go; why should I kill thee?"
+        },
+        {
+          "number": 18,
+          "line": "So David fled, and escaped, and came to Samuel to Ramah, and told him all that Saul had done to him. And he and Samuel went and dwelt in Naioth."
+        },
+        {
+          "number": 19,
+          "line": "And it was told Saul, saying, Behold, David is at Naioth in Ramah."
+        },
+        {
+          "number": 20,
+          "line": "And Saul sent messengers to take David: and when they saw the company of the prophets prophesying, and Samuel standing as appointed over them, the Spirit of God was upon the messengers of Saul, and they also prophesied."
+        },
+        {
+          "number": 21,
+          "line": "And when it was told Saul, he sent other messengers, and they prophesied likewise. And Saul sent messengers again the third time, and they prophesied also."
+        },
+        {
+          "number": 22,
+          "line": "Then went he also to Ramah, and came to a great well that is in Sechu: and he asked and said, Where are Samuel and David? And one said, Behold, they be at Naioth in Ramah."
+        },
+        {
+          "number": 23,
+          "line": "And he went thither to Naioth in Ramah: and the Spirit of God was upon him also, and he went on, and prophesied, until he came to Naioth in Ramah."
+        },
+        {
+          "number": 24,
+          "line": "And he stripped off his clothes also, and prophesied before Samuel in like manner, and lay down naked all that day and all that night. Wherefore they say, Is Saul also among the prophets?"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "David escaping Saul T111_8-1-2013 9-23-08 AM.jpg",
+      "caption": "David climbing out his window to escape Saul&#39;s wrath."
+    },
+    {
+      "file": "440px-Escape_Of_David_Through_a_Window_001_8-22-2013 11-30-35 AM.jpg",
+      "caption": "David escaping through a window, Gustave Dor&#233;"
+    }
+  ],
+  "videos": []
 }

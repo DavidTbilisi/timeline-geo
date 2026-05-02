@@ -4,13 +4,63 @@
   "period": 9,
   "titleEn": "Two Blind Men Healed",
   "titleKa": null,
-  "datesEn": "29 AD",
+  "datesEn": "29 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "As Jesus is leaving Capernaum two blind men approach Him seeking to be healed. Christ asks them if they believe that He is able to heal them. They answer, &#34;Yes, Lord.&#34; Jesus heals them and tells them to tell no one, but they spread the news.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Two blind men cry out to Jesus, the Son of David, for healing. Their use of this term indicates that the blind men recognized Jesus as the Messiah. Jesus asked them if they truly believed He could heal them. Without the exercise of faith on their part Christ would not be able to exercise His power in their behalf. Man&#39;s faith must rise to meet and to unite with the power of God in order that blessings, whether physical or spiritual, may be imparted and received (see Heb. 11:6). Christ heals them and tells them to tell no one about the healing, but they spread the news anyway.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 9:27-31",
+      "verses": [
+        {
+          "number": 27,
+          "line": "And when Jesus departed thence, two blind men followed him, crying, and saying, Thou son of David, have mercy on us."
+        },
+        {
+          "number": 28,
+          "line": "And when he was come into the house, the blind men came to him: and Jesus saith unto them, Believe ye that I am able to do this? They said unto him, Yea, Lord."
+        },
+        {
+          "number": 29,
+          "line": "Then touched he their eyes, saying, According to your faith be it unto you."
+        },
+        {
+          "number": 30,
+          "line": "And their eyes were opened; and Jesus straitly charged them, saying, See that no man know it."
+        },
+        {
+          "number": 31,
+          "line": "But they, when they were departed, spread abroad his fame in all that country."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "galilean-ministry",
+      "titleEn": "Galilean Ministry",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Two_Blind_Men_at_Jericho_001_8-1-2013 11-40-27 AM.jpg",
+      "caption": "&#34;Two Blind Men at Jericho&#34; James Tissot"
+    },
+    {
+      "file": "Blind Man_3-20-2013 9-18-51 AM.jpg",
+      "caption": "Two blind men cry out to Jesus, the Son of David, for healing."
+    },
+    {
+      "file": "Capernaum and Mount of Beatitudes from Sea of Galilee, tb100805596_3-20-2013 9-18-51 AM.jpg",
+      "caption": "As Jesus is leaving Capernaum two blind men approach Him seeking to be healed."
+    },
+    {
+      "file": "GoodSalt-pppas0335_8-7-2013 1-50-48 PM.jpg",
+      "caption": "Man&#39;s faith must rise to meet and to unite with the power of God in order that blessings, whether physical or spiritual, may be imparted and received."
+    }
+  ],
+  "videos": []
 }

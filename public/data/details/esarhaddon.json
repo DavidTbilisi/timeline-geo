@@ -4,13 +4,75 @@
   "period": 7,
   "titleEn": "Esarhaddon",
   "titleKa": null,
-  "datesEn": "711–669 BC",
+  "datesEn": "711&ndash;669 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;the god Asshur has given a brother.&#34; He is the son of Sennacherib and successor to his father as a king of Assyria. He builds up Babylon which his father destroyed, he conquers Egypt, and settles foreigners in Samaria.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Esarhaddon, name means &#34;(the god) Asshur has given a brother.&#34; An Assyrian king, the son and successor of Sennacherib he reigned 681&#8212;669 b.c. Upon his accession Esarhaddon began to rebuild Babylon, which his father had destroyed. Since his mother was a Babylonian princess, he was more favorably disposed to the Babylonians than was his father. Esarhaddon is especially known for his conquest of Egypt, which he organized into an Assyrian province. He also waged successful wars against Phoenician and Syrian kings. He had himself depicted on monuments as holding in his right hand ropes attached to rings in the lips of the Egyptian king Taharka (Biblical Tirhakah) and the king of Tyre, one of whom kneels and the other stands shackled before him . In the Bible Esarhaddon is mentioned as the successor or Sennacherib (2 Ki 19:37 Is 37:38), and as the Assyrian king who settled foreign colonists in Samaria (Ezr 4:2). In his inscriptions he claims that King Manasseh of Judah paid tribute to him. Whether Esarhaddon himself or his son Ashurbanipal was responsible for exiling Manasseh of Israel temporarily to Babylon (2 Chr 33:11&#8212;13) is not known.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 19:36-37",
+      "verses": [
+        {
+          "number": 36,
+          "line": "So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh."
+        },
+        {
+          "number": 37,
+          "line": "And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esarhaddon his son reigned in his stead."
+        }
+      ]
+    },
+    {
+      "reference": "Ezra 4:2",
+      "verses": [
+        {
+          "number": 2,
+          "line": "Then they came to Zerubbabel, and to the chief of the fathers, and said unto them, Let us build with you: for we seek your God, as ye do; and we do sacrifice unto him since the days of Esarhaddon king of Assur, which brought us up hither."
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 33:11-13",
+      "verses": [
+        {
+          "number": 11,
+          "line": "Wherefore the LORD brought upon them the captains of the host of the king of Assyria, which took Manasseh among the thorns, and bound him with fetters, and carried him to Babylon."
+        },
+        {
+          "number": 12,
+          "line": "And when he was in affliction, he besought the LORD his God, and humbled himself greatly before the God of his fathers,"
+        },
+        {
+          "number": 13,
+          "line": "And prayed unto him: and he was intreated of him, and heard his supplication, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that the LORD he was God."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "sennacherib",
+      "titleEn": "Sennacherib",
+      "titleKa": null
+    },
+    {
+      "slug": "ashurbanipal",
+      "titleEn": "Ashurbanipal",
+      "titleKa": null
+    },
+    {
+      "slug": "esarhaddon-assyria-invades-egypt",
+      "titleEn": "Esarhaddon Assyria Invades Egypt",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Esarhaddon copy_4-2-2013 3-33-44 PM.jpg",
+      "caption": "Stele of Esarhaddon over Taharqa at Mephis. Located at Pergamonmuseum, Berlin."
+    }
+  ],
+  "videos": []
 }

@@ -4,18 +4,35 @@
   "period": 2,
   "titleEn": "Japheth",
   "titleKa": null,
-  "datesEn": "2398–1798 BC (~600)",
+  "datesEn": "2398&ndash;1798 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;God shall enlarge&#34; or &#34;beauty.&#34; He is the eldest son of Noah (Gen. 10:21), and with his wife were two of only eight people saved in the ark. He is blessed with his brother Shem for covering his father&#39;s nakedness (Gen. 9:23&#8212;27).",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Noah&#39;s eldest son (Gen 10:21), born in the 500th year of Noah (chs 5:32 6:10). He was married at the time of the Flood (ch 7:7) but apparently had no children at that time (see 1 Pe 3:20). The only recorded incident concerning him tells of his and his brother Shem&#39;s effort to save the honor of their father, whom Ham treated with disrespect. For this the two received special blessings. <BR /><BR />It was predicted of Japheth that his descendants would occupy wide territories, and that they would &#34;dwell in the tents of Shem&#34; (Gen 9:20&#8212;27). Japheth became the progenitor of the Japhethite races among whom were the Medes, Ionians, and several nations who in OT times lived in what is now Asia Minor and southern Russia (ch 10:2&#8212;5).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 5:32",
+      "verses": [
+        {
+          "number": 32,
+          "line": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "noah",
+      "titleEn": "Noah",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/noah_and_helpers_build_ark_3_7-22-2013 2-36-48 PM.jpg",
-      "caption": ""
+      "file": "noah_and_helpers_build_ark_3_7-22-2013 2-36-48 PM.jpg",
+      "caption": "Noah, his wife, and his three sons: Shem, Ham and Japheth at the altar making a sacrifice to the Lord."
     }
-  ]
+  ],
+  "videos": []
 }

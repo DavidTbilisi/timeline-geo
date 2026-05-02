@@ -4,13 +4,35 @@
   "period": 7,
   "titleEn": "Omri Subdues Moabites",
   "titleKa": null,
-  "datesEn": "877 BC",
+  "datesEn": "877 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Omri conquers the Moabites as is shown by the Moabite Stone of King Mesha. Moab pays tribute to Omri&#39;s son Ahab as shown in 2 Kings 3:4.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "At this time Moab was situated directly east of the lower Jordan and the Dead Sea. The region was fruitful and well watered, and was, in the main, a great grazing country. Even today it is noted for its flocks and its herds. The king of Moab in those ancient times may be compared with a modern Arab sheik, whose wealth is estimated by the size of his flocks and the number of his cattle. <BR /><BR />The Israelites paid tribute to Moab. The record in 2 Kings 3:4 of Moab&#39;s servitude to Israel in the days of Mesha is corroborated by the Moabite Stone. That record tells of the oppression of Moab for many years by Omri and Ahab and of Mesha&#39;s successful revolt. The payment of tribute in kind was customary in the East at this time. The Assyrians often received tribute in cattle, horses, sheep, and other commodities. Jehoshaphat received as tribute from the Arabians &#34;seven thousand and seven hundred rams, and seven thousand and seven hundred he goats&#34; (2 Chron. 17:11).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 3:4",
+      "verses": [
+        {
+          "number": 4,
+          "line": "And Mesha king of Moab was a sheepmaster, and rendered unto the king of Israel an hundred thousand lambs, and an hundred thousand rams, with the wool."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "omri",
+      "titleEn": "Omri",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "378px-Mesha_stele_8-26-2013 5-38-45 PM.jpg",
+      "caption": "Mesha stele (also known as the &#34;Moabite Stone&#34;) in the Louvre Museum, Explorations in Bible Lands During the 19th Century. by H. V. Hilprecht, 1903"
+    }
+  ],
+  "videos": []
 }

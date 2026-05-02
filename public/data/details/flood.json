@@ -4,18 +4,68 @@
   "period": 2,
   "titleEn": "Flood",
   "titleKa": null,
-  "datesEn": "2298–2297 BC",
+  "datesEn": "2298&ndash;2297 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The great deluge of water that covered the entire earth at the time of Noah, it came as a judgment on the wicked people of the earth. It is recorded in Genesis 6 to 9. Seven days before the flood came, Noah and his family and animals were in the ark.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The tremendous extent and intensity of the Flood is well expressed by a graphic series of verbs and adverbs: the waters &#34;increased&#34; (v. 17), &#34;prevailed&#34; and &#34;increased greatly&#34; (v. 18), &#34;prevailed exceedingly&#34; (v. 19), and even &#34;prevailed&#34; 15 cubits (about 26 ft.) above the mountains (v. 20). The description is simple, majestic, and vivid. An immeasurable volume of water covered the whole earth. The universal extent of the Flood could hardly have been expressed in more forceful words than these. This description renders utterly foolish and impossible the view set forth by some that the Flood was a local affair in the Mesopotamian valley. Deposits of silt uncovered by archeologists at Ur of the Chaldees, for example, cannot by any stretch of the imagination be made to answer to the Genesis account of the Deluge.<BR /><BR />Everywhere over the surface of the earth we find fossil remains of plants and animals obviously deposited by water. These deposits extend, in certain localities, to depths of at least three miles, but the average depth is somewhat over half a mile. The universal distribution of these remains and the depth of their burial testify unmistakably to both the worldwide extent and the terrific violence of the Noachian Deluge.<BR /><BR />The universality of this catastrophe is also attested by the Flood legends preserved among the people of nearly every race on the face of the earth. Most complete among these accounts is that of the ancient Babylonians, who settled in close proximity to the place where the ark rested after the Flood and whence the human race again began to spread abroad. The Epic of Gilgamesh bears many conclusive similarities to that of Genesis, and yet differs from it in such a way as to prove it a corrupted version of the same story. A comparison of the two accounts presents impressive evidence of the inspiration of the Genesis narrative.<BR /><BR />The ark is mentioned twice in vs. 17 and 18 as being &#34;borne&#34; or &#34;lifted up.&#34; That it &#34;went&#34; with safety &#34;upon the face of the waters&#34; provides all future generations with assurance of God&#39;s ability to save those who trust and obey Him. The very elements loosed to destroy the wicked, safely bore up the faithful family of Noah. God is never at a loss for means to save His own. At the same time it is His will that man should exercise to the full the intelligence and strength God has given him. God miraculously preserved the ark, but He had Noah build it.",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 7:6-12",
+      "verses": [
+        {
+          "number": 6,
+          "line": "And Noah was six hundred years old when the flood of waters was upon the earth."
+        },
+        {
+          "number": 7,
+          "line": "And Noah went in, and his sons, and his wife, and his sons' wives with him, into the ark, because of the waters of the flood."
+        },
+        {
+          "number": 8,
+          "line": "Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creepeth upon the earth,"
+        },
+        {
+          "number": 9,
+          "line": "There went in two and two unto Noah into the ark, the male and the female, as God had commanded Noah."
+        },
+        {
+          "number": 10,
+          "line": "And it came to pass after seven days, that the waters of the flood were upon the earth."
+        },
+        {
+          "number": 11,
+          "line": "In the six hundredth year of Noah's life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened."
+        },
+        {
+          "number": 12,
+          "line": "And the rain was upon the earth forty days and forty nights."
+        }
+      ]
+    }
+  ],
   "related": [],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-flood_8-5-2013 3-57-56 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-flood_8-5-2013 3-57-56 PM.jpg",
+      "caption": "And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation. (Genesis 7:1)"
+    },
+    {
+      "file": "GoodSalt-prcas4705_8-7-2013 1-00-41 PM.jpg",
+      "caption": "And the rain was upon the earth forty days and forty nights. (Genesis 7:12)"
+    }
+  ],
+  "videos": [
+    {
+      "title": "When The Rocks Cry Out",
+      "caption": "The record of geology tells us there was a catastrophic flood.  Archaeology plays a key role in validating the Bible.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/ap22.mp4"
+    },
+    {
+      "title": "Genesis History: Through the Storm",
+      "caption": "This sermon speaks of Noah&#39;s ark and experience of the flood depicts the story of salvation. Historical evidence is given for a worldwide flood, legends from around the world. There is also geologic evidence and fossil evidence of a worldwide flood. Like the ark, Christ is the door of salvation. That door will not be open forever.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2130.mp4"
     }
   ]
 }

@@ -4,18 +4,96 @@
   "period": 4,
   "titleEn": "Joshua",
   "titleKa": null,
-  "datesEn": "1468–1358 BC (110)",
+  "datesEn": "1468&ndash;1358 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Jehovah is Savior&#34; or &#34;God is deliverer.&#34; He is the son of Nun from the tribe of Ephraim and successor to Moses as leader of Israel. Joshua is one of 12 spies into Canaan who come back with a good report. He leads Israel into Canaan.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Joshua. A son of Nun of the tribe of Ephraim (Num 13:8, 16). Except for Jochebed, Moses&#39; mother, Joshua was the first OT person to bear a name compounded with the divine name Yahweh. He was Moses&#39; military commander during the wilderness wanderings, and is first mentioned in connection with his victory over the Amalekites a few days before the Hebrews arrived at Mount Sinai (Ex 17:8&#8212;16). <BR /><BR />As Moses&#39; assistant or &#34;minister&#34; he accompanied Moses on the ascent of Mount Sinai (ch 24:13). At Kadesh&#8212;barnea, 2 years after the Exodus, Joshua represented the tribe of Ephraim on the expedition to spy out the Promised Land. He and Caleb alone returned with a favorable report (Num 13:8, RSV 14:6&#8212;9 cf. 14:7), and were therefore accorded the privilege of entering Canaan 38 years later (ch 14:30&#8212;38). Shortly before his death, Moses publicly inaugurated Joshua as his successor (Num 27:18&#8212;23 Deut 1:38 31:23). <BR /><BR />When Moses died, Joshua began immediate preparations to enter Canaan (Jos 1:10, 11). He dispatched 2 spies to secure a report on the state of affairs in Jericho (ch 2:1), and when preparations were complete led the people over the Jordan (Jos 4:10&#8212;19). After the capture of Jericho and Ai (chs 6 8), Joshua met and defeated one coalition of Canaanite kings at Gibeon, near Jerusalem (ch 10), and another at Hazor in the northern part of the country (ch 11). After these preliminary conquests, Joshua set about dividing the land of Canaan among the tribes (chs 13&#8212;21), his inheritance, by his own request, being at Timnath&#8212;serah in Mount Ephraim (ch 19:50). <BR /><BR />At the age of 110 he gathered Israel together, counseled them to be faithful to the Lord (ch 24:1&#8212;28), and died (vs 29, 30).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Numbers 13:8",
+      "verses": [
+        {
+          "number": 8,
+          "line": "Of the tribe of Ephraim, Oshea the son of Nun."
+        }
+      ]
+    },
+    {
+      "reference": "Joshua 24:29-30",
+      "verses": [
+        {
+          "number": 29,
+          "line": "And it came to pass after these things, that Joshua the son of Nun, the servant of the LORD, died, being an hundred and ten years old."
+        },
+        {
+          "number": 30,
+          "line": "And they buried him in the border of his inheritance in Timnathserah, which is in mount Ephraim, on the north side of the hill of Gaash."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "joshua-called-sun-moon-stand-still",
+      "titleEn": "Joshua Called, Sun & Moon Stand Still",
+      "titleKa": null
+    },
+    {
+      "slug": "joshua-claims-territory",
+      "titleEn": "Joshua Claims Territory",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-Joshua_8-5-2013 4-00-11 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-Joshua_8-5-2013 4-00-11 PM.jpg",
+      "caption": "Joshua Praying"
+    },
+    {
+      "file": "Joshua_5-7-2013 11-30-23 AM.jpg",
+      "caption": "Illustration of Joshua and the fall of Jericho"
+    },
+    {
+      "file": "Jericho from Cypros_5-7-2013 11-30-23 AM.jpg",
+      "caption": "The city of Jericho from Cypros"
+    },
+    {
+      "file": "Sinai mountains from Jebel Catherine panorama, tb062105045_5-7-2013 11-30-23 AM.jpg",
+      "caption": "Panoramic view of the Sinai mountains"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Joshua Part 1: A Courageous Heart",
+      "caption": "The first in a six part series on the life of Joshua. He is a great character for us to study for he was one of the few who made it all the way from Egypt to the Promised Land. Joshua loved to be in the presence of God.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2705.mp4"
+    },
+    {
+      "title": "Joshua Part 2: From Jordan to Jericho",
+      "caption": "The second in a six part series on Joshua. Here we move into the transition from Moses&#39; leadership to Joshua. This sermon focuses on the capture of Jericho.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2706.mp4"
+    },
+    {
+      "title": "Joshua Part 3: Covenant & Conquest",
+      "caption": "The third in a six part series on the life of Joshua. The experience of Israel in crossing Jordan and going to the Promised Land will be repeated in the last days. Is there an obstacle fortress blocking your entrance in heaven?",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2708.mp4"
+    },
+    {
+      "title": "Joshua Part 4: Troublemakers",
+      "caption": "This is the fourth in a series of six sermons on the life of Joshua. This sermon focuses on the disobedience of Achan which impacted the entire community of Israel. We are a family of God and we impact each other.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2709.mp4"
+    },
+    {
+      "title": "Joshua Part 5: The Gibeonites",
+      "caption": "The fifth in a six part series on the life of Joshua. This sermon focuses on the renewal of the covenant after destroying Ai. We also learn about the treaty with the Gibeonites which teaches us our desperate condition.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2711.mp4"
+    },
+    {
+      "title": "Joshua Part.6: Claiming the Promised Land",
+      "caption": "This is the last in a series of six sermons on the life of Joshua. The miracle of the sun standing still teaches us God will do miracles to provide us victory over sin. Joshua&#39;s conquests teach us that someday we will inherit the earth. ",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2712.mp4"
     }
   ]
 }

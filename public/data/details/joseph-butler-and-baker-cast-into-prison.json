@@ -4,13 +4,51 @@
   "period": 3,
   "titleEn": "Joseph - Butler and Baker Cast into Prison",
   "titleKa": null,
-  "datesEn": "1666 BC",
+  "datesEn": "1666 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "While Joseph is in prison, the king&#39;s butler and baker are cast into prison because they offended the king. The captain of the guard gives Joseph charge of them.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Some incident, apparently, had aroused Pharaoh&#39;s suspicion that either or both of the two high officials (his butler and baker) were involved in an attempt to poison him. That one of the two was later restored to office and the other executed indicates that investigation had convinced the king of the innocence of the one and the guilt of the other. These two high officials were committed to the custody of the commander of the royal bodyguard. <BR /><BR />This officer was Potiphar, the master and owner of Joseph, according to chs. 37:36 and 39:1. Potiphar placed them in the same state prison in which Joseph was held, and since their cases were still under investigation, and they themselves were high officers of state, he charged Joseph to wait upon them and act as their attendant.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 40:1-4",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt."
+        },
+        {
+          "number": 2,
+          "line": "And Pharaoh was wroth against two of his officers, against the chief of the butlers, and against the chief of the bakers."
+        },
+        {
+          "number": 3,
+          "line": "And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph was bound."
+        },
+        {
+          "number": 4,
+          "line": "And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "joseph",
+      "titleEn": "Joseph",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas0358_8-13-2013 2-55-50 PM.jpg",
+      "caption": "Joseph in prison with the butler and the baker"
+    },
+    {
+      "file": "Benjamin_Cuyp_Joseph_interpreting_dreams_1630-1652.jpg",
+      "caption": "Oil on panel of Joseph interpreting the dreams of the baker and the butler in 1630 by Benjamin Gerritsz. Cyup in Rijksmuseum Amsterdam"
+    }
+  ],
+  "videos": []
 }

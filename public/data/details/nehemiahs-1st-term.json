@@ -4,13 +4,35 @@
   "period": 8,
   "titleEn": "Nehemiah's 1st Term",
   "titleKa": null,
-  "datesEn": "444–432 BC",
+  "datesEn": "444&ndash;432 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Nehemiah is sent to Jerusalem under the authority of King Artaxerxes with letters to carry out the work of rebuilding the walls of the city and establish some basic government and religious organization. This is the first of two terms he serves.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Nehemiah 2:11",
+      "verses": [
+        {
+          "number": 11,
+          "line": "So I came to Jerusalem, and was there three days."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "nehemiah",
+      "titleEn": "Nehemiah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-nehemiah_8-6-2013 3-15-10 PM.jpg",
+      "caption": "Nehemiah"
+    }
+  ],
+  "videos": []
 }

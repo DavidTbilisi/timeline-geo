@@ -4,13 +4,48 @@
   "period": 3,
   "titleEn": "Pharez (or Perez)",
   "titleKa": null,
-  "datesEn": "1658–1568 BC",
+  "datesEn": "1658&ndash;1568 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;breach.&#34; One of twin sons of Judah through Tamar. Also spelled &#34;Perez,&#34; he is the firstborn and a scarlet thread is bound to his hand, though Zerah comes first. From him comes the royal line of David and thus he is an ancestor of Christ.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "One of the twin sons of Judah (Gen 38:27&#8212;29), and ancestor of a tribal family, the Perezites, KJV &#34;Pharzites&#34; and of 2 other tribal families, the Hezronites and Hamulites, which took their names from his 2 sons, Hezron and Hamul (Num 26:20, 21 1 Chr 2:4, 5). Perez was an ancestor of David (Ruth 4:18&#8212;22) and is listed in the genealogy of Jesus Christ (Mt 1:3, 6, 16).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 38:27-29",
+      "verses": [
+        {
+          "number": 27,
+          "line": "And it came to pass in the time of her travail, that, behold, twins were in her womb."
+        },
+        {
+          "number": 28,
+          "line": "And it came to pass, when she travailed, that the one put out his hand: and the midwife took and bound upon his hand a scarlet thread, saying, This came out first."
+        },
+        {
+          "number": 29,
+          "line": "And it came to pass, as he drew back his hand, that, behold, his brother came out: and she said, How hast thou broken forth? this breach be upon thee: therefore his name was called Pharez."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "judah",
+      "titleEn": "Judah",
+      "titleKa": null
+    },
+    {
+      "slug": "esrom-or-hezron",
+      "titleEn": "Esrom (or Hezron)",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Figures_Judah_Gives_his_Signet,_Bracelets_and_Staff_in_Pledge_to_Tamar_8-6-2013 11-32-26 AM.jpg",
+      "caption": "Judah and Tamar, Gerard Hoet and others, 1798"
+    }
+  ],
+  "videos": []
 }

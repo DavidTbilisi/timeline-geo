@@ -4,18 +4,244 @@
   "period": 9,
   "titleEn": "Christ's Early Ministry",
   "titleKa": null,
-  "datesEn": "27–28 AD",
+  "datesEn": "27&ndash;28 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After Jesus is baptized, He is led by the Spirit into the wilderness to be tempted. He then returns and begins public ministry: calling His first disciples, performing His first miracle, cleansing the Temple, taking a trip to Galilee, etc.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Matthew 4:1-11",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil."
+        },
+        {
+          "number": 2,
+          "line": "And when he had fasted forty days and forty nights, he was afterward an hungred."
+        },
+        {
+          "number": 3,
+          "line": "And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread."
+        },
+        {
+          "number": 4,
+          "line": "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God."
+        },
+        {
+          "number": 5,
+          "line": "Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,"
+        },
+        {
+          "number": 6,
+          "line": "And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone."
+        },
+        {
+          "number": 7,
+          "line": "Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God."
+        },
+        {
+          "number": 8,
+          "line": "Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;"
+        },
+        {
+          "number": 9,
+          "line": "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me."
+        },
+        {
+          "number": 10,
+          "line": "Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve."
+        },
+        {
+          "number": 11,
+          "line": "Then the devil leaveth him, and, behold, angels came and ministered unto him."
+        }
+      ]
+    },
+    {
+      "reference": "John 1:35-51",
+      "verses": [
+        {
+          "number": 35,
+          "line": "Again the next day after John stood, and two of his disciples;"
+        },
+        {
+          "number": 36,
+          "line": "And looking upon Jesus as he walked, he saith, Behold the Lamb of God!"
+        },
+        {
+          "number": 37,
+          "line": "And the two disciples heard him speak, and they followed Jesus."
+        },
+        {
+          "number": 38,
+          "line": "Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?"
+        },
+        {
+          "number": 39,
+          "line": "He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour."
+        },
+        {
+          "number": 40,
+          "line": "One of the two which heard John speak, and followed him, was Andrew, Simon Peter's brother."
+        },
+        {
+          "number": 41,
+          "line": "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ."
+        },
+        {
+          "number": 42,
+          "line": "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone."
+        },
+        {
+          "number": 43,
+          "line": "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me."
+        },
+        {
+          "number": 44,
+          "line": "Now Philip was of Bethsaida, the city of Andrew and Peter."
+        },
+        {
+          "number": 45,
+          "line": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph."
+        },
+        {
+          "number": 46,
+          "line": "And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see."
+        },
+        {
+          "number": 47,
+          "line": "Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!"
+        },
+        {
+          "number": 48,
+          "line": "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee."
+        },
+        {
+          "number": 49,
+          "line": "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel."
+        },
+        {
+          "number": 50,
+          "line": "Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these."
+        },
+        {
+          "number": 51,
+          "line": "And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man."
+        }
+      ]
+    },
+    {
+      "reference": "John 2:1-11",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:"
+        },
+        {
+          "number": 2,
+          "line": "And both Jesus was called, and his disciples, to the marriage."
+        },
+        {
+          "number": 3,
+          "line": "And when they wanted wine, the mother of Jesus saith unto him, They have no wine."
+        },
+        {
+          "number": 4,
+          "line": "Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come."
+        },
+        {
+          "number": 5,
+          "line": "His mother saith unto the servants, Whatsoever he saith unto you, do it."
+        },
+        {
+          "number": 6,
+          "line": "And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece."
+        },
+        {
+          "number": 7,
+          "line": "Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim."
+        },
+        {
+          "number": 8,
+          "line": "And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare it."
+        },
+        {
+          "number": 9,
+          "line": "When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,"
+        },
+        {
+          "number": 10,
+          "line": "And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: but thou hast kept the good wine until now."
+        },
+        {
+          "number": 11,
+          "line": "This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 4:14",
+      "verses": [
+        {
+          "number": 14,
+          "line": "And Jesus returned in the power of the Spirit into Galilee: and there went out a fame of him through all the region round about."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jesus",
+      "titleEn": "Jesus",
+      "titleKa": null
+    },
+    {
+      "slug": "john-the-baptists-ministry",
+      "titleEn": "John the Baptist's Ministry",
+      "titleKa": null
+    },
+    {
+      "slug": "baptism-of-christ",
+      "titleEn": "Baptism of Christ",
+      "titleKa": null
+    },
+    {
+      "slug": "christs-wilderness-temptations",
+      "titleEn": "Christ's Wilderness Temptations",
+      "titleKa": null
+    },
+    {
+      "slug": "jesus-declared-the-lamb-of-god",
+      "titleEn": "Jesus Declared the \"Lamb of God\"",
+      "titleKa": null
+    },
+    {
+      "slug": "first-disciples-called",
+      "titleEn": "First Disciples Called",
+      "titleKa": null
+    },
+    {
+      "slug": "wedding-feast-at-cana",
+      "titleEn": "Wedding Feast at Cana",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-prcas2553_8-6-2013 4-34-53 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-prcas2553_8-6-2013 4-34-53 PM.jpg",
+      "caption": "After Jesus is baptized, He is led by the Spirit into the wilderness to be tempted."
+    },
+    {
+      "file": "GoodSalt-pppas0482_8-28-2013 2-52-24 PM.jpg",
+      "caption": "Jesus&#39; first miracle, turning water into wine."
+    },
+    {
+      "file": "GoodSalt-prcas4105_8-28-2013 2-52-24 PM.jpg",
+      "caption": "Jesus cleans the temple."
     }
-  ]
+  ],
+  "videos": []
 }

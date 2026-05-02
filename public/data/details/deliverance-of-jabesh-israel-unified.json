@@ -4,13 +4,43 @@
   "period": 6,
   "titleEn": "Deliverance of Jabesh, Israel Unified",
   "titleKa": null,
-  "datesEn": "1010 BC",
+  "datesEn": "1010 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After Saul&#39;s death, the Philistines hang his body, and his sons&#39;, on the wall of Beth Shan. The men of Jabesh Gilead hear what happened and travel all night and take the bodies down and burn them, bury them, and then fast for seven days.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Remembering that Saul had wrought so wonderfully for the deliverance of this city, the elders felt it a privilege to do honor to the body of their rescuer. Misfortune, defeat, and death all bring to light the hidden sympathies in the hearts of men, and reveal their noblest sentiments. The inhabitants of Jabesh&#8212;gilead demonstrated unabated loyalty to their fallen leader. Having accorded his body and the bodies of his sons a respectable burial, they observed a brief period of mourning.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Samuel 31:11-13",
+      "verses": [
+        {
+          "number": 11,
+          "line": "And when the inhabitants of Jabeshgilead heard of that which the Philistines had done to Saul;"
+        },
+        {
+          "number": 12,
+          "line": "All the valiant men arose, and went all night, and took the body of Saul and the bodies of his sons from the wall of Bethshan, and came to Jabesh, and burnt them there."
+        },
+        {
+          "number": 13,
+          "line": "And they took their bones, and buried them under a tree at Jabesh, and fasted seven days."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "saul",
+      "titleEn": "Saul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas0669_8-22-2013 1-43-26 PM.jpg",
+      "caption": "The death of King Saul."
+    }
+  ],
+  "videos": []
 }

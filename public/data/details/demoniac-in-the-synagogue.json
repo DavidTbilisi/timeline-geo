@@ -4,13 +4,100 @@
   "period": 9,
   "titleEn": "Demoniac in the Synagogue",
   "titleKa": null,
-  "datesEn": "29 AD",
+  "datesEn": "29 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "While in Capernaum, Jesus enters the synagogue and is teaching the people when a man appears who is demon possessed. Christ rebukes the demon and it leaves him. All the people are amazed at His authority and power.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "While teaching in the synagogue of Capernaum one Sabbath a demoniac began to cry out at Jesus. People were listening and astonished at Christ&#39;s teaching. The demoniac&#39;s interruption occurred at the point where Christ was speaking of His mission to set free those who were slaves of sin and of Satan. In this experience Christ was brought once more face to face with the enemy whom He had defeated in the wilderness of temptation. The audience was listening intently to the message Christ bore, and Satan designed in this way to divert the attention of the people from the truth that was finding fertile ground in at least some of their hearts.<BR /><BR />The evil spirit hailed Jesus as One who was in particularly close relationship to God. At other times demons addressed Him as the &#34;Son of God&#34; (Matt. 8:29 Luke 8:28), the very title that led the Jewish leaders to desire His death (John 5:17, 18) and eventually to condemn Him. Jesus &#34;censured&#34; the evil spirit without, however, bringing a &#34;railing accusation&#34; against him (see Jude 9). The rebuke appears to have been administered because the spirit addressed Him as the Messiah. Jesus well knew that an open claim to the Messiahship at this time would only prejudice many minds against Him. Furthermore, the turbulent political situation in Palestine produced many false messiahs, who proposed to lead their countrymen in revolt against Rome and Jesus sought to avoid being considered a political messiah in the popular sense. This would have blinded the people to the true nature of His mission and have offered the authorities a pretext for silencing His labors.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Mark 1:21-28",
+      "verses": [
+        {
+          "number": 21,
+          "line": "And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught."
+        },
+        {
+          "number": 22,
+          "line": "And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes."
+        },
+        {
+          "number": 23,
+          "line": "And there was in their synagogue a man with an unclean spirit; and he cried out,"
+        },
+        {
+          "number": 24,
+          "line": "Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God."
+        },
+        {
+          "number": 25,
+          "line": "And Jesus rebuked him, saying, Hold thy peace, and come out of him."
+        },
+        {
+          "number": 26,
+          "line": "And when the unclean spirit had torn him, and cried with a loud voice, he came out of him."
+        },
+        {
+          "number": 27,
+          "line": "And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine is this? for with authority commandeth he even the unclean spirits, and they do obey him."
+        },
+        {
+          "number": 28,
+          "line": "And immediately his fame spread abroad throughout all the region round about Galilee."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 4:31-37",
+      "verses": [
+        {
+          "number": 31,
+          "line": "And came down to Capernaum, a city of Galilee, and taught them on the sabbath days."
+        },
+        {
+          "number": 32,
+          "line": "And they were astonished at his doctrine: for his word was with power."
+        },
+        {
+          "number": 33,
+          "line": "And in the synagogue there was a man, which had a spirit of an unclean devil, and cried out with a loud voice,"
+        },
+        {
+          "number": 34,
+          "line": "Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art; the Holy One of God."
+        },
+        {
+          "number": 35,
+          "line": "And Jesus rebuked him, saying, Hold thy peace, and come out of him. And when the devil had thrown him in the midst, he came out of him, and hurt him not."
+        },
+        {
+          "number": 36,
+          "line": "And they were all amazed, and spake among themselves, saying, What a word is this! for with authority and power he commandeth the unclean spirits, and they come out."
+        },
+        {
+          "number": 37,
+          "line": "And the fame of him went out into every place of the country round about."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "galilean-ministry",
+      "titleEn": "Galilean Ministry",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Possessed_Man_in_the_Synagogue_8-1-2013 10-36-12 AM.jpg",
+      "caption": "&#34;Possessed Man in the Synagogue&#34; James Tissot"
+    },
+    {
+      "file": "Capernaum synagogue interior, tb102602011 copy_3-20-2013 10-58-21 AM.jpg",
+      "caption": "Capernaum synagogue interior"
+    }
+  ],
+  "videos": []
 }

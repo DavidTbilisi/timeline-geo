@@ -4,13 +4,54 @@
   "period": 3,
   "titleEn": "Zilpah",
   "titleKa": null,
-  "datesEn": "1722–1665 BC",
+  "datesEn": "1722&ndash;1665 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Her name means &#34;drooping.&#34; She is the handmaid of Leah and, as was customary, was given to Jacob as a concubine to bear more children. She became the mother of Gad and Asher.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A maidservant of [Laban] given to his daughter Leah when she married Jacob (Gen 29:24). Following the example of her sister Rachel, Leah gave Zilpah to her husband as a concubine to obtain more sons through her. Zilpah became the mother of Gad and of Asher (chs 30:3, 9&#8212;13 35:26 46:16&#8212;18).",
   "articleKa": null,
-  "scriptures": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 29:24",
+      "verses": [
+        {
+          "number": 24,
+          "line": "And Laban gave unto his daughter Leah Zilpah his maid for an handmaid."
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 30:9-13",
+      "verses": [
+        {
+          "number": 9,
+          "line": "When Leah saw that she had left bearing, she took Zilpah her maid, and gave her Jacob to wife."
+        },
+        {
+          "number": 10,
+          "line": "And Zilpah Leah's maid bare Jacob a son."
+        },
+        {
+          "number": 11,
+          "line": "And Leah said, A troop cometh: and she called his name Gad."
+        },
+        {
+          "number": 12,
+          "line": "And Zilpah Leah's maid bare Jacob a second son."
+        },
+        {
+          "number": 13,
+          "line": "And Leah said, Happy am I, for the daughters will call me blessed: and she called his name Asher."
+        }
+      ]
+    }
+  ],
   "related": [],
-  "images": []
+  "images": [
+    {
+      "file": "GoodSalt-smcas0151_8-5-2013 5-37-55 PM.jpg",
+      "caption": ""
+    }
+  ],
+  "videos": []
 }

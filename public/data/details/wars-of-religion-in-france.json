@@ -2,15 +2,31 @@
   "slug": "wars-of-religion-in-france",
   "id": 1376,
   "period": 12,
-  "titleEn": "Wars of Religion in France",
+  "titleEn": "Wars of Religion in France ",
   "titleKa": null,
-  "datesEn": "1563–1598 AD",
+  "datesEn": "1563&ndash;1598 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Wars between Catholics and Huguenots over their differing faiths. Although intermittent, they lasted for more than three decades.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "As Protestant churches continued to organize and pastors continued to return from Geneva Academy, the religious background of France began to drastically change.<BR /><BR />Between 1550 and 1565, about 1,200 Protestant churches had been formed, which served approximately two million believers. These Protestants, known as Huguenots, were a significant threat to Catholicism in France. Violent outbreaks began to occur in 1562; when the Duke of Guise, a Catholic, was assassinated in March 1563, religious peace was shattered. War between the Catholics and Huguenots continued for more than 30 years in intermittent fashion.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Légended'Henri_III_8-7-2013 9-26-43 AM.jpg",
+      "caption": "Assassination of the Duke of Guise, Artist: Unknown"
+    },
+    {
+      "file": "duke-guise_8-7-2013 9-26-43 AM.jpg",
+      "caption": "The Duke of Guise during the day of the barricades, Paul Lehugeur"
+    }
+  ],
+  "videos": []
 }

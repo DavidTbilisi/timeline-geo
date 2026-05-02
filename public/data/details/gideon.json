@@ -4,18 +4,59 @@
   "period": 5,
   "titleEn": "Gideon",
   "titleKa": null,
-  "datesEn": "1252–1152 BC (~100)",
+  "datesEn": "1252&ndash;1152 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;hewer&#34; or &#34;feller.&#34; He is the son of Joash of the family of Abiezer. He is from Ophrah in western Manasseh and becomes a judge and deliverer of Israel against the Midianites. God calls him and he lays out a fleece to confirm this calling.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Gideon. A judge and deliverer of the Hebrews, son of Joash of the family of Abiezer, living at Ophrah in western Manasseh (Jgs 6:11). During an oppression by the Midianites, Gideon, while threshing wheat in the wine press at Ophrah to hide his harvest from the Midianites, was called by an angel of the Lord to deliver Israel. He responded with a sacrifice, and the following night threw down the local altar of Baal and built one dedicated to Yahweh (Jgs 6:12&#8212;27). <BR /><BR />The enraged local inhabitants protested violently and demanded Gideon&#39;s death, but his father defended him by insisting that Baal should be able to defend himself. It was this event that won for Gideon the name Jerubbaal. Later, when the word &#34;Baal&#34; was abhorred, this name was changed to a Jerubbesheth.<BR /><BR />After having received his divine appointment Gideon summoned the men of Manasseh, Asher, Zebulun, and Naphtali for an attack against the Midianites (Jgs 6:33&#8212;35). Then, becoming fearful, he requested a confirmation of his divine call, which was granted him (vs 36&#8212;40). So that the people might recognize that the victory would not be the result of human resourcefulness or strength, God directed that the fighting forces be reduced, with the result that all but 300 men were eliminated. <BR /><BR />With the 300 men, blowing their horns, shouting, and breaking the jars in which they had concealed torches, Gideon attacked at night. Caught by surprise, the Midianites fell into confusion, every soldier fighting his fellow soldier, and then the army fled. The Ephraimites, instructed by Gideon to block the escape routes at the Jordan, caught two of the Midianite princes and sent their heads to Gideon. Gideon continued the pursuit across the Jordan, capturing and killing two more Midianite princes (chs 7:1 to 8:21). This notable victory later became known as the &#34;day of Midian&#34; (Is 9:4 cf. 10:26 Ps 83:11).<BR /><BR />Gideon refused the people&#39;s offer to make him king, recognizing that God was their only king (Jgs 8:22, 23). He acted foolishly, however, by making an ephod of the jewelry brought by the Israelites, displaying it in his hometown of Ophrah. This ephod became an object of worship and a means of seduction to idolatry (vs 24&#8212;27). He had a large harem and seems to have lived on a grand scale. After a judgeship of 40 years, he died at an advanced age and was buried at Ophrah (vs 28, 32). After Gideon&#39;s death Abimelech, his son by a concubine, slew all but one of the sons of Gideon and made himself king (vs 30, 31 ch 9:1&#8212;6).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Judges 6:11",
+      "verses": [
+        {
+          "number": 11,
+          "line": "And there came an angel of the LORD, and sat under an oak which was in Ophrah, that pertained unto Joash the Abiezrite: and his son Gideon threshed wheat by the winepress, to hide it from the Midianites."
+        }
+      ]
+    },
+    {
+      "reference": "Judges 8:32",
+      "verses": [
+        {
+          "number": 32,
+          "line": "And Gideon the son of Joash died in a good old age, and was buried in the sepulchre of Joash his father, in Ophrah of the Abiezrites."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "shechem-destroyed",
+      "titleEn": "Shechem Destroyed",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/507px-Gideon_Squeezed_the_Fleece_001_8-6-2013 3-34-47 PM.jpg",
-      "caption": ""
+      "file": "507px-Gideon_Squeezed_the_Fleece_001_8-6-2013 3-34-47 PM.jpg",
+      "caption": "Gideon&#39;s fleece"
+    },
+    {
+      "file": "Giedon_5-6-2013 4-05-59 PM.jpg",
+      "caption": "Gideon&#39;s present is consumed with fire."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Gideon, Part 1: Calling the Courageous",
+      "caption": "This sermon on Gideon is called &#34;The Calling of the Courageous.&#34; Israel did not stay faithful to the Lord and they suffered. But God called Gideon to deliver His people. Gideon is a type of Christ. He is called in the context of the bread and wine.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2333.mp4"
+    },
+    {
+      "title": "Gideon, Part 2: A Few Good Men",
+      "caption": "The second in a two part series on the life of Gideon, a simple man called by God to lead a small army to victory. The Lord is not looking for quantity by quality of people to serve Him. A three-fold union is harassing the Israelites. The story depicts the spiritual battles we will all face at the end of time. Numbers will not depict what is the truth.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2334.mp4"
     }
   ]
 }

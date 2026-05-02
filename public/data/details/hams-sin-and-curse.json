@@ -4,13 +4,67 @@
   "period": 2,
   "titleEn": "Ham's Sin and Curse",
   "titleKa": null,
-  "datesEn": "2297 BC",
+  "datesEn": "2297 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After the flood, Noah builds a vineyard and becomes drunk. Ham discovers his father uncovered and tells his brothers who then cover their father. Noah then pronounces a curse on Ham for his reaction to his father&#39;s shame. The curse falls on Canaan.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "That Ham is again called the father of Canaan seems to imply that both father and son had similar unholy inclinations that revealed themselves, not only in the incident described here, but later in the religious practices of a whole nation. Furthermore, it shows that the event took place some time after the Flood, when Canaan, the fourth son of Ham (ch. 10:6), was already born. The sin of Ham was not an unintentional transgression. He may have seen his father&#39;s shameful condition accidentally, but instead of being filled with sorrow over his father&#39;s folly, he rejoiced in what he saw and found delight in publishing it.<BR /><BR />The curse being pronounced on Canaan, Ham&#39;s fourth son, rather than on the perpetrator of the crime himself, has been taken by many commentators as evidence that Canaan had really been the culprit and not Ham, and that he is meant in v. 24 as the youngest member of the Noachic family. The church Father Origen mentions the tradition that Canaan first saw the shame of his grandfather, and told it to his father. It is not impossible that Canaan had shared in his father&#39;s evil deed. Noah&#39;s curse does not seem to have been pronounced resentment, but rather as a prophecy. <BR /><BR />The prophecy does not fix Canaan in particular or Ham&#39;s sons in general in the bonds of an iron destiny. It is merely a prediction of what God foresaw and announced through Noah. Presumably Canaan already walked in the sins of his father, and those sins became such a strong feature in the national character of Canaan&#39;s descendants that God later ordered their destruction.<BR /><BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 9:20-27",
+      "verses": [
+        {
+          "number": 20,
+          "line": "And Noah began to be an husbandman, and he planted a vineyard:"
+        },
+        {
+          "number": 21,
+          "line": "And he drank of the wine, and was drunken; and he was uncovered within his tent."
+        },
+        {
+          "number": 22,
+          "line": "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without."
+        },
+        {
+          "number": 23,
+          "line": "And Shem and Japheth took a garment, and laid it upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces were backward, and they saw not their father's nakedness."
+        },
+        {
+          "number": 24,
+          "line": "And Noah awoke from his wine, and knew what his younger son had done unto him."
+        },
+        {
+          "number": 25,
+          "line": "And he said, Cursed be Canaan; a servant of servants shall he be unto his brethren."
+        },
+        {
+          "number": 26,
+          "line": "And he said, Blessed be the LORD God of Shem; and Canaan shall be his servant."
+        },
+        {
+          "number": 27,
+          "line": "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ham",
+      "titleEn": "Ham",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "carolsfeld-Noah_speaks_against_Ham_7-31-2013 11-25-40 AM.jpg",
+      "caption": "Noah speaking against Ham.  Artist:  Julius Schnorr von Carolsfeld, c. 1851-1860 "
+    },
+    {
+      "file": "Vineyard_5-20-2013 5-31-29 PM.jpg",
+      "caption": "After the flood, Noah builds a vineyard and becomes drunk."
+    }
+  ],
+  "videos": []
 }

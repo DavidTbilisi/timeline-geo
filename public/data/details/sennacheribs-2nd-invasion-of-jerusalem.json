@@ -4,18 +4,39 @@
   "period": 7,
   "titleEn": "Sennacherib's 2nd Invasion of Jerusalem",
   "titleKa": null,
-  "datesEn": "689 BC",
+  "datesEn": "689 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "In a second campaign against Jerusalem the prophet Isaiah prophesies against Sennacherib. His army is met with disastrous loss. Herodotus wrote later that some believe huge numbers of mice brought a plague to the army.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 19:35",
+      "verses": [
+        {
+          "number": 35,
+          "line": "And it came to pass that night, that the angel of the LORD went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they were all dead corpses."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "sennacherib",
+      "titleEn": "Sennacherib",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Sennacherib_4-2-2013 3-52-27 PM.jpg",
-      "caption": ""
+      "file": "Sennacherib_4-2-2013 3-52-27 PM.jpg",
+      "caption": "Sennacherib during his Babylonian war, relief from his palace in Nineveh. Located in the public domain. "
+    },
+    {
+      "file": "Herodotus_4-2-2013 3-52-27 PM.jpg",
+      "caption": "Herodotus statue for the parliament in Vienna."
     }
-  ]
+  ],
+  "videos": []
 }

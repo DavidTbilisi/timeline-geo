@@ -4,13 +4,40 @@
   "period": 7,
   "titleEn": "Eliezer",
   "titleKa": null,
-  "datesEn": "729–647 BC",
+  "datesEn": "729&ndash;647 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;my God is a helper.&#34; He is the son of Jorim and a Judahite listed in Luke&#39;s geneaology of Jesus Christ.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:29",
+      "verses": [
+        {
+          "number": 29,
+          "line": "Which was the son of Jose, which was the son of Eliezer, which was the son of Jorim, which was the son of Matthat, which was the son of Levi,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jorim",
+      "titleEn": "Jorim",
+      "titleKa": null
+    },
+    {
+      "slug": "jose",
+      "titleEn": "Jose",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-wjpas0014_8-21-2013 2-45-05 PM.jpg",
+      "caption": "Ancestor of Jesus"
+    }
+  ],
+  "videos": []
 }

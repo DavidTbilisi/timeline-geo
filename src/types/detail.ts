@@ -14,6 +14,12 @@ export interface RelatedEvent {
   titleKa: string | null
 }
 
+export interface Video {
+  title: string
+  caption: string
+  filename: string
+}
+
 export interface EventDetail {
   slug: string
   id: number
@@ -29,4 +35,5 @@ export interface EventDetail {
   scriptures: Scripture[]
   related: RelatedEvent[]
   images: EventImage[]
+  videos: Video[]
 }

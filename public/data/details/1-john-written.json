@@ -4,13 +4,39 @@
   "period": 10,
   "titleEn": "1 John Written",
   "titleKa": null,
-  "datesEn": "90 AD",
+  "datesEn": "90 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The clear style and simple Greek used in 1 John show clear ties to the writer as John, the son of Zebedee, and a disciple of Jesus. References he makes to &#34;little children&#34; and being spoken of as &#34;the elder&#34; point to a writing date late in his life.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "It appears that it is impossible from internal evidence to come to any firm conclusion as to the relative dating of the two works. It is clear, however, that the epistle was written by an elderly man who could rightly address his converts as &#34;little children&#34; chs.chs. chapters 2:1, 12, 18, 28 3:7, 18 4:4 5:21. The destination of the letter is not stated, but it is obviously addressed to a known group of Christians with whom the revered author was personally acquainted. No conclusive reason has yet been advanced for rejecting the widely held tradition that it was written by John in his old age to believers Ephesus, or at least in Asia Minor, where he had ministered. The date of writing is probably during the first half of the nineties of the 1st century a.d.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 John 2:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "john",
+      "titleEn": "John",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Prophet_2-28-2013 10-12-23 AM.jpg",
+      "caption": "Drawing of John on the island of Patmos."
+    },
+    {
+      "file": "759px-Tomb_of_St_John_2-28-2013 10-12-23 AM.jpg",
+      "caption": "The traditional tomb of St. John at Ephesus, Turkey."
+    }
+  ],
+  "videos": []
 }

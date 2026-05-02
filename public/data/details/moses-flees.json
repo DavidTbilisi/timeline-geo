@@ -4,13 +4,63 @@
   "period": 4,
   "titleEn": "Moses Flees",
   "titleKa": null,
-  "datesEn": "1486 BC",
+  "datesEn": "1486 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "One day Moses, as a grown man, goes to see his &#34;brethren&#34; and observes an Egyptian beating a Hebrew. Moses kills the Egyptian and buries him in the sand. Word gets out and Pharaoh seeks to kill Moses who flees to Midian.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Sacred Record passes over almost 30 years of Moses&#39; life in silence. The next recorded event is of an incident that took place when he was 40 years old (Acts 7:23). The years of his youth were spent under royal tutors, who imparted to him &#34;all the wisdom of the Egyptians&#34; (Acts 7:22). Some of his education he received from the priests, and some from army commanders. Such was the training ordinarily given a royal prince. <BR /><BR />Since Moses was &#34;mighty in words and in deeds&#34; (Acts 7:22), it would not be amiss to assume that he led important military expeditions to foreign countries. However, he did not become an Egyptian at heart. His outward appearance, his dress, his speech, and his behavior may have been completely Egyptian, but he remained a Hebrew in character, religion, and loyalty. This is clear from the events narrated in Ex. 2:11&#8212;13 (see Heb. 11:24).<BR /><BR />Moses had come to the point in his life when he realized that he must either become an Egyptian, without reservation, or side with his despised people. It seems that prior to this occasion he had made the decision &#34;to suffer affliction with the people of God&#34; (Heb. 11:25) and considered himself the chosen instrument for this task (Acts 7:23&#8212;25). He thought himself ready at last to leave the court with its &#34;pleasures of sin,&#34; to abandon the prospect of succession to the throne, and to step forth boldly to champion the cause of his oppressed people. <BR /><BR />From Acts 7:23 it is clear that Moses went to the land of Goshen for the purpose of studying the situation and laying plans. That in his mind he had relinquished all claim to the throne of Egypt is evidence that his motives were not selfish. He was impelled, rather, by sincere love for his people and hatred for their oppressors, a fact emphasized by the term &#34;brethren,&#34; used twice in Ex. 2:11.<BR /><BR />Moses saw an Egyptian. This was probably one of the taskmasters mentioned in ch. 1:11 or one of the overseers employed by them. Such persons are represented on Egyptian monuments as armed with long wooden sticks, which they used freely on the backs of idlers. Their authority was no doubt frequently abused, and chastisement was no doubt inflicted for the slightest fault or for no fault at all. Authority often degenerates into tyranny and cruel oppression, and as an instance of such abuse of power this incident excited the anger of Moses (Acts 7:24). <BR /><BR />Observing that there were no others to witness the deed, he killed the Egyptian. That the overseer continued beating the Hebrew workman as Moses approached shows that higher officials generally approved of such abuse of authority on the part of their subordinates. Moses&#39; action cannot be condoned, though it was no doubt prompted by righteous indignation. Although an able military leader and a favorite with the armies of Egypt, he was lacking in certain qualities of leadership essential for service in the cause of God.<BR /><BR />Moses hoped the Hebrews would accept his leadership and support him in a general uprising against the Egyptians. Though it had been revealed to the elders of Israel that Moses was to be their deliverer, &#34;they understood not&#34; (Acts 7:25). The fact that he spent more than one day among his own people suggests that this was more than a casual visit. His return to the vicinity of the incident suggests that he considered the time ripe for revolt. <BR /><BR />The strife Moses witnessed upon his second visit among his people was one in which blows were exchanged, and he felt it his duty to persuade the two men to refrain from further combat. By interposing here Moses certainly did what was right. Having renounced his allegiance to Egypt by his deed the day before, to be rejected now by his own people left Moses in a dangerous predicament. He was alone and without friends.<BR /><BR />Moses&#39; flight was certainly not an easy one. The eastern border of Egypt was guarded from the Mediterranean Sea to the Gulf of Suez by a system of manned towers, each in sight of the next. An Egyptian story parallel to the flight of Moses, that of Sinuhe, shows how difficult an escape into Asia really was. Sinuhe, a courtier of King Amenemhet I, for some reason unknown to us, felt at the king&#39;s death that his own life was in danger, and accordingly fled to Syria, where he spent many years as an exile. He gives a vivid description of the dangers connected with crossing the frontier. <BR /><BR />Crouching for some time in a bush, lest the watchmen see him, he crossed at night. Pressing on into the desert, he would have perished of thirst except for certain Asiatics who found him and gave him water and boiled milk to drink. We have no record of the hardships Moses suffered during his flight, but it is not amiss to assume that it was a trying experience for one who had thus far known only the luxuries of court life and was unacquainted with hardship.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Exodus 2:11-15",
+      "verses": [
+        {
+          "number": 11,
+          "line": "And it came to pass in those days, when Moses was grown, that he went out unto his brethren, and looked on their burdens: and he spied an Egyptian smiting an Hebrew, one of his brethren."
+        },
+        {
+          "number": 12,
+          "line": "And he looked this way and that way, and when he saw that there was no man, he slew the Egyptian, and hid him in the sand."
+        },
+        {
+          "number": 13,
+          "line": "And when he went out the second day, behold, two men of the Hebrews strove together: and he said to him that did the wrong, Wherefore smitest thou thy fellow?"
+        },
+        {
+          "number": 14,
+          "line": "And he said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? And Moses feared, and said, Surely this thing is known."
+        },
+        {
+          "number": 15,
+          "line": "Now when Pharaoh heard this thing, he sought to slay Moses. But Moses fled from the face of Pharaoh, and dwelt in the land of Midian: and he sat down by a well."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "moses",
+      "titleEn": "Moses",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas2744_8-7-2013 2-13-56 PM.jpg",
+      "caption": "Moses stopping the abuse of a Hebrew slave."
+    },
+    {
+      "file": "GoodSalt-prcas0455_8-7-2013 2-13-56 PM.jpg",
+      "caption": "Moses at the well in Midian."
+    },
+    {
+      "file": "Lisht pyramid of Amenemhat I from southeast, tb010705966_5-7-2013 11-36-34 AM.jpg",
+      "caption": "Lisht pyramid of Amenemhet I"
+    },
+    {
+      "file": "Bridge over Suez Canal, tb110300243_5-7-2013 11-36-34 AM.jpg",
+      "caption": "Gulf of Suez"
+    }
+  ],
+  "videos": []
 }

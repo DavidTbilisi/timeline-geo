@@ -4,18 +4,51 @@
   "period": 5,
   "titleEn": "Prophetic Call of Samuel",
   "titleKa": null,
-  "datesEn": "1143 BC",
+  "datesEn": "1143 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Samuel &#34;ministered before the Lord, even as a child&#34; (1 Sam. 2:18) and later gives his prophecy as a child speaking against the wickedness of Eli&#39;s sons (3:18&#8212;21).",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "When Samuel was a child, he was given to serve the Lord at the temple and lived with Eli. One night he came to Eli three times when he though the priest called him. The third time the aged priest perceived that it was God who spoke. That the Lord should pass him by to communicate with a mere youth might easily have created in his heart a spirit of professional jealousy. <BR /><BR />Remembering the message of the man of God in past years, however, Eli may have concluded that the message was for him and could have reasoned that the Lord should have revealed it to him directly. Eli&#39;s honesty in dealing with Samuel under these conditions is greatly to be admired. Realizing, perhaps for the first time, that God was preparing another to fill his office, he felt no grudge, but on the contrary did his utmost to prepare Samuel for his important post by giving the lad the best counsel he had. <BR /><BR />Samuel was instructed to think of himself as the Lord&#39;s servant, ready to hear His counsel and to do His bidding. What a lesson in Eli&#39;s experience for those who are fearful lest they do not receive the honor their office demands, and lest the hands of other men replace theirs at the tasks required of that office<BR /><BR />Since it was a new experience for young Samuel, the Lord graciously manifested His presence in some definite way not described in detail. Ere a word was spoken, both the old priest and his young assistant had ample proof of the presence of a supernatural power, and like children instructed by their parents, both were brought by the Holy Spirit to the place where they were willing to listen and obey. <BR /><BR />Such would not have been true had the word of the Lord come to such as Hophni. The question may well be asked: Why did the Lord not speak to Eli directly? Eli seems to have been a sincere, humble man, one who desired peace and righteousness above all else. Why, therefore, bring Samuel into the case? But God no longer communicated with Eli and his sons.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Samuel 3:18-21",
+      "verses": [
+        {
+          "number": 18,
+          "line": "And Samuel told him every whit, and hid nothing from him. And he said, It is the LORD: let him do what seemeth him good."
+        },
+        {
+          "number": 19,
+          "line": "And Samuel grew, and the LORD was with him, and did let none of his words fall to the ground."
+        },
+        {
+          "number": 20,
+          "line": "And all Israel from Dan even to Beersheba knew that Samuel was established to be a prophet of the LORD."
+        },
+        {
+          "number": 21,
+          "line": "And the LORD appeared again in Shiloh: for the LORD revealed himself to Samuel in Shiloh by the word of the LORD."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "samuel",
+      "titleEn": "Samuel",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-pppas0257_8-13-2013 3-55-25 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-pppas0257_8-13-2013 3-55-25 PM.jpg",
+      "caption": "And the LORD came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth. (1 Samuel 3:10)"
+    },
+    {
+      "file": "490px-Samuel_Speaks_to_Eli_003_8-6-2013 3-55-12 PM.jpg",
+      "caption": "Samuel&#39;s Call"
     }
-  ]
+  ],
+  "videos": []
 }

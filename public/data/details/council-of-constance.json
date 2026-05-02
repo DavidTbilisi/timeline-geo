@@ -2,15 +2,27 @@
   "slug": "council-of-constance",
   "id": 1316,
   "period": 11,
-  "titleEn": "Council of Constance",
+  "titleEn": "Council of Constance ",
   "titleKa": null,
-  "datesEn": "1414–1418 AD",
+  "datesEn": "1414&ndash;1418 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "An ecumenical council held from 1414 to 1418. It ended the Great Papal Schism and elected Pope Martin V. Also condemned and executed John Huss.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Council of Constance officially opened on November 5, 1414, and lasted three&#8212;and&#8212;a&#8212;half years. In total, it consisted of 45 full sessions, along with other various committee meetings and various gatherings. The council was heavily attended and represented every part of Christendom. In addition to numerous delegates, 29 cardinals, 3 patriarchs, 33 archbishops, 150 bishops, more than 100 abbots, and around 300 theologians attended the council at some point.<BR /><BR />The council was monumental on several accounts. First, it was voted that the supreme authority of the church rested in the ecumenical council. Second, the pope is always subject to the judgment on the ecumenical council. Third, it is possible for a pope to err and even become a heretic. Lastly, the pope can be removed from office if they fail to serve the church.<BR /><BR />In addition to limiting papal power, Constance also ended the Great Papal Schism (during which there were three rival popes) by deposing previous claimants and electing Martin V as the new pope, declared John Wycliffe a heretic 31 years after his death, and condemned John Huss for heresy and burned him at the stake.",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "92822597_2-26-2013 5-30-11 PM.jpg",
+      "caption": "Council of Constance, 1417."
+    }
+  ],
+  "videos": []
 }

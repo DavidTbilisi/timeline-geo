@@ -4,18 +4,44 @@
   "period": 7,
   "titleEn": "Zechariah",
   "titleKa": null,
-  "datesEn": "776–752 BC (~24)",
+  "datesEn": "776&ndash;752 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh has remembered.&#34; He is the son of Jeroboam II, and the 15th king of the Israel northern kingdom. With him ends the dynasty of Jehu. He is assassinated at Ibleam by Shallum after reigning for only 6 months. He is an evil king.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Zechariah is the 15th king of the northern kingdom of Israel, if Tibni is included in the count called Zachariah in the KJV. He was the son of Jeroboam II, and with him ended the dynasty of Jehu (see 2 Ki 10:30), when he was assassinated at Ibleam by Shallum after a brief reign that lasted only 6 months c. 753&#8212;752 b.c. (chs 14:29 15:8&#8212;12).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 15:8",
+      "verses": [
+        {
+          "number": 8,
+          "line": "In the thirty and eighth year of Azariah king of Judah did Zachariah the son of Jeroboam reign over Israel in Samaria six months."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 15:10",
+      "verses": [
+        {
+          "number": 10,
+          "line": "And Shallum the son of Jabesh conspired against him, and smote him before the people, and slew him, and reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jeroboam-ii",
+      "titleEn": "Jeroboam II",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Zechariah_of_Israel_8-27-2013 2-08-27 PM.png",
-      "caption": ""
+      "file": "Zechariah_of_Israel_8-27-2013 2-08-27 PM.png",
+      "caption": " Zechariah of Israel, king of the northern Israelite Kingdom of Israel, son of Jeroboam II icon by Guillaume Rouille in 1553."
     }
-  ]
+  ],
+  "videos": []
 }

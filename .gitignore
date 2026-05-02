@@ -39,6 +39,10 @@ test-results
 # Local overrides
 *.local
 
+# Fetched reference assets (re-fetchable via npm run fetch:images / fetch:details)
+public/media/
+scripts/cache/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

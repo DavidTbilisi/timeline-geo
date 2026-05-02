@@ -4,13 +4,56 @@
   "period": 10,
   "titleEn": "Paul Imprisoned Two Years at Caesarea",
   "titleKa": null,
-  "datesEn": "58–60 AD",
+  "datesEn": "58&ndash;60 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After being arrested in Jerusalem, Paul is sent to Caesarea where he is imprisoned for two years. During this time he is brought before Felix who was later replaced by Porcius Festus. He appeals to Caesar and is sent to Rome.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "At Caesarea Paul was turned over to Felix, the governor of Judea, with a letter from Lysias. Felix questioned Paul and then directed that he be confined to the *praetorium until his Jewish accusers should arrive from Jerusalem (Acts 23:25&#8212;35). After 5 days Ananias, the high priest, accompanied by certain elders, and Tertullus, a professional orator, appeared and accused Paul of sedition and of profanation of the Temple (ch 24:1&#8212;9). After the accused had spoken in his own defense, Felix delayed making a decision until further evidence was available. In the meantime Paul was granted a large measure of freedom (vs 10&#8212;23). Some time later he was again brought before Felix and his Jewish wife, Drusilla. Apparently this hearing was not in the nature of a trial, but merely a pretext to hear what Paul had to say. On this occasion Paul &#34;reasoned of righteousness, temperance, and judgment to come,&#34; with the result that Felix&#39; conscience was greatly, but evidently only temporarily, disturbed (vs 24, 25). Following this event, Paul was kept a prisoner for 2 years, until Felix was replaced by Porcius Festus (vs 26, 27). This was about A.D. 60.<BR /><BR />Almost as soon as Festus took office the Jews requested that he send Paul to Jerusalem for trial, intending to assassinate him on the way from Caesarea. Festus refused, but invited them to make their charges against the apostle at Caesarea. This they did, making many unproved charges. Festus inquired whether Paul would be willing to stand trial in Jerusalem. Doubtless considering that an order to renew the trial in Jerusalem would be the equivalent to his death sentence, Paul decided to invoke his rights as a Roman citizen, and appealed to Caesar (Nero see Caesar, 4). The appeal was accepted, and Paul awaited transportation to Rome, safely out of reach of his angry countrymen (Acts 25:1&#8212;12).<BR /><BR />Shortly after this Herod Agripppa II, king of territories north and east of Judea, came with his sister *Bernice to pay a courtesy visit to Festus, the new governor of Judea. Festus related to them the story of Paul whereupon Agrippa requested to hear the apostle for himself. The following day Paul was brought before the rulers (Acts 25:13&#8212;27), and was given permission to speak. He described his background, his conversion to Christianity, and his experiences of persecution from the Jews. When he told of Jesus and His resurrection from the dead, the pagan Festus declared the apostle to be mad. Nevertheless Paul strongly appealed to the king&#39;s convictions, but with no apparent success. Following Paul&#39;s defense the rulers decided that the prisoner might have been liberated had he not already appealed to Caesar (Acts 26:1&#8212;32).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Acts 24:27",
+      "verses": [
+        {
+          "number": 27,
+          "line": "But after two years Porcius Festus came into Felix' room: and Felix, willing to shew the Jews a pleasure, left Paul bound."
+        }
+      ]
+    },
+    {
+      "reference": "Acts 23:23-24",
+      "verses": [
+        {
+          "number": 23,
+          "line": "And he called unto him two centurions, saying, Make ready two hundred soldiers to go to Caesarea, and horsemen threescore and ten, and spearmen two hundred, at the third hour of the night;"
+        },
+        {
+          "number": 24,
+          "line": "And provide them beasts, that they may set Paul on, and bring him safe unto Felix the governor."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas4004_8-6-2013 5-11-56 PM.jpg",
+      "caption": "Statue of Paul the Apostle in Vatican."
+    },
+    {
+      "file": "100249641_2-28-2013 11-25-58 AM.jpg",
+      "caption": "Ancient port in Caesarea"
+    },
+    {
+      "file": "Festus_window_large_2-28-2013 11-25-58 AM.jpg",
+      "caption": "Stained glass window in St Paul&#39;s Cathedral, Melbourne, depicting a scene from the Book of Acts with St. Paul, Porcius Festus, Agrippa and Berenice."
+    }
+  ],
+  "videos": []
 }

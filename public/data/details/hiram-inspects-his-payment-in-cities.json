@@ -4,13 +4,63 @@
   "period": 6,
   "titleEn": "Hiram Inspects His Payment in Cities",
   "titleKa": null,
-  "datesEn": "946 BC",
+  "datesEn": "946 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Hiram is given 20 cities in Galilee as pay from Solomon for all the work on the temple and the palace. Hiram is not pleased, probably hoping for more fertile lands. He later gives Solomon 120 talents of gold, about 4 1/2 tons.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Solomon is building for 20 years. These 20 years begin with the 4th year of Solomon (ch. 6:1), when he began to build the Temple. They include the 7 years employed in the work on the Temple (ch. 6:38) and the 13 years during which his own house was built (ch. 7:1). The gold that Hiram gave to Solomon may not have been provided at the time the Temple was built, but was probably the 120 talents mentioned in v. 14. After 20 years of building, Solomon&#39;s treasury was doubtless considerably depleted, and as a result Solomon turned to Hiram, who may have agreed to provide the gold in return for certain cities from Solomon. <BR /><BR />Solomon gives Hiram 20 cities in the land of Galilee. These cities are not mentioned in the compact made between Solomon and Hiram, whereby Hiram was to furnish timber and labor for activities connected with the building of the Temple, and was to receive in return certain provisions of food (1 Kings 5:5&#8212;11). Nor is anything said in the original agreement about Hiram&#39;s providing Solomon with gold. According to the strict provisions of the Mosaic code, Solomon had no right to give away these cities (Lev. 25:23). But such are the necessities of a worldly policy that technical provisions of the law are easily set aside. <BR /><BR />The region was to the northwest of the Sea of Galilee. The western portion of this territory would be near the frontiers of Tyre, and so would suit the purposes of both Hiram and Solomon. It appears that at the time the compact was made, these cities were populated by native inhabitants of the land rather than Israelites, for it was 20 years after the return of these cities to Solomon that men of Israel were caused by their king to dwell there (2 Chron. 8:2). Hiram was not pleased with the cities. Hiram probably had cast his eyes on the bay of Accho, or on some rich grain lands, and was disappointed when he received a group of inferior inland towns. <BR /><BR />It seems that Hiram refused Solomon&#39;s gift, and never even took possession of the cities. Solomon&#39;s yearly income was 666 talents of gold (ch. 10:14). Thus the sum received from Hiram would be about one sixth of Solomon&#39;s annual income. It is impossible to fix the exact monetary value of the talent. An estimate would make the weight of the talent approximately 34.2 kg., or 75.4 lb.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 9:10-14",
+      "verses": [
+        {
+          "number": 10,
+          "line": "And it came to pass at the end of twenty years, when Solomon had built the two houses, the house of the LORD, and the king's house,"
+        },
+        {
+          "number": 11,
+          "line": "(Now Hiram the king of Tyre had furnished Solomon with cedar trees and fir trees, and with gold, according to all his desire,) that then king Solomon gave Hiram twenty cities in the land of Galilee."
+        },
+        {
+          "number": 12,
+          "line": "And Hiram came out from Tyre to see the cities which Solomon had given him; and they pleased him not."
+        },
+        {
+          "number": 13,
+          "line": "And he said, What cities are these which thou hast given me, my brother? And he called them the land of Cabul unto this day."
+        },
+        {
+          "number": 14,
+          "line": "And Hiram sent to the king sixscore talents of gold."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "solomon-completes-his-palace",
+      "titleEn": "Solomon Completes His Palace",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Sea of Galilee northern end from Tiberias, tb041003221_4-30-2013 11-55-28 AM.jpg",
+      "caption": "Sea of Galilee northern end from Tiberias"
+    },
+    {
+      "file": "Sea of Galilee northern shore, tb040903268_4-30-2013 11-55-28 AM.jpg",
+      "caption": "Sea of Galilee northern shore"
+    },
+    {
+      "file": "Tyre, view along southern side of isthmus, adr090508586_4-30-2013 11-55-28 AM.jpg",
+      "caption": "Tyre, view along southern side of isthmus"
+    },
+    {
+      "file": "Gold and Jewelry_4-30-2013 11-55-28 AM.jpg",
+      "caption": "Solomon&#39;s yearly income was 666 talents of gold"
+    }
+  ],
+  "videos": []
 }

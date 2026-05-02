@@ -2,15 +2,27 @@
   "slug": "diet-of-regensburg",
   "id": 1364,
   "period": 12,
-  "titleEn": "Diet of Regensburg",
+  "titleEn": "Diet of Regensburg ",
   "titleKa": null,
-  "datesEn": "1541 AD",
+  "datesEn": "1541 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A conference held in Regensburg in an attempt to restore religious unity through theological debates.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Diet (a legislative assembly) of Regensburg, which met in 1541, was primarily concerned with restoring unity within Christian theology. Although the theologians present, both Catholic and Protestant, did not agree on everything (specifically the concept of transubstantiation), they did find agreement in one area. The participants of the colloquy (a formal gathering of theologians who assemble to discuss various theological issue) actually managed to come to an &#34;agreement&#34; on the concept of justification. <BR /><BR />The essential consensus stated that justification was imputed to the believer because of Christ&#39;s righteousness; however, once justified, the converted life would be led to do righteous deeds. In actuality, this agreeable statement was simply ambiguous for both Catholics and Protestants to agree upon, and didn&#39;t accurately reflect either Catholic or Lutheran beliefs regarding justification. Nevertheless, because Catholics and Protestants actually agreed on something in a time of much disagreement, this diet is considered quite important.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "749px-Immerwährender_Reichstag_8-6-2013 6-00-45 PM.jpg",
+      "caption": "Diet of Regensburg, Artist Unknown, 1663"
+    }
+  ],
+  "videos": []
 }

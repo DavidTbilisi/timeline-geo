@@ -4,18 +4,35 @@
   "period": 5,
   "titleEn": "Ehud",
   "titleKa": null,
-  "datesEn": "1318–1217 BC (~101)",
+  "datesEn": "1318&ndash;1217 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;union.&#34; He is the son of Gera and judge of Israel. When Israel fell into apostasy, Eglon, king of Moab, oppressed them for 18 years. They cried out to God and the Lord raised up Ehud who killed Eglon & brought 80 years of peace to Israel.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "A descendant of Benjamin through Gera, described as left&#8212;handed. He assassinated Eglon, king of Moab, who had oppressed Israel for 18 years, and became one of the early judges of Israel. He gained access to Eglon as a tribute bearer and succeeded in having all royal attendants removed on the pretext that he had a secret message for the king. He used this opportunity to kill the king, who is described as being &#34;very fat,&#34; and then called up Israel to shake off the foreign yoke. In the ensuing war many Moabites lost their lives. After Ehud&#39;s deliverance the southern part of Israel had rest for an extended period of time (Jgs 3:15 to 4:1).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Judges 3:15",
+      "verses": [
+        {
+          "number": 15,
+          "line": "But when the children of Israel cried unto the LORD, the LORD raised them up a deliverer, Ehud the son of Gera, a Benjamite, a man lefthanded: and by him the children of Israel sent a present unto Eglon the king of Moab."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "40-years-peace-ends-moabite-oppression-begins",
+      "titleEn": "Ehud Slays King Eglon",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Ehud_5-6-2013 5-07-09 PM.jpg",
-      "caption": ""
+      "file": "Ehud_5-6-2013 5-07-09 PM.jpg",
+      "caption": "Ehud, the son of Gera, a Benjamite, a man left handed, delivers the children of Israel from Eglon, the King of Moab. Drawing by F. Madox Brown (1821 - 1893) published in &#34;Dalziel&#39;s Bible Gallery&#34; in 1880."
     }
-  ]
+  ],
+  "videos": []
 }

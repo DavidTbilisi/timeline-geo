@@ -4,18 +4,74 @@
   "period": 7,
   "titleEn": "Manasseh",
   "titleKa": null,
-  "datesEn": "709–642 BC (~67)",
+  "datesEn": "709&ndash;642 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;making to forget.&#34; He is the son of Hezekiah and the 14th king of Judah who reigns for 55 years. He doesn&#39;t follow Hezekiah&#39;s good example and erects altars to Baal and sacrifices one of his sons to fire. He later repents in Assyria.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Manasseh was the 14th ruler of the kingdom of Judah he reigned for 55 years (c. 697 c. 642 b.c.), during part of which he was apparently coregent with his father Hezekiah. An ancient Hebrew seal, published in 1963, bears the inscription &#34;Belonging to Manasseh, son of the king.&#34; On paleographic grounds the seal can be dated to either the 8th or the 7th cent. b.c. <BR /><BR />It is therefore possible that this seal belonged to Manasseh, King Hezekiah&#39;s son, before he ascended the throne, though it may have belonged to another royal prince of the same name who lived somewhat earlier or later than King Manasseh. He did not follow his father&#39;s good example, but was more wicked than any of his predecessors. He re&#8212;established the high places, erected an altar to Baal, and made a cult object to Asherah. He worshiped many other gods in the Temple courts, and sacrificed one of his sons by fire. He ignored the prophets&#39; warnings of the consequences of his evildoings and persecuted many followers of the true God, as the statement that he shed much innocent blood obviously indicates (2 Ki 21:1&#8212;16 2 Chr 33:1&#8212;10). <BR /><BR />As a punishment for his wicked deeds God delivered him into the hands of the Assyrian kings. Both Esarhaddon and Ashurbanipal mention Manasseh as having paid tribute to them, one king spelling his name Menasi and the other Minsie. Yet he seems to have been a disloyal vassal, for on one occasion he was taken captive to Babylon&#8212;which was at that time part of the Assyrian Empire&#8212;by either Esarhaddon or Ashurbanipal. However, he was allowed to return when the Assyrian king apparently became convinced that Manasseh would henceforth be loyal. <BR /><BR />Although a non&#8212;Biblical record of Manasseh&#39;s captivity has not yet been found in cuneiform sources, the experience is not without parallels. For example, the Egyptian ruler Necho (I), king of Sais, was made vassal king of Egypt by Esarhaddon. After Esarhaddon&#39;s death Necho rebelled against Assyria, and was taken to Mesopotamia as a prisoner. While there he succeeded in gaining the confidence of Ashurbanipal, who pardoned him and restored him to his throne in Sais. While captive in Babylon, Manasseh repented, and after his return to Jerusalem he tried to undo his former wickedness by removing idolatry from his kingdom and from the Temple. <BR /><BR />Yet he did not abolish the high places, although he allowed worship only of the true God in them. The chronicler records that he engaged in extensive building activity in Jerusalem and that he strengthened the army (2 Chr 33:11&#8212;17). After a reign of more years than that of any other Hebrew king, Manasseh died, leaving the throne to his son Amon. He was buried in the garden of his own house (2 Ki 21:18 2 Chr 33:20).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Kings 21:3",
+      "verses": [
+        {
+          "number": 3,
+          "line": "For he built up again the high places which Hezekiah his father had destroyed; and he reared up altars for Baal, and made a grove, as did Ahab king of Israel; and worshipped all the host of heaven, and served them."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 21:18",
+      "verses": [
+        {
+          "number": 18,
+          "line": "And Manasseh slept with his fathers, and was buried in the garden of his own house, in the garden of Uzza: and Amon his son reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "hezekiah",
+      "titleEn": "Hezekiah",
+      "titleKa": null
+    },
+    {
+      "slug": "amon",
+      "titleEn": "Amon",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/_GoodSalt-stdas0040_8-27-2013 2-57-15 PM.jpg",
-      "caption": ""
+      "file": "_GoodSalt-stdas0040_8-27-2013 2-57-15 PM.jpg",
+      "caption": "Manasseh taken captive"
+    },
+    {
+      "file": "_GoodSalt-prcas3302_8-27-2013 2-57-15 PM.jpg",
+      "caption": "Manasseh&#39;s repentance"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Learning From The Kings, Part 1: Backsliding",
+      "caption": "This sermon deals with lessons learned from the monarchs of Israel and is called &#34;Learning from the Kings.&#34; The specific focus is on the common backsliding of the kings, especially King Saul and King Manasseh. The typical problems that led to the kings backsliding were pride, people, paganism, and possessions. ",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg9357.mp4"
+    },
+    {
+      "title": "Learning From The Kings, Part 3: Pride and Possession",
+      "caption": "God wants to bless us. Having material possessions is not bad, but it can be when our hearts are turned away from God by them. This is a lesson we can learn from the kings of Israel in this sermon. Hezekiah is an example of pride and possessions leading one astray.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg9377.mp4"
+    },
+    {
+      "title": "Learning From The Kings, Part 4: Pride and Passion",
+      "caption": "This is the last of a series on learning lessons from the kings of Israel. Power corrupts and the kings show how it is easy to abuse their power. The story of Nebuchadnezzar teaches us what happens when we do not humble ourselves before God. King David also shows how pride turned him toward passion instead of the Lord.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg9387.mp4"
+    },
+    {
+      "title": "Learning From The Kings, Part 2: Pride and Position",
+      "caption": "This is the second part in a continued study called &#34;Learning from the Kings.&#34; Pride is the number one sin and we see in the lives of the kings of Israel how this leads to a downward spiral. Since we become royalty when we become adopted into God&#39;s family we can learn from the kings. This sermon looks at King Uzziah.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg9367.mp4"
     }
   ]
 }

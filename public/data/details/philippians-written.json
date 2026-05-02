@@ -4,13 +4,43 @@
   "period": 10,
   "titleEn": "Philippians Written",
   "titleKa": null,
-  "datesEn": "62 AD",
+  "datesEn": "62 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Paul probably wrote the book of Philippians from prison. Scholars debate whether it was from Rome or from Caesarea. The letter is one of the most upbeat of all his writings, giving the impression he would soon be released from prison.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The letter to the Philippians is probably the last of the prison epistles. It implies that Paul had been in Rome some time, and already had seen considerable fruitage from his labors (see on Phil. 1:12&#8212;14). Furthermore, the whole atmosphere of the letter is one of happiness. Apparently Paul expected a favorable outcome of his appeal to Caesar (Acts 25:10&#8212;12), which would allow him once more to visit his beloved church in Philippi (Phil. 2:24). At the same time his words leave no doubt in the mind of his readers that an unfavorable decision would not have found him unprepared (Phil. 1:19, 20, 22&#8212;25). It may therefore be concluded that Philippians was probably written in a.d. 62.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Philippians 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-fjgps0824_8-7-2013 1-29-31 PM.jpg",
+      "caption": "The letter of Paul to the Philippians."
+    },
+    {
+      "file": "156361886_2-28-2013 11-01-20 AM.jpg",
+      "caption": "Statue of Paul the Apostle in Vatican."
+    },
+    {
+      "file": "GoodSalt-stdas0488_8-7-2013 2-20-33 PM.jpg",
+      "caption": "Paul&#39;s letter to the Philippians"
+    }
+  ],
+  "videos": []
 }

@@ -4,18 +4,73 @@
   "period": 8,
   "titleEn": "Nehemiah",
   "titleKa": null,
-  "datesEn": "473–403 BC (~70)",
+  "datesEn": "473&ndash;403 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh has comforted.&#34; Son of Hachaliah or Hacaliah, he is a Jew of the postexilic period and appointed governor of Judea by Artaxerxes. As cupbearer to the king he requests to rebuild the walls of Jerusalem which he does.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Nehemiah, name means &#34;Yahweh has comforted.&#34; He was a Jew of the postexilic period and son of Hachaliah (Neh 1:1). He was appointed governor of Judea by Artaxerxes I, king of Persia, and distinguished himself as the rebuilder of the city wall of Jerusalem. When first mentioned Nehemiah was serving as a trusted officer at the court of Artaxerxes I, king of Persia, in the 20th year of Artaxerxes&#39; reign (vs 1, 11), or 445/44 b.c. <BR /><BR />A serious rebellion in Egypt, and more recently a rebellion in the satrapy Beyond the River, to which Judea belonged, had interrupted communications between Susa (Shushan), the Persian capital, and Palestine. Finally a report reached Nehemiah that his countrymen in Jerusalem suffered &#34;great affliction and reproach&#34; and that the city wall had been broken down and the gates burned (vs 1&#8212;3). Mourning and fasting for a period of time, Nehemiah was questioned by the king as to the reason for his sad countenance (chs 1:4 to 2:3). Nehemiah took this opportunity to appeal to the king on behalf of his people and, at his request, received a commission to return to Jerusalem for a specified period of time in order to bring his people whatever help they should require (ch 2:4&#8212;6). <BR /><BR />Supplied with a royal letter of introduction to the necessary officials authorizing his mission and empowering him to requisition materials necessary for the restoration of the wall, the fortress, and the Temple at Jerusalem (vs 7, 8), Nehemiah, who also had been appointed as governor of the province of Judea, journeyed to the satrapy Beyond the River, delivered his royal credentials to the proper authorities, and then went to Jerusalem (vs 9&#8212;11). Keeping his plans to himself for the time being, he inspected the walls by night (vs 12&#8212;16) and then laid a plan before the leaders at Jerusalem for restoring the wall (vs 17, 18). The work was begun at once, and despite repeated attempts to halt it (chs 4:1&#8212;23 6:1&#8212;19), it was completed in a comparatively short time (ch 6:15). <BR /><BR />In his role as governor, Nehemiah also instituted social reforms, particularly with respect to the oppression of the poor by the rich (ch 5:1&#8212;14). He also planned and carried out the repopulation of the city of Jerusalem (chs 7 11). Assisted by Ezra, who had preceded him to Jerusalem, he carried out a series of religious reforms (chs 8&#8212;10), including the public reading of the Law and instruction in it (ch 8). When Nehemiah drew up, and called upon the people to sign, a covenant of reform, leaders, priests, and people entered into a solemn covenant, pledging themselves to the worship of the true God (chs 9 10). <BR /><BR />After serving Judah as governor for 12 years (ch 5:14) Nehemiah went back to Susa, but later returned to Jerusalem for a 2nd term as governor (ch 13:6, 7). In the interval the people had again lapsed into sin, so that new reform efforts were required.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Nehemiah 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "nehemiah-starts-to-build-walls-of-jerusalem",
+      "titleEn": "Nehemiah Starts to Build Walls of Jerusalem",
+      "titleKa": null
+    },
+    {
+      "slug": "nehemiahs-1st-term",
+      "titleEn": "Nehemiah's 1st Term",
+      "titleKa": null
+    },
+    {
+      "slug": "nehemiah-walls-rebuilt",
+      "titleEn": "Nehemiah, Walls Rebuilt",
+      "titleKa": null
+    },
+    {
+      "slug": "nehemiah-returns-to-babylon",
+      "titleEn": "Nehemiah Returns to Babylon",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-Nehemiah_8-1-2013 5-36-17 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-Nehemiah_8-1-2013 5-36-17 PM.jpg",
+      "caption": "Nehemiah praying."
+    },
+    {
+      "file": "GoodSalt-nehemiah_8-6-2013 3-15-17 PM.jpg",
+      "caption": "Nehemiah Is Permitted to Go to Jerusalem (Nehemiah, Chapter 2). Woodcut after a drawing by Julius Schnorr von Carolsfeld (German painter, 1794 - 1872)"
+    },
+    {
+      "file": "Nehemiah 2_3-21-2013 10-43-33 AM_7-18-2013 12-46-38 PM.jpg",
+      "caption": "The walls of Jerusalem being built (Nehemiah, Chapter 4). Woodcut after a drawing by Julius Schnorr von Carolsfeld (German painter, 1794 - 1872)"
+    },
+    {
+      "file": "iStock_000010261960Medium_Z_3-21-2013 12-48-33 PM_7-18-2013 12-46-38 PM.jpg",
+      "caption": "Propspective tomb of Artaxerxes I in Naqsh-e-Rustam, Iran."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Nehemiah Part 1: Leaving the Palace",
+      "caption": "The story of Nehemiah teaches us about God&#39;s protection and plans for His people. Nehemiah came back to Jerusalem to build its walls and gates which protect from the enemies without.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2523.mp4"
+    },
+    {
+      "title": "Nehemiah Part 2: Trouble and Rubble",
+      "caption": "Nehemiah is a type of Christ in the Bible. He was sent from a king in the interest of his people, just like Jesus. Nehemiah built a wall, which spiritually represents protecting and keeping God&#39;s law. Christ was no distracted by Satan to finish His work.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2524.mp4"
     }
   ]
 }

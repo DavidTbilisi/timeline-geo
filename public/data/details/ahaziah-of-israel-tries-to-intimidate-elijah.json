@@ -4,13 +4,75 @@
   "period": 7,
   "titleEn": "Ahaziah of Israel Tries to Intimidate Elijah",
   "titleKa": null,
-  "datesEn": "853 BC",
+  "datesEn": "853 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "When Ahaziah falls and hurts himself, he seeks input from Baal&#8212;Zebub on whether he will recover. Elijah intercepts messengers with bad news. Ahaziah sends two companies of men to intimidate Elijah but they are destroyed by fire.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "When Ahaziah falls and hurts himself, he seeks input from Baal&#8212;Zebub on whether he will recover. Elijah intercepts messengers with bad news. Ahaziah sends two companies of men to intimidate Elijah but they are destroyed by fire. Those who turn from the true God to the gods of the heathen, find not life but death. It is God alone who is the author of life, and it is in His power to heal and restore. When Satan, under systems of false religion, promises to heal, it is only to bring individuals under the control of his cruel will, henceforth to rule them with a power it seems impossible to break. When the messengers returned so quickly from their errand, Ahaziah knew that they could not have completed their journey to Ekron, and he wished to know the reason why. The messengers either failed to recognize Elijah or though it best not to tell the king who it was that had sent the warning.<BR /><BR />Ahaziah&#39;s sending a delegation to inquire of the god of Ekron was to show open and public contempt for Jehovah. This was an insult to the Majesty of heaven which could not be allowed to go unrebuked. Israel must learn that the gods of the Philistines were powerless to give aid in the hour of extremity, and that Jehovah still sat on His eternal throne. As soon as the message was delivered, Ahaziah may have known that it could have come only from Elijah, for who else would speak with such certainty and courage? The king was well acquainted with the appearance of the prophet, hence asks for a description to establish the identification. Ahaziah hated but feared the prophet. The message of doom did not bring the king to repentance. He knew that he was a dying man, but he was filled with bitterness and anger, and was determined to send for the prophet to avert, if possible, the threatened judgment. A band of 50 armed men was sent to intimidate the prophet.<BR /><BR />Ahaziah&#39;s recourse to threat in an effort to persuade Elijah to retract his pronouncement of doom was foolish. It showed that the king cherished the same attitude as had his father. Ahab had held Elijah accountable for the disastrous drought in Israel (1 Kings 18:17). Now Ahaziah, by the same perverted reasoning, held Elijah responsible for the consequences he knew would be sure to follow upon the prophet&#39;s word. Such a highhanded attempt to dictate to the prophet and thus reverse the plans of God could not remain unrebuked. The wrath of God fell upon the company of soldiers. Against the presumption and rebellion of Ahaziah the majesty and the supremacy of God stood revealed. By the sending of a second 50 Ahaziah displayed his perversity and stubbornness. He had received overwhelming evidence of divine displeasure upon his course, but he was determined to stubbornly pursue his ill&#8212;directed purposes.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 1:2-12",
+      "verses": [
+        {
+          "number": 2,
+          "line": "And Ahaziah fell down through a lattice in his upper chamber that was in Samaria, and was sick: and he sent messengers, and said unto them, Go, enquire of Baalzebub the god of Ekron whether I shall recover of this disease."
+        },
+        {
+          "number": 3,
+          "line": "But the angel of the LORD said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, Is it not because there is not a God in Israel, that ye go to enquire of Baalzebub the god of Ekron?"
+        },
+        {
+          "number": 4,
+          "line": "Now therefore thus saith the LORD, Thou shalt not come down from that bed on which thou art gone up, but shalt surely die. And Elijah departed."
+        },
+        {
+          "number": 5,
+          "line": "And when the messengers turned back unto him, he said unto them, Why are ye now turned back?"
+        },
+        {
+          "number": 6,
+          "line": "And they said unto him, There came a man up to meet us, and said unto us, Go, turn again unto the king that sent you, and say unto him, Thus saith the LORD, Is it not because there is not a God in Israel, that thou sendest to enquire of Baalzebub the god of Ekron? therefore thou shalt not come down from that bed on which thou art gone up, but shalt surely die."
+        },
+        {
+          "number": 7,
+          "line": "And he said unto them, What manner of man was he which came up to meet you, and told you these words?"
+        },
+        {
+          "number": 8,
+          "line": "And they answered him, He was an hairy man, and girt with a girdle of leather about his loins. And he said, It is Elijah the Tishbite."
+        },
+        {
+          "number": 9,
+          "line": "Then the king sent unto him a captain of fifty with his fifty. And he went up to him: and, behold, he sat on the top of an hill. And he spake unto him, Thou man of God, the king hath said, Come down."
+        },
+        {
+          "number": 10,
+          "line": "And Elijah answered and said to the captain of fifty, If I be a man of God, then let fire come down from heaven, and consume thee and thy fifty. And there came down fire from heaven, and consumed him and his fifty."
+        },
+        {
+          "number": 11,
+          "line": "Again also he sent unto him another captain of fifty with his fifty. And he answered and said unto him, O man of God, thus hath the king said, Come down quickly."
+        },
+        {
+          "number": 12,
+          "line": "And Elijah answered and said unto them, If I be a man of God, let fire come down from heaven, and consume thee and thy fifty. And the fire of God came down from heaven, and consumed him and his fifty."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "elijah",
+      "titleEn": "Elijah",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "482px-094.Elijah_Destroys_the_Messengers_of_Ahaziah_8-27-2013 11-21-10 AM.jpg",
+      "caption": "The messengers of Ahaziah with Elijah, Gustave Dor&#233;, 1866"
+    }
+  ],
+  "videos": []
 }

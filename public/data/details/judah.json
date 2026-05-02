@@ -4,13 +4,64 @@
   "period": 3,
   "titleEn": "Judah",
   "titleKa": null,
-  "datesEn": "1698–1598 BC",
+  "datesEn": "1698&ndash;1598 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;praise.&#34; The fourth son of Jacob and Leah, his name originates with Leah&#39;s words after his birth, &#34;Now I will praise the Lord.&#34; Judah intercedes for Joseph so his life is spared. He receives the first&#8212;born blessing from Jacob.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The fourth son of Jacob by his wife Leah (Gen 29:32&#8212;35). He married a Canaanite girl, Shua, with whom he had become acquainted through a Canaanite friend (ch 38:1, 2). She bore him three sons, Er, Onan, and Shelah (vs 3&#8212;5). As wife for his son Er he took Tamar, another Canaanite girl (v 6). When Er died childless, Judah gave Tamar to Onan, in harmony with custom of the time (vs 7, 8). When Onan died without leaving an heir (vs 9, 10), Tamar went back to her father&#39;s house, having Judah&#39;s promise, however, that she would be given to Shelah as soon as he reached the age of maturity (v 11). <BR /><BR />When Judah failed to keep his word Tamar obtained offspring by deception from Judah himself, and bore him two sons, Perez and Zerah (vs 12&#8212;30). Although Judah is revealed to have been morally aberrant in certain respects, yet in many other ways his character seems to have been more exemplary than that of his brothers. He did not take part in Simeon and Levi&#39;s massacre of Shechem (ch 34), and it was he who, in an attempt to save Joseph, proposed to his brothers that Joseph be sold rather than murdered (ch 37:26&#8212;28). <BR /><BR />Later, in Egypt, he showed much nobility of character when Joseph, unrecognized by his brothers, wanted to detain Benjamin for having allegedly stolen a silver cup. Judah eloquently pleaded on behalf of his younger brother, and offered himself as prisoner to Joseph to obtain Benjamin&#39;s release (Gen 44). When Jacob and his family migrated to Egypt Judah was chosen to precede the company and announce Jacob&#39;s arrival to Joseph (ch 46:28). When Jacob blessed his sons upon his deathbed, he gave Judah the blessings due the first&#8212;born (ch 49:8&#8212;12), passing over Reuben for his sin of incest (v 4), and Simeon and Levi, because of their murder of the Shechemites (vs 5&#8212;7). <BR /><BR />The prophecies pronounced at that time were later fulfilled. The tribe of Judah became the most important of the tribes of Israel, and Perez (KJV &#34;Pharez&#34;), one of Judah&#39;s sons, became the ancestor of David and of the royal house of the southern kingdom (Ruth 4:18&#8212;22 1 Chr 2:3&#8212;15 3:1&#8212;6) and of the Lord Jesus, the Saviour of mankind (Mt 1:3&#8212;16).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 29:35",
+      "verses": [
+        {
+          "number": 35,
+          "line": "And she conceived again, and bare a son: and she said, Now will I praise the LORD: therefore she called his name Judah; and left bearing."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    },
+    {
+      "slug": "judah-leaves-marries-a-canaanite",
+      "titleEn": "Judah Leaves, Marries a Canaanite",
+      "titleKa": null
+    },
+    {
+      "slug": "judah-impregnates-tamar",
+      "titleEn": "Judah Impregnates Tamar ",
+      "titleKa": null
+    },
+    {
+      "slug": "pharez-or-perez",
+      "titleEn": "Pharez (or Perez)",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Judah-pleading-before-Joseph-for-his-brother-Benjamin-001_7-31-2013 5-06-18 PM.jpg",
+      "caption": "Judah pleading for his younger brother Benjamin before Joseph in Egypt, William Brassey Hole"
+    },
+    {
+      "file": "Tribe_of_Judah_Symbol_001_8-6-2013 8-53-34 AM.jpg",
+      "caption": "Symbol for the tribe of Judah"
+    },
+    {
+      "file": "GoodSalt-dpbas0002_8-6-2013 8-53-34 AM.jpg",
+      "caption": "Lion of the tribe of Judah"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Mystery of Israel",
+      "caption": "What is the role of Israel today? It is constantly in the headlines and still considered to be a holy land by several religions. The Jews have been some of the most blessed and cursed people in history. God chose these people to be the repositories of truth intended to be shared with the world.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2628.mp4"
+    }
+  ]
 }

@@ -4,13 +4,58 @@
   "period": 7,
   "titleEn": "Ahaz",
   "titleKa": null,
-  "datesEn": "755–715 BC",
+  "datesEn": "755&ndash;715 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;possessor&#34; or &#34;he has seized.&#34; He is son of Jotham and 12th king of Judah. He is a wicked king who makes his son &#34;pass through the fire.&#34; He reigns 16 years and dies at the age of 35 years. He is succeeded by his son Hezekiah.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Ahaz, name means &#34;he has seized&#34;. The 12th occupant of the throne of the kingdom of Judah, who reigned approximately 20 years (c. 735&#8212;c. 715 b.c.), if the years of his presumable coregencies, with his father, Jotham, and with his son Hezekiah are included. After his father&#39;s death he reigned 16 years (2 Ki 16:2 2 Chr 28:1). Ahaz was an idolater, had his son pass through the fire, and worshiped strange gods on high places, on hills, and under trees (2 Ki 16:3, 4 2 Chr 28:2&#8212;4, 23&#8212;25). Early in his reign, while his father was still alive, Pekah of Israel and Rezin of Damascus began to invade Judah (2 Ki 15:37 16:5). <BR /><BR />The pretext for this military action was probably a refusal on the part of Ahaz to join these two kings in an alliance against Assyria. It was in connection with this crisis that the prophet Isaiah was sent to Ahaz to assure him of God&#39;s help in his struggle with Israel and the Syrians, and evidently also to warn him against calling for foreign aid (Is 7). Ahaz, however, did not appreciate this counsel and turned to Tiglath&#8212;pileser III of Assyria for help, sending him a large gift of money taken from the treasures of the Temple and palace. <BR /><BR />Tiglath&#8212;pileser responded by invading Israel and besieging Damascus (2 Ki 16:5&#8212;9 2 Chr 28:6&#8212;21). Damascus was captured and Rezin killed, and much territory of Israel was taken from Pekah and made into an Assyrian province (see 2 Ki 15:29). It was probably with the connivance of Tiglath&#8212;pileser that Pekah was assassinated by Hoshea, who usurped the throne for himself and was confirmed in his office by the Assyrian king. While Tiglath&#8212;pileser was at Damascus Ahaz went up to meet him, apparently to pay homage as a vassal along with the Syrians. He sent home a model of a foreign altar that he had seen in Damascus, with an order to have a similar one built for the Temple at Jerusalem. This was probably an Assyrian altar to be used to worship Assyrian national gods. It replaced Solomon&#39;s altar of burnt offerings (2 Ki 16:10&#8212;16). Hosea, Micah, and Isaiah all prophesied during Ahaz&#39; reign (Hos 1:1 Mic 1:1 Is 1:1 7:1&#8212;16). Ahaz is listed in the genealogy of Jesus Christ (Mt 1:9 KJV &#34;Achaz&#34;).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Kings 16:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign."
+        }
+      ]
+    },
+    {
+      "reference": "2 Kings 16:20",
+      "verses": [
+        {
+          "number": 20,
+          "line": "And Ahaz slept with his fathers, and was buried with his fathers in the city of David: and Hezekiah his son reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jotham",
+      "titleEn": "Jotham",
+      "titleKa": null
+    },
+    {
+      "slug": "hezekiah",
+      "titleEn": "Hezekiah",
+      "titleKa": null
+    },
+    {
+      "slug": "immanuel",
+      "titleEn": "Immanuel",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Ahaz.png",
+      "caption": "Illustration of Ahaz in 1553 published by Guillaume Rouille"
+    },
+    {
+      "file": "_GoodSalt-prcas3503_8-27-2013 2-17-07 PM.jpg",
+      "caption": "King Ahaz"
+    }
+  ],
+  "videos": []
 }

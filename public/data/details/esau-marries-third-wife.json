@@ -4,13 +4,47 @@
   "period": 3,
   "titleEn": "Esau Marries Third Wife",
   "titleKa": null,
-  "datesEn": "1709 BC",
+  "datesEn": "1709 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "When Esau hears Isaac&#39;s charge to not take a Canaanite for a wife and that his parents are displeased when he did so, he goes to Ishmael and takes Mahalath as a wife. She is the daughter of Ishmael, Abraham&#39;s son.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In the blessing of Jacob by Isaac and Jacob&#39;s commission to take a wife from among their relatives in Mesopotamia, Esau perceived the deep&#8212;rooted displeasure his parents felt toward his Hittite wives. No doubt with the intention of pleasing his parents, he went to fetch a wife from the family of his grandfather Abraham, as Jacob was instructed to do from the family of his maternal uncle, Laban. <BR /><BR />Mahalath, or Bashemath (ch. 36:3), whom he took to wife, was related to Isaac as Jacob&#39;s wife Rachel was to his mother Rebekah. Esau married his father&#39;s niece Jacob, his mother&#39;s. Esau&#39;s going &#34;unto Ishmael&#34; must mean going &#34;to the family of Ishmael,&#34; for Ishmael died about 14 years prior to this time (see on chs. 25:19 27:1).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 28:6-9",
+      "verses": [
+        {
+          "number": 6,
+          "line": "When Esau saw that Isaac had blessed Jacob, and sent him away to Padanaram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan;"
+        },
+        {
+          "number": 7,
+          "line": "And that Jacob obeyed his father and his mother, and was gone to Padanaram;"
+        },
+        {
+          "number": 8,
+          "line": "And Esau seeing that the daughters of Canaan pleased not Isaac his father;"
+        },
+        {
+          "number": 9,
+          "line": "Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham's son, the sister of Nebajoth, to be his wife."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "esau",
+      "titleEn": "Esau",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-lwjas0172_8-5-2013 5-40-54 PM.jpg",
+      "caption": "When Esau hears Isaac&#39;s charge to not take a Canaanite for a wife and that his parents are displeased when he did so, he goes to Ishmael and takes Mahalath as a wife."
+    }
+  ],
+  "videos": []
 }

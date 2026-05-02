@@ -4,13 +4,299 @@
   "period": 9,
   "titleEn": "The Resurrection",
   "titleKa": null,
-  "datesEn": "31 AD",
+  "datesEn": "31 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Jesus dies on the cross on Friday afternoon. Early Sunday morning an angel descends from heaven and rolls back the stone and calls Jesus from the tomb. The soldiers fall as dead to the ground. Christ rises from the dead.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Bible teaches that the resurrection of Christ from the grave is a literal historical fact. The guarded but empty tomb, with the graveclothes left behind in an orderly manner (John 20:6, 7), convinced John of the Resurrection (John 20:8, 9). The theories that Jesus swooned but did not die, that the body was stolen by the disciples, that an empty tomb was mistaken for the one in which Jesus had been placed, or that Joseph of Arimathaea removed the body require more faith to believe than acceptance of the events recorded in the NT. There was, as well, the testimony of the Roman guard (Matt. 28:11f.), the announcement of the angels at the tomb (verses 4&#8212;7), and the testimony of those resurrected with Christ (Matt. 27:52, 53). <BR /><BR />Even stronger evidence is found in the 10 post&#8212;Resurrection appearances of our Lord. Five of these took place on the day of the Resurrection&#8212;to Mary Magdalene (John 20:11&#8212;18), to the other women (Matt. 28:8&#8212;10), to Simon Peter (Luke 24:33&#8212;35 1 Cor. 15:5), to Cleopas and a companion on the way to Emmaus (Luke 24:33&#8212;34), and to the 10 disciples in Jerusalem (John 20:19&#8212;31). Five additional appearances came later&#8212;to the 11 in Jerusalem (John 20:26&#8212;28), to the seven by the Sea of Galilee (John 21:1&#8212;23), to more than 500 on a mountain in Galilee (Matt. 28:16&#8212;20 1 Cor. 15:6), to James (1 Cor. 15:7), and to the 11 in Jerusalem and Bethany (Luke 24:44&#8212;49).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Matthew 28:1-15",
+      "verses": [
+        {
+          "number": 1,
+          "line": "In the end of the sabbath, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre."
+        },
+        {
+          "number": 2,
+          "line": "And, behold, there was a great earthquake: for the angel of the Lord descended from heaven, and came and rolled back the stone from the door, and sat upon it."
+        },
+        {
+          "number": 3,
+          "line": "His countenance was like lightning, and his raiment white as snow:"
+        },
+        {
+          "number": 4,
+          "line": "And for fear of him the keepers did shake, and became as dead men."
+        },
+        {
+          "number": 5,
+          "line": "And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified."
+        },
+        {
+          "number": 6,
+          "line": "He is not here: for he is risen, as he said. Come, see the place where the Lord lay."
+        },
+        {
+          "number": 7,
+          "line": "And go quickly, and tell his disciples that he is risen from the dead; and, behold, he goeth before you into Galilee; there shall ye see him: lo, I have told you."
+        },
+        {
+          "number": 8,
+          "line": "And they departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word."
+        },
+        {
+          "number": 9,
+          "line": "And as they went to tell his disciples, behold, Jesus met them, saying, All hail. And they came and held him by the feet, and worshipped him."
+        },
+        {
+          "number": 10,
+          "line": "Then said Jesus unto them, Be not afraid: go tell my brethren that they go into Galilee, and there shall they see me."
+        },
+        {
+          "number": 11,
+          "line": "Now when they were going, behold, some of the watch came into the city, and shewed unto the chief priests all the things that were done."
+        },
+        {
+          "number": 12,
+          "line": "And when they were assembled with the elders, and had taken counsel, they gave large money unto the soldiers,"
+        },
+        {
+          "number": 13,
+          "line": "Saying, Say ye, His disciples came by night, and stole him away while we slept."
+        },
+        {
+          "number": 14,
+          "line": "And if this come to the governor's ears, we will persuade him, and secure you."
+        },
+        {
+          "number": 15,
+          "line": "So they took the money, and did as they were taught: and this saying is commonly reported among the Jews until this day."
+        }
+      ]
+    },
+    {
+      "reference": "Mark 16:1-11",
+      "verses": [
+        {
+          "number": 1,
+          "line": "And when the sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, had bought sweet spices, that they might come and anoint him."
+        },
+        {
+          "number": 2,
+          "line": "And very early in the morning the first day of the week, they came unto the sepulchre at the rising of the sun."
+        },
+        {
+          "number": 3,
+          "line": "And they said among themselves, Who shall roll us away the stone from the door of the sepulchre?"
+        },
+        {
+          "number": 4,
+          "line": "And when they looked, they saw that the stone was rolled away: for it was very great."
+        },
+        {
+          "number": 5,
+          "line": "And entering into the sepulchre, they saw a young man sitting on the right side, clothed in a long white garment; and they were affrighted."
+        },
+        {
+          "number": 6,
+          "line": "And he saith unto them, Be not affrighted: Ye seek Jesus of Nazareth, which was crucified: he is risen; he is not here: behold the place where they laid him."
+        },
+        {
+          "number": 7,
+          "line": "But go your way, tell his disciples and Peter that he goeth before you into Galilee: there shall ye see him, as he said unto you."
+        },
+        {
+          "number": 8,
+          "line": "And they went out quickly, and fled from the sepulchre; for they trembled and were amazed: neither said they any thing to any man; for they were afraid."
+        },
+        {
+          "number": 9,
+          "line": "Now when Jesus was risen early the first day of the week, he appeared first to Mary Magdalene, out of whom he had cast seven devils."
+        },
+        {
+          "number": 10,
+          "line": "And she went and told them that had been with him, as they mourned and wept."
+        },
+        {
+          "number": 11,
+          "line": "And they, when they had heard that he was alive, and had been seen of her, believed not."
+        }
+      ]
+    },
+    {
+      "reference": "Luke 24:1-12",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain others with them."
+        },
+        {
+          "number": 2,
+          "line": "And they found the stone rolled away from the sepulchre."
+        },
+        {
+          "number": 3,
+          "line": "And they entered in, and found not the body of the Lord Jesus."
+        },
+        {
+          "number": 4,
+          "line": "And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments:"
+        },
+        {
+          "number": 5,
+          "line": "And as they were afraid, and bowed down their faces to the earth, they said unto them, Why seek ye the living among the dead?"
+        },
+        {
+          "number": 6,
+          "line": "He is not here, but is risen: remember how he spake unto you when he was yet in Galilee,"
+        },
+        {
+          "number": 7,
+          "line": "Saying, The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again."
+        },
+        {
+          "number": 8,
+          "line": "And they remembered his words,"
+        },
+        {
+          "number": 9,
+          "line": "And returned from the sepulchre, and told all these things unto the eleven, and to all the rest."
+        },
+        {
+          "number": 10,
+          "line": "It was Mary Magdalene, and Joanna, and Mary the mother of James, and other women that were with them, which told these things unto the apostles."
+        },
+        {
+          "number": 11,
+          "line": "And their words seemed to them as idle tales, and they believed them not."
+        },
+        {
+          "number": 12,
+          "line": "Then arose Peter, and ran unto the sepulchre; and stooping down, he beheld the linen clothes laid by themselves, and departed, wondering in himself at that which was come to pass."
+        }
+      ]
+    },
+    {
+      "reference": "John 20:1-18",
+      "verses": [
+        {
+          "number": 1,
+          "line": "The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre."
+        },
+        {
+          "number": 2,
+          "line": "Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the LORD out of the sepulchre, and we know not where they have laid him."
+        },
+        {
+          "number": 3,
+          "line": "Peter therefore went forth, and that other disciple, and came to the sepulchre."
+        },
+        {
+          "number": 4,
+          "line": "So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre."
+        },
+        {
+          "number": 5,
+          "line": "And he stooping down, and looking in, saw the linen clothes lying; yet went he not in."
+        },
+        {
+          "number": 6,
+          "line": "Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie,"
+        },
+        {
+          "number": 7,
+          "line": "And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself."
+        },
+        {
+          "number": 8,
+          "line": "Then went in also that other disciple, which came first to the sepulchre, and he saw, and believed."
+        },
+        {
+          "number": 9,
+          "line": "For as yet they knew not the scripture, that he must rise again from the dead."
+        },
+        {
+          "number": 10,
+          "line": "Then the disciples went away again unto their own home."
+        },
+        {
+          "number": 11,
+          "line": "But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, and looked into the sepulchre,"
+        },
+        {
+          "number": 12,
+          "line": "And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain."
+        },
+        {
+          "number": 13,
+          "line": "And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my LORD, and I know not where they have laid him."
+        },
+        {
+          "number": 14,
+          "line": "And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus."
+        },
+        {
+          "number": 15,
+          "line": "Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away."
+        },
+        {
+          "number": 16,
+          "line": "Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master."
+        },
+        {
+          "number": 17,
+          "line": "Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God."
+        },
+        {
+          "number": 18,
+          "line": "Mary Magdalene came and told the disciples that she had seen the LORD, and that he had spoken these things unto her."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "resurrection-through-ascension",
+      "titleEn": "Resurrection through Ascension",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "iStock_000008712641XSmall_2-28-2013 4-15-02 PM.jpg",
+      "caption": "Jesus walks out of the tomb in a depiction of the resurrection of Jesus Christ."
+    },
+    {
+      "file": "155228514_2-28-2013 4-15-02 PM.jpg",
+      "caption": "Depiction of Christ&#39;s hand after the resurrection "
+    },
+    {
+      "file": "120759703_2-28-2013 4-15-02 PM.jpg",
+      "caption": "A tomb near Nazareth, Israel dates to the first century. Similar to Christ&#39;s tomb with the stone rolled over the entry."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Days of Destiny, Pt.5: Resurrection",
+      "caption": "A study focusing on the resurrection of Jesus.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/ape05.mp4"
+    },
+    {
+      "title": "Early in the Morning",
+      "caption": "This sermon focuses on the resurrection of Christ with a particular focus on the time of day Jesus--early in the morning. The Bible speaks of things happening then. It is a time to pray and hear clearly the voice of God. Like manna, it should be gathered early in the morning.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2114.mp4"
+    },
+    {
+      "title": "Advindication Part 2: Was the Sabbath Altered or Abolished?",
+      "caption": "This is the second in a series on common misunderstandings regarding the teachings of the Seventh-day Adventist Church. It is important for us to know what we believe. Some ask, &#34;Wasn&#39;t the Sabbath abolished? Didn&#39;t the apostles keep Sunday? Don&#39;t we keep Sunday to celebrate Christ&#39;s resurrection?&#34; These important questions are discussed in this sermon.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8497.mp4"
+    },
+    {
+      "title": "Roll Away the Stone",
+      "caption": "There are many different rocks in the Bible. Perhaps one of the most interesting stones was the one that covered the tomb of Jesus. If it could speak, what would it say? This sermon looks at what happened immediately after Jesus died and then later His resurrection on Sunday morning.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg21214.mp4"
+    }
+  ]
 }

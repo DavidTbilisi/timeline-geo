@@ -4,18 +4,49 @@
   "period": 1,
   "titleEn": "Jared",
   "titleKa": null,
-  "datesEn": "3494–2532 BC (962)",
+  "datesEn": "3494&ndash;2532 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;servant.&#34; The fourth patriarch from Seth, he was the son of Mahalalel and the father of Enoch, also called Jered (1 Chron. 1:2). He lived 962 years.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 5:15",
+      "verses": [
+        {
+          "number": 15,
+          "line": "And Mahalaleel lived sixty and five years, and begat Jared:"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 5:20",
+      "verses": [
+        {
+          "number": 20,
+          "line": "And all the days of Jared were nine hundred sixty and two years: and he died."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "mahalaleel",
+      "titleEn": "Mahalaleel",
+      "titleKa": null
+    },
+    {
+      "slug": "enoch",
+      "titleEn": "Enoch",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt- Jared_8-5-2013 5-24-43 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt- Jared_8-5-2013 5-24-43 PM.jpg",
+      "caption": "Jared"
     }
-  ]
+  ],
+  "videos": []
 }

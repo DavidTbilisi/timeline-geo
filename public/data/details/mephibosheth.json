@@ -4,13 +4,45 @@
   "period": 6,
   "titleEn": "Mephibosheth",
   "titleKa": null,
-  "datesEn": "1015–969 BC",
+  "datesEn": "1015&ndash;969 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;he who scatters shame.&#34; He is the son of Jonathan and grandson of Saul. When news of Saul and his sons being killed reaches Mephibosheth&#39;s nurse, she picks up the 5&#8212;year&#8212;old and runs. He falls and is lame for life. David shows him mercy.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Mephibosheth, son of Jonathan. He was only 5 years of age when his father and grandfather died in the battle of Gilboa. When the news of this catastrophe reached the court his nurse took him and fled, but during the flight he fell and was lamed for life (2 Sa 4:4). For a time he lived in Transjordan at Lo&#8212;debar, but when David learned of his whereabouts he brought him to Jerusalem, and in memory of his friendship to the boy&#39;s father made him a member of the official court family. <BR /><BR />He also restored the estates of Saul and Jonathan to him, placing them under the administration of Ziba, Saul&#39;s former steward (ch 9:3&#8212;13). During the rebellion of Absalom, Mephibosheth remained in Jerusalem and was accused by Ziba of having joined the rebellion. Consequently David gave Ziba all the property of his master (ch 16:1&#8212;4). Upon David&#39;s return, Mephibosheth defended his innocence, and half of his property was restored (ch 19:24&#8212;30). When seven of Saul&#39;s descendants were executed to revenge Saul&#39;s unjustified massacre of the Gibeonites, David spared Mephibosheth for the sake of Jonathan (ch 21:7). Mephibosheth had a son, Mica, through whom Saul&#39;s family was continued (2 Sa 9:12 1 Chr 8:34&#8212;40 9:40&#8212;44).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Samuel 4:4",
+      "verses": [
+        {
+          "number": 4,
+          "line": "And Jonathan, Saul's son, had a son that was lame of his feet. He was five years old when the tidings came of Saul and Jonathan out of Jezreel, and his nurse took him up, and fled: and it came to pass, as she made haste to flee, that he fell, and became lame. And his name was Mephibosheth."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jonathan",
+      "titleEn": "Jonathan",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-DavidMephibosheth_8-5-2013 4-36-30 PM.jpg",
+      "caption": "David showing kindness to Mephibosheth"
+    },
+    {
+      "file": "Mephibosheth_kneels_before_David.gif",
+      "caption": "Mephibosheth is brought to David by Ziba in 1240&#39;s from the Maciejowski Bible."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Mephibosheth: Help for the Handicapped",
+      "caption": "This sermon looks at a story of the grace of God in Scripture and how our entire status can be changed to a covenant that the Lord has made to save us. It&#39;s about Mephibosheth. God takes people from the prison to the palace.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg21203.mp4"
+    }
+  ]
 }

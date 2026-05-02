@@ -4,13 +4,119 @@
   "period": 8,
   "titleEn": "Queen Vashti  Falls into Disfavor",
   "titleKa": null,
-  "datesEn": "483 BC",
+  "datesEn": "483 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "King Ahasuerus makes a great feast for his officials. On the last day of the feast he calls for Queen Vashti to come before his officials that he might show off her beauty. She refuses to come and he becomes angry and takes her from the throne.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Having displayed the wealth and glory of his kingdom, Ahasuerus&#39; thoughts finally turned to his beautiful queen. The display of her beauty would, he thought, climax the exhibition of the great banquet he held. But Vashti refused to come. The reason for the queen&#39;s refusal is not clear. Some have suggested that Ahasuerus intended an immodest display of Vashti&#39;s beauty, but the context provides no clue as to whether this was his purpose. The Jewish targums, however, assume that her motive for refusing to appear was her desire to avoid such a display, Josephus attributes her refusal to what he, mistakenly, thought to be a Persian custom, one that presumably prohibited married women from associating with strangers. Other ancient Jewish writers set forth a variety of imaginary or preposterous explanations, none of which warrant serious consideration.<BR /><BR />Ahasuerus&#39; order specifying that Vashti wear the royal crown (v. 11) implies that he was thinking of her, not merely as a beautiful woman, but also as the first woman of the land. That it was actually good taste for Persian women to appear at the banquet table with strangers is evident from Esther 5:4. Chaldean wives and concubines also joined their husbands in drunken feasting (Dan. 5:2). According to Neh. 2:1&#8212;6 the queen of Ahasuerus&#39; son and successor, Artaxerxes I, accompanied her lord at wine. Several Greek writers confirm the presence of Persian women at feasts. Herodotus, a contemporary of Ahasuerus, speaks of Amestris (see on Esther 1:9) at the king&#39;s birthday feast (ix. 110). There is no reason for thinking that contemporary Persian custom secluded women, and that it would therefore have been improper for Vashti to appear when summoned, in spite of the fact that the men were drinking (see ch. 7:7).<BR /><BR />The fact that Vashti held a banquet for the women of Shushan simultaneously with that of Ahasuerus for the men implies cooperation with his policy in promoting popular loyalty to the throne. Nothing in the record gives a clue to the reason for Vashti&#39;s refusal to obey the king&#39;s command. Angry as he is, Ahasuerus seeks counsel. In the presence of his whole court it would be unseemly for him to vent his passion in violent words and threats. Instead of issuing a hasty order, he proceeds deliberately to consider what steps should be taken. Ahasuerus seems to have relied heavily on his counselors (see chs. 3:8&#8212;10 8:1&#8212;8 9:12&#8212;14), and now invites the opinion of his &#34;wise men&#34; as to how to deal with Vashti.<BR /><BR />Vashti was to be banished, not from the palace, but from the king&#39;s presence. This, together with the loss of her favored position as queen, would bring supreme disgrace. Beauty alone could not save her (see v. 12). Vashti was separated, but not divorced, from the king. The grounds for this action were published throughout the provinces, so that none might misunderstand. Ahasuerus&#39; care in handling the case suggests the idea that Vashti may have been the daughter of a prominent Persian whose support the king sought to retain, or perhaps the daughter of the prince of one of his subject peoples.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Esther 1:1-22",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now it came to pass in the days of Ahasuerus, (this is Ahasuerus which reigned, from India even unto Ethiopia, over an hundred and seven and twenty provinces:)"
+        },
+        {
+          "number": 2,
+          "line": "That in those days, when the king Ahasuerus sat on the throne of his kingdom, which was in Shushan the palace,"
+        },
+        {
+          "number": 3,
+          "line": "In the third year of his reign, he made a feast unto all his princes and his servants; the power of Persia and Media, the nobles and princes of the provinces, being before him:"
+        },
+        {
+          "number": 4,
+          "line": "When he shewed the riches of his glorious kingdom and the honour of his excellent majesty many days, even an hundred and fourscore days."
+        },
+        {
+          "number": 5,
+          "line": "And when these days were expired, the king made a feast unto all the people that were present in Shushan the palace, both unto great and small, seven days, in the court of the garden of the king's palace;"
+        },
+        {
+          "number": 6,
+          "line": "Where were white, green, and blue, hangings, fastened with cords of fine linen and purple to silver rings and pillars of marble: the beds were of gold and silver, upon a pavement of red, and blue, and white, and black, marble."
+        },
+        {
+          "number": 7,
+          "line": "And they gave them drink in vessels of gold, (the vessels being diverse one from another,) and royal wine in abundance, according to the state of the king."
+        },
+        {
+          "number": 8,
+          "line": "And the drinking was according to the law; none did compel: for so the king had appointed to all the officers of his house, that they should do according to every man's pleasure."
+        },
+        {
+          "number": 9,
+          "line": "Also Vashti the queen made a feast for the women in the royal house which belonged to king Ahasuerus."
+        },
+        {
+          "number": 10,
+          "line": "On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven chamberlains that served in the presence of Ahasuerus the king,"
+        },
+        {
+          "number": 11,
+          "line": "To bring Vashti the queen before the king with the crown royal, to shew the people and the princes her beauty: for she was fair to look on."
+        },
+        {
+          "number": 12,
+          "line": "But the queen Vashti refused to come at the king's commandment by his chamberlains: therefore was the king very wroth, and his anger burned in him."
+        },
+        {
+          "number": 13,
+          "line": "Then the king said to the wise men, which knew the times, (for so was the king's manner toward all that knew law and judgment:"
+        },
+        {
+          "number": 14,
+          "line": "And the next unto him was Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, which saw the king's face, and which sat the first in the kingdom;)"
+        },
+        {
+          "number": 15,
+          "line": "What shall we do unto the queen Vashti according to law, because she hath not performed the commandment of the king Ahasuerus by the chamberlains?"
+        },
+        {
+          "number": 16,
+          "line": "And Memucan answered before the king and the princes, Vashti the queen hath not done wrong to the king only, but also to all the princes, and to all the people that are in all the provinces of the king Ahasuerus."
+        },
+        {
+          "number": 17,
+          "line": "For this deed of the queen shall come abroad unto all women, so that they shall despise their husbands in their eyes, when it shall be reported, The king Ahasuerus commanded Vashti the queen to be brought in before him, but she came not."
+        },
+        {
+          "number": 18,
+          "line": "Likewise shall the ladies of Persia and Media say this day unto all the king's princes, which have heard of the deed of the queen. Thus shall there arise too much contempt and wrath."
+        },
+        {
+          "number": 19,
+          "line": "If it please the king, let there go a royal commandment from him, and let it be written among the laws of the Persians and the Medes, that it be not altered, That Vashti come no more before king Ahasuerus; and let the king give her royal estate unto another that is better than she."
+        },
+        {
+          "number": 20,
+          "line": "And when the king's decree which he shall make shall be published throughout all his empire, (for it is great,) all the wives shall give to their husbands honour, both to great and small."
+        },
+        {
+          "number": 21,
+          "line": "And the saying pleased the king and the princes; and the king did according to the word of Memucan:"
+        },
+        {
+          "number": 22,
+          "line": "For he sent letters into all the king's provinces, into every province according to the writing thereof, and to every people after their language, that every man should bear rule in his own house, and that it should be published according to the language of every people."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "xerxes-i",
+      "titleEn": "Xerxes I",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "vashti_8-28-2013 12-52-48 PM.jpg",
+      "caption": "Vashti Refuses the King&#39;s Summons painting by Ernest Normand in 1890. "
+    }
+  ],
+  "videos": []
 }

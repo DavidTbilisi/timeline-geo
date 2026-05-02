@@ -4,13 +4,40 @@
   "period": 8,
   "titleEn": "Maath",
   "titleKa": null,
-  "datesEn": "340–280 BC",
+  "datesEn": "340&ndash;280 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name possibly means &#34;small.&#34; Son of Mattathias and father of Naggai (or Nagge) listed in Luke&#39;s genealogy of Jesus Christ.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:26",
+      "verses": [
+        {
+          "number": 26,
+          "line": "Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of Juda,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "mattathias-son-of-semei",
+      "titleEn": "Mattathias",
+      "titleKa": null
+    },
+    {
+      "slug": "nagge-or-naggai",
+      "titleEn": "Nagge (or Naggai)",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-wjpas0487_8-6-2013 3-41-04 PM.jpg",
+      "caption": "Which was the son of <b>Maath</b>, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of Juda, (Luke 3:26)"
+    }
+  ],
+  "videos": []
 }

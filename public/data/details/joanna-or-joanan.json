@@ -4,13 +4,40 @@
   "period": 8,
   "titleEn": "Joanna (or Joanan)",
   "titleKa": null,
-  "datesEn": "450–370 BC",
+  "datesEn": "450&ndash;370 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;Yahweh has been gracious.&#34; He is the son of Rhesa, a Judahite who is listed in Luke&#39;s genealogy of Jesus Christ. Also spelled &#34;Joanan.&#34;",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:27",
+      "verses": [
+        {
+          "number": 27,
+          "line": "Which was the son of Joanna, which was the son of Rhesa, which was the son of Zorobabel, which was the son of Salathiel, which was the son of Neri,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "rhesa",
+      "titleEn": "Rhesa",
+      "titleKa": null
+    },
+    {
+      "slug": "juda-or-joda",
+      "titleEn": "Juda (or Joda)",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-joanna_8-6-2013 3-11-32 PM.jpg",
+      "caption": "Which was the son of <b>Joanna</b>, which was the son of Rhesa, which was the son of Zorobabel, which was the son of Salathiel, which was the son of Neri, (Luke 3:27)"
+    }
+  ],
+  "videos": []
 }

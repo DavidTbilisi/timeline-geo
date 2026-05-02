@@ -4,18 +4,48 @@
   "period": 7,
   "titleEn": "Great Earthquake",
   "titleKa": null,
-  "datesEn": "757 BC",
+  "datesEn": "757 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The most important earthquake mentioned in the Old Testament is spoken of in Amos 1:1 and Zechariah 14:5 and happens during the reign of Uzziah, the 10th ruler of the Judah northern kingdom.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Amos 1:1 makes reference to a very important earthquake in Old Testament history. Secular history as yet has thrown no light on this event. However, long afterward the prophet Zechariah mentions this earthquake (see ch. 14:5). Evidently it was serious enough to leave an impression on subsequent generations. Josephus declares that this earthquake came when King Uzziah presumptuously entered the Temple to burn incense (Antiquities ix. 10. 4 see 2 Chron. 26:16&#8212;21).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Amos 1:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake."
+        }
+      ]
+    },
+    {
+      "reference": "Zechariah 14:5",
+      "verses": [
+        {
+          "number": 5,
+          "line": "And ye shall flee to the valley of the mountains; for the valley of the mountains shall reach unto Azal: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the LORD my God shall come, and all the saints with thee."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "amos-the-prophet",
+      "titleEn": "Amos",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/_GoodSalt-prcas3399_8-27-2013 2-13-06 PM.jpg",
-      "caption": ""
+      "file": "_GoodSalt-prcas3399_8-27-2013 2-13-06 PM.jpg",
+      "caption": "King Uzziah in the temple"
+    },
+    {
+      "file": "Earthquake_4-3-2013 3-47-11 PM.jpg",
+      "caption": "The most important earthquake mentioned in the Old Testament is spoken of in Amos 1:1 and Zechariah 14:5"
     }
-  ]
+  ],
+  "videos": []
 }

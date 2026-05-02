@@ -4,13 +4,45 @@
   "period": 8,
   "titleEn": "Daniel 3, Golden Image",
   "titleKa": null,
-  "datesEn": "594 BC",
+  "datesEn": "594 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "King Nebuchadnezzar has a golden image built and set up on the plain of Dura. It is large and he instructs all the people who come must bow down and worship the image. Daniel&#39;s three friends refuse to do so and are thrown into a fiery furnace.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "No date is given for the events of Daniel 3. The name of the king is the only indication as to when these events occurred. The LXX and Theodotion&#39;s Greek translation date the events in Nebuchadnezzar&#39;s 18th year. Some scholars regard this as an interpolation. They reason that the translators believed that the colossal statue was erected to mark the final capture of Jerusalem. However, that city was not destroyed in Nebuchadnezzar&#39;s 18th year, but rather in his 19th (2 Kings 25:8&#8212;10). The date 580 b.c., long given in the margin of the KJV, is derived from Ussher&#39;s chronology (see Vol. I, pp. 179, 195) and has no adequate historical basis. Some commentators have even placed the narrative in the period following Nebuchadnezzar&#39;s madness described in ch. 4, but this position is untenable, as will be shown.<BR /><BR />This much is certain, the events narrated in this chapter occurred later than those of the 2d chapter, because ch. 3:12, 30 refers to ch. 2:49. Further, a comparison of Nebuchadnezzar&#39;s addresses of praise in ch. 3:28, 29 and ch. 4:34&#8212;37 indicates that the king&#39;s madness was a later event. Secular history is of no help in dating this event, since extra&#8212;Biblical records of that time nowhere mention the incident. However, a court almanac written in the year 570/569 b.c. excludes that year from consideration as a possible date and makes it highly improbable that the event had taken place recently. <BR /><BR />This almanac gives a list of all the highest state officials in office during that year. Neither Daniel nor his three friends are mentioned. Since the event described in Dan. 3 resulted in a promotion of the three Hebrews, and since it is unlikely that they were removed from office soon after their promotion&#8212;at least all three of them&#8212;a considerable time may have elapsed between the experience narrated in ch. 3 and the date of the court almanac.<BR /><BR />The influence of the dream of ch. 2 on the events of ch. 3 strongly suggests that the events of ch. 3 cannot be dated in the latter part of Nebuchadnezzar&#39;s reign. Some have suggested the date 594/593, for the following reasons: This date coincides with the 4th year of Zedekiah, who in that year made a journey to Babylon (Jer. 51:59). It is possible that the journey was undertaken in reply to the summons of Nebuchadnezzar that all his governors and vassal &#34;rulers of the provinces&#34; (Dan. 3:2) appear in Babylon to give homage to the image the king had erected. Zedekiah, a weak and vacillating character, would hardly be expected to have religious scruples such as made it impossible for Shadrach, Meshach, and Abednego to obey the king&#39;s command. However, the dating of this event in the time of Zedekiah is no more than a possibility.<BR /><BR />Why Daniel is not mentioned in the narrative is a question that cannot be answered. Whether he was ill or absent on an important mission cannot be known. Some have conjectured that because of embarrassment at having rejected the message of the dream, the king arranged to have Daniel away on important business for the crown. However, of one thing we may be certain: had the test come to him, Daniel would have stood as loyal as his three companions.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Daniel 3:1",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Nebuchadnezzar the king made an image of gold, whose height was threescore cubits, and the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "daniel",
+      "titleEn": "Daniel",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas0058_8-28-2013 10-42-26 AM.jpg",
+      "caption": "King Nebuchadnezzar has a golden image built and set up on the plain of Dura."
+    },
+    {
+      "file": "GoodSalt-stdas0048_8-28-2013 10-42-26 AM.jpg",
+      "caption": "Shadrach, Meshach, and Abednego in the fiery furnace with Jesus"
+    }
+  ],
+  "videos": [
+    {
+      "title": "No Compromise (Party Poopers)",
+      "caption": "This sermon looks at the story of the three Hebrew friends of Daniel who were thrown into a fiery furnace because they would not bow down and worship the gold image made by Nebuchadnezzar. Just as an ancient government sought to enforce people to worship, so a day will come when, in the name of saving our country, there will be a enforced worship to a specific day.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg6287.mp4"
+    }
+  ]
 }

@@ -4,13 +4,71 @@
   "period": 3,
   "titleEn": "Lot Moves to Sodom",
   "titleKa": null,
-  "datesEn": "1867 BC",
+  "datesEn": "1867 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Abram and Lot have many flocks and &#34;the land was not able to support them&#34; (Gen. 13:6). Abram suggests they separate and gives Lot the choice of land. Lot chooses the fertile Jordan Valley and journeys &#34;eastward&#34; toward Sodom, a bad move.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Their substance was great. The uncle&#39;s prosperity overflowed upon his nephew. Lot, the only other member of Terah&#39;s family who had obeyed God&#39;s command to go to Canaan, shared in the blessing promised Abram. Inasmuch as the land was already occupied by the Canaanites, and the mountains of Canaan were heavily wooded, as ancient records show, there was scant permanent grazing land for the large flocks and herds of the newcomers.<BR /><BR />Let there be no strife. The quarrels of the shepherds were probably reflected in Lot&#39;s attitude and conduct. Anxious to avert discord and enmity between himself and his nephew, Abram proposed the separation of their flocks and herds as a solution to the difficulty. In view of the fact that Lot was his junior, and that the entire country had been promised to Abram, his dealings with Lot reflect a truly generous spirit. The nobility of soul revealed upon this occasion stands forth in sharp contrast to the weakness of character he had so recently exhibited in Egypt. Abram proved himself to be a man of peace.<BR /><BR />Is not the whole land before thee? Though appointed heir to the entire country, Abram manifested true humility by subordinating his own interests to those of Lot and so permitting him to take as much of the land as he wanted. Abram waived his own rights for the sake of peace, but in so doing earned our highest respect. He displayed a generosity of spirit, a nobility of mind, a character worthy of emulation. To do otherwise than he did would have been to follow the selfish principles that usually govern men in their dealings with one another. But a spiritual man lives according to higher principles and looks beyond the temporary advantages of this world to eternal gains. This Abram did by defeating Satan&#39;s purpose to create discord and strife between him and his nephew.<BR /><BR />Lot chose. Allured by its beauty and fertility and heedless of other considerations, Lot chose the Jordan valley as his future place of abode. Impelled by selfishness and guided only by his own inclinations and the prospect of temporal advantage, Lot made the fateful decision of his life. This decision led him through a series of unfortunate experiences which imperiled his life, his soul, and his family. Leaving Abram at Bethel, Lot and his family departed eastward.<BR /><BR />Pitched his tent toward Sodom. Desirous of settling in the immediate neighborhood of the cities of the Jordan valley, in whose wealth he hoped to share, Lot stands in marked contrast to his uncle, who remained a wanderer throughout life (see Heb. 11:9). The experience of Lot is a lesson for the Christian who is tempted to choose earthly associates and temporal gain in exchange for eternal happiness. First he &#34;beheld,&#34; and then he &#34;chose.&#34; Leaving the Jordan valley, north of the Dead Sea, he pitched his tent toward Sodom, then moved into the city (see Gen. 14:12 19:1). Though he himself was righteous, his fateful decision meant the loss of almost everything he held dear.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 13:5-13",
+      "verses": [
+        {
+          "number": 5,
+          "line": "And Lot also, which went with Abram, had flocks, and herds, and tents."
+        },
+        {
+          "number": 6,
+          "line": "And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together."
+        },
+        {
+          "number": 7,
+          "line": "And there was a strife between the herdmen of Abram's cattle and the herdmen of Lot's cattle: and the Canaanite and the Perizzite dwelled then in the land."
+        },
+        {
+          "number": 8,
+          "line": "And Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we be brethren."
+        },
+        {
+          "number": 9,
+          "line": "Is not the whole land before thee? separate thyself, I pray thee, from me: if thou wilt take the left hand, then I will go to the right; or if thou depart to the right hand, then I will go to the left."
+        },
+        {
+          "number": 10,
+          "line": "And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the LORD destroyed Sodom and Gomorrah, even as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar."
+        },
+        {
+          "number": 11,
+          "line": "Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other."
+        },
+        {
+          "number": 12,
+          "line": "Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched his tent toward Sodom."
+        },
+        {
+          "number": 13,
+          "line": "But the men of Sodom were wicked and sinners before the LORD exceedingly."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "lot",
+      "titleEn": "Lot",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-stdas0140_8-13-2013 2-25-21 PM.jpg",
+      "caption": "Abraham and Lot separate."
+    },
+    {
+      "file": "Abram and Lot_5-15-2013 4-48-43 PM.jpg",
+      "caption": "Abram said to Lot, &#34;Let there be no quarreling between me and you, and between my herdsmen and your herdsmen, for we are close relatives. Is not the whole land before you? Separate yourself now from me. If you go to the left, then I&#39;ll go to the right, but if you go to the right, then I&#39;ll go to the left.&#34;(Genesis, Chapter 13, 8-9). Woodcut after a drawing by Julius Schnorr von Carolsfeld (German painter, 1794 - 1872)"
+    }
+  ],
+  "videos": []
 }

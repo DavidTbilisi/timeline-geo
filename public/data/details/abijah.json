@@ -4,13 +4,57 @@
   "period": 7,
   "titleEn": "Abijah",
   "titleKa": null,
-  "datesEn": "913–911 BC",
+  "datesEn": "913&ndash;911 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name is more often Abijah which means &#34;Yahweh is a father.&#34; The son of Rehoboam, he rules Judah for 3 years. He is a descendent of Absalom and is a wicked king like his father. He is victorious in a battle against Israel, relying on the Lord.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Abijah, name means &#34;Yahweh is a father&#34;. <BR /><BR />The second king of Judah after Solomon, called Abijam by the author of Kings. He was the son of Rehoboam and ruled Judah 3 years (c. 913&#8212;c. 911 b.c.). Through his mother he was a descendant of Absalom (1 Ki 15:2). He followed his father in wickedness, and also continued the war with Jeroboam I (vs 3, 6, 7). In a certain battle, because he &#34;relied upon the Lord God&#34; he was able to inflict a crushing defeat upon Israel (2 Chr 13:3&#8212;20). He had 14 wives, 22 sons, and 16 daughters (v 21). His biography was written by the prophet Iddo (v 22). <BR /><BR />The apparent discrepancy in the maternity of Abijah (1 Ki 15:2 cf. 2 Chr 13:2) is generally explained as follows: &#34;Maachah, the daughter of Abishalom,&#34; or Absalom, was really the granddaughter, not daughter, of Absalom. The Hebrew word for daughter may refer to any female descendant no matter how remote.<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Kings 15:1-2",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah."
+        },
+        {
+          "number": 2,
+          "line": "Three years reigned he in Jerusalem. And his mother's name was Maachah, the daughter of Abishalom."
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 15:8",
+      "verses": [
+        {
+          "number": 8,
+          "line": "And Abijam slept with his fathers; and they buried him in the city of David: and Asa his son reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "rehoboam",
+      "titleEn": "Rehoboam",
+      "titleKa": null
+    },
+    {
+      "slug": "asa",
+      "titleEn": "Asa",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-stdas0550_8-6-2013 10-05-53 AM.jpg",
+      "caption": "Ahijah tearing his garment."
+    },
+    {
+      "file": "Abijam_4-30-2013 10-45-21 AM.jpg",
+      "caption": "Icon of Abijah published by Guillaume Rouille in 1553."
+    }
+  ],
+  "videos": []
 }

@@ -4,18 +4,73 @@
   "period": 12,
   "titleEn": "Beast Rises from the Earth",
   "titleKa": null,
-  "datesEn": "1776–1789 AD",
+  "datesEn": "1776&ndash;1789 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "The beast that &#34;rises from the earth&#34; comes out of a place that is not populous. This second beast fits the description of the rise of the United States of America, which grew in power when the first beast went into captivity.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "In Revelation 13 another beast rises from the earth. That is, another in addition to the one already mentioned (v. 1). The Greek implies that it is of the same kind as the first beast. This is confirmed as its characteristics are unfolded. It works in close collaboration with the first beast. It comes up &#34;out of the earth.&#34; The prophet sees the action as going on. The first beast arose out of the sea (see on v. 1). The four beasts of Dan. 7 also arose from the sea (v. 3). Since &#34;sea&#34; represents peoples and nations (see on Rev. 13:1 17:1, 2, 8), &#34;earth&#34; may reasonably be assumed to represent a sparsely settled region. The nation thus represented would therefore not arise by war, conquest, and occupation, but would develop into greatness in a region of few inhabitants.<BR /><BR />Many commentators have seen in this second beast a symbol of the United States of America. This power accurately fulfills the specifications of the prophecy. When the first beast was going into captivity in 1798 (see on ch. 13:10) the United States was growing into prominence and power. The nation arose, not in the Old World, with its teeming multitudes, but in the New World, with its relatively few inhabitants.<BR /><BR />It had two horns. These may be taken to represent the two notable features of the American system of government, civil and religious liberty, both of which are guaranteed in the Constitution of the United States. Civil liberty found its expression in a republican form of government and religious liberty in Protestantism.<BR /><BR />A lamb. A symbol of youthfulness and peaceful intent. Other nations have been described as wild beasts because of their warlike attitudes. This beast with the horns of a lamb could well indicate a nation that, in the beginning of its history, had no such aspirations. Its main concern was to live peacefully, order its own affairs, and be a haven of rest for the oppressed of many nations.<BR /><BR />It spake like the dragon. Textual evidence may be cited (cf. p. 10) for the reading &#34;is speaking.&#34; This tense agrees with that of the following verses, which describe the activities of the beast during the period when it speaks like a dragon. The narrative of its exploits is told in the dramatic present tense. There is a striking contradiction between the appearance and actions of the beast. In appearance it is gentle and apparently harmless, but in action it is persecuting and cruel, as vs. 12&#8212;18 reveal. When the prophecy is applied to the United States it is immediately apparent that fulfillment of the prediction is future. The United States today continues to maintain the principles of freedom guaranteed in the Constitution. The manner in which a change in policy will be brought about is outlined in the present prophecy. The change comes in connection with the final crisis immediately preceding the time when &#34;the kingdoms of this world ... become the kingdoms of our Lord, and of his Christ&#34;.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Revelation 13:11-18",
+      "verses": [
+        {
+          "number": 11,
+          "line": "And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon."
+        },
+        {
+          "number": 12,
+          "line": "And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed."
+        },
+        {
+          "number": 13,
+          "line": "And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men,"
+        },
+        {
+          "number": 14,
+          "line": "And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live."
+        },
+        {
+          "number": 15,
+          "line": "And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed."
+        },
+        {
+          "number": 16,
+          "line": "And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:"
+        },
+        {
+          "number": 17,
+          "line": "And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name."
+        },
+        {
+          "number": 18,
+          "line": "Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "prophecies-of-the-end-of-time",
+      "titleEn": "Prophecies of the End of Time",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-beasts_8-5-2013 11-11-37 AM.jpg",
-      "caption": ""
+      "file": "GoodSalt-beasts_8-5-2013 11-11-37 AM.jpg",
+      "caption": "And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon. (Revelation 13:11)"
+    },
+    {
+      "file": "iStock_000001771067Small_2-27-2013 5-06-23 PM.jpg",
+      "caption": "And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon. (Revelation 13:11)"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The USA in Bible Prophecy",
+      "caption": "How does the USA fit into prophecy?",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp11-18.mp4"
     }
   ]
 }

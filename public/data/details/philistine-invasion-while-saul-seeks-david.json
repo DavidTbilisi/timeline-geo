@@ -4,13 +4,43 @@
   "period": 6,
   "titleEn": "Philistine Invasion While Saul Seeks David",
   "titleKa": null,
-  "datesEn": "1017 BC",
+  "datesEn": "1017 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "When Saul discovers David hiding in the Wilderness of Maon, the armies are on opposite sides of a mountain. Saul begins to encircle David&#39;s army when he is interrupted. A messenger says, &#34;Hurry ... the Philistines have invaded the land.&#34; Saul leaves.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Samuel 23:27-29",
+      "verses": [
+        {
+          "number": 27,
+          "line": "But there came a messenger unto Saul, saying, Haste thee, and come; for the Philistines have invaded the land."
+        },
+        {
+          "number": 28,
+          "line": "Wherefore Saul returned from pursuing after David, and went against the Philistines: therefore they called that place Selahammahlekoth."
+        },
+        {
+          "number": 29,
+          "line": "And David went up from thence, and dwelt in strong holds at Engedi."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Maon from south, tb032107439_5-1-2013 2-37-19 PM.jpg",
+      "caption": "Wilderness of Maon."
+    }
+  ],
+  "videos": []
 }

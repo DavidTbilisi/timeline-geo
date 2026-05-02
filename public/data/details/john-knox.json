@@ -2,20 +2,35 @@
   "slug": "john-knox",
   "id": 1337,
   "period": 11,
-  "titleEn": "John Knox",
+  "titleEn": "John Knox ",
   "titleKa": null,
-  "datesEn": "1513–1572 AD (59)",
+  "datesEn": "1513&ndash;1572 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A priest and leader of the Protestant Reformation in Scotland. Eventually became the chaplain of king Edward VI of England.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "John Knox was born about 1513 near Edinburgh, Scotland. He attended St. Andrews University and became a convert to Protestantism around the age of 30. Knox traveled abroad for about 13 years. In 1553, he fled to the continent to escape the wrath of Queen &#34;Bloody&#34; Mary. As a result, Knox began pastoring a congregation in Frankfurt, Germany. While in Frankfurt, he began to cause controversy by going beyond the Book of Common Prayer. The Book of Common Prayer was compiled by Thomas Cranmer and was considered the official book of service. By introducing teachings not contained in this book, John Knox was considered too radical. Nevertheless, Knox introduced a more reformed worship style, which agitated conservatives. As a result, Knox was expelled from Frankfurt and moved to Geneva, Switzerland.<BR /><BR />In 1559 John Knox returned to Scotland and continued to help reform the church. While there, he published the Book of Discipline and the Book of Common Order. Knox died in 1572.<BR /><BR /><BR /><BR /><BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/92833011_2-26-2013 4-12-16 PM.jpg",
-      "caption": ""
+      "file": "92833011_2-26-2013 4-12-16 PM.jpg",
+      "caption": "Scottish Protestant reformer John Knox."
+    },
+    {
+      "file": "139881064_2-26-2013 4-12-16 PM.jpg",
+      "caption": "John Knox house on the Royal Mile Edinburgh, John Knox was a churchman. Born in Haddington, East Lothian, Knox was known as the father of the Protestant Reformation in Scotland."
+    },
+    {
+      "file": "iStock_000008869749Medium_2-26-2013 4-12-16 PM.jpg",
+      "caption": "Vintage engraving of King Edward the Sixth. Engraving from 1854 photo and colour work by D Walker."
     }
-  ]
+  ],
+  "videos": []
 }

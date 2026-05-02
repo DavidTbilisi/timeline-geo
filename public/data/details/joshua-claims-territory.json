@@ -4,13 +4,43 @@
   "period": 5,
   "titleEn": "Joshua Claims Territory",
   "titleKa": null,
-  "datesEn": "1399 BC",
+  "datesEn": "1399 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "After Joshua conquers the land of Canaan and divides up the inheritance for the tribes, the children of Israel give an inheritance to Joshua, a city named Timnath Serah in the mountains of Ephraim where he built a city and lived.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Joshua was the last to receive his inheritance. We see in this sequence the magnanimity of this great leader. He was not striving to reap all the benefits by virtue of his office, which he could readily have done. He shunned the temptation to which leaders are constantly exposed, namely, to enhance their own coffers with little consideration for those in less favorable positions. Joshua was last served, though the eldest and greatest man in Israel. He sought the good of his country above any private interests of his own. He is a great example to all who serve in public places whether in civil or church leadership. <BR /><BR />It is further noted that he did not take the inheritance to himself without the people&#39;s consent and approbation. The record says that the children of Israel gave it to him. They loved their leader. No wonder the people served the Lord all the days of Joshua and all the days of the elders that outlived Joshua (Joshua 24:31 Judges 2:7). Such unselfish service begets love, which, in turn, prompts obedience. No one really has a right to leadership until he has learned to serve unselfishly. Christ, who pleased not Himself (Rom. 15:3), is the great exemplar of unselfish service.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Joshua 19:49-51",
+      "verses": [
+        {
+          "number": 49,
+          "line": "When they had made an end of dividing the land for inheritance by their coasts, the children of Israel gave an inheritance to Joshua the son of Nun among them:"
+        },
+        {
+          "number": 50,
+          "line": "According to the word of the LORD they gave him the city which he asked, even Timnathserah in mount Ephraim: and he built the city, and dwelt therein."
+        },
+        {
+          "number": 51,
+          "line": "These are the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the LORD, at the door of the tabernacle of the congregation. So they made an end of dividing the country."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "joshua",
+      "titleEn": "Joshua",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas0476_8-6-2013 2-36-06 PM.jpg",
+      "caption": "Joshua"
+    }
+  ],
+  "videos": []
 }

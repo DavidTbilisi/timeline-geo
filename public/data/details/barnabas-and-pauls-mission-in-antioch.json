@@ -4,13 +4,67 @@
   "period": 10,
   "titleEn": "Barnabas and Paul's Mission in Antioch",
   "titleKa": null,
-  "datesEn": "43–44 AD",
+  "datesEn": "43&ndash;44 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "When the church is persecuted after the martyrdom of Stephen, the gospel spreads to Antioch where Barnabas is sent to work. He later takes Saul and works there for a whole year. The church grows. The disciples are first called Christians here.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Meanwhile, during Paul&#39;s stay in Cilicia, Christianity had been progressing in other areas. A growing interest had developed at Antioch in Syria, and Barnabas had been dispatched from Jerusalem to foster it (Acts 11:19&#8212;24). Deciding that he needed help, he journeyed to Tarsus, found Paul, and brought him back to Antioch with him (vs 25, 26). Paul and Barnabas worked together there for a full year, with noteworthy success.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Acts 11:19-26",
+      "verses": [
+        {
+          "number": 19,
+          "line": "Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only."
+        },
+        {
+          "number": 20,
+          "line": "And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the LORD Jesus."
+        },
+        {
+          "number": 21,
+          "line": "And the hand of the Lord was with them: and a great number believed, and turned unto the Lord."
+        },
+        {
+          "number": 22,
+          "line": "Then tidings of these things came unto the ears of the church which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch."
+        },
+        {
+          "number": 23,
+          "line": "Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord."
+        },
+        {
+          "number": 24,
+          "line": "For he was a good man, and full of the Holy Ghost and of faith: and much people was added unto the Lord."
+        },
+        {
+          "number": 25,
+          "line": "Then departed Barnabas to Tarsus, for to seek Saul:"
+        },
+        {
+          "number": 26,
+          "line": "And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "paul",
+      "titleEn": "Paul",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "iStock_000018499170Small_2-28-2013 1-34-51 PM.jpg",
+      "caption": "Paul and Barnabas at Lystra (Acts, Chapter 14). Woodcut after a drawing by Julius Schnorr von Carolsfeld (German painter, 1794 - 1872) from my archive, published in 1877."
+    },
+    {
+      "file": "Acts_11_19-30_Paul_and_Barnabas_sent_as_far_as_Antioch_002_8-1-2013 9-00-50 AM.jpg",
+      "caption": "Paul and Barnabas, Providence Lithograph Company, 1901"
+    }
+  ],
+  "videos": []
 }

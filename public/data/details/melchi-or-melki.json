@@ -4,13 +4,40 @@
   "period": 8,
   "titleEn": "Melchi (or Melki)",
   "titleKa": null,
-  "datesEn": "132–70 BC",
+  "datesEn": "132&ndash;70 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;my king.&#34; He is the son of Janna (or Jannai) and father of Levi, a Judahite listed in Luke&#39;s genealogy of Jesus Christ. Note, there are two Judahites listed by this name in Luke&#39;s genealogy.",
   "descriptionKa": null,
   "articleEn": null,
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 3:24",
+      "verses": [
+        {
+          "number": 24,
+          "line": "Which was the son of Matthat, which was the son of Levi, which was the son of Melchi, which was the son of Janna, which was the son of Joseph,"
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "janna-or-jannai",
+      "titleEn": "Janna (or Jannai)",
+      "titleKa": null
+    },
+    {
+      "slug": "levi-son-of-melchi",
+      "titleEn": "Levi",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-Melchi_8-6-2013 10-56-47 AM.jpg",
+      "caption": "Which was the son of Matthat, which was the son of Levi, which was the son of <b>Melchi</b>, which was the son of Janna, which was the son of Joseph, (Luke 3:24)"
+    }
+  ],
+  "videos": []
 }

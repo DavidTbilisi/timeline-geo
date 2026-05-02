@@ -2,15 +2,31 @@
   "slug": "menno-simons",
   "id": 1329,
   "period": 11,
-  "titleEn": "Menno Simons",
+  "titleEn": "Menno Simons ",
   "titleKa": null,
-  "datesEn": "1496–1561 AD",
+  "datesEn": "1496&ndash;1561 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "An Anabaptist religious leader contemporary with the Protestant Reformation. His followers became known as Mennonites.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Menno Simons was born about 1496 in a town in northern Holland called Friesland. He became a priest in 1524 but soon began to doubt the doctrine of transubstantiation (that the elements of the Lord&#39;s supper change literally into the body and blood of Christ). As a result, he began reading the Bible for the first time to search for the answers to his questions. He concluded that the Roman teachings were false, but he did not begin speaking openly against the Catholic Church until 1536. It was at this time that he became a traveling preacher of the Anabaptists. By 1554 he was ready to write. He settled down in Holstein, Germany, and worked there in peace until his death in 1561.<BR /><BR />Menno Simons was a part of the Anabaptist movement. His followers became known as the Mennonites and are still in existence today.<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "MennoSimons_2-26-2013 4-44-16 PM.gif",
+      "caption": "&#34;Menno Simons from Friesland&#34; 1608 engraving by Christoffel van Sichem."
+    },
+    {
+      "file": "iStock_000006742422Small_2-26-2013 4-44-16 PM.jpg",
+      "caption": "Two dutch historical windmills found in Friesland in Holland."
+    }
+  ],
+  "videos": []
 }

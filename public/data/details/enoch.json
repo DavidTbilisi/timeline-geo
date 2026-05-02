@@ -4,18 +4,60 @@
   "period": 1,
   "titleEn": "Enoch",
   "titleKa": null,
-  "datesEn": "3332–2967 BC (365)",
+  "datesEn": "3332&ndash;2967 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;initiated&#34; or &#34;dedicated one.&#34; He is the son of Jared and the father of the Methuselah. After Methuselah was born he &#34;walked with God&#34; for 300 years and was then translated without tasting death. He was the seventh from Adam.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The son of Jared, and father of Methuselah (Gen 5:21; Luk 3:37). His father was one hundred and sixty&#8212;two years old when he was born. After the birth of Methuselah, Enoch &#34;walked with God three hundred years&#34; (Gen 5:22&#8212;24), when he was translated without tasting death. His whole life on earth was three hundred and sixty&#8212;five years. He was the &#34;seventh from Adam&#34; (Jud 1:14), as distinguished from the son of Cain, the third from Adam. He is spoken of in the catalogue of Old Testament worthies in the Epistle to the Hebrews (Heb 11:5). When he was translated, only Adam, so far as recorded, had as yet died a natural death, and Noah was not yet born. Mention is made of Enoch&#39;s prophesying only in Jud 1:14.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "Genesis 5:18",
+      "verses": [
+        {
+          "number": 18,
+          "line": "And Jared lived an hundred sixty and two years, and he begat Enoch:"
+        }
+      ]
+    },
+    {
+      "reference": "Genesis 5:24",
+      "verses": [
+        {
+          "number": 24,
+          "line": "And Enoch walked with God: and he was not; for God took him."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jared",
+      "titleEn": "Jared",
+      "titleKa": null
+    },
+    {
+      "slug": "methuselah",
+      "titleEn": "Methuselah",
+      "titleKa": null
+    },
+    {
+      "slug": "enochs-prophetic-ministry",
+      "titleEn": "Enoch's Prophetic Ministry",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/enoch_7-31-2013 12-29-36 PM.jpg",
-      "caption": ""
+      "file": "enoch_7-31-2013 12-29-36 PM.jpg",
+      "caption": "God taking Enoch illustration from 1728 by Gerald Hoet from the University of Oklahoma Libraries."
+    }
+  ],
+  "videos": [
+    {
+      "title": "Walking With God",
+      "caption": "This New Year&#39;s sermon calls us to resolve to deepen our walk with God. Is your life entirely consecrated to God? Two Bible characters walked with God irrespective of an evil environment, Enoch and Noah. Pastor Batchelor shares seven tips to improve your walk with God.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg7017.mp4"
     }
   ]
 }

@@ -4,18 +4,117 @@
   "period": 6,
   "titleEn": "Solomon",
   "titleKa": null,
-  "datesEn": "989–931 BC (~58)",
+  "datesEn": "989&ndash;931 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;peaceful.&#34; He is David&#39;s second son by Bathsheba and succeeds David as king as a young man and reigns 40 years like David. His is a golden age of monarchy with great splendor. Solomon is known for amazing wisdom but also moral failures.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Solomon. The son of David and Bathsheba (2 Sa 12:24 1 Chr 3:5), and the third and last king of united Israel, who reigned from c. 971 to c. 931 b.c. In one passage he is called Jedidiah, &#34;beloved of Yahweh&#34; (2 Sa 12:25). This was possibly his personal name and Solomon his throne name or the reverse may have been true.<BR /><BR />I. Accession.Solomon was made king shortly before his father&#39;s death, and owed his crown to the watchfulness of the prophet Nathan. Hearing that Solomon&#39;s older brother Adonijah, supported by Joab, was to be proclaimed king, the prophet appealed to David through Bathsheba for quick action. In response Solomon, supported by Zadok the priest, Benaiah, a high military officer, and David&#39;s bodyguard, was immediately proclaimed king. This prompt action brought a quick end to Adonijah&#39;s conspiracy (1 Ki 1:5&#8212;40). <BR /><BR />After David&#39;s death Solomon executed his most violent opponents. About the same time he married an Egyptian princess (ch 3:1), probably a daughter of one of the last kings of the 21st dynasty. During a visit to Gibeon, where the tabernacle of the Lord was at that time, he had a dream in which God asked him to make his desires known, and promised that they would be granted. In response Solomon requested wisdom, which so pleased God that wealth and honor were promised him in addition to the requested wisdom (1 Ki 3:4&#8212;15 2 Chr 1:3&#8212;13).<BR /><BR />II. Reign. Solomon&#39;s relations with other countries during his 40&#8212;year reign were generally good. Through his marriage with the Egyptian princess he came into possession of the city of Gezer, which had remained in Canaanite hands up to that time (1 Ki 9:16). He waged only one war, that against Hamath&#8212;zobah, to make his northern possessions more secure (2 Chr 8:3). With Phoenicia he concluded a trade agreement (1 Ki 5:1&#8212;12). Apparently he also had good relations with other neighboring nations, such as Ammon, Moab, Edom, and the Hittite city&#8212;states of northern Syria, countries from which he imported women for his harem (chs 11:1 14:21). He had contact even with distant Sheba in South Arabia (ch 10:1&#8212;13). Solomon divided Israel into 12 administrative provinces, which did not in every case correspond with tribal boundaries. <BR /><BR />They were administered by an able corps of officers, some of whom were bound to the king by marriage ties (1 Ki 4:1&#8212;19). For his extensive building enterprises Solomon initiated a system of forced labor, which became very unpopular in the course of time (chs 5:13&#8212;16 9:15, 20, 23). Besides his workmen, he also drafted an immense number of Israelites for his infantry, chariotry, and horsemen (1 Ki 9:22).<BR /><BR />III. Building Activity in Jerusalem. For many years Solomon&#39;s main attention was directed toward the beautification of his capital. His father, David, who was not permitted to build a temple, had amassed much building material for such a structure (1 Chr 29:2&#8212;8 cf. ch 17:4), and had bought a site north of &#34;David&#39;s City,&#34; the old Mount Moriah. Solomon&#39;s building activities in Jerusalem lasted 20 years, 7 years of which were spent in building the magnificent Temple which brought him great fame (1 Ki 6:37, 38), and 13 years in erecting the palace buildings (ch 7:1). Solomon&#39;s architect and some of his builders were from Tyre. The Phoenicians also supplied him with material for the buildings and furnishings (chs 5:1&#8212;18 7:13, 14). New walls were erected for the widely extended city area (ch 9:15).<BR /><BR />IV. Failure. Solomon was an Oriental monarch who loved luxury, and who unfortunately followed in many of the ways of Oriental despots. Outstanding among his mistakes was his taking many foreign wives. These brought about disloyalty toward God, which in turn resulted in the breakup of his empire after his death. To accommodate these women he erected pagan sanctuaries and shrines and he himself occasionally worshiped at them (1 Ki 11:1&#8212;13). Another mistake Solomon made was to tax the people heavily over an extended period. His forced&#8212;labor program was especially unpopular and became the most visible cause of the breakup of the kingdom immediately following his death (ch 12:4&#8212;16).<BR /><BR />V. Religious Life and Literary Activity. Solomon began his reign as a deeply spiritual leader of his nation, one who desired nothing so much as wisdom adequately to serve God and the interests of his people (1 Ki 3:3&#8212;9). His prayer and his counsel to the people at the dedication of the Temple show that he stood close to God (ch 8:22&#8212;61). However, his wealth and luxury, but especially his many wives, corrupted him so that he finally became an idolater (ch 11:3&#8212;8). In later life he regretted the follies of his way, as statements he made in Ecclesiastes reveal (chs 1:1, 12&#8212;17 2:1&#8212;11).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "2 Samuel 12:24",
+      "verses": [
+        {
+          "number": 24,
+          "line": "And David comforted Bathsheba his wife, and went in unto her, and lay with her: and she bare a son, and he called his name Solomon: and the LORD loved him."
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 11:43",
+      "verses": [
+        {
+          "number": 43,
+          "line": "And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    },
+    {
+      "slug": "rehoboam",
+      "titleEn": "Rehoboam",
+      "titleKa": null
+    },
+    {
+      "slug": "solomon-marries-daughter-of-pharaoh",
+      "titleEn": "Solomon Marries Daughter of Pharaoh",
+      "titleKa": null
+    },
+    {
+      "slug": "solomon-receives-wisdom",
+      "titleEn": "Solomon Receives Wisdom",
+      "titleKa": null
+    },
+    {
+      "slug": "lord-speaks-to-solomon-2nd-time",
+      "titleEn": "Lord Speaks to Solomon 2nd Time",
+      "titleKa": null
+    },
+    {
+      "slug": "solomon-completes-his-palace",
+      "titleEn": "Solomon Completes His Palace",
+      "titleKa": null
+    },
+    {
+      "slug": "solomon-works-on-millo-and-building-up-cities",
+      "titleEn": "Solomon Fortifies Cities",
+      "titleKa": null
+    },
+    {
+      "slug": "arrival-of-queen-of-sheba",
+      "titleEn": "Arrival of Queen of Sheba",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/GoodSalt-lwjas0181_8-8-2013 12-16-00 PM.jpg",
-      "caption": ""
+      "file": "GoodSalt-lwjas0181_8-8-2013 12-16-00 PM.jpg",
+      "caption": "And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions. (1 Kings 10:1)"
+    },
+    {
+      "file": "GoodSalt-SolomonAndBaby_8-5-2013 4-17-37 PM.jpg",
+      "caption": "Solomon as king presiding over a dispute between two women who claim to be the mother of the same baby."
+    },
+    {
+      "file": "solomon-idols_8-8-2013 12-16-00 PM.jpg",
+      "caption": "King Solomon worshipping idols, Providence Lithograph Company, 1896"
+    },
+    {
+      "file": "Solomon_7-30-2013 4-43-34 PM.jpg",
+      "caption": "Illustration of the Judgment of Solomon by Gustave Dor&#233; 19th century"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Solomon Part 1: The Son of David",
+      "caption": "The first of a five part series on the life of Solomon. He was born into a scandalous situation. But, like a type of Christ, he became king.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2845.mp4"
+    },
+    {
+      "title": "Solomon Part 2: The Wisdom of Solomon",
+      "caption": "The second in a five part series on the life of Solomon. This sermon focuses on the wisdom of Solomon. He sat on the &#34;throne of the Lord&#34; since all things belong to God. Solomon humbly asked God for the greatest gift a king could needwisdom. Early in his administration, Solomon established who was loyal. We too need to obey the King.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2847.mp4"
+    },
+    {
+      "title": "Solomon Part 3: The Zenith of the Kingdom",
+      "caption": "This is the third in a five part series on the life of Solomon. This sermon focuses on the highest point in his reign as king and especially speaks of Solomon&#39;s work of building a magnficent temple to God. Israel was most blessed during this time because they followed the Lord.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2849.mp4"
+    },
+    {
+      "title": "Solomon Part 4:The Queen of Sheba",
+      "caption": "The fourth in a five part series on the life of Solomon. This sermon focuses on the visit of the Queen of Sheba at the zenith of Solomon&#39;s reign. It represented God&#39;s plan that other nations would come and learn of the God of Israel.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2852.mp4"
+    },
+    {
+      "title": "Solomon Part 5: The Worlds Wisest Fool",
+      "caption": "The last in a five part series on the life of Solomon. We learn that even if we are blessed with every earthly advantage, when we begin to trust in ourselves instead of the wisdom of God&#39;s Spirit we become fools. Solomon followed a self-indulgent course, but turned back to the Lord at the end of his life.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2903.mp4"
     }
   ]
 }

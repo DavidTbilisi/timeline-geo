@@ -4,18 +4,115 @@
   "period": 7,
   "titleEn": "Ahab",
   "titleKa": null,
-  "datesEn": "918–853 BC (~65)",
+  "datesEn": "918&ndash;853 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;father&#39;s brother.&#34; He is the son of Omri and 7th king of Israel. His wife is Jezebel who is an evil influence and encourages Baal worship. He is strongly rebuked by Elijah and seeks to kill him. Famous for battle with Ben&#8212;Hadad.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Ahab, name means &#34;father&#39;s brother.&#34; The 8th king (if Tibni is included in the count) of the northern kingdom of Israel, son and successor of Omri. He reigned 22 years, from 874 to 853 b.c. He was married to Jezebel, the daughter of Ethbaal, &#34;king of the Zidonians&#34; (1 Ki 16:31). He was a strong military leader, keeping the Moabites in subjection (2 Ki 3:4, 5 Moabite Stone, line 8). He lived on friendly terms with the Phoenicians and kept peace with Judah, whose crown prince married Ahab&#39;s daughter Athaliah (2 Ki 8:18, 26). <BR /><BR />He defeated the Syrians twice in battle, and possessed the largest army of any nation lying between Assyria and Egypt. When Benhadad II of Damascus with 32 allies besieged Samaria, Ahab drove him back (1 Ki 20:1&#8212;21) and a year later inflicted an even more severe defeat on him in the battle of Aphek (vs 22&#8212;30), and captured him. Ahab, however, showed himself foolishly magnanimous and spared Benhadad&#39;s life, even released him. Benhadad promised to return certain cities which his father had conquered from Ahab&#39;s father, Omri, or possibly, as some think, Baasha (see ch 15:18&#8212;22), and also made economic concessions by allowing Israelite merchants to open shops in the bazaars of Damascus (ch 20:31&#8212;34, RSV).<BR /><BR />When the Assyrians under Shalmaneser III threatened to end the independence of the small states in Syria and Palestine, a coalition of 12 nations was formed under the leadership of Damascus to meet the common enemy. Shalmaneser&#39;s inscriptions show that of the allied armies Ahab (called A&#39;abbu mat Sir&#39;il&#226;, &#34;Ahab the Israelite&#34;) had the largest chariot force, 2,000 out of a total of 3,940, and a formidable infantry of 10,000 foot soldiers out of a total of about 60,000. The battle (which is not mentioned in the Bible) took place at Qarqar on the Orontes in central Syria in Shalmaneser&#39;s 6th year, which can be dated, with a great degree of certainty, in 853 b.c. <BR /><BR />The record of Ahab&#39;s participation in this battle helps to provide the earliest synchronism between Biblical and secular history (see Chronology, V, 3). While the allies won no decisive victory, the Assyrians were forced to retreat and leave Syria temporarily unconquered. As soon as the common threat was averted, the alliance broke up, and the old feuds between the various small nations in Syria and Palestine were continued. Ahab also set out at once to take the city of Ramot&#8212;hgilead from the Aramaeans of Syria, who had occupied it for some time. In a battle for this city Ahab was mortally wounded (1 Ki 22:2&#8212;36). His body was taken to Samaria for burial, and, as the Lord had predicted through Elijah (ch 21:19), the dogs licked Ahab&#39;s blood, which had stained the chariot (ch 22:38).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
+  "scriptures": [
+    {
+      "reference": "1 Kings 16:29",
+      "verses": [
+        {
+          "number": 29,
+          "line": "And in the thirty and eighth year of Asa king of Judah began Ahab the son of Omri to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria twenty and two years."
+        }
+      ]
+    },
+    {
+      "reference": "1 Kings 22:35-37",
+      "verses": [
+        {
+          "number": 35,
+          "line": "And the battle increased that day: and the king was stayed up in his chariot against the Syrians, and died at even: and the blood ran out of the wound into the midst of the chariot."
+        },
+        {
+          "number": 36,
+          "line": "And there went a proclamation throughout the host about the going down of the sun, saying, Every man to his city, and every man to his own country."
+        },
+        {
+          "number": 37,
+          "line": "So the king died, and was brought to Samaria; and they buried the king in Samaria."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "omri",
+      "titleEn": "Omri",
+      "titleKa": null
+    },
+    {
+      "slug": "athaliah",
+      "titleEn": "Athaliah",
+      "titleKa": null
+    },
+    {
+      "slug": "ahaziah-9th-king",
+      "titleEn": "Ahaziah",
+      "titleKa": null
+    },
+    {
+      "slug": "obadiah-hides-the-prophets-of-god",
+      "titleEn": "Obadiah Hides the Prophets of God",
+      "titleKa": null
+    },
+    {
+      "slug": "ahab-and-naboths-vineyard",
+      "titleEn": "Ahab and Naboth's Vineyard",
+      "titleKa": null
+    },
+    {
+      "slug": "ahab-defeats-benhadad-i-of-syria",
+      "titleEn": "Ahab Defeats Benhadad I of Syria",
+      "titleKa": null
+    },
+    {
+      "slug": "micaiah-prophesies-defeat-of-ahab",
+      "titleEn": "Micaiah Prophesies Defeat of Ahab",
+      "titleKa": null
+    },
+    {
+      "slug": "ahab-battles-with-jehoshaphat-against-syrians",
+      "titleEn": "Ahab Battles with Jehoshaphat Against Syrians",
+      "titleKa": null
+    },
+    {
+      "slug": "ahab-battles-assyrians-at-qarqar-allied-w-benhadad",
+      "titleEn": "Ahab Battles Assyrians at Qarqar allied w Ben-hadad",
+      "titleKa": null
+    }
+  ],
   "images": [
     {
-      "file": "media/images/t/Elijah_4-17-2013 4-20-32 PM.jpg",
-      "caption": ""
+      "file": "Elijah_4-17-2013 4-20-32 PM.jpg",
+      "caption": "Elijah denouncing king Ahab"
+    },
+    {
+      "file": "The_Death_of_Jezebel_4-17-2013 4-20-32 PM.jpg",
+      "caption": "The Death of Jezebel by Gustave Dore in 1866"
+    },
+    {
+      "file": "Tell er-Rumeith, possible Ramoth Gilead, from east, tb060503012_4-17-2013 4-20-32 PM.jpg",
+      "caption": "Tell er-Rumeith, possible Ramoth-gilead"
+    },
+    {
+      "file": "Green hillsides in spring in eastern Samaria, tb031405462_4-17-2013 4-20-32 PM.jpg",
+      "caption": "Green hillsides in spring in eastern Samaria"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Double Vision",
+      "caption": "Unless we know how to be single-minded as Christians, we will be unstable in every other area of our lives. This message looks at the idea of being double-minded and single-minded. The story of Elijah, Ahab and the time of no rain introduces the key points of this message.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg5347.mp4"
+    },
+    {
+      "title": "Lessons from Elijah, Part 7: Naboth&#39;s Vineyard",
+      "caption": "Ahab wanted Naboth to sell his vineyard to him. But Naboth refused because the law of God prohibited him from selling land he received as an inheritance. Ahab then began to covet the land and Jezebel, his wife stirred him up to take the land from him.  The devil wants to do the same thing with us, he wants us to give up the inheritance that God gives to us.",
+      "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg8417.mp4"
     }
   ]
 }

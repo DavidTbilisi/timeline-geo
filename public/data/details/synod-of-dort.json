@@ -2,15 +2,27 @@
   "slug": "synod-of-dort",
   "id": 1381,
   "period": 12,
-  "titleEn": "Synod of Dort",
+  "titleEn": "Synod of Dort ",
   "titleKa": null,
-  "datesEn": "1618–1619 AD",
+  "datesEn": "1618&ndash;1619 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "A Dutch Reformed Synod that began in opposition to Arminianism.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The Dutch Reformed Church convened the Synod of Dort in order to address the problems of Arminianism. The meetings began on November 13, 1618, and ended on May 9, 1619. As a result, the Canons of Dordrecht were presented and later added to the Heidelberg Catechism.<BR /><BR />In English, the Canons of Dordrecht form a five&#8212;point acronym&#8212;TULIP. T = total depravity; U = unconditional election; L = limited atonement; I = irresistible grace; P = perseverance of the saints. This acronym adequately describes the Reformed or Calvinistic concept of double predestination (that some are predestined to be saved, others to be lost). Essentially, man is completely tainted with sin (total depravity), God literally chooses who will be saved and lost regardless of works (unconditional election), Christ died only to save the elect (limited atonement), it is impossible for the elect to resist the grace of God (irresistible grace), and no elected or &#34;true&#34; Christian can ever be lost (perseverance of the saints).<BR />",
   "articleKa": null,
   "scriptures": [],
-  "related": [],
-  "images": []
+  "related": [
+    {
+      "slug": "daniel-11-king-of-the-northsouth",
+      "titleEn": " Daniel 11 - King of the North/South",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Synodedordrecht_2-26-2013 11-29-31 AM.jpg",
+      "caption": "Synod of Dordrecht (1729), by Bernard Picart."
+    }
+  ],
+  "videos": []
 }

@@ -4,13 +4,75 @@
   "period": 6,
   "titleEn": "David Plays for Saul",
   "titleKa": null,
-  "datesEn": "1026 BC",
+  "datesEn": "1026 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "When the Spirit of the Lord leaves Saul, he is troubled and seeks peace. His servants advise him to find someone to skillfully play the harp. David is brought in and Saul appreciates him so much he requests of Jesse that David stay with him.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Saul had rejected the Spirit of God&#8212;committed the unpardonable sin&#8212;and there was nothing more God could do for him (see on ch. 15:35). It was not that the Spirit of Jehovah withdrew from Saul arbitrarily but rather that Saul rebelled against His guidance, and deliberately withdrew himself from the influence of the Spirit. This must be understood in harmony with Ps. 139:7 and with the fundamental principle of free choice. If God through His Holy Spirit forced Himself upon Saul contrary to his desires, God would be making of the king a mere machine.<BR /><BR />Saul was advised to seek relief through musical therapy. The sound of David&#39;s lyre and his chanting of lofty hymns afforded Saul temporary release from the evil spirit that haunted him. As Saul listened to David&#39;s music his wicked feelings of self&#8212;pity and jealousy left him for a time, only to return with double power as time went on. With his continued rejection of God&#39;s guidance, he became like the man in Christ&#39;s parable of demon possession (Luke 11:24&#8212;26), where &#34;the last state&#34; of such a soul proves to be far &#34;worse than the first.&#34;<BR /><BR />Apparently David&#39;s reputation as a musician and a man of bravery, sound judgment, and tact was already established before his appearance at court and his victory over Goliath. David was probably a youth on the verge of manhood, for a little later, at the time of his encounter with Goliath, he is described both as a &#34;boy,&#34; Heb. na&#39;ar (&#34;young man,&#34; ch. 17:58), and as a &#34;young man,&#34; Heb. &#39;elem (&#34;stripling,&#34; v. 56). <BR /><BR />Though it was not generally known that David had been anointed king, nothing could hide the fact that the Holy Spirit, who had taken control of his life in a special way at the time of his anointing (see on v. 13), was successfully preparing him for the important tasks that lay ahead. Even Saul came to honor and respect the naturally attractive personality of David, and to esteem in him those qualities implanted there by the Holy Spirit. Saul recognized the obvious superiority of this promising young man, tacitly admitting the wisdom of God&#39;s choice of a successor to the throne.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "1 Samuel 16:14-23",
+      "verses": [
+        {
+          "number": 14,
+          "line": "But the Spirit of the LORD departed from Saul, and an evil spirit from the LORD troubled him."
+        },
+        {
+          "number": 15,
+          "line": "And Saul's servants said unto him, Behold now, an evil spirit from God troubleth thee."
+        },
+        {
+          "number": 16,
+          "line": "Let our lord now command thy servants, which are before thee, to seek out a man, who is a cunning player on an harp: and it shall come to pass, when the evil spirit from God is upon thee, that he shall play with his hand, and thou shalt be well."
+        },
+        {
+          "number": 17,
+          "line": "And Saul said unto his servants, Provide me now a man that can play well, and bring him to me."
+        },
+        {
+          "number": 18,
+          "line": "Then answered one of the servants, and said, Behold, I have seen a son of Jesse the Bethlehemite, that is cunning in playing, and a mighty valiant man, and a man of war, and prudent in matters, and a comely person, and the LORD is with him."
+        },
+        {
+          "number": 19,
+          "line": "Wherefore Saul sent messengers unto Jesse, and said, Send me David thy son, which is with the sheep."
+        },
+        {
+          "number": 20,
+          "line": "And Jesse took an ass laden with bread, and a bottle of wine, and a kid, and sent them by David his son unto Saul."
+        },
+        {
+          "number": 21,
+          "line": "And David came to Saul, and stood before him: and he loved him greatly; and he became his armourbearer."
+        },
+        {
+          "number": 22,
+          "line": "And Saul sent to Jesse, saying, Let David, I pray thee, stand before me; for he hath found favour in my sight."
+        },
+        {
+          "number": 23,
+          "line": "And it came to pass, when the evil spirit from God was upon Saul, that David took an harp, and played with his hand: so Saul was refreshed, and was well, and the evil spirit departed from him."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "david",
+      "titleEn": "David",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-prcas0979_8-7-2013 3-35-13 PM.jpg",
+      "caption": "David playing his harp to soothe a troubled Saul."
+    },
+    {
+      "file": "David and Saul 2_5-1-2013 4-18-27 PM.jpg",
+      "caption": "Engraving of &#34;David Playing the harp Before Saul&#34; published in &#34;The Story of the Bible from Genesis to Revelation&#34; Published by Charles Foster in 1883."
+    }
+  ],
+  "videos": []
 }

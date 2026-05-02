@@ -4,13 +4,140 @@
   "period": 9,
   "titleEn": "Washing the Disciples' Feet",
   "titleKa": null,
-  "datesEn": "31 AD",
+  "datesEn": "31 <span>AD</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "While preparing to celebrate the Passover, the disciples argue over who will be the greatest in God&#39;s kingdom. Jesus puts on a towel and begins to wash each disciple&#39;s feet, teaching them that servants are the great ones in God&#39;s kingdom.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Christ washed His disciples feet. This incident occurred in connection with the paschal supper on Thursday night of the Passion Week. Earlier in His ministry Jesus had declared that His hour had not yet come (see on ch. 2:4). Now the crisis hour had arrived. This same night He would be betrayed into the hands of His enemies, and before the Jewish day, which began at sunset, should pass, Jesus would rest in Joseph&#39;s tomb.<BR /><BR />The washing of the feet probably took place early in the meal, in connection with the paschal supper (see Luke 22:24). Not all details of procedure during the Last Supper are noted by the gospel writers hence it cannot be definitely known at what point during the paschal ritual (see on Matt. 26:21)&#8212;if indeed the customary ritual was minutely followed by Jesus on the occasion&#8212;the Lord&#39;s Supper was introduced. Jesus rose from the table and laid aside his outer garment. He took a towel and began to wash the disciples&#39; feet. According to Jewish custom extending back probably to the time of Jesus, the washing of the master&#39;s feet was one of the duties of a foreign slave, but was not one expected of a Jewish slave. However, it was a service a wife owed her husband, and children their father. The service was thus regarded as menial. Inasmuch as no servant was present on the occasion of the Last Supper, one of the disciples should have undertaken the task, but none volunteered.",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Luke 22:24-30",
+      "verses": [
+        {
+          "number": 24,
+          "line": "And there was also a strife among them, which of them should be accounted the greatest."
+        },
+        {
+          "number": 25,
+          "line": "And he said unto them, The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors."
+        },
+        {
+          "number": 26,
+          "line": "But ye shall not be so: but he that is greatest among you, let him be as the younger; and he that is chief, as he that doth serve."
+        },
+        {
+          "number": 27,
+          "line": "For whether is greater, he that sitteth at meat, or he that serveth? is not he that sitteth at meat? but I am among you as he that serveth."
+        },
+        {
+          "number": 28,
+          "line": "Ye are they which have continued with me in my temptations."
+        },
+        {
+          "number": 29,
+          "line": "And I appoint unto you a kingdom, as my Father hath appointed unto me;"
+        },
+        {
+          "number": 30,
+          "line": "That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel."
+        }
+      ]
+    },
+    {
+      "reference": "John 13:1-17",
+      "verses": [
+        {
+          "number": 1,
+          "line": "Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end."
+        },
+        {
+          "number": 2,
+          "line": "And supper being ended, the devil having now put into the heart of Judas Iscariot, Simon's son, to betray him;"
+        },
+        {
+          "number": 3,
+          "line": "Jesus knowing that the Father had given all things into his hands, and that he was come from God, and went to God;"
+        },
+        {
+          "number": 4,
+          "line": "He riseth from supper, and laid aside his garments; and took a towel, and girded himself."
+        },
+        {
+          "number": 5,
+          "line": "After that he poureth water into a bason, and began to wash the disciples' feet, and to wipe them with the towel wherewith he was girded."
+        },
+        {
+          "number": 6,
+          "line": "Then cometh he to Simon Peter: and Peter saith unto him, Lord, dost thou wash my feet?"
+        },
+        {
+          "number": 7,
+          "line": "Jesus answered and said unto him, What I do thou knowest not now; but thou shalt know hereafter."
+        },
+        {
+          "number": 8,
+          "line": "Peter saith unto him, Thou shalt never wash my feet. Jesus answered him, If I wash thee not, thou hast no part with me."
+        },
+        {
+          "number": 9,
+          "line": "Simon Peter saith unto him, Lord, not my feet only, but also my hands and my head."
+        },
+        {
+          "number": 10,
+          "line": "Jesus saith to him, He that is washed needeth not save to wash his feet, but is clean every whit: and ye are clean, but not all."
+        },
+        {
+          "number": 11,
+          "line": "For he knew who should betray him; therefore said he, Ye are not all clean."
+        },
+        {
+          "number": 12,
+          "line": "So after he had washed their feet, and had taken his garments, and was set down again, he said unto them, Know ye what I have done to you?"
+        },
+        {
+          "number": 13,
+          "line": "Ye call me Master and Lord: and ye say well; for so I am."
+        },
+        {
+          "number": 14,
+          "line": "If I then, your Lord and Master, have washed your feet; ye also ought to wash one another's feet."
+        },
+        {
+          "number": 15,
+          "line": "For I have given you an example, that ye should do as I have done to you."
+        },
+        {
+          "number": 16,
+          "line": "Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him."
+        },
+        {
+          "number": 17,
+          "line": "If ye know these things, happy are ye if ye do them."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "passion-week",
+      "titleEn": "Passion Week",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "GoodSalt-wjpas0096_8-7-2013 9-22-15 AM.jpg",
+      "caption": "Jesus washing Peter&#39;s feet."
+    },
+    {
+      "file": "Last Supper_3-6-2013 12-44-26 PM.jpg",
+      "caption": "Painting of the Last Supper"
+    },
+    {
+      "file": "Foot Washing_3-6-2013 12-44-26 PM.jpg",
+      "caption": "Christ washed His disciples feet. This incident occurred in connection with the paschal supper on Thursday night of the Passion Week."
+    }
+  ],
+  "videos": []
 }

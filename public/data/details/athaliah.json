@@ -4,13 +4,44 @@
   "period": 7,
   "titleEn": "Athaliah",
   "titleKa": null,
-  "datesEn": "898–835 BC",
+  "datesEn": "898&ndash;835 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;God is exalted&#34; or &#34;whom God afflicts.&#34; She is the daughter of Ahab and Jezebel and wife of Jehoram Joram, king of Judah. She walks in her father&#39;s ways. When her husband dies, she resolves to be queen and kills all heirs except Joash.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "Athaliah, name means &#34;Yahweh is exalted.&#34; The wife of King Jehoram of Judah, a daughter of Ahab and granddaughter of Omri (2 Ki 8:18, 26 2 Chr 21:6 22:2), the only reigning queen in OT Hebrew history. She usurped the throne when Jehu of Israel slew her son Ahaziah (841 b.c.). To secure her position she ordered all her son&#39;s offspring killed. <BR /><BR />However, without her knowledge, Joash, an infant son of Ahaziah, escaped the massacre, and was hidden by Jehosheba, the wife of the high priest Jehoiada (2 Ki 11:1, 2 2 Chr 22:10, 11). Having been reared in the idolatrous house of Ahab and Jezebel, Athaliah introduced the worship of Baal into Judah (2 Ki 11:18 2 Chr 23:17). In her 7th regnal year (835 b.c.), in an insurrection against her rule, Athaliah was slain and the child Joash crowned (2 Ki 11:3&#8212;16 2 Chr 22:12 23:1&#8212;16).<BR />",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "2 Chronicles 22:2",
+      "verses": [
+        {
+          "number": 2,
+          "line": "Forty and two years old was Ahaziah when he began to reign, and he reigned one year in Jerusalem. His mother's name also was Athaliah the daughter of Omri."
+        }
+      ]
+    },
+    {
+      "reference": "2 Chronicles 23:15",
+      "verses": [
+        {
+          "number": 15,
+          "line": "So they laid hands on her; and when she was come to the entering of the horse gate by the king's house, they slew her there."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "ahab",
+      "titleEn": "Ahab",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "_GoodSalt-prcas0707_8-26-2013 5-20-59 PM.jpg",
+      "caption": "The coronation of Joash and the death of Athaliah"
+    }
+  ],
+  "videos": []
 }

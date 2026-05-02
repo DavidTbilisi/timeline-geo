@@ -4,13 +4,39 @@
   "period": 3,
   "titleEn": "Simeon",
   "titleKa": null,
-  "datesEn": "1700–1610 BC",
+  "datesEn": "1700&ndash;1610 <span>BC</span>",
   "datesKa": null,
-  "descriptionEn": null,
+  "descriptionEn": "Name means &#34;hearing&#34;. He is the second son of Jacob and Leah. Simeon and Levi massacre the men of Shechem for humiliating their sister Dinah. He is chosen by Joseph to be kept as security in Egypt until Benjamin comes back.",
   "descriptionKa": null,
-  "articleEn": null,
+  "articleEn": "The second son of Leah and Jacob (Gen 29:33). He and his brother Levi massacred the men of Schechem in revenge for the humiliation of their sister Dinah (ch 34:25&#8212;31). Simeon was selected by Joseph to be kept bound in prison as security until the other brothers returned with Benjamin (ch 42:24). <BR /><BR />Simeon had 6 sons, of whom 5 became ancestors of tribal families (Gen 46:10 Num 26:12&#8212;14 1 Chr 4:24). When Jacob on his deathbed blessed his sons he condemned Simeon&#39;s and Levi&#39;s cruelty and predicted that their descendants would become divided and scattered in Israel (Gen 49:5&#8212;7).",
   "articleKa": null,
-  "scriptures": [],
-  "related": [],
-  "images": []
+  "scriptures": [
+    {
+      "reference": "Genesis 29:33",
+      "verses": [
+        {
+          "number": 33,
+          "line": "And she conceived again, and bare a son; and said, Because the LORD hath heard that I was hated, he hath therefore given me this son also: and she called his name Simeon."
+        }
+      ]
+    }
+  ],
+  "related": [
+    {
+      "slug": "jacob",
+      "titleEn": "Jacob",
+      "titleKa": null
+    }
+  ],
+  "images": [
+    {
+      "file": "Figures_Simeon_Levi_Slay_Sichemites.jpg",
+      "caption": "Simeon and Levi slay the Sichemites in 1728 by Gerard Hoet from University of Oklahoma Libraries"
+    },
+    {
+      "file": "Tribe_of_Simeon_Symbol_001_8-6-2013 8-43-24 AM.jpg",
+      "caption": "Symbol for the tribe of Simeon"
+    }
+  ],
+  "videos": []
 }
