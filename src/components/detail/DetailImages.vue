@@ -49,6 +49,7 @@ function next() {
       :key="i"
       :src="`/media/images/original/${img.file}`"
       class="hidden"
+      loading="lazy"
       @error="onError(i)"
     />
 
@@ -59,6 +60,7 @@ function next() {
           :src="`/media/images/original/${currentValid.img.file}`"
           :alt="currentValid.img.caption"
           class="absolute inset-0 w-full h-full object-contain"
+          loading="lazy"
         />
 
         <!-- Prev / Next arrows (only when multiple valid images) -->
