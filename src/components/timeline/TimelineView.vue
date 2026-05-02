@@ -12,6 +12,7 @@ import YearBubble from './YearBubble.vue'
 import TimelineFooter from './TimelineFooter.vue'
 import ArrowNav from './ArrowNav.vue'
 import SidebarPanel from './SidebarPanel.vue'
+import CanvasPointer from './CanvasPointer.vue'
 
 const tlStore = useTimelineStore()
 const router = useRouter()
@@ -182,6 +183,9 @@ function onEventClick(event: TimelineEvent) {
       ref="stageRef"
       @event-click="onEventClick"
     />
+
+    <!-- Canvas hover pointer -->
+    <CanvasPointer />
 
     <!-- Bottom date bar -->
     <div
