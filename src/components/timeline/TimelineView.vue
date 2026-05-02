@@ -12,6 +12,7 @@ import YearBubble from './YearBubble.vue'
 import TimelineFooter from './TimelineFooter.vue'
 import ArrowNav from './ArrowNav.vue'
 import SidebarPanel from './SidebarPanel.vue'
+import CanvasPointer from './CanvasPointer.vue'
 
 const tlStore = useTimelineStore()
 const router = useRouter()
@@ -224,6 +225,9 @@ function onEventClick(event: TimelineEvent) {
       ref="stageRef"
       @event-click="onEventClick"
     />
+
+    <!-- Canvas hover pointer overlay -->
+    <CanvasPointer />
 
     <!-- z=10: Bottom date bar — background tinted with active period color -->
     <div
