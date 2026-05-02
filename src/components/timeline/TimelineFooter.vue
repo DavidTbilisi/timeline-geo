@@ -38,6 +38,7 @@ function goToPeriod(id: number) {
         <button
           v-for="p in PERIODS"
           :key="p.id"
+          data-testid="period-dot"
           class="rounded-full transition-all duration-200 flex-shrink-0"
           :class="p.id === activePeriod
             ? 'w-4 h-4 ring-2 ring-white/30'

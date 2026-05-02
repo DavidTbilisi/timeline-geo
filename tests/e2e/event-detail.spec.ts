@@ -1,4 +1,4 @@
-import { test, expect } from '@playwright/test'
+import { test, expect } from './fixtures'
 
 test.describe('Event Detail Panel', () => {
   test.beforeEach(async ({ page }) => {
@@ -38,7 +38,7 @@ test.describe('Event Detail Panel', () => {
     await expect(page.locator('.detail-overlay')).toBeVisible()
 
     await expect(page.locator('text=სტატია')).toBeVisible()
-    await expect(page.locator('text=სასულიერო წერილი')).toBeVisible()
+    await expect(page.locator('text=წმინდა წერილი')).toBeVisible()
     await expect(page.locator('text=მსგავსი')).toBeVisible()
   })
 
@@ -46,7 +46,7 @@ test.describe('Event Detail Panel', () => {
     await page.locator('.tl-event').first().click()
     await expect(page.locator('.detail-overlay')).toBeVisible()
 
-    await page.locator('text=სასულიერო წერილი').click()
+    await page.locator('text=წმინდა წერილი').click()
     // The tab content area remains visible
     const content = page.locator('.detail-overlay .flex-1.overflow-y-auto')
     await expect(content).toBeVisible()

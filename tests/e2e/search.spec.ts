@@ -1,4 +1,4 @@
-import { test, expect } from '@playwright/test'
+import { test, expect } from './fixtures'
 
 // The search results dropdown selector: absolute-positioned within the search widget
 // Using .absolute to exclude the page wrapper that also has .bg-stone-900

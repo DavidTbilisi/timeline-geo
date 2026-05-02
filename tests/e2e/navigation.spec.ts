@@ -1,4 +1,4 @@
-import { test, expect } from '@playwright/test'
+import { test, expect } from './fixtures'
 
 test.describe('Navigation & Routing', () => {
   test('root path redirects to or renders the landing page', async ({ page }) => {
@@ -52,13 +52,13 @@ test.describe('Navigation & Routing', () => {
     await page.goto('/period/first-generation')
     await page.locator('button:has-text("კითხვა-პასუხი")').click()
 
-    // FAQ content should now render (fixed: using tm() not t() for array)
-    await expect(page.locator('text=რა არის ეს ვადათა ღვედი')).toBeVisible({ timeout: 3000 })
+    // FAQ modal should now be visible
+    const modal = page.locator('[data-testid="faq-modal"]')
+    await expect(modal).toBeVisible({ timeout: 3000 })
 
-    // Click the backdrop (fixed inset-0 z-40) to close — FAQ dropdown is in top-right
-    // so clicking the full-screen backdrop at center-left is safe
-    await page.locator('.fixed.inset-0.z-40').click({ position: { x: 100, y: 400 } })
-    await expect(page.locator('text=რა არის ეს ვადათა ღვედი')).not.toBeVisible({ timeout: 3000 })
+    // Click the backdrop (the modal root) at a position outside the inner dialog to close
+    await modal.click({ position: { x: 10, y: 10 } })
+    await expect(modal).not.toBeVisible({ timeout: 3000 })
   })
 
   test('favorites panel opens and shows empty state', async ({ page }) => {

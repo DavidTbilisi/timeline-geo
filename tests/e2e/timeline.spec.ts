@@ -1,4 +1,4 @@
-import { test, expect } from '@playwright/test'
+import { test, expect } from './fixtures'
 
 test.describe('Timeline View', () => {
   test.beforeEach(async ({ page }) => {
@@ -105,20 +105,20 @@ test.describe('Timeline View', () => {
   })
 
   test('period footer shows 13 period dots', async ({ page }) => {
-    const dots = page.locator('.period-bar button')
+    const dots = page.locator('[data-testid="period-dot"]')
     await expect(dots).toHaveCount(13)
   })
 
   test('active period dot is highlighted', async ({ page }) => {
     // Period 1 dot should be the active (larger) one
-    const activeDot = page.locator('.period-bar button').first()
+    const activeDot = page.locator('[data-testid="period-dot"]').first()
     const cls = await activeDot.getAttribute('class')
     // Active dot has 'w-4 h-4' class, inactive dots have 'w-2.5 h-2.5'
     expect(cls).toContain('w-4')
   })
 
   test('clicking period dot changes active period', async ({ page }) => {
-    const secondDot = page.locator('.period-bar button').nth(1)
+    const secondDot = page.locator('[data-testid="period-dot"]').nth(1)
     await secondDot.click()
     await page.waitForTimeout(800)
 

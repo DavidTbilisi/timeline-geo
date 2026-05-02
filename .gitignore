@@ -43,6 +43,9 @@ test-results
 public/media/
 scripts/cache/
 
+# Claude Code agent worktrees
+.claude/worktrees/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
