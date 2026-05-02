@@ -25,8 +25,8 @@ test.describe('Navigation & Routing', () => {
     for (const [slug, georgianName] of slugs) {
       await page.goto(`/period/${slug}`)
       // Wait for the timeline and sidebar to fully load and settle
-      await page.waitForSelector('.tl-sidebar', { timeout: 8000 })
-      await expect(page.locator('.tl-sidebar')).toContainText(georgianName, { timeout: 8000 })
+      await page.waitForSelector('[data-testid="tl-sidebar-active"]', { timeout: 8000 })
+      await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText(georgianName, { timeout: 8000 })
     }
   })
 
@@ -73,15 +73,15 @@ test.describe('Navigation & Routing', () => {
 test.describe('i18n – Language Switch', () => {
   test('switches UI to English and back', async ({ page }) => {
     await page.goto('/period/first-generation')
-    await page.waitForSelector('.tl-sidebar', { timeout: 5000 })
+    await page.waitForSelector('[data-testid="tl-sidebar-active"]', { timeout: 5000 })
 
     // Switch to English
     await page.locator('button:has-text("EN")').click()
-    await expect(page.locator('.tl-sidebar')).toContainText('First Generation')
+    await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText('First Generation')
 
     // Switch back to Georgian
     await page.locator('button:has-text("ქა")').click()
-    await expect(page.locator('.tl-sidebar')).toContainText('პირველი თაობა')
+    await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText('პირველი თაობა')
   })
 
   test('year bubble uses Georgian BC suffix', async ({ page }) => {

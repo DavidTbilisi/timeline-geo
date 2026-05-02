@@ -8,7 +8,7 @@ import { useI18n } from 'vue-i18n'
  * All 13 panels are placed side by side in a strip inside TimelineView;
  * the strip is translated so the active period's panel is visible.
  */
-const props = defineProps<{ periodId: number }>()
+const props = defineProps<{ periodId: number; active?: boolean }>()
 
 const { locale } = useI18n()
 
@@ -23,6 +23,8 @@ const description = computed(() => locale.value === 'ka'
 <template>
   <div
     class="tl-sidebar-panel"
+    :class="{ 'is-active': active }"
+    :data-testid="active ? 'tl-sidebar-active' : undefined"
     :style="{ width: SIDEBAR_WIDTH + 'px' }"
   >
     <!-- Background image fills the panel -->

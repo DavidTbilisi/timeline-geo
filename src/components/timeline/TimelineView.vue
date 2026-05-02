@@ -250,6 +250,7 @@ function onEventClick(event: TimelineEvent) {
           v-for="p in PERIODS"
           :key="p.id"
           :period-id="p.id"
+          :active="p.id === tlStore.activePeriod"
         />
       </div>
     </div>
