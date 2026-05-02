@@ -19,21 +19,21 @@ test.describe('PeriodColorBar', () => {
   })
 
   test('segments have the correct background colors from PERIODS data', async ({ page }) => {
-    // Spot-check the first 3 period colors defined in src/data/periods.ts
-    const expectedColors: Record<number, string> = {
-      0: '#ad1f26', // First Generation
-      1: '#db2f2c', // Noah & the Flood
-      2: '#bb3380', // The Patriarchs
+    // Spot-check the first 3 period colors defined in src/data/periods.ts.
+    // Browsers normalize inline color values to rgb() form, so compare in rgb space.
+    const expectedRgb: Record<number, string> = {
+      0: 'rgb(173, 31, 38)',  // #ad1f26 — First Generation
+      1: 'rgb(219, 47, 44)',  // #db2f2c — Noah & the Flood
+      2: 'rgb(187, 51, 128)', // #bb3380 — The Patriarchs
     }
 
     const segments = page.locator('.period-color-segment')
-    for (const [indexStr, hex] of Object.entries(expectedColors)) {
+    for (const [indexStr, rgb] of Object.entries(expectedRgb)) {
       const index = Number(indexStr)
       const bg = await segments.nth(index).evaluate(
-        (el) => (el as HTMLElement).style.background
+        (el) => window.getComputedStyle(el).backgroundColor
       )
-      // The inline style is set as the hex value directly
-      expect(bg.toLowerCase()).toContain(hex.toLowerCase())
+      expect(bg).toBe(rgb)
     }
   })
 
