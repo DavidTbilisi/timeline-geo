@@ -3,8 +3,8 @@ import { test, expect } from './fixtures'
 test.describe('Navigation & Routing', () => {
   test('root path redirects to or renders the landing page', async ({ page }) => {
     await page.goto('/')
-    // Use role heading to avoid matching logo button
-    await expect(page.getByRole('heading', { name: 'ბიბლიური ქრონოლოგია' })).toBeVisible({ timeout: 5000 })
+    // Landing rendered when period cards are present
+    await expect(page.getByTestId('period-card-1')).toBeVisible({ timeout: 5000 })
   })
 
   test('unknown route redirects to landing page', async ({ page }) => {
