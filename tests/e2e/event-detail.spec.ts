@@ -33,13 +33,14 @@ test.describe('Event Detail Panel', () => {
     await expect(periodLabel).toBeVisible()
   })
 
-  test('detail panel has three tabs', async ({ page }) => {
+  test('detail panel has at least four tabs (article, scriptures, related, images)', async ({ page }) => {
     await page.locator('.tl-event').first().click()
     await expect(page.locator('.detail-overlay')).toBeVisible()
 
-    await expect(page.locator('text=სტატია')).toBeVisible()
-    await expect(page.locator('text=წმინდა წერილი')).toBeVisible()
-    await expect(page.locator('text=მსგავსი')).toBeVisible()
+    await expect(page.locator('[data-testid="tab-article"]')).toBeVisible()
+    await expect(page.locator('[data-testid="tab-scriptures"]')).toBeVisible()
+    await expect(page.locator('[data-testid="tab-related"]')).toBeVisible()
+    await expect(page.locator('[data-testid="tab-images"]')).toBeVisible()
   })
 
   test('switching tabs works', async ({ page }) => {

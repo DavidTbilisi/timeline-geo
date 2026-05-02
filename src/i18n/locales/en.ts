@@ -30,6 +30,8 @@ export default {
       article: 'Article',
       scriptures: 'Scriptures',
       related: 'Related',
+      images: 'Images',
+      video: 'Video',
     },
     addFavorite: 'Add to Favorites',
     removeFavorite: 'Remove Favorite',

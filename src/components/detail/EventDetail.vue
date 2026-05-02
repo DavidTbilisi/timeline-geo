@@ -11,6 +11,7 @@ import DetailArticle from './DetailArticle.vue'
 import DetailScriptures from './DetailScriptures.vue'
 import DetailRelated from './DetailRelated.vue'
 import DetailImages from './DetailImages.vue'
+import DetailVideos from './DetailVideos.vue'
 
 const tlStore = useTimelineStore()
 const eventsStore = useEventsStore()
@@ -20,7 +21,7 @@ const { t, locale } = useI18n()
 
 const detail = ref<DetailType | null>(null)
 const loading = ref(true)
-const activeTab = ref<'article' | 'scriptures' | 'related'>('article')
+const activeTab = ref<'article' | 'scriptures' | 'related' | 'images' | 'video'>('article')
 const slug = computed(() => tlStore.activeEventSlug ?? '')
 
 const isFav = computed(() => favStore.isFavorite(slug.value))
@@ -40,6 +41,17 @@ const dates = computed(() => {
 const periodName = computed(() => {
   if (!periodData.value) return ''
   return locale.value === 'ka' ? periodData.value.nameKa : periodData.value.nameEn
+})
+
+const hasImages = computed(() => (detail.value?.images?.length ?? 0) > 0)
+const hasVideos = computed(() => (detail.value?.videos?.length ?? 0) > 0)
+
+// Build the visible tab list dynamically
+type TabKey = 'article' | 'scriptures' | 'related' | 'images' | 'video'
+const visibleTabs = computed((): TabKey[] => {
+  const tabs: TabKey[] = ['article', 'scriptures', 'related', 'images']
+  if (hasVideos.value) tabs.push('video')
+  return tabs
 })
 
 onMounted(async () => {
@@ -114,22 +126,16 @@ function toggleFav() {
     </div>
 
     <template v-else>
-      <!-- Image strip -->
-      <DetailImages
-        v-if="detail?.images?.length"
-        :images="detail.images"
-        :period-color="periodColor"
-      />
-
       <!-- Tabs -->
-      <div class="flex border-b border-white/10 flex-shrink-0 bg-black/40">
+      <div class="flex border-b border-white/10 flex-shrink-0 bg-black/40 overflow-x-auto">
         <button
-          v-for="tab in (['article', 'scriptures', 'related'] as const)"
+          v-for="tab in visibleTabs"
           :key="tab"
-          class="px-5 py-2.5 text-xs font-semibold uppercase tracking-wider transition-colors relative"
+          class="flex-shrink-0 px-4 py-2.5 text-xs font-semibold uppercase tracking-wider transition-colors relative"
           :class="activeTab === tab
             ? 'text-white'
             : 'text-white/40 hover:text-white/70'"
+          :data-testid="`tab-${tab}`"
           @click="activeTab = tab"
         >
           {{ t(`detail.tabs.${tab}`) }}
@@ -143,10 +149,21 @@ function toggleFav() {
       </div>
 
       <!-- Tab content -->
-      <div class="flex-1 overflow-y-auto p-6">
+      <div class="flex-1 overflow-y-auto p-6" :class="{ '!p-0': activeTab === 'images' || activeTab === 'video' }">
         <DetailArticle v-if="activeTab === 'article'" :detail="detail" />
         <DetailScriptures v-else-if="activeTab === 'scriptures'" :scriptures="detail?.scriptures ?? []" />
-        <DetailRelated v-else :related="detail?.related ?? []" />
+        <DetailRelated v-else-if="activeTab === 'related'" :related="detail?.related ?? []" />
+        <DetailImages
+          v-else-if="activeTab === 'images'"
+          :images="detail?.images ?? []"
+          :period-color="periodColor"
+          class="h-full"
+        />
+        <DetailVideos
+          v-else-if="activeTab === 'video' && hasVideos"
+          :videos="detail!.videos"
+          class="h-full"
+        />
       </div>
     </template>
   </div>
