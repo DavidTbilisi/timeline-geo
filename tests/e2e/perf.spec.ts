@@ -18,29 +18,23 @@ test.describe('Performance: lazy-loading attributes', () => {
   })
 
   test('detail image gallery images have loading="lazy"', async ({ page }) => {
-    // Navigate to any event detail page; use a known slug that has images
     await page.goto('/period/first-generation')
-    await page.waitForSelector('.tl-event', { timeout: 10000 })
+    await page.waitForSelector('.tl-event.major', { timeout: 10000 })
+    await page.locator('.tl-event.major').first().click({ timeout: 5000 })
+    await page.waitForSelector('.detail-overlay', { timeout: 10000 })
 
-    // Click the first major event to open the detail panel
-    const firstMajor = page.locator('.tl-event.major').first()
-    await firstMajor.click()
+    // DetailImages mounts only when the Images tab is active (v-if="activeTab === 'images'").
+    await page.locator('[data-testid="tab-images"]').click()
 
-    // Wait for the detail panel images component to appear
-    await page.waitForSelector('[data-testid="image-dots"], .detail-images img, [class*="object-contain"]', {
-      timeout: 8000,
-      state: 'attached',
-    })
-
-    // All <img> elements rendered in the detail image area should be lazy
-    const detailImgs = page.locator('[class*="object-contain"]')
-    const detailCount = await detailImgs.count()
-    for (let i = 0; i < detailCount; i++) {
-      const tag = await detailImgs.nth(i).evaluate(el => el.tagName.toLowerCase())
-      if (tag === 'img') {
-        const loading = await detailImgs.nth(i).getAttribute('loading')
-        expect(loading).toBe('lazy')
-      }
+    // Once mounted, DetailImages renders one hidden preload <img> per image plus
+    // the main visible <img>; all should have loading="lazy".
+    const detailImgs = page.locator('.detail-overlay img')
+    await expect(detailImgs.first()).toBeVisible({ timeout: 8000 }).catch(() => null)
+    const count = await detailImgs.count()
+    expect(count).toBeGreaterThan(0)
+    for (let i = 0; i < count; i++) {
+      const loading = await detailImgs.nth(i).getAttribute('loading')
+      expect(loading).toBe('lazy')
     }
   })
 })

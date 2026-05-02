@@ -76,8 +76,13 @@ export function useDragScroll(
     velocityX = 0
     totalMoved = 0
 
-    el.setPointerCapture(e.pointerId)
-    e.preventDefault()
+    // Deliberately not calling setPointerCapture — that would re-target the
+    // synthetic click event to the container, breaking child @click handlers
+    // (e.g. period card navigation). Drag is tracked via document-level move/up
+    // listeners attached on demand below.
+    document.addEventListener('pointermove', onPointerMove, { passive: false })
+    document.addEventListener('pointerup', onPointerUp, { passive: false })
+    document.addEventListener('pointercancel', onPointerCancel, { passive: false })
   }
 
   function onPointerMove(e: PointerEvent) {
@@ -85,40 +90,44 @@ export function useDragScroll(
 
     const dx = e.clientX - startX
     totalMoved = Math.abs(dx)
-    setOffset(startOffset - dx)
+    // Only start scrolling once we've moved past the drag threshold so a tiny
+    // jitter on click doesn't shift the page and visually swallow the click.
+    if (totalMoved > DRAG_THRESHOLD) {
+      setOffset(startOffset - dx)
+    }
 
     const now = Date.now()
     const dt = now - lastTime
     if (dt > 0) {
-      // Normalise velocity to one ~16ms frame so friction is frame-rate independent
       velocityX = -(e.clientX - lastX) / dt * 16
     }
     lastX = e.clientX
     lastTime = now
-    e.preventDefault()
+    if (totalMoved > DRAG_THRESHOLD) {
+      e.preventDefault()
+    }
   }
 
-  function onPointerUp(e: PointerEvent) {
+  function detachDocListeners() {
+    document.removeEventListener('pointermove', onPointerMove)
+    document.removeEventListener('pointerup', onPointerUp)
+    document.removeEventListener('pointercancel', onPointerCancel)
+  }
+
+  function onPointerUp(_e: PointerEvent) {
     if (!isDragging.value) return
     isDragging.value = false
+    detachDocListeners()
 
     if (totalMoved > DRAG_THRESHOLD) {
       suppressNextClick = true
       startMomentum()
     }
-
-    const el = containerRef.value
-    if (el && el.hasPointerCapture(e.pointerId)) {
-      el.releasePointerCapture(e.pointerId)
-    }
   }
 
-  function onPointerCancel(e: PointerEvent) {
+  function onPointerCancel(_e: PointerEvent) {
     isDragging.value = false
-    const el = containerRef.value
-    if (el && el.hasPointerCapture(e.pointerId)) {
-      el.releasePointerCapture(e.pointerId)
-    }
+    detachDocListeners()
   }
 
   function onClickCapture(e: MouseEvent) {
@@ -134,23 +143,18 @@ export function useDragScroll(
   function mount() {
     const el = containerRef.value
     if (!el) return
-    el.addEventListener('pointerdown',   onPointerDown,  { passive: false })
-    el.addEventListener('pointermove',   onPointerMove,  { passive: false })
-    el.addEventListener('pointerup',     onPointerUp)
-    el.addEventListener('pointercancel', onPointerCancel)
+    el.addEventListener('pointerdown', onPointerDown, { passive: false })
     // Capture phase so we intercept click before child handlers
-    el.addEventListener('click',         onClickCapture, { capture: true })
+    el.addEventListener('click', onClickCapture, { capture: true })
   }
 
   function unmount() {
     cancelMomentum()
+    detachDocListeners()
     const el = containerRef.value
     if (!el) return
-    el.removeEventListener('pointerdown',   onPointerDown)
-    el.removeEventListener('pointermove',   onPointerMove)
-    el.removeEventListener('pointerup',     onPointerUp)
-    el.removeEventListener('pointercancel', onPointerCancel)
-    el.removeEventListener('click',         onClickCapture, { capture: true })
+    el.removeEventListener('pointerdown', onPointerDown)
+    el.removeEventListener('click', onClickCapture, { capture: true })
   }
 
   onUnmounted(unmount)
