@@ -48,8 +48,8 @@ test.describe('Timeline View', () => {
   })
 
   test('shows the sidebar panel with period name', async ({ page }) => {
-    await expect(page.locator('.tl-sidebar')).toBeVisible()
-    await expect(page.locator('.tl-sidebar')).toContainText('პირველი თაობა')
+    await expect(page.locator('[data-testid="tl-sidebar-active"]')).toBeVisible()
+    await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText('პირველი თაობა')
   })
 
   test('renders event bars on the stage', async ({ page }) => {
@@ -123,12 +123,12 @@ test.describe('Timeline View', () => {
     await page.waitForTimeout(800)
 
     // Sidebar should update to period 2 name
-    await expect(page.locator('.tl-sidebar')).toContainText('ნოე')
+    await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText('ნოე')
   })
 
   test('navigating via URL slug loads correct period', async ({ page }) => {
     await page.goto('/period/united-kingdom')
-    await page.waitForSelector('.tl-sidebar')
-    await expect(page.locator('.tl-sidebar')).toContainText('გაერთიანებული სამეფო')
+    await page.waitForSelector('[data-testid="tl-sidebar-active"]')
+    await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText('გაერთიანებული სამეფო')
   })
 })
