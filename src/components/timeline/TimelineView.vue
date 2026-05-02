@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import { ref, onMounted, onUnmounted, watch } from 'vue'
+import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
 import { useRouter } from 'vue-router'
 import { useTimelineStore } from '@/stores/timeline'
-import { STAGE_WIDTH, STAGE_HEIGHT, DATEBAR_HEIGHT, FOOTER_HEIGHT } from '@/data/periods'
+import { PERIODS, STAGE_WIDTH, STAGE_HEIGHT, DATEBAR_HEIGHT, FOOTER_HEIGHT, SIDEBAR_WIDTH } from '@/data/periods'
 import { useScroller } from '@/composables/useScroller'
 import { useFullLabel } from '@/composables/useFullLabel'
 import type { TimelineEvent } from '@/types/event'
@@ -18,7 +18,9 @@ const router = useRouter()
 
 const containerRef = ref<HTMLElement | null>(null)
 const stageRef = ref<InstanceType<typeof TimelineStage> | null>(null)
+const periodBgRef = ref<HTMLElement | null>(null)
 const paperRef = ref<HTMLElement | null>(null)
+const gridRef = ref<HTMLElement | null>(null)
 const topDatebarRef = ref<HTMLElement | null>(null)
 const bottomDatebarRef = ref<HTMLElement | null>(null)
 
@@ -30,6 +32,15 @@ const zoomLevel = ref(1.0)
 
 const { update: updateLabels } = useFullLabel(stageRef as any)
 
+// ── Active period derived values ─────────────────────────────────────────────
+const activePeriodData = computed(() => PERIODS[tlStore.activePeriod - 1])
+const activePeriodColor = computed(() => activePeriodData.value.color)
+
+// Sidebar strip: all 13 sidebar images side by side; translateX to show active
+const sidebarStripTranslate = computed(() =>
+  `translate3d(${-(tlStore.activePeriod - 1) * SIDEBAR_WIDTH}px, 0, 0)`
+)
+
 // Scroller render: directly writes to DOM for 60fps performance
 const { setDimensions, scrollTo, scrollBy } = useScroller(
   containerRef,
@@ -40,11 +51,13 @@ const { setDimensions, scrollTo, scrollBy } = useScroller(
     //   visual position = stageX * z - left
     // so events appear where they should at the given zoom.
     const tx = `scaleX(${z}) translate3d(${-left / z}px,0,0)`
+    const txParallax = `scaleX(${z}) translate3d(${-(left / 3) / z}px,0,0)`
 
+    if (periodBgRef.value) periodBgRef.value.style.transform = tx
     const stageEl = stageRef.value?.stageEl
     if (stageEl) stageEl.style.transform = tx
-    if (paperRef.value) paperRef.value.style.transform =
-      `scaleX(${z}) translate3d(${-(left / 3) / z}px,0,0)`
+    if (paperRef.value) paperRef.value.style.transform = txParallax
+    if (gridRef.value)  gridRef.value.style.transform  = txParallax
     if (topDatebarRef.value)    topDatebarRef.value.style.transform    = tx
     if (bottomDatebarRef.value) bottomDatebarRef.value.style.transform = tx
 
@@ -62,8 +75,10 @@ function init() {
   if (!el) return
   // Ensure transform-origin is at the left edge so scaleX expands rightward
   const setOrigin = (e: HTMLElement | null) => { if (e) e.style.transformOrigin = '0 0' }
+  setOrigin(periodBgRef.value)
   setOrigin(stageRef.value?.stageEl ?? null)
   setOrigin(paperRef.value)
+  setOrigin(gridRef.value)
   setOrigin(topDatebarRef.value)
   setOrigin(bottomDatebarRef.value)
 
@@ -146,10 +161,25 @@ function onEventClick(event: TimelineEvent) {
       bottom: FOOTER_HEIGHT + 'px',
     }"
   >
-    <!-- Sidebar panel -->
-    <SidebarPanel class="absolute left-0 top-0 bottom-0 z-20 pointer-events-none" />
+    <!-- z=1: Period background images, one per period tiled across its px range, full-speed scroll -->
+    <div
+      ref="periodBgRef"
+      class="tl-period-bg"
+      :style="{ width: STAGE_WIDTH + 'px' }"
+    >
+      <div
+        v-for="(p, i) in PERIODS"
+        :key="p.id"
+        class="tl-period-bg-slice"
+        :style="{
+          left: p.startPx + 'px',
+          width: (i < PERIODS.length - 1 ? PERIODS[i + 1].startPx - p.startPx : STAGE_WIDTH - p.startPx) + 'px',
+          backgroundImage: `url('${p.landingImage}')`,
+        }"
+      />
+    </div>
 
-    <!-- Paper background (parallax 1/3 speed) -->
+    <!-- z=2: Paper texture (parallax 1/3 speed) -->
     <div
       ref="paperRef"
       class="tl-paper"
@@ -159,11 +189,23 @@ function onEventClick(event: TimelineEvent) {
       }"
     />
 
-    <!-- Top date bar -->
+    <!-- z=3: Grid overlay (parallax 1/3 speed) -->
+    <div
+      ref="gridRef"
+      class="tl-grid"
+      :style="{ width: STAGE_WIDTH + 'px' }"
+    />
+
+    <!-- z=10: Top date bar — background tinted with active period color -->
     <div
       ref="topDatebarRef"
       class="tl-datebar border-b border-white/10"
-      :style="{ width: STAGE_WIDTH + 'px', height: DATEBAR_HEIGHT + 'px' }"
+      :style="{
+        width: STAGE_WIDTH + 'px',
+        height: DATEBAR_HEIGHT + 'px',
+        backgroundColor: activePeriodColor,
+        transition: 'background-color 0.5s ease',
+      }"
     >
       <TimelineDateBar :flip="false" />
     </div>
@@ -177,13 +219,13 @@ function onEventClick(event: TimelineEvent) {
       style="left: 50%; width: 1px; background: linear-gradient(to bottom, transparent 0%, rgba(255,255,255,0.10) 10%, rgba(255,255,255,0.10) 90%, transparent 100%);"
     />
 
-    <!-- Events stage -->
+    <!-- Events stage (z=6 via tl-stage) -->
     <TimelineStage
       ref="stageRef"
       @event-click="onEventClick"
     />
 
-    <!-- Bottom date bar -->
+    <!-- z=10: Bottom date bar — background tinted with active period color -->
     <div
       ref="bottomDatebarRef"
       class="tl-datebar-bottom absolute left-0 border-t border-white/10 z-10 pointer-events-none will-change-transform"
@@ -191,10 +233,25 @@ function onEventClick(event: TimelineEvent) {
         bottom: '0',
         width: STAGE_WIDTH + 'px',
         height: DATEBAR_HEIGHT + 'px',
-        background: 'rgba(8, 8, 8, 0.88)',
+        backgroundColor: activePeriodColor,
+        transition: 'background-color 0.5s ease',
       }"
     >
       <TimelineDateBar :flip="true" />
+    </div>
+
+    <!-- z=20: Sidebar strip — 220px viewport, inner strip has all 13 images side by side -->
+    <div class="tl-sidebar-viewport">
+      <div
+        class="tl-sidebar-strip"
+        :style="{ transform: sidebarStripTranslate, transition: 'transform 0.2s ease-in-out' }"
+      >
+        <SidebarPanel
+          v-for="p in PERIODS"
+          :key="p.id"
+          :period-id="p.id"
+        />
+      </div>
     </div>
 
     <!-- Scroll arrows -->
@@ -203,8 +260,8 @@ function onEventClick(event: TimelineEvent) {
       @right="scrollBy(400)"
     />
 
-    <!-- Zoom controls (bottom-right, clear of the right arrow at center) -->
-    <div class="absolute bottom-3 right-3 z-30 flex flex-col items-center gap-1 pointer-events-auto">
+    <!-- Zoom controls (bottom-right, clear of sidebar at 220px) -->
+    <div class="absolute bottom-3 z-30 flex flex-col items-center gap-1 pointer-events-auto" style="right: 228px;">
       <button
         class="zoom-btn"
         :disabled="zoomLevel >= ZOOM_MAX"

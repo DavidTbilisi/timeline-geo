@@ -42,13 +42,30 @@ html, body {
   --period-13: #ed7c2c;
 }
 
+/* ── Period background images (z=1, full-speed scroll) ── */
+.tl-period-bg {
+  position: absolute;
+  top: 0; left: 0;
+  height: 100%;
+  will-change: transform;
+  pointer-events: none;
+  z-index: 1;
+}
+.tl-period-bg-slice {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  background-repeat: repeat-x;
+  background-size: auto 100%;
+}
+
 /* ── Timeline stage ── */
 .tl-stage {
   position: absolute;
   top: 0; left: 0;
   will-change: transform;
-  /* Subtle diagonal noise texture using CSS only */
-  background-color: #0d0d0d;
+  background-color: transparent;
+  z-index: 6;
 }
 
 /* ── Event items ── */
@@ -177,7 +194,7 @@ html, body {
   will-change: transform;
   pointer-events: none;
   z-index: 10;
-  background: rgba(8, 8, 8, 0.88);
+  /* background-color is applied inline from active period color */
 }
 
 /* ── Paper / grid ── */
@@ -188,18 +205,49 @@ html, body {
   will-change: transform;
   pointer-events: none;
   background-repeat: repeat-x;
-  background-size: auto 100%;
-  opacity: 0.18;
+  background-size: 1400px 100%;
+  opacity: 0.22;
+  z-index: 2;
 }
 
-/* ── Sidebar ── */
-.tl-sidebar {
+.tl-grid {
   position: absolute;
   top: 0; left: 0;
-  width: 220px;
   height: 100%;
   will-change: transform;
   pointer-events: none;
+  background-image: url('/css/img/vert-lines.png');
+  background-repeat: repeat;
+  opacity: 0.30;
+  z-index: 3;
+}
+
+/* ── Sidebar ── */
+/* Viewport: fixed 220px column at the right */
+.tl-sidebar-viewport {
+  position: absolute;
+  top: 0; right: 0;
+  width: 220px;
+  height: 100%;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 20;
+}
+
+/* Strip: all 13 panels laid out horizontally inside the viewport */
+.tl-sidebar-strip {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  will-change: transform;
+}
+
+/* Individual panel inside the strip */
+.tl-sidebar-panel {
+  position: relative;
+  flex-shrink: 0;
+  height: 100%;
+  overflow: hidden;
 }
 
 /* ── Year bubble ── */
