@@ -16,13 +16,26 @@ const article = computed(() => {
   if (!d) return null
   return locale.value === 'ka' && d.articleKa ? d.articleKa : d.articleEn
 })
+const paragraphs = computed<string[]>(() => {
+  const a = article.value
+  if (!a) return []
+  return a
+    .split(/(?:<br\s*\/?>\s*){2,}/i)
+    .map(p => p.trim())
+    .filter(Boolean)
+})
 </script>
 
 <template>
   <div v-if="description || article" class="text-white/90 leading-relaxed space-y-4">
     <p v-if="description" class="font-semibold text-base text-white leading-snug">{{ description }}</p>
     <!-- eslint-disable-next-line vue/no-v-html -->
-    <div v-if="article" class="text-sm text-white/80 prose-invert space-y-3" v-html="article" />
+    <p
+      v-for="(para, i) in paragraphs"
+      :key="i"
+      class="text-sm text-white/80 leading-relaxed"
+      v-html="para"
+    />
   </div>
 
   <!-- No content placeholder -->
