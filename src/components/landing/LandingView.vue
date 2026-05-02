@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
 import { PERIODS } from '@/data/periods'
 import { useI18n } from 'vue-i18n'
 import PeriodCard from './PeriodCard.vue'
@@ -7,6 +7,7 @@ import EraArch from './EraArch.vue'
 import WelcomePanel from './WelcomePanel.vue'
 import AmazingFacts from './AmazingFacts.vue'
 import PeriodColorBar from '@/components/timeline/PeriodColorBar.vue'
+import { useDragScroll } from '@/composables/useDragScroll'
 
 const { t } = useI18n()
 
@@ -16,6 +17,39 @@ const factsExpanded = ref(false)
 function toggleFacts() {
   factsExpanded.value = !factsExpanded.value
 }
+
+// ── Drag / momentum scroll for the landing stage ────────────────────────────
+
+const containerRef = ref<HTMLElement | null>(null)
+const stageRef     = ref<HTMLElement | null>(null)
+
+/** Current horizontal scroll offset in px (positive = scrolled right) */
+const scrollOffset = ref(0)
+
+function getMaxOffset(): number {
+  const container = containerRef.value
+  const stage     = stageRef.value
+  if (!container || !stage) return 0
+  return Math.max(0, stage.offsetWidth - container.clientWidth)
+}
+
+function getOffset(): number {
+  return scrollOffset.value
+}
+
+function setOffset(x: number): void {
+  const clamped = Math.max(0, Math.min(x, getMaxOffset()))
+  scrollOffset.value = clamped
+  if (stageRef.value) {
+    stageRef.value.style.transform = `translateX(${-clamped}px)`
+  }
+}
+
+const { isDragging, mount } = useDragScroll(containerRef, getOffset, setOffset)
+
+onMounted(() => {
+  mount()
+})
 </script>
 
 <template>
@@ -27,14 +61,19 @@ function toggleFacts() {
   <div class="landing lv-root" data-testid="landing-view">
 
     <!-- Scrollable stage area -->
-    <div class="landing-container lv-stage-area">
+    <div ref="containerRef" class="landing-container lv-stage-area">
 
       <!-- Decorative backgrounds -->
       <div class="landing-paper" />
       <div class="landing-grid" />
 
       <!-- The centered stage: era arches + period cards -->
-      <div class="landing-stage zoom-2" data-testid="landing-stage">
+      <div
+        ref="stageRef"
+        class="landing-stage zoom-2"
+        :class="{ 'lv-dragging': isDragging }"
+        data-testid="landing-stage"
+      >
         <EraArch />
         <div class="landing-periods" data-testid="landing-periods">
           <PeriodCard
@@ -61,6 +100,12 @@ function toggleFacts() {
 </template>
 
 <style scoped>
+/* Override grab cursor while actively dragging */
+.lv-dragging {
+  cursor: grabbing !important;
+  cursor: -webkit-grabbing !important;
+}
+
 /*
   Override the reference absolute positioning so the landing works in
   our single-page app layout (LandingPage.vue is position:relative/overflow:hidden).
