@@ -5,15 +5,17 @@ test.describe('Performance: lazy-loading attributes', () => {
     await page.goto('/period/first-generation')
     await page.waitForSelector('.tl-event', { timeout: 10000 })
 
-    // Select all <img> elements inside .tl-event (major event bars)
-    const thumbnails = page.locator('.tl-event.major img')
-    const count = await thumbnails.count()
+    // Read loading attrs from every <img> in one DOM query (evaluateAll does
+    // not wait per-element, so it doesn't time out on lazy-loaded images
+    // that haven't materialized in the viewport yet).
+    const loadings = await page.locator('.tl-event.major img').evaluateAll(
+      els => (els as HTMLImageElement[]).map(el => el.getAttribute('loading'))
+    )
 
-    // There should be at least one event with an image on period 1
-    // (if none have images, the assertion still passes — no eager images present)
-    for (let i = 0; i < count; i++) {
-      const loading = await thumbnails.nth(i).getAttribute('loading')
-      expect(loading).toBe('lazy')
+    // If period 1 has any event with an image, every one must be lazy.
+    // (If none, the assertion still passes — no eager images present.)
+    for (const l of loadings) {
+      expect(l).toBe('lazy')
     }
   })
 
