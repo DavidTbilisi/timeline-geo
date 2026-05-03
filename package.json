@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
+    "typecheck": "vue-tsc --noEmit",
     "preview": "vite preview",
     "extract": "node scripts/extractEvents.mjs",
     "fetch:details": "node scripts/fetchDetails.mjs",
