@@ -153,7 +153,7 @@ function toggleFav() {
       </div>
 
       <!-- Tab content -->
-      <div class="flex-1 overflow-y-auto p-6" :class="{ '!p-0': activeTab === 'images' || activeTab === 'video' }">
+      <div class="flex-1 overflow-y-auto p-4 md:p-6" :class="{ '!p-0': activeTab === 'images' || activeTab === 'video' }">
         <DetailArticle v-if="activeTab === 'article'" :detail="detail" />
         <DetailScriptures v-else-if="activeTab === 'scriptures'" :scriptures="detail?.scriptures ?? []" />
         <DetailRelated v-else-if="activeTab === 'related'" :related="detail?.related ?? []" />

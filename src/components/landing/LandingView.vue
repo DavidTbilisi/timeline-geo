@@ -177,4 +177,19 @@ onMounted(() => {
 .lv-footer :deep(.welcome) {
   bottom: calc(34px + 28px) !important;
 }
+
+/*
+  Mobile (< md): the reference stylesheet sets `.welcome p { width: 710px }`,
+  which overflows narrow viewports. Constrain it to the container width and
+  give it edge padding so the body text wraps cleanly on phones.
+*/
+@media (max-width: 767px) {
+  .lv-footer :deep(.welcome p) {
+    width: auto !important;
+    max-width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    box-sizing: border-box;
+  }
+}
 </style>
