@@ -42,22 +42,9 @@ html, body {
   --period-13: #ed7c2c;
 }
 
-/* ── Period background images (z=1, full-speed scroll) ── */
-.tl-period-bg {
-  position: absolute;
-  top: 0; left: 0;
-  height: 100%;
-  will-change: transform;
-  pointer-events: none;
-  z-index: 1;
-}
-.tl-period-bg-slice {
-  position: absolute;
-  top: 0;
-  height: 100%;
-  background-repeat: repeat-x;
-  background-size: auto 100%;
-}
+/* (legacy .tl-period-bg layer removed — paper-bg.jpg is now the sole
+    timeline backdrop, painted by .tl-paper at full opacity, matching the
+    landing page's cream/parchment surface.) */
 
 /* ── Timeline stage ── */
 .tl-stage {
@@ -116,44 +103,69 @@ html, body {
 .tl-event.row-23 { top: 1120px; }
 .tl-event.row-24 { top: 1170px; }
 
-/* Period background with gradient for depth */
-.tl-event.period-1  { background: linear-gradient(135deg, rgba(173,31,38,0.95) 0%, rgba(120,15,20,0.80) 100%); border-left: 2px solid rgba(255,100,100,0.5); }
-.tl-event.period-2  { background: linear-gradient(135deg, rgba(219,47,44,0.95) 0%, rgba(160,20,20,0.80) 100%); border-left: 2px solid rgba(255,120,100,0.5); }
-.tl-event.period-3  { background: linear-gradient(135deg, rgba(187,51,128,0.95) 0%, rgba(130,20,90,0.80) 100%); border-left: 2px solid rgba(255,100,200,0.5); }
-.tl-event.period-4  { background: linear-gradient(135deg, rgba(144,58,149,0.95) 0%, rgba(90,25,100,0.80) 100%); border-left: 2px solid rgba(200,100,255,0.5); }
-.tl-event.period-5  { background: linear-gradient(135deg, rgba(99,71,155,0.95)  0%, rgba(55,35,110,0.80) 100%); border-left: 2px solid rgba(150,120,255,0.5); }
-.tl-event.period-6  { background: linear-gradient(135deg, rgba(59,110,181,0.95) 0%, rgba(25,65,130,0.80) 100%); border-left: 2px solid rgba(100,170,255,0.5); }
-.tl-event.period-7  { background: linear-gradient(135deg, rgba(35,166,197,0.95) 0%, rgba(10,110,150,0.80) 100%); border-left: 2px solid rgba(80,220,255,0.5); }
-.tl-event.period-8  { background: linear-gradient(135deg, rgba(51,189,187,0.95) 0%, rgba(15,130,125,0.80) 100%); border-left: 2px solid rgba(80,230,220,0.5); }
-.tl-event.period-9  { background: linear-gradient(135deg, rgba(82,177,72,0.95)  0%, rgba(40,120,30,0.80) 100%);  border-left: 2px solid rgba(120,230,100,0.5); }
-.tl-event.period-10 { background: linear-gradient(135deg, rgba(182,191,52,0.95) 0%, rgba(120,130,15,0.80) 100%); border-left: 2px solid rgba(220,230,80,0.5); }
-.tl-event.period-11 { background: linear-gradient(135deg, rgba(238,200,38,0.95) 0%, rgba(170,135,5,0.80) 100%);  border-left: 2px solid rgba(255,230,80,0.5); }
-.tl-event.period-12 { background: linear-gradient(135deg, rgba(233,163,39,0.95) 0%, rgba(170,100,5,0.80) 100%);  border-left: 2px solid rgba(255,200,80,0.5); }
-.tl-event.period-13 { background: linear-gradient(135deg, rgba(237,124,44,0.95) 0%, rgba(170,65,5,0.80) 100%);   border-left: 2px solid rgba(255,160,80,0.5); }
+/*
+  Major event card — cream/parchment styling matching the reference site.
+  Background is a flat #fcf9ef cream with an inset shadow that gives the
+  card a soft "worn paper" depth. Period color is shown via the left
+  border (always) and the hover-state background fill.
+*/
+.tl-event.major {
+  background: #fcf9ef;
+  color: #222;
+  box-shadow: inset 0 0 25px rgba(117, 117, 104, 0.55);
+  border-radius: 9px 9px 9px 0;
+  transition: background-color 120ms ease, color 120ms ease, box-shadow 120ms ease;
+}
 
-/* Hover state */
-.tl-event:hover { filter: brightness(1.15); cursor: pointer; }
-.tl-event:active { filter: brightness(0.9); }
+/* Period color hover fill (becomes the background on pointer hover) */
+.tl-event.major.period-1:hover  { background: #ad1f26; }
+.tl-event.major.period-2:hover  { background: #db2f2c; }
+.tl-event.major.period-3:hover  { background: #bb3380; }
+.tl-event.major.period-4:hover  { background: #903a95; }
+.tl-event.major.period-5:hover  { background: #63479b; }
+.tl-event.major.period-6:hover  { background: #3b6eb5; }
+.tl-event.major.period-7:hover  { background: #23a6c5; }
+.tl-event.major.period-8:hover  { background: #33bdbb; }
+.tl-event.major.period-9:hover  { background: #52b148; }
+.tl-event.major.period-10:hover { background: #b6bf34; }
+.tl-event.major.period-11:hover { background: #eec826; }
+.tl-event.major.period-12:hover { background: #e9a327; }
+.tl-event.major.period-13:hover { background: #ed7c2c; }
 
-/* Event info label */
+.tl-event.major:hover {
+  color: #fff;
+  box-shadow: none;
+  cursor: pointer;
+}
+.tl-event.major:hover .info h3 { border-bottom-color: rgba(255, 255, 255, 0.7); }
+.tl-event.major:hover .info h4 { color: rgba(255, 255, 255, 0.9); }
+.tl-event.major:active { filter: brightness(0.95); }
+
+/* Event info label — left side of the card, vertically padded */
 .tl-event .info {
   position: absolute;
-  bottom: 0;
+  bottom: 6px;
   left: 0;
-  padding: 4px 6px;
+  padding: 4px 10px;
   z-index: 2;
   will-change: transform;
   white-space: nowrap;
 }
 
 /*
-  Default labels span the card width and ellipsize so short-duration events
-  don't show mid-character clipping. .info-full labels are anchored to the
-  viewport via useFullLabel and need to extend beyond the card, so the right
-  bound and ellipsis only apply to the default variant.
+  Default labels span the card width (minus the right thumbnail) and
+  ellipsize so short-duration events don't show mid-character clipping.
+  .info-full labels are anchored to the viewport via useFullLabel and
+  need to extend beyond the card, so the right bound + ellipsis only
+  apply to the default variant.
+  When a thumbnail is showing, leave 86px clear on the right (80px image
+  + 6px breathing room).
 */
 .tl-event .info:not(.info-full) {
   right: 0;
+}
+.tl-event:has(.ev-thumb) .info:not(.info-full) {
+  right: 86px;
 }
 .tl-event .info:not(.info-full) h3,
 .tl-event .info:not(.info-full) h4 {
@@ -163,24 +175,35 @@ html, body {
 
 .tl-event .info h3 {
   margin: 0;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
-  color: #fff;
+  color: inherit;
   text-transform: uppercase;
   letter-spacing: 0.5px;
   line-height: 1.2;
+  border-bottom: 1px dashed #444;
+  padding-bottom: 3px;
+  margin-bottom: 4px;
 }
 
 .tl-event .info h4 {
   margin: 0;
-  font-size: 9px;
+  font-size: 11px;
   font-weight: 400;
-  color: rgba(255,255,255,0.8);
+  font-style: italic;
+  color: #555;
 }
 
-/* Minor event text */
+/* Minor event — keep the dark pill style but tighten contrast */
+.tl-event.minor {
+  background: #424343;
+  color: #fff;
+  border-radius: 4px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+}
+.tl-event.minor:hover { background: #2a2a2a; cursor: pointer; }
 .tl-event.minor h3 {
-  font-size: 10px;
+  font-size: 11px;
   font-weight: 600;
   color: #fff;
   margin: 0;
@@ -191,14 +214,24 @@ html, body {
   letter-spacing: 0.3px;
 }
 
-/* Event image */
-.tl-event .ev-image {
-  position: absolute;
-  inset: 0;
-  background-size: cover;
-  background-position: center;
-  opacity: 0.45;
+/*
+  Event thumbnail — small box anchored to the right edge of the card.
+  The reference site renders this as a tile with a soft inset shadow and
+  the right corners rounded to match the card. z-index: 1 keeps it above
+  the card body but below the .info label.
+*/
+.tl-event .ev-thumb {
+  width: 80px;
+  object-fit: cover;
+  object-position: center;
+  border-top-right-radius: 9px;
+  border-bottom-right-radius: 9px;
+  box-shadow: inset 0 0 25px rgba(117, 117, 104, 0.55);
   z-index: 1;
+}
+/* Slim cards (small majors) get a slightly smaller thumbnail to match height */
+.tl-event.small.major .ev-thumb {
+  width: 60px;
 }
 
 /* ── Date bar ── */
@@ -221,8 +254,7 @@ html, body {
   pointer-events: none;
   background-repeat: repeat-x;
   background-size: 1400px 100%;
-  opacity: 0.22;
-  z-index: 2;
+  z-index: 1;
 }
 
 .tl-grid {

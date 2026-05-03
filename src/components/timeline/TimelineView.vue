@@ -19,7 +19,6 @@ const router = useRouter()
 
 const containerRef = ref<HTMLElement | null>(null)
 const stageRef = ref<InstanceType<typeof TimelineStage> | null>(null)
-const periodBgRef = ref<HTMLElement | null>(null)
 const paperRef = ref<HTMLElement | null>(null)
 const gridRef = ref<HTMLElement | null>(null)
 const topDatebarRef = ref<HTMLElement | null>(null)
@@ -52,12 +51,13 @@ const { setDimensions, scrollTo, scrollBy } = useScroller(
     //   visual position = stageX * z - left
     // so events appear where they should at the given zoom.
     const tx = `scaleX(${z}) translate3d(${-left / z}px,0,0)`
+    // Grid still parallaxes for depth; paper scrolls 1:1 with events so the
+    // cream texture feels like the surface events sit on (matches the landing).
     const txParallax = `scaleX(${z}) translate3d(${-(left / 3) / z}px,0,0)`
 
-    if (periodBgRef.value) periodBgRef.value.style.transform = tx
     const stageEl = stageRef.value?.stageEl
     if (stageEl) stageEl.style.transform = tx
-    if (paperRef.value) paperRef.value.style.transform = txParallax
+    if (paperRef.value) paperRef.value.style.transform = tx
     if (gridRef.value)  gridRef.value.style.transform  = txParallax
     if (topDatebarRef.value)    topDatebarRef.value.style.transform    = tx
     if (bottomDatebarRef.value) bottomDatebarRef.value.style.transform = tx
@@ -76,7 +76,6 @@ function init() {
   if (!el) return
   // Ensure transform-origin is at the left edge so scaleX expands rightward
   const setOrigin = (e: HTMLElement | null) => { if (e) e.style.transformOrigin = '0 0' }
-  setOrigin(periodBgRef.value)
   setOrigin(stageRef.value?.stageEl ?? null)
   setOrigin(paperRef.value)
   setOrigin(gridRef.value)
@@ -162,25 +161,7 @@ function onEventClick(event: TimelineEvent) {
       bottom: FOOTER_HEIGHT + 'px',
     }"
   >
-    <!-- z=1: Period background images, one per period tiled across its px range, full-speed scroll -->
-    <div
-      ref="periodBgRef"
-      class="tl-period-bg"
-      :style="{ width: STAGE_WIDTH + 'px' }"
-    >
-      <div
-        v-for="(p, i) in PERIODS"
-        :key="p.id"
-        class="tl-period-bg-slice"
-        :style="{
-          left: p.startPx + 'px',
-          width: (i < PERIODS.length - 1 ? PERIODS[i + 1].startPx - p.startPx : STAGE_WIDTH - p.startPx) + 'px',
-          backgroundImage: `url('${p.landingImage}')`,
-        }"
-      />
-    </div>
-
-    <!-- z=2: Paper texture (parallax 1/3 speed) -->
+    <!-- z=2: Paper texture — primary cream backdrop, matches landing page -->
     <div
       ref="paperRef"
       class="tl-paper"

@@ -23,20 +23,13 @@ test.describe('Timeline Visuals (issues #5 & #21)', () => {
     expect(bgImage).toContain('paper-bg.jpg')
   })
 
-  test('period background image slices are rendered for the active period', async ({ page }) => {
-    // The period-bg container wraps all 13 period slices
-    const container = page.locator('.tl-period-bg')
-    await expect(container).toBeAttached()
-
-    // There should be exactly 13 slices (one per period)
-    const slices = page.locator('.tl-period-bg-slice')
-    await expect(slices).toHaveCount(13)
-
-    // The first slice should reference period_1.jpg
-    const firstBg = await slices.first().evaluate((el) =>
-      (el as HTMLElement).style.backgroundImage
-    )
-    expect(firstBg).toContain('period_1.jpg')
+  test('paper-bg backdrop is the sole stage background (no period painting layer)', async ({ page }) => {
+    // The cream/paper texture is the only background layer behind the
+    // events — the legacy .tl-period-bg slice layer (which painted the
+    // landing-page poster paintings under the events) was removed.
+    await expect(page.locator('.tl-paper')).toBeVisible()
+    await expect(page.locator('.tl-period-bg')).toHaveCount(0)
+    await expect(page.locator('.tl-period-bg-slice')).toHaveCount(0)
   })
 
   test('sidebar strip exists and contains 13 panels; translates to active period', async ({ page }) => {
