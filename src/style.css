@@ -249,6 +249,17 @@ html, body {
   z-index: 20;
 }
 
+/*
+  Mobile (< md): the 220px sidebar dominates a 375px viewport, leaving very
+  little room for the canvas. Hide the sidebar entirely on phones — the
+  period name and description are surfaced via TimelineView's mobile chip.
+*/
+@media (max-width: 767px) {
+  .tl-sidebar-viewport {
+    display: none;
+  }
+}
+
 /* Strip: all 13 panels laid out horizontally inside the viewport */
 .tl-sidebar-strip {
   display: flex;

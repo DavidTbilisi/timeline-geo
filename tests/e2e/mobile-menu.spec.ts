@@ -8,7 +8,8 @@ test.describe('AppMenu — mobile hamburger (< md)', () => {
 
   test('hamburger is visible on mobile, desktop bar items are hidden', async ({ page }) => {
     await page.goto('/period/first-generation')
-    await page.waitForSelector('[data-testid="tl-sidebar-active"]', { timeout: 8000 })
+    // Sidebar is display:none at mobile width; wait for the mobile period chip instead.
+    await page.waitForSelector('[data-testid="tl-mobile-period-chip"]', { timeout: 8000 })
 
     const toggle = page.getByTestId('mobile-menu-toggle')
     await expect(toggle).toBeVisible()
@@ -19,7 +20,8 @@ test.describe('AppMenu — mobile hamburger (< md)', () => {
 
   test('opens drawer with search + actions, then closes via hamburger toggle', async ({ page }) => {
     await page.goto('/period/first-generation')
-    await page.waitForSelector('[data-testid="tl-sidebar-active"]', { timeout: 8000 })
+    // Sidebar is display:none at mobile width; wait for the mobile period chip instead.
+    await page.waitForSelector('[data-testid="tl-mobile-period-chip"]', { timeout: 8000 })
 
     const toggle = page.getByTestId('mobile-menu-toggle')
     await toggle.click()
@@ -38,7 +40,8 @@ test.describe('AppMenu — mobile hamburger (< md)', () => {
 
   test('opening FAQ from drawer closes the drawer', async ({ page }) => {
     await page.goto('/period/first-generation')
-    await page.waitForSelector('[data-testid="tl-sidebar-active"]', { timeout: 8000 })
+    // Sidebar is display:none at mobile width; wait for the mobile period chip instead.
+    await page.waitForSelector('[data-testid="tl-mobile-period-chip"]', { timeout: 8000 })
 
     await page.getByTestId('mobile-menu-toggle').click()
     await page.getByTestId('mobile-menu').locator('button', { hasText: 'კითხვა-პასუხი' }).click()
@@ -47,9 +50,23 @@ test.describe('AppMenu — mobile hamburger (< md)', () => {
     await expect(page.getByTestId('mobile-menu')).toHaveCount(0)
   })
 
+  test('timeline sidebar is hidden and period chip is shown on mobile', async ({ page }) => {
+    await page.goto('/period/the-judges')
+    // Sidebar viewport stays in DOM for canvas math but is display:none via media query
+    const sidebar = page.locator('.tl-sidebar-viewport')
+    await expect(sidebar).toBeAttached()
+    await expect(sidebar).toBeHidden()
+
+    // Mobile period chip is visible and shows the active period name (Georgian default)
+    const chip = page.getByTestId('tl-mobile-period-chip')
+    await expect(chip).toBeVisible()
+    await expect(chip).toHaveText(/მსაჯულები/)
+  })
+
   test('FAQ modal stacks question list above answer on mobile', async ({ page }) => {
     await page.goto('/period/first-generation')
-    await page.waitForSelector('[data-testid="tl-sidebar-active"]', { timeout: 8000 })
+    // Sidebar is display:none at mobile width; wait for the mobile period chip instead.
+    await page.waitForSelector('[data-testid="tl-mobile-period-chip"]', { timeout: 8000 })
 
     await page.getByTestId('mobile-menu-toggle').click()
     await page.getByTestId('mobile-menu').locator('button', { hasText: 'კითხვა-პასუხი' }).click()
