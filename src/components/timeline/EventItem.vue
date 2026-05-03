@@ -86,7 +86,8 @@ function onImageError() {
       :class="event.labelStyle === 'full' ? 'info-full' : ''"
     >
       <h3>{{ title }}</h3>
-      <h4 v-if="event.size !== 'small'">{{ dates }}</h4>
+      <!-- eslint-disable-next-line vue/no-v-html -->
+      <h4 v-if="event.size !== 'small'" v-html="dates" />
     </div>
   </div>
 

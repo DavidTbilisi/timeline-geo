@@ -101,7 +101,9 @@ function toggleFav() {
       <div class="flex-1 min-w-0">
         <p v-if="periodName" class="text-white/60 text-[10px] uppercase tracking-widest font-semibold leading-none mb-0.5">{{ periodName }}</p>
         <h1 class="text-base font-bold text-white leading-tight truncate">{{ title || '…' }}</h1>
-        <p v-if="dates" class="text-white/70 text-xs mt-0.5">{{ dates }}</p>
+        <!-- Source JSON encodes dates as HTML (e.g. "3954&ndash;3024 <span>BC</span>"); render as HTML so entities decode and the BC/AD span styles apply. -->
+        <!-- eslint-disable-next-line vue/no-v-html -->
+        <p v-if="dates" class="text-white/70 text-xs mt-0.5" v-html="dates" />
       </div>
 
       <!-- Favorite star button -->
