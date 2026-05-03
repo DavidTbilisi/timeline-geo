@@ -3,6 +3,7 @@ import { ref, computed } from 'vue'
 import type { TimelineEvent } from '@/types/event'
 import { useI18n } from 'vue-i18n'
 import { PERIOD_BY_ID } from '@/data/periods'
+import { htmlToPlainText } from '@/utils/htmlText'
 
 const props = defineProps<{ event: TimelineEvent }>()
 const emit = defineEmits<{ click: [event: TimelineEvent] }>()
@@ -16,6 +17,9 @@ const title = computed(() =>
 const dates = computed(() =>
   locale.value === 'ka' && props.event.datesKa ? props.event.datesKa : props.event.datesEn
 )
+// Plain-text version for use inside title/alt attributes (browsers don't
+// decode HTML inside attributes; raw <span> and entities would be visible).
+const datesPlain = computed(() => htmlToPlainText(dates.value))
 
 const showImage = computed(() => props.event.imagePath && !imageError.value)
 
@@ -98,7 +102,7 @@ function onImageError() {
     :class="[`row-${event.row}`, `period-${event.period}`]"
     :style="{ left: event.left + 'px' }"
     :data-slug="event.slug"
-    :title="`${title} · ${dates}`"
+    :title="`${title} · ${datesPlain}`"
     @click="emit('click', event)"
   >
     <h3 class="group-hover:text-white transition-colors">{{ title }}</h3>

@@ -131,4 +131,21 @@ test.describe('Timeline View', () => {
     await page.waitForSelector('[data-testid="tl-sidebar-active"]')
     await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText('გაერთიანებული სამეფო')
   })
+
+  // Regression for #39 — minor event tooltip (title attr) must not contain
+  // raw HTML from the dates field (browsers don't decode HTML in title attrs).
+  test('minor event card title attribute is plain text (issue #39)', async ({ page }) => {
+    // Navigate to a period rich in minor events
+    await page.goto('/period/divided-kingdom')
+    await page.waitForSelector('.tl-event.minor', { timeout: 10000 })
+
+    const titles = await page.locator('.tl-event.minor').evaluateAll(
+      els => els.map(el => el.getAttribute('title'))
+    )
+    expect(titles.length).toBeGreaterThan(0)
+    for (const t of titles) {
+      expect(t ?? '').not.toMatch(/<[^>]+>/)        // no HTML tags
+      expect(t ?? '').not.toMatch(/&#?\w+;/)        // no HTML entities
+    }
+  })
 })

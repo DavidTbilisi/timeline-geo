@@ -146,6 +146,21 @@ html, body {
   white-space: nowrap;
 }
 
+/*
+  Default labels span the card width and ellipsize so short-duration events
+  don't show mid-character clipping. .info-full labels are anchored to the
+  viewport via useFullLabel and need to extend beyond the card, so the right
+  bound and ellipsis only apply to the default variant.
+*/
+.tl-event .info:not(.info-full) {
+  right: 0;
+}
+.tl-event .info:not(.info-full) h3,
+.tl-event .info:not(.info-full) h4 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .tl-event .info h3 {
   margin: 0;
   font-size: 11px;
