@@ -32,9 +32,7 @@ const imageUrl = computed(() => {
   return '/' + encodedParts.join('/')
 })
 
-// Period artwork: used as fallback background when the event has no own thumbnail
 const periodData = computed(() => PERIOD_BY_ID[props.event.period])
-const periodImage = computed(() => periodData.value?.sidebarImage ?? '')
 const periodColor = computed(() => periodData.value?.color ?? '#555')
 
 function onImageError() {
@@ -61,28 +59,20 @@ function onImageError() {
     :title="title"
     @click="emit('click', event)"
   >
-    <!-- Period artwork as subtle background (always shown, low opacity) -->
+    <!--
+      Event thumbnail as a small box anchored to the RIGHT edge of the card
+      (matches reference site layout: image is a side thumbnail, not a
+      cover background). Hidden when the card is too narrow to fit it
+      without overlapping the title text on the left.
+    -->
     <img
-      v-if="periodImage"
-      :src="periodImage"
-      class="absolute inset-0 w-full h-full object-cover pointer-events-none"
-      style="opacity: 0.08;"
-      aria-hidden="true"
-      loading="lazy"
-    />
-
-    <!-- Event-specific thumbnail overlaid on top of period artwork -->
-    <img
-      v-if="showImage"
+      v-if="showImage && event.width >= 160"
       :src="imageUrl"
-      class="absolute inset-0 w-full h-full object-cover opacity-40 pointer-events-none"
+      class="ev-thumb absolute right-0 top-0 h-full pointer-events-none"
       :alt="title"
       loading="lazy"
       @error="onImageError"
     />
-
-    <!-- Hover highlight ring -->
-    <div class="absolute inset-0 ring-inset ring-white/0 group-hover:ring-1 group-hover:ring-white/40 transition-all duration-150 pointer-events-none" />
 
     <!-- Label -->
     <div
