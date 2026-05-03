@@ -9,8 +9,19 @@ interface StageRef {
   stageEl: HTMLElement | null
 }
 
-const MENU_OFFSET = 220   // sidebar width px
-const MIN_MARGIN  = 263   // min px from right before we stop sliding
+const SIDEBAR_WIDTH = 220  // matches data/periods.ts:SIDEBAR_WIDTH (desktop)
+const MIN_MARGIN    = 263  // min px from right before we stop sliding
+
+/**
+ * Returns the visual offset where labels should start sliding.
+ * On desktop the sidebar covers the right 220px so labels slide once they
+ * reach `scrollLeft + 220`. On mobile (< md) the sidebar is hidden via CSS,
+ * so labels can slide all the way to the viewport edge — offset becomes 0.
+ */
+function menuOffset(): number {
+  if (typeof window === 'undefined') return SIDEBAR_WIDTH
+  return window.matchMedia('(max-width: 767px)').matches ? 0 : SIDEBAR_WIDTH
+}
 
 export function useFullLabel(stageRef: Ref<StageRef | null>) {
   /**
@@ -28,7 +39,7 @@ export function useFullLabel(stageRef: Ref<StageRef | null>) {
       if (!parent) return
       const eventLeft  = parseFloat(parent.style.left  || '0')
       const eventWidth = parseFloat(parent.style.width || '0')
-      const threshold  = scrollLeft + MENU_OFFSET
+      const threshold  = scrollLeft + menuOffset()
       if (threshold >= eventLeft) {
         const shift = threshold - eventLeft
         // Divide shift by zoom: the label lives inside a scaleX(zoom) parent,
