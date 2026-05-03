@@ -28,7 +28,9 @@ const paragraphs = computed<string[]>(() => {
 
 <template>
   <div v-if="description || article" class="text-white/90 leading-relaxed space-y-4">
-    <p v-if="description" class="font-semibold text-base text-white leading-snug">{{ description }}</p>
+    <!-- Source JSON contains HTML entities (e.g. &#34; for "); render as HTML to decode them. -->
+    <!-- eslint-disable-next-line vue/no-v-html -->
+    <p v-if="description" class="font-semibold text-base text-white leading-snug" v-html="description" />
     <!-- eslint-disable-next-line vue/no-v-html -->
     <p
       v-for="(para, i) in paragraphs"

@@ -78,6 +78,34 @@ test.describe('Event Detail Panel', () => {
     await expect(page.locator('.detail-overlay')).toBeVisible({ timeout: 5000 })
   })
 
+  // Regression for #37 — JSON sources encode dates and descriptions as HTML
+  // (entities like &#34; / &ndash;, tags like <span>BC</span>). Ensure they
+  // are rendered as HTML, not displayed as literal text.
+  test('detail header dates and description decode HTML entities (issue #37)', async ({ page }) => {
+    await page.goto('/event/adam')
+    const overlay = page.locator('.detail-overlay')
+    await expect(overlay).toBeVisible({ timeout: 5000 })
+
+    // Header dates: the <p> immediately following the title <h1> in the header.
+    const dates = overlay.locator('h1 + p')
+    await expect(dates).toBeVisible()
+    const datesText = await dates.textContent()
+    expect(datesText ?? '').not.toMatch(/&#?\w+;/)
+    expect(datesText ?? '').not.toContain('<span>')
+    expect(datesText ?? '').toContain('–') // &ndash; → en-dash
+
+    // Description: the bold first paragraph inside the article tab content
+    // (scoped under the tab-content scroll area, not the header period name).
+    await page.locator('[data-testid="tab-article"]').click()
+    const description = overlay.locator('.flex-1.overflow-y-auto p.font-semibold').first()
+    await expect(description).toBeVisible()
+    const descText = await description.textContent()
+    expect(descText ?? '').not.toMatch(/&#?\w+;/)
+    // adam.json description starts with `Name means "red" or "man."` — verify
+    // the &#34; entities decoded to actual quotes.
+    expect(descText ?? '').toContain('"red"')
+  })
+
   test('detail slide-up animation applies on open', async ({ page }) => {
     // The Transition name="detail" adds detail-enter-active class
     await page.locator('.tl-event').first().click()
