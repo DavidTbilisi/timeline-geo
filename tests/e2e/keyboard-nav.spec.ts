@@ -22,7 +22,20 @@ test.describe('Keyboard navigation', () => {
 
     const before = await getTranslateX()
     await page.keyboard.press('ArrowRight')
-    await page.waitForTimeout(50)
+
+    // Poll until the scroll animation moves the stage (or fail after 2s).
+    // A fixed sleep is too short on slower CI runners — 50ms occasionally
+    // catches the animation before it has started.
+    await page.waitForFunction(
+      (b) => {
+        const stage = document.querySelector<HTMLElement>('.tl-stage')
+        if (!stage) return false
+        const m = new DOMMatrix(window.getComputedStyle(stage).transform)
+        return m.m41 < b
+      },
+      before,
+      { timeout: 2000 }
+    )
     const after = await getTranslateX()
 
     // After pressing ArrowRight the stage should have scrolled left
