@@ -29,9 +29,9 @@ const activeIndex = ref(0)
         </button>
       </div>
 
-      <div class="flex flex-1 overflow-hidden">
-        <!-- Question list -->
-        <ul class="w-1/3 border-r border-white/10 overflow-y-auto p-2">
+      <div class="flex flex-col md:flex-row flex-1 overflow-hidden">
+        <!-- Question list (full-width strip on mobile, sidebar on md+) -->
+        <ul class="w-full md:w-1/3 border-b md:border-b-0 md:border-r border-white/10 overflow-y-auto p-2 max-h-[35vh] md:max-h-none flex-shrink-0">
           <li
             v-for="(item, i) in items"
             :key="i"
@@ -47,7 +47,7 @@ const activeIndex = ref(0)
         </ul>
 
         <!-- Answer pane -->
-        <div class="flex-1 overflow-y-auto p-6">
+        <div class="flex-1 overflow-y-auto p-4 md:p-6">
           <h3 class="text-white font-semibold text-base mb-3">
             {{ items[activeIndex]?.q }}
           </h3>

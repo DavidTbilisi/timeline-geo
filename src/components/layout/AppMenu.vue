@@ -24,6 +24,7 @@ const showSignIn = ref(false)
 const searchFocused = ref(false)
 const highlightedIndex = ref(-1)
 const allLoadedOnce = ref(false)
+const mobileMenuOpen = ref(false)
 
 let searchTimer = 0
 let blurTimer = 0
@@ -88,6 +89,7 @@ function goToEvent(slug: string) {
   searchResults.value = []
   searchFocused.value = false
   highlightedIndex.value = -1
+  mobileMenuOpen.value = false
   tlStore.openEvent(slug)
   router.push(`/event/${slug}`)
 }
@@ -132,8 +134,8 @@ const showDropdown = computed(() =>
       ✦ {{ t('nav.title') }}
     </button>
 
-    <!-- Search -->
-    <div class="relative flex-1 max-w-xs">
+    <!-- Search (desktop only — mobile uses the drawer copy) -->
+    <div class="relative flex-1 max-w-xs hidden md:block">
       <input
         :value="searchQuery"
         :placeholder="t('nav.searchPlaceholder')"
@@ -175,7 +177,7 @@ const showDropdown = computed(() =>
       </div>
     </div>
 
-    <div class="flex items-center gap-2 ml-auto">
+    <div class="hidden md:flex items-center gap-2 ml-auto">
       <!-- Favorites -->
       <div class="relative">
         <button
@@ -227,6 +229,26 @@ const showDropdown = computed(() =>
         {{ locale === 'ka' ? 'EN' : 'ქა' }}
       </button>
     </div>
+
+    <!-- Hamburger (mobile only) -->
+    <button
+      class="md:hidden ml-auto flex items-center justify-center w-10 h-10 rounded text-white/80 hover:text-white hover:bg-white/10 transition-colors"
+      :aria-expanded="mobileMenuOpen ? 'true' : 'false'"
+      aria-controls="mobile-menu"
+      aria-label="Menu"
+      data-testid="mobile-menu-toggle"
+      @click="mobileMenuOpen = !mobileMenuOpen"
+    >
+      <svg v-if="!mobileMenuOpen" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <line x1="4" y1="7"  x2="20" y2="7" />
+        <line x1="4" y1="12" x2="20" y2="12" />
+        <line x1="4" y1="17" x2="20" y2="17" />
+      </svg>
+      <svg v-else width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <line x1="6" y1="6"  x2="18" y2="18" />
+        <line x1="18" y1="6" x2="6"  y2="18" />
+      </svg>
+    </button>
   </header>
 
   <!-- Backdrop for favorites dropdown -->
@@ -235,6 +257,101 @@ const showDropdown = computed(() =>
     class="fixed inset-0 z-40"
     @click="showFavorites = false"
   />
+
+  <!-- Mobile drawer (visible only when hamburger is open and < md) -->
+  <div
+    v-if="mobileMenuOpen"
+    class="md:hidden fixed inset-0 z-40 bg-black/60"
+    @click="mobileMenuOpen = false"
+  />
+  <div
+    v-if="mobileMenuOpen"
+    id="mobile-menu"
+    class="md:hidden fixed top-[50px] left-0 right-0 z-50 bg-stone-950/95 backdrop-blur-sm border-b border-white/10 p-4 flex flex-col gap-3 max-h-[calc(100vh-50px)] overflow-y-auto"
+    data-testid="mobile-menu"
+  >
+    <!-- Mobile search -->
+    <div class="relative">
+      <input
+        :value="searchQuery"
+        :placeholder="t('nav.searchPlaceholder')"
+        class="w-full bg-white/10 border border-white/20 rounded px-3 py-2 text-white text-sm placeholder-white/40 focus:outline-none focus:border-white/50"
+        @input="onSearch(($event.target as HTMLInputElement).value)"
+        @focus="onSearchFocus"
+        @blur="onSearchBlur"
+        @keydown="onSearchKeydown"
+      />
+      <!-- Mobile search results -->
+      <div
+        v-if="showDropdown"
+        class="mt-2 bg-stone-900 border border-white/10 rounded shadow-xl overflow-hidden max-h-72 overflow-y-auto"
+      >
+        <p class="text-xs text-white/40 px-3 py-1.5 border-b border-white/10">{{ searchCountLabel }}</p>
+        <button
+          v-for="(r, i) in searchResults"
+          :key="r.slug"
+          class="w-full text-left px-3 py-2 text-sm text-white transition-colors block"
+          :class="i === highlightedIndex ? 'bg-white/20' : 'hover:bg-white/10'"
+          @mousedown="goToEvent(r.slug)"
+          @mouseover="highlightedIndex = i"
+        >
+          <span class="block font-medium leading-tight">{{ locale === 'ka' && r.titleKa ? r.titleKa : r.titleEn }}</span>
+          <span class="block text-xs text-white/50 mt-0.5">{{ locale === 'ka' && r.datesKa ? r.datesKa : r.datesEn }}</span>
+        </button>
+        <p
+          v-if="searchResults.length === 0"
+          class="text-xs text-white/40 px-3 py-2 italic"
+        >
+          {{ t('nav.noResults') }}
+        </p>
+      </div>
+    </div>
+
+    <!-- Mobile favorites (inline expansion) -->
+    <button
+      class="text-left text-white/80 hover:text-white text-sm px-3 py-2 rounded bg-white/5 hover:bg-white/10 transition-colors flex items-center justify-between"
+      @click="showFavorites = !showFavorites"
+    >
+      <span>★ {{ t('nav.favorites') }}</span>
+      <span class="text-white/40 text-xs">{{ showFavorites ? '▲' : '▼' }}</span>
+    </button>
+    <div v-if="showFavorites" class="bg-stone-900 border border-white/10 rounded p-2 max-h-48 overflow-y-auto">
+      <p v-if="!favList.length" class="text-white/40 text-xs italic px-2 py-1">{{ t('nav.noFavorites') }}</p>
+      <button
+        v-for="ev in favList"
+        :key="ev.slug"
+        class="w-full text-left px-2 py-1.5 text-sm text-white hover:bg-white/10 rounded transition-colors block"
+        @click="goToEvent(ev.slug)"
+      >
+        {{ locale === 'ka' && ev.titleKa ? ev.titleKa : ev.titleEn }}
+      </button>
+    </div>
+
+    <!-- Mobile FAQ -->
+    <button
+      class="text-left text-white/80 hover:text-white text-sm px-3 py-2 rounded bg-white/5 hover:bg-white/10 transition-colors"
+      @click="showFaq = true; mobileMenuOpen = false"
+    >
+      {{ t('nav.faq') }}
+    </button>
+
+    <!-- Mobile Sign In -->
+    <button
+      class="text-left text-white/80 hover:text-white text-sm px-3 py-2 rounded bg-white/5 hover:bg-white/10 transition-colors"
+      @click="showSignIn = true; mobileMenuOpen = false"
+    >
+      {{ t('nav.signIn') }}
+    </button>
+
+    <!-- Mobile language toggle -->
+    <button
+      class="text-left text-white/60 hover:text-white text-sm px-3 py-2 rounded border border-white/20 hover:bg-white/10 transition-colors"
+      :title="locale === 'ka' ? t('nav.toggleLocale.toEn') : t('nav.toggleLocale.toKa')"
+      @click="toggleLocale"
+    >
+      {{ locale === 'ka' ? t('nav.toggleLocale.toEn') : t('nav.toggleLocale.toKa') }}
+    </button>
+  </div>
 
   <!-- Modals -->
   <FaqModal v-if="showFaq" @close="showFaq = false" />
