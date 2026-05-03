@@ -244,7 +244,8 @@ function onEventClick(event: TimelineEvent) {
       <TimelineDateBar :flip="true" />
     </div>
 
-    <!-- z=20: Sidebar strip — 220px viewport, inner strip has all 13 images side by side -->
+    <!-- z=20: Sidebar strip — 220px viewport, inner strip has all 13 images side by side.
+         Hidden on mobile (< md) so the canvas can fill the viewport. -->
     <div class="tl-sidebar-viewport">
       <div
         class="tl-sidebar-strip"
@@ -259,14 +260,25 @@ function onEventClick(event: TimelineEvent) {
       </div>
     </div>
 
+    <!-- Mobile period name chip (< md): replaces the hidden sidebar so the
+         user always knows which period they're viewing. -->
+    <div
+      v-if="activePeriodData"
+      class="tl-mobile-period-chip md:hidden"
+      :style="{ background: activePeriodColor }"
+      data-testid="tl-mobile-period-chip"
+    >
+      {{ $i18n.locale === 'ka' ? activePeriodData.nameKa : activePeriodData.nameEn }}
+    </div>
+
     <!-- Scroll arrows -->
     <ArrowNav
       @left="scrollBy(-400)"
       @right="scrollBy(400)"
     />
 
-    <!-- Zoom controls (bottom-right, clear of sidebar at 220px) -->
-    <div class="absolute bottom-3 z-30 flex flex-col items-center gap-1 pointer-events-auto" style="right: 228px;">
+    <!-- Zoom controls (bottom-right, clear of sidebar at 220px on md+, flush right on mobile) -->
+    <div class="tl-zoom-controls absolute bottom-3 z-30 flex flex-col items-center gap-1 pointer-events-auto">
       <button
         class="zoom-btn"
         :disabled="zoomLevel >= ZOOM_MAX"
@@ -293,6 +305,36 @@ function onEventClick(event: TimelineEvent) {
 </template>
 
 <style scoped>
+/* Zoom controls position: clear of the 220px sidebar on md+, flush right on mobile */
+.tl-zoom-controls {
+  right: 228px;
+}
+@media (max-width: 767px) {
+  .tl-zoom-controls {
+    right: 8px;
+  }
+}
+
+/* Mobile period chip: small floating pill with the active period name */
+.tl-mobile-period-chip {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  z-index: 25;
+  padding: 4px 10px;
+  border-radius: 999px;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+  pointer-events: none;
+  max-width: 70vw;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 .zoom-btn {
   width: 28px;
   height: 28px;
