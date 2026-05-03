@@ -201,7 +201,20 @@ html, body {
   border-radius: 4px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
 }
-.tl-event.minor:hover { background: #2a2a2a; cursor: pointer; }
+.tl-event.minor:hover { cursor: pointer; }
+.tl-event.minor.period-1:hover  { background: #ad1f26; }
+.tl-event.minor.period-2:hover  { background: #db2f2c; }
+.tl-event.minor.period-3:hover  { background: #bb3380; }
+.tl-event.minor.period-4:hover  { background: #903a95; }
+.tl-event.minor.period-5:hover  { background: #63479b; }
+.tl-event.minor.period-6:hover  { background: #3b6eb5; }
+.tl-event.minor.period-7:hover  { background: #23a6c5; }
+.tl-event.minor.period-8:hover  { background: #33bdbb; }
+.tl-event.minor.period-9:hover  { background: #52b148; }
+.tl-event.minor.period-10:hover { background: #b6bf34; }
+.tl-event.minor.period-11:hover { background: #eec826; }
+.tl-event.minor.period-12:hover { background: #e9a327; }
+.tl-event.minor.period-13:hover { background: #ed7c2c; }
 .tl-event.minor h3 {
   font-size: 11px;
   font-weight: 600;
@@ -237,12 +250,12 @@ html, body {
 /* ── Date bar ── */
 .tl-datebar {
   position: absolute;
-  top: 0; left: 0;
+  left: 0;
   height: 66px;
   will-change: transform;
   pointer-events: none;
   z-index: 10;
-  /* background-color is applied inline from active period color */
+  /* top/bottom is set inline per instance */
 }
 
 /* ── Paper / grid ── */
@@ -273,7 +286,7 @@ html, body {
 /* Viewport: fixed 220px column at the right */
 .tl-sidebar-viewport {
   position: absolute;
-  top: 0; right: 0;
+  top: 0; left: 0;
   width: 220px;
   height: 100%;
   overflow: hidden;
@@ -308,10 +321,10 @@ html, body {
   overflow: hidden;
 }
 
-/* ── Year bubble ── */
+/* ── Year bubble: sits just above the bottom date bar, arrow pokes into it ── */
 .year-bubble {
   position: absolute;
-  top: 12px;
+  bottom: 66px; /* DATEBAR_HEIGHT — sit on top edge of bottom date bar */
   z-index: 20;
   pointer-events: none;
   background: rgba(0,0,0,0.65);

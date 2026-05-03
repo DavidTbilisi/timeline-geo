@@ -2,7 +2,7 @@
 import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
 import { useRouter } from 'vue-router'
 import { useTimelineStore } from '@/stores/timeline'
-import { PERIODS, STAGE_WIDTH, STAGE_HEIGHT, DATEBAR_HEIGHT, FOOTER_HEIGHT, SIDEBAR_WIDTH } from '@/data/periods'
+import { PERIODS, PERIOD_BY_ID, STAGE_WIDTH, STAGE_HEIGHT, DATEBAR_HEIGHT, FOOTER_HEIGHT, SIDEBAR_WIDTH } from '@/data/periods'
 import { useScroller } from '@/composables/useScroller'
 import { useFullLabel } from '@/composables/useFullLabel'
 import type { TimelineEvent } from '@/types/event'
@@ -21,8 +21,8 @@ const containerRef = ref<HTMLElement | null>(null)
 const stageRef = ref<InstanceType<typeof TimelineStage> | null>(null)
 const paperRef = ref<HTMLElement | null>(null)
 const gridRef = ref<HTMLElement | null>(null)
-const topDatebarRef = ref<HTMLElement | null>(null)
 const bottomDatebarRef = ref<HTMLElement | null>(null)
+const bottomDatebarColorRef = ref<HTMLElement | null>(null)
 
 // ── Zoom ─────────────────────────────────────────────────────────────────────
 const ZOOM_MIN  = 0.25
@@ -59,7 +59,6 @@ const { setDimensions, scrollTo, scrollBy } = useScroller(
     if (stageEl) stageEl.style.transform = tx
     if (paperRef.value) paperRef.value.style.transform = tx
     if (gridRef.value)  gridRef.value.style.transform  = txParallax
-    if (topDatebarRef.value)    topDatebarRef.value.style.transform    = tx
     if (bottomDatebarRef.value) bottomDatebarRef.value.style.transform = tx
 
     // Floating full-width labels (pass canonical scroll + zoom for correct offsets)
@@ -79,7 +78,6 @@ function init() {
   setOrigin(stageRef.value?.stageEl ?? null)
   setOrigin(paperRef.value)
   setOrigin(gridRef.value)
-  setOrigin(topDatebarRef.value)
   setOrigin(bottomDatebarRef.value)
 
   const w = el.clientWidth
@@ -90,15 +88,52 @@ function init() {
   scrollTo(startPx, false)
 }
 
+// ── Date-bar color overlay on event hover ──────────────────────────────────
+function applyOverlay(el: HTMLElement | null, left: number, width: number, color: string) {
+  if (!el) return
+  el.style.left = left + 'px'
+  el.style.width = width + 'px'
+  el.style.backgroundColor = color
+  el.classList.add('active')
+}
+function clearOverlay() {
+  bottomDatebarColorRef.value?.classList.remove('active')
+}
+function onStageMouseMove(e: MouseEvent) {
+  const target = e.target as HTMLElement | null
+  const card = target?.closest('.tl-event') as HTMLElement | null
+  if (!card) { clearOverlay(); return }
+  const left = parseFloat(card.style.left) || 0
+  const hoverWidth = parseFloat(card.dataset.hoverWidth || '0')
+  const periodId = parseInt(card.dataset.period || '0', 10)
+  const period = PERIOD_BY_ID[periodId]
+  if (!period || hoverWidth <= 0) { clearOverlay(); return }
+  applyOverlay(bottomDatebarColorRef.value, left, hoverWidth, period.color)
+}
+function onStageMouseOut(e: MouseEvent) {
+  const related = e.relatedTarget as HTMLElement | null
+  if (!related || !related.closest('.tl-stage')) clearOverlay()
+}
+
 onMounted(() => {
   init()
   window.addEventListener('resize', init)
   window.addEventListener('keydown', onKey)
+  const stage = document.querySelector('.tl-stage')
+  if (stage) {
+    stage.addEventListener('mousemove', onStageMouseMove as EventListener)
+    stage.addEventListener('mouseout', onStageMouseOut as EventListener)
+  }
 })
 
 onUnmounted(() => {
   window.removeEventListener('resize', init)
   window.removeEventListener('keydown', onKey)
+  const stage = document.querySelector('.tl-stage')
+  if (stage) {
+    stage.removeEventListener('mousemove', onStageMouseMove as EventListener)
+    stage.removeEventListener('mouseout', onStageMouseOut as EventListener)
+  }
 })
 
 function onKey(e: KeyboardEvent) {
@@ -178,21 +213,7 @@ function onEventClick(event: TimelineEvent) {
       :style="{ width: STAGE_WIDTH + 'px' }"
     />
 
-    <!-- z=10: Top date bar — background tinted with active period color -->
-    <div
-      ref="topDatebarRef"
-      class="tl-datebar border-b border-white/10"
-      :style="{
-        width: STAGE_WIDTH + 'px',
-        height: DATEBAR_HEIGHT + 'px',
-        backgroundColor: activePeriodColor,
-        transition: 'background-color 0.5s ease',
-      }"
-    >
-      <TimelineDateBar :flip="false" />
-    </div>
-
-    <!-- Year bubble (fixed to center of viewport) -->
+    <!-- Year bubble (fixed above the bottom date bar at viewport center) -->
     <YearBubble />
 
     <!-- Center line indicator -->
@@ -210,18 +231,17 @@ function onEventClick(event: TimelineEvent) {
     <!-- Canvas hover pointer overlay -->
     <CanvasPointer />
 
-    <!-- z=10: Bottom date bar — background tinted with active period color -->
+    <!-- z=10: Bottom date bar — cream textured background + per-event color overlay on hover -->
     <div
       ref="bottomDatebarRef"
-      class="tl-datebar-bottom absolute left-0 border-t border-white/10 z-10 pointer-events-none will-change-transform"
+      class="tl-datebar tl-datebar-bottom absolute left-0 z-10 pointer-events-none will-change-transform"
       :style="{
         bottom: '0',
         width: STAGE_WIDTH + 'px',
         height: DATEBAR_HEIGHT + 'px',
-        backgroundColor: activePeriodColor,
-        transition: 'background-color 0.5s ease',
       }"
     >
+      <div ref="bottomDatebarColorRef" class="tl-datebar-color" />
       <TimelineDateBar :flip="true" />
     </div>
 
@@ -286,9 +306,29 @@ function onEventClick(event: TimelineEvent) {
 </template>
 
 <style scoped>
+/* Date bar: flat cream background with a single neutral border line per bar.
+   The active period color is shown only as an overlay on event hover. */
+.tl-datebar {
+  background: #eef0e7;
+}
+.tl-datebar-top    { border-bottom: 1px solid #828076; }
+.tl-datebar-bottom { border-top:    1px solid #828076; }
+.tl-datebar-color {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 0;
+  opacity: 0;
+  pointer-events: none;
+  z-index: 1;
+  transition: opacity 200ms ease, background-color 200ms ease;
+}
+.tl-datebar-color.active { opacity: 0.85; }
+
 /* Zoom controls position: clear of the 220px sidebar on md+, flush right on mobile */
 .tl-zoom-controls {
-  right: 228px;
+  right: 8px;
 }
 @media (max-width: 767px) {
   .tl-zoom-controls {

@@ -7,19 +7,19 @@ export interface DateTick {
 }
 
 function getMajorInterval(pxPerYear: number): number {
-  if (pxPerYear >= 50) return 5
-  if (pxPerYear >= 15) return 25
-  if (pxPerYear >= 7) return 50
-  if (pxPerYear >= 3) return 100
-  return 500
-}
-
-function getMinorInterval(pxPerYear: number): number {
   if (pxPerYear >= 50) return 1
   if (pxPerYear >= 15) return 5
   if (pxPerYear >= 7) return 10
   if (pxPerYear >= 3) return 25
   return 100
+}
+
+function getMinorInterval(pxPerYear: number): number {
+  if (pxPerYear >= 50) return 1
+  if (pxPerYear >= 15) return 1
+  if (pxPerYear >= 7) return 5
+  if (pxPerYear >= 3) return 5
+  return 25
 }
 
 let _cache: DateTick[] | null = null

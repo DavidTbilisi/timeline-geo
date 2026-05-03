@@ -56,6 +56,8 @@ function onImageError() {
       borderLeft: `2px solid ${periodColor}88`,
     }"
     :data-slug="event.slug"
+    :data-period="event.period"
+    :data-hover-width="event.hoverWidth"
     :title="title"
     @click="emit('click', event)"
   >
@@ -92,6 +94,8 @@ function onImageError() {
     :class="[`row-${event.row}`, `period-${event.period}`]"
     :style="{ left: event.left + 'px' }"
     :data-slug="event.slug"
+    :data-period="event.period"
+    :data-hover-width="event.hoverWidth"
     :title="`${title} · ${datesPlain}`"
     @click="emit('click', event)"
   >

@@ -48,8 +48,8 @@ function labelStyle(x: number) {
     <div
       v-for="tick in minorTicks"
       :key="'m' + tick.x"
-      class="absolute w-px bg-white/20"
-      style="height: 8px;"
+      class="absolute w-px"
+      style="height: 8px; background: rgba(130, 128, 118, 0.45);"
       :style="minorTickStyle(tick.x)"
     />
 
@@ -57,8 +57,8 @@ function labelStyle(x: number) {
     <div
       v-for="tick in majorTicks"
       :key="'M' + tick.x"
-      class="absolute w-px bg-white/40"
-      style="height: 16px;"
+      class="absolute w-px"
+      style="height: 16px; background: rgba(130, 128, 118, 0.85);"
       :style="majorTickStyle(tick.x)"
     />
 
@@ -66,8 +66,8 @@ function labelStyle(x: number) {
     <span
       v-for="tick in majorTicks"
       :key="'L' + tick.x"
-      class="absolute text-white/55 whitespace-nowrap pointer-events-none select-none"
-      style="font-size: 10px; font-family: 'Noto Sans Georgian', sans-serif;"
+      class="absolute whitespace-nowrap pointer-events-none select-none"
+      style="font-size: 10px; font-family: 'Noto Sans Georgian', sans-serif; color: #828076;"
       :style="labelStyle(tick.x)"
     >
       {{ formatYear(tick.year) }}
