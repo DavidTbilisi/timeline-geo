@@ -134,6 +134,9 @@ export const PERIODS: PeriodData[] = [
     era: 3,
     startPx: 27500,
     startYear: -100,
+    // Period spans 100 BC – 30 AD but events cluster around Christ's
+    // ministry (~25 AD). Without this, users land in 95 BC empty space.
+    landingYear: 25,
     pxPerYear: 110,
     sidebarImage: '/css/img/sidebars_09.jpg',
     landingImage: '/css/img/period_9.jpg',
