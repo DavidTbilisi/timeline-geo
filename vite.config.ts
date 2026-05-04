@@ -8,6 +8,38 @@ import fs from 'fs'
 // so you don't need to copy GBs of assets during development.
 const ORIGINAL_SITE = resolve(__dirname, '../timeline.biblehistory.com/timeline.biblehistory.com')
 
+/**
+ * Build-only plugin: rewrite `url('/...')` references in built CSS to
+ * include the configured `base`. Vite by default leaves absolute URLs
+ * starting with `/` alone, which breaks subpath deployments (GitHub
+ * Pages serves the app at /<repo>/, so `/css/img/foo.jpg` 404s).
+ *
+ * Scans for `/css/`, `/fonts/`, `/media/`, `/data/`, `/favicon` and
+ * prefixes each with the resolved base. Skips already-prefixed paths.
+ */
+function rewriteCssBaseUrls(base: string): Plugin {
+  return {
+    name: 'rewrite-css-base-urls',
+    apply: 'build',
+    generateBundle(_, bundle) {
+      if (base === '/' || base === '') return
+      const baseNoSlash = base.replace(/\/$/, '')
+      const pattern = /url\((\s*['"]?)\/(css|fonts|media|data|favicon)([^'")]*)/g
+      for (const fileName in bundle) {
+        const chunk = bundle[fileName]
+        if (chunk.type === 'asset' && fileName.endsWith('.css')) {
+          const src = typeof chunk.source === 'string'
+            ? chunk.source
+            : new TextDecoder().decode(chunk.source)
+          chunk.source = src.replace(pattern, (_m, q, dir, rest) =>
+            `url(${q}${baseNoSlash}/${dir}${rest}`
+          )
+        }
+      }
+    },
+  }
+}
+
 function serveOriginalAssets(): Plugin {
   return {
     name: 'serve-original-assets',
@@ -43,8 +75,13 @@ function serveOriginalAssets(): Plugin {
   }
 }
 
+// Subpath base for GitHub Pages deployment. Set BASE_PATH=/timeline-geo/
+// in CI; defaults to '/' for dev and other targets.
+const BASE = process.env.BASE_PATH || '/'
+
 export default defineConfig({
-  plugins: [vue(), serveOriginalAssets()],
+  base: BASE,
+  plugins: [vue(), serveOriginalAssets(), rewriteCssBaseUrls(BASE)],
   resolve: {
     alias: {
       '@': resolve(__dirname, 'src'),

@@ -2,6 +2,7 @@
 import { computed } from 'vue'
 import { PERIODS, SIDEBAR_WIDTH } from '@/data/periods'
 import { useI18n } from 'vue-i18n'
+import { withBase } from '@/utils/assetUrl'
 
 /**
  * Renders a single sidebar panel for a given period.
@@ -30,7 +31,7 @@ const description = computed(() => locale.value === 'ka'
     <!-- Background image fills the panel -->
     <div
       class="absolute inset-0 bg-cover bg-center"
-      :style="{ backgroundImage: `url('${period.sidebarImage}')` }"
+      :style="{ backgroundImage: `url('${withBase(period.sidebarImage)}')` }"
     />
     <!-- Dark gradient overlay for legibility -->
     <div class="absolute inset-0 bg-gradient-to-b from-black/60 to-black/80" />
