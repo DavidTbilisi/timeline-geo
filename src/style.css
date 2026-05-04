@@ -266,6 +266,10 @@ html, body {
   height: 100%;
   will-change: transform;
   pointer-events: none;
+  /* Cream fallback so the static chrome appears immediately while
+     paper-bg.jpg is still in flight — otherwise the dark page bg
+     shows through. See issue #52. */
+  background-color: #fcf9ef;
   background-repeat: repeat-x;
   background-size: 1400px 100%;
   z-index: 1;

@@ -5,35 +5,31 @@ import TimelineView from '@/components/timeline/TimelineView.vue'
 import AppMenu from '@/components/layout/AppMenu.vue'
 import EventDetail from '@/components/detail/EventDetail.vue'
 import { useTimelineStore } from '@/stores/timeline'
-import { useEventsStore } from '@/stores/events'
 import { PERIOD_BY_SLUG } from '@/data/periods'
 import { useKeyboard } from '@/composables/useKeyboard'
 
 const route = useRoute()
 const tlStore = useTimelineStore()
-const eventsStore = useEventsStore()
 useKeyboard()
 
-async function handleRoute() {
+// No awaits here: TimelineStage.refreshEvents already loads active ± 1
+// in parallel via Promise.all, so blocking on JSON imports here just
+// delayed the route transition. Setting activePeriod after children mount
+// lets the existing watcher animate to the target period. See issue #52.
+function applyRoute() {
   const slug = route.params.slug as string
   if (!slug) return
 
   if (route.path.startsWith('/period/')) {
     const period = PERIOD_BY_SLUG[slug]
-    if (period) {
-      // Pre-load period data then scroll
-      await eventsStore.loadPeriod(period.id)
-      if (period.id > 1) await eventsStore.loadPeriod(period.id - 1)
-      if (period.id < 13) await eventsStore.loadPeriod(period.id + 1)
-      tlStore.activePeriod = period.id
-    }
+    if (period) tlStore.activePeriod = period.id
   } else if (route.path.startsWith('/event/')) {
     tlStore.openEvent(slug)
   }
 }
 
-onMounted(handleRoute)
-watch(() => route.path, handleRoute)
+onMounted(applyRoute)
+watch(() => route.path, applyRoute)
 </script>
 
 <template>
