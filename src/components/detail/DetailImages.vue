@@ -14,6 +14,14 @@ function onError(i: number) {
   errors.value = new Set([...errors.value, i])
 }
 
+// Image filenames may contain spaces or other characters that need URL
+// encoding (e.g. "Julius Caesar_3-20-2013 5-10-28 PM.jpg"). Without this,
+// the static server can 404 the preload, the image is dropped from
+// validImages, and pagination dots stop rendering. See issue #65.
+function buildSrc(file: string) {
+  return `/media/images/original/${encodeURIComponent(file)}`
+}
+
 const validImages = computed(() =>
   props.images
     .map((img, i) => ({ img, i }))
@@ -47,7 +55,7 @@ function next() {
     <img
       v-for="(img, i) in images"
       :key="i"
-      :src="`/media/images/original/${img.file}`"
+      :src="buildSrc(img.file)"
       class="hidden"
       loading="lazy"
       @error="onError(i)"
@@ -57,7 +65,7 @@ function next() {
       <!-- Main image area -->
       <div class="relative w-full flex-1 bg-black overflow-hidden min-h-0">
         <img
-          :src="`/media/images/original/${currentValid.img.file}`"
+          :src="buildSrc(currentValid.img.file)"
           :alt="currentValid.img.caption"
           class="absolute inset-0 w-full h-full object-contain"
           loading="lazy"
