@@ -29,6 +29,14 @@ export interface PeriodData {
   era: 1 | 2 | 3           // 1=Patriarchs, 2=Israel, 3=Christ
   startPx: number
   startYear: number
+  /**
+   * Optional viewport landing year. When the user navigates to this period,
+   * the viewport is centered on this year instead of `startYear`. Used for
+   * periods where events cluster well after the period's start (e.g. Life
+   * of Christ has `startYear: -100` but the Christ events are at ~25 AD).
+   * Defaults to `startYear` when omitted. See issue #53.
+   */
+  landingYear?: number
   pxPerYear: number
   sidebarImage: string
   landingImage: string

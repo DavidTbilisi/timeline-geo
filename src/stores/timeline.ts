@@ -56,6 +56,15 @@ export const useTimelineStore = defineStore('timeline', () => {
 
   function scrollToPeriod(periodId: number) {
     const p = PERIODS[periodId - 1]
+    // If landingYear is set, scroll to that year's px position instead of
+    // the period's startPx — for periods where events cluster well after
+    // the start year (e.g. Life of Christ). See issue #53.
+    if (typeof p.landingYear === 'number') {
+      const landingPx = p.startPx + (p.landingYear - p.startYear) * p.pxPerYear
+      // Center the landing year in the viewport rather than placing it at
+      // the left edge — keeps the visual cluster in view.
+      return Math.max(0, landingPx - viewportWidth.value / 2)
+    }
     return p.startPx
   }
 
