@@ -5,6 +5,7 @@ import { useTimelineStore } from '@/stores/timeline'
 import { PERIODS, PERIOD_BY_ID, STAGE_WIDTH, STAGE_HEIGHT, DATEBAR_HEIGHT, FOOTER_HEIGHT, SIDEBAR_WIDTH } from '@/data/periods'
 import { useScroller } from '@/composables/useScroller'
 import { useFullLabel } from '@/composables/useFullLabel'
+import { withBase } from '@/utils/assetUrl'
 import type { TimelineEvent } from '@/types/event'
 import TimelineStage from './TimelineStage.vue'
 import TimelineDateBar from './TimelineDateBar.vue'
@@ -202,7 +203,7 @@ function onEventClick(event: TimelineEvent) {
       class="tl-paper"
       :style="{
         width: STAGE_WIDTH + 'px',
-        backgroundImage: `url('/css/img/paper-bg.jpg')`,
+        backgroundImage: `url('${withBase('css/img/paper-bg.jpg')}')`,
       }"
     />
 

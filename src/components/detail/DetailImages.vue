@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue'
 import type { EventImage } from '@/types/detail'
+import { withBase } from '@/utils/assetUrl'
 
 const props = defineProps<{
   images: EventImage[]
@@ -19,7 +20,7 @@ function onError(i: number) {
 // the static server can 404 the preload, the image is dropped from
 // validImages, and pagination dots stop rendering. See issue #65.
 function buildSrc(file: string) {
-  return `/media/images/original/${encodeURIComponent(file)}`
+  return withBase(`media/images/original/${encodeURIComponent(file)}`)
 }
 
 const validImages = computed(() =>

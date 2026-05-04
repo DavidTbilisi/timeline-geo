@@ -2,6 +2,7 @@ import { defineStore } from 'pinia'
 import { ref, computed } from 'vue'
 import type { TimelineEvent } from '@/types/event'
 import type { EventDetail } from '@/types/detail'
+import { withBase } from '@/utils/assetUrl'
 
 export const useEventsStore = defineStore('events', () => {
   // Events keyed by period (1-13)
@@ -49,7 +50,7 @@ export const useEventsStore = defineStore('events', () => {
   async function loadDetail(slug: string): Promise<EventDetail | null> {
     if (details.value[slug]) return details.value[slug]
     try {
-      const res = await fetch(`/data/details/${slug}.json`)
+      const res = await fetch(withBase(`data/details/${slug}.json`))
       if (!res.ok) return null
       const d: EventDetail = await res.json()
       details.value[slug] = d

@@ -1,0 +1,74 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Single in-flight deploy at a time. Don't cancel; let the previous one finish
+# so we don't end up with a partial build live.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    name: Build site
+    runs-on: ubuntu-latest
+    env:
+      BASE_PATH: /timeline-geo/
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      # public/media is gitignored (re-fetchable). Cache it across runs so we
+      # don't redownload hundreds of MB on every deploy. Cache key tracks the
+      # data files that determine which images we need.
+      - name: Cache fetched images
+        id: media-cache
+        uses: actions/cache@v4
+        with:
+          path: public/media
+          key: media-${{ runner.os }}-${{ hashFiles('src/data/events/*.json', 'public/data/details/*.json') }}
+          restore-keys: |
+            media-${{ runner.os }}-
+
+      - name: Fetch reference images (if not cached)
+        run: npm run fetch:images
+
+      - name: Build
+        run: npm run build
+
+      # GitHub Pages serves <repo>/404.html for any unmatched path. Reusing
+      # index.html lets the Vue Router resolve deep links (e.g. /period/foo)
+      # on hard reload.
+      - name: Add SPA fallback
+        run: cp dist/index.html dist/404.html
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    name: Deploy
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

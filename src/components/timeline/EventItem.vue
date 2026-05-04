@@ -4,6 +4,7 @@ import type { TimelineEvent } from '@/types/event'
 import { useI18n } from 'vue-i18n'
 import { PERIOD_BY_ID } from '@/data/periods'
 import { htmlToPlainText } from '@/utils/htmlText'
+import { withBase } from '@/utils/assetUrl'
 
 const props = defineProps<{ event: TimelineEvent }>()
 const emit = defineEmits<{ click: [event: TimelineEvent] }>()
@@ -30,13 +31,13 @@ const effectiveWidth = computed(() =>
   props.event.width > 0 ? props.event.width : 260
 )
 
-// Build a URL-safe path for the event-specific thumbnail
+// Build a URL-safe path for the event-specific thumbnail.
+// imagePath is like "media/images/t/filename.jpg" — encode each segment
+// then prefix with the deploy base so it works on subpaths (GH Pages).
 const imageUrl = computed(() => {
   if (!props.event.imagePath) return ''
-  // imagePath is like "media/images/t/filename.jpg" — serve from root
-  const parts = props.event.imagePath.split('/')
-  const encodedParts = parts.map(p => encodeURIComponent(p))
-  return '/' + encodedParts.join('/')
+  const encoded = props.event.imagePath.split('/').map(p => encodeURIComponent(p)).join('/')
+  return withBase(encoded)
 })
 
 const periodData = computed(() => PERIOD_BY_ID[props.event.period])
