@@ -23,6 +23,13 @@ const datesPlain = computed(() => htmlToPlainText(dates.value))
 
 const showImage = computed(() => props.event.imagePath && !imageError.value)
 
+// Effective rendered width: data is 0 for ~84% of events because the source
+// HTML omits an inline style. The reference site falls back to a 260px CSS
+// default in that case (see .tl-event.major in style.css).
+const effectiveWidth = computed(() =>
+  props.event.width > 0 ? props.event.width : 260
+)
+
 // Build a URL-safe path for the event-specific thumbnail
 const imageUrl = computed(() => {
   if (!props.event.imagePath) return ''
@@ -52,7 +59,7 @@ function onImageError() {
     ]"
     :style="{
       left: event.left + 'px',
-      width: event.width > 0 ? event.width + 'px' : '6px',
+      width: event.width > 0 ? event.width + 'px' : undefined,
       borderLeft: `2px solid ${periodColor}88`,
     }"
     :data-slug="event.slug"
@@ -68,7 +75,7 @@ function onImageError() {
       without overlapping the title text on the left.
     -->
     <img
-      v-if="showImage && event.width >= 160"
+      v-if="showImage && effectiveWidth >= 160"
       :src="imageUrl"
       class="ev-thumb absolute right-0 top-0 h-full pointer-events-none"
       :alt="title"
