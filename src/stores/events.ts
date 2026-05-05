@@ -60,13 +60,46 @@ export const useEventsStore = defineStore('events', () => {
     }
   }
 
+  /**
+   * Relevance-ranked search across `titleEn` and (when present) `titleKa`.
+   *
+   * Tier order — exact > prefix > word-boundary > substring — so e.g.
+   * searching "Moses" surfaces the actual Moses event before "Lot Moves
+   * to Sodom" (which only matches as a substring of "moves"). See #56.
+   *
+   * Note: KA queries currently rarely match because no events ship with
+   * `titleKa` populated — that's a content gap, tracked in #55.
+   */
   function search(query: string): TimelineEvent[] {
-    if (!query.trim()) return []
-    const q = query.toLowerCase()
-    return allEvents.value.filter(e =>
-      e.titleEn.toLowerCase().includes(q) ||
-      (e.titleKa && e.titleKa.toLowerCase().includes(q))
-    ).slice(0, 20)
+    const q = query.trim().toLowerCase()
+    if (!q) return []
+
+    const wordBoundary = new RegExp(
+      '\\b' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'),
+    )
+
+    function tier(field: string): number {
+      if (field === q) return 1
+      if (field.startsWith(q)) return 2
+      if (wordBoundary.test(field)) return 3
+      if (field.includes(q)) return 4
+      return Infinity
+    }
+
+    type Scored = { event: TimelineEvent; score: number }
+    const scored: Scored[] = []
+    for (const e of allEvents.value) {
+      const en = e.titleEn.toLowerCase()
+      const ka = e.titleKa?.toLowerCase() ?? ''
+      const score = Math.min(tier(en), ka ? tier(ka) : Infinity)
+      if (score < Infinity) scored.push({ event: e, score })
+    }
+
+    scored.sort((a, b) =>
+      a.score - b.score ||
+      a.event.titleEn.localeCompare(b.event.titleEn),
+    )
+    return scored.slice(0, 20).map((s) => s.event)
   }
 
   const visibleEvents = computed(() => getVisibleEvents)
