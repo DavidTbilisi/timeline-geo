@@ -1,13 +1,22 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useRouter } from 'vue-router'
+import { useI18n } from 'vue-i18n'
 import { useTimelineStore } from '@/stores/timeline'
 import { PERIODS } from '@/data/periods'
+import type { PeriodData } from '@/types/event'
 
 const tlStore = useTimelineStore()
 const router = useRouter()
+const { locale } = useI18n()
 
 const activePeriod = computed(() => tlStore.activePeriod)
+
+// Use the localized period name for tooltip + a11y when KA is active,
+// falling back to nameEn if a translation is missing. See issue #59.
+function periodLabel(p: PeriodData): string {
+  return locale.value === 'ka' ? (p.nameKa ?? p.nameEn) : p.nameEn
+}
 
 function goToPeriod(periodId: number, slug: string) {
   tlStore.activePeriod = periodId
@@ -25,8 +34,8 @@ function goToPeriod(periodId: number, slug: string) {
       class="period-color-segment"
       :class="{ 'is-active': p.id === activePeriod }"
       :style="{ background: p.color }"
-      :title="p.nameEn"
-      :aria-label="p.nameEn"
+      :title="periodLabel(p)"
+      :aria-label="periodLabel(p)"
       :aria-current="p.id === activePeriod ? 'true' : undefined"
       @click="goToPeriod(p.id, p.slug)"
     >

@@ -154,7 +154,12 @@ const showDropdown = computed(() =>
         <!-- Results count header -->
         <p class="text-xs text-white/40 px-3 py-1.5 border-b border-white/10">{{ searchCountLabel }}</p>
 
-        <!-- Result items -->
+        <!--
+          Result items. The empty/zero state is already conveyed by the
+          `searchCountLabel` header above ("No Results" / "შედეგი არ არის");
+          we intentionally don't render a second "no results" paragraph
+          here. See issue #54.
+        -->
         <button
           v-for="(r, i) in searchResults"
           :key="r.slug"
@@ -166,14 +171,6 @@ const showDropdown = computed(() =>
           <span class="block font-medium leading-tight">{{ locale === 'ka' && r.titleKa ? r.titleKa : r.titleEn }}</span>
           <span class="block text-xs text-white/50 mt-0.5">{{ locale === 'ka' && r.datesKa ? r.datesKa : r.datesEn }}</span>
         </button>
-
-        <!-- No results message -->
-        <p
-          v-if="searchResults.length === 0"
-          class="text-xs text-white/40 px-3 py-2 italic"
-        >
-          {{ t('nav.noResults') }}
-        </p>
       </div>
     </div>
 

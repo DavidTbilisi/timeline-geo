@@ -60,36 +60,20 @@ function onSubmit() {
         >
           {{ t('account.submit') }}
         </button>
-        <p class="text-center">
-          <a
-            href="http://www.biblehistory.com/accounts/recover_password.php"
-            target="_blank"
-            rel="noopener"
-            class="text-white/50 hover:text-white/80 text-xs underline"
-          >
-            {{ t('account.forgot') }}
-          </a>
-        </p>
         <p v-if="submitted" class="text-yellow-400/80 text-xs text-center">
           {{ t('detail.noContent') }}
         </p>
       </form>
 
-      <!-- Create new -->
-      <div class="px-6 pb-6 border-t border-white/10 pt-4 space-y-2">
-        <p class="text-white font-semibold text-sm">{{ t('account.createNew') }}</p>
-        <p class="text-white/60 text-xs leading-relaxed">{{ t('account.createBody1') }}</p>
-        <p class="text-white/60 text-xs leading-relaxed">{{ t('account.createBody2') }}</p>
-        <p class="text-white/60 text-xs leading-relaxed">{{ t('account.createBody3') }}</p>
-        <a
-          href="http://www.biblehistory.com/accounts/create.php"
-          target="_blank"
-          rel="noopener"
-          class="block w-full text-center bg-yellow-500/20 hover:bg-yellow-500/30 border border-yellow-500/40 text-yellow-200 text-sm font-semibold py-2 rounded transition-colors mt-2"
-        >
-          {{ t('account.createCta') }}
-        </a>
-      </div>
+      <!--
+        Removed the "create a new BibleHistory.com account" section and
+        the "forgot password" link, both of which pointed at upstream
+        biblehistory.com URLs that aren't part of this project. See
+        issue #57. Auth backend isn't wired up — the sign-in form is a
+        no-op stub. The whole modal should probably be hidden until
+        there's a real backend (tracked in #12), but until then the
+        brand reference is gone.
+      -->
     </div>
   </div>
 </template>

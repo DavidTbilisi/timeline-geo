@@ -64,6 +64,8 @@ test.describe('Search', () => {
     await input.fill('xyzxyzxyz_nonexistent')
     await page.waitForTimeout(300) // debounce
 
-    await expect(page.locator('text=შედეგი ვერ მოიძებნა')).toBeVisible({ timeout: 3000 })
+    // Issue #54: only the count header should convey the empty state.
+    // The previously-stacked second "no results" paragraph was removed.
+    await expect(page.locator('text=შედეგი არ არის')).toBeVisible({ timeout: 3000 })
   })
 })

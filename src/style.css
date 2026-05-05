@@ -382,3 +382,26 @@ html, body {
 }
 .detail-backdrop-enter-active { animation: fadeIn 0.2s ease; }
 .detail-backdrop-leave-active { animation: fadeIn 0.2s ease reverse; }
+
+/*
+  KA period card title overflow fix (issue #49).
+
+  Legacy timeline.css renders `.landing-period h3` at 20–30px uppercase
+  Latin-compressed font, with no width/wrap controls. Georgian
+  translations like "გაერთიანებული სამეფო" / "გაყოფილი სამეფო" are
+  longer than English and overflow into the neighboring card.
+
+  Always allow word-wrap regardless of locale, then shrink the font
+  and drop uppercase specifically for KA. The legacy zoom-1/2/3
+  rules cascade by `.landing-stage.zoom-N` class, so we match the
+  same depth + add `:lang(ka)` to win on specificity.
+*/
+div.landing-period h3 {
+  word-break: break-word;
+  overflow-wrap: break-word;
+  line-height: 1.05;
+}
+:lang(ka) div.landing-stage div.landing-period div.info h3 {
+  font-size: 16px;
+  text-transform: none;
+}
