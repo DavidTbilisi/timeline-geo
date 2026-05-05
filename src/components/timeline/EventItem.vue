@@ -8,16 +8,25 @@ import { withBase } from '@/utils/assetUrl'
 
 const props = defineProps<{ event: TimelineEvent }>()
 const emit = defineEmits<{ click: [event: TimelineEvent] }>()
-const { locale } = useI18n()
+const { locale, t } = useI18n()
 
 const imageError = ref(false)
 
 const title = computed(() =>
   locale.value === 'ka' && props.event.titleKa ? props.event.titleKa : props.event.titleEn
 )
-const dates = computed(() =>
-  locale.value === 'ka' && props.event.datesKa ? props.event.datesKa : props.event.datesEn
-)
+// Localize the BC/AD suffix in the date subtitle when displaying KA. If
+// the event ships a hand-translated `datesKa` we use it as-is; otherwise
+// substitute "BC" / "AD" in `datesEn` with the localized abbreviations.
+// See issue #47 (event titleKa is gated on a separate content task).
+const dates = computed(() => {
+  if (locale.value === 'ka' && props.event.datesKa) return props.event.datesKa
+  const en = props.event.datesEn ?? ''
+  if (locale.value !== 'ka') return en
+  return en
+    .replace(/\bBC\b/g, t('timeline.bc'))
+    .replace(/\bAD\b/g, t('timeline.ad'))
+})
 // Plain-text version for use inside title/alt attributes (browsers don't
 // decode HTML inside attributes; raw <span> and entities would be visible).
 const datesPlain = computed(() => htmlToPlainText(dates.value))

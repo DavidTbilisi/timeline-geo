@@ -135,16 +135,10 @@ export default {
     email: 'Email',
     password: 'Password',
     submit: 'Sign In',
-    forgot: 'Forgot your password?',
     errors: {
       email: 'Email is incorrect',
       password: 'Password is incorrect',
     },
-    createNew: 'Create a New BibleHistory.com Account',
-    createBody1: "When you create an account on biblehistory.com, you'll be able to tag your favorite person and event entries and go straight to them whenever you like from wherever you like. This is a great tool for Bible students and for Bible studies with friends and family.",
-    createBody2: 'How? Just click the "Add to Favorites" Button—it\'s that simple. Then, from the homepage, click the flag in the main menu to see your favorites.',
-    createBody3: 'Sign up today! Oh, and we promise never to give or sell your name or email to others.',
-    createCta: 'Create your account now!',
   },
   social: {
     share: 'Share',
