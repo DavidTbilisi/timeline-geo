@@ -11,6 +11,8 @@
     "extract": "node scripts/extractEvents.mjs",
     "fetch:details": "node scripts/fetchDetails.mjs",
     "fetch:images": "node scripts/fetchImages.mjs",
+    "translate:export": "node scripts/translateDetails.mjs --export",
+    "translate:import": "node scripts/translateDetails.mjs --import",
     "test": "playwright test",
     "test:ui": "playwright test --ui",
     "test:headed": "playwright test --headed"
