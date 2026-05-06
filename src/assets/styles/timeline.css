@@ -1129,7 +1129,11 @@ input,select{vertical-align:middle}
 			bottom: 34px;
 		}
 			div.landing-footer div.welcome h3 {
-				font-family: 'hoeflernew_-swashitalic';
+				/* Noto Serif Georgian fallback covers the KA heading
+				   ("მოგესალმებით"); the swash-italic Latin font has no
+				   Georgian glyphs and would otherwise drop to plain
+				   sans-serif. See issue #60. */
+				font-family: 'hoeflernew_-swashitalic', 'Noto Serif Georgian', serif;
 				font-size: 16px;
 				font-weight: 200;
 				color: #f9efda;
