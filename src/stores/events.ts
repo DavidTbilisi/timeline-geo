@@ -3,6 +3,7 @@ import { ref, computed } from 'vue'
 import type { TimelineEvent } from '@/types/event'
 import type { EventDetail } from '@/types/detail'
 import { withBase } from '@/utils/assetUrl'
+import { PERIOD_BY_ID } from '@/data/periods'
 
 export const useEventsStore = defineStore('events', () => {
   // Events keyed by period (1-13)
@@ -61,14 +62,17 @@ export const useEventsStore = defineStore('events', () => {
   }
 
   /**
-   * Relevance-ranked search across `titleEn` and (when present) `titleKa`.
+   * Relevance-ranked search across `titleEn`, `titleKa` (when present),
+   * and the event's containing period name (EN + KA).
    *
-   * Tier order — exact > prefix > word-boundary > substring — so e.g.
-   * searching "Moses" surfaces the actual Moses event before "Lot Moves
-   * to Sodom" (which only matches as a substring of "moves"). See #56.
+   * Tier order — exact > prefix > word-boundary > substring — applied
+   * first to event titles, then to period names. Period-name matches
+   * are demoted by adding `PERIOD_TIER_OFFSET` so a direct title match
+   * always outranks a period-name fallback. See #55, #56.
    *
-   * Note: KA queries currently rarely match because no events ship with
-   * `titleKa` populated — that's a content gap, tracked in #55.
+   * Until events ship with `titleKa`, period-name matching is the main
+   * way KA queries (e.g. "პირველი" → events in "პირველი თაობა") return
+   * results at all.
    */
   function search(query: string): TimelineEvent[] {
     const q = query.trim().toLowerCase()
@@ -86,12 +90,27 @@ export const useEventsStore = defineStore('events', () => {
       return Infinity
     }
 
+    // Direct title matches always rank above any period-name match.
+    const PERIOD_TIER_OFFSET = 10
+
     type Scored = { event: TimelineEvent; score: number }
     const scored: Scored[] = []
     for (const e of allEvents.value) {
       const en = e.titleEn.toLowerCase()
       const ka = e.titleKa?.toLowerCase() ?? ''
-      const score = Math.min(tier(en), ka ? tier(ka) : Infinity)
+      let score = Math.min(tier(en), ka ? tier(ka) : Infinity)
+      if (score === Infinity) {
+        const period = PERIOD_BY_ID[e.period]
+        if (period) {
+          const periodEn = period.nameEn.toLowerCase()
+          const periodKa = period.nameKa?.toLowerCase() ?? ''
+          const periodScore = Math.min(
+            tier(periodEn),
+            periodKa ? tier(periodKa) : Infinity,
+          )
+          if (periodScore < Infinity) score = periodScore + PERIOD_TIER_OFFSET
+        }
+      }
       if (score < Infinity) scored.push({ event: e, score })
     }
 
