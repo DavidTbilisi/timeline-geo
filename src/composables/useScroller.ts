@@ -51,7 +51,15 @@ export function useScroller(
     contentWidth = sw
     contentHeight = sh
     maxLeft = Math.max(0, sw - cw)
-    scrollTo(scrollLeft.value, false)
+    // Only re-render if the scroll position actually needs clamping into
+    // the new bounds. Without this, an initial setDimensions call would
+    // fire a render(0) → onRender(0) round-trip even though nothing moved,
+    // which downstream (TimelineView's setScroll) misinterprets as a
+    // navigation to scroll=0 and resets the active period to 1. See #58.
+    const clamped = clamp(scrollLeft.value, 0, maxLeft)
+    if (clamped !== scrollLeft.value) {
+      scrollTo(clamped, false)
+    }
   }
 
   function render(left: number, top: number) {
