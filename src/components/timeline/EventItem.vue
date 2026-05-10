@@ -7,7 +7,14 @@ import { htmlToPlainText } from '@/utils/htmlText'
 import { withBase } from '@/utils/assetUrl'
 import { log } from '@/utils/log'
 
-const props = defineProps<{ event: TimelineEvent }>()
+const props = defineProps<{
+  event: TimelineEvent
+  /**
+   * Optional clamp from TimelineStage so a long-duration card doesn't
+   * render past the next event on its row. Falls back to `event.width`.
+   */
+  renderedWidth?: number
+}>()
 const emit = defineEmits<{ click: [event: TimelineEvent] }>()
 
 function onClick() {
@@ -41,10 +48,13 @@ const showImage = computed(() => props.event.imagePath && !imageError.value)
 
 // Effective rendered width: data is 0 for ~84% of events because the source
 // HTML omits an inline style. The reference site falls back to a 260px CSS
-// default in that case (see .tl-event.major in style.css).
-const effectiveWidth = computed(() =>
-  props.event.width > 0 ? props.event.width : 260
-)
+// default in that case (see .tl-event.major in style.css). TimelineStage
+// may also pass a row-clamped `renderedWidth` to prevent neighboring cards
+// from overlapping; that takes precedence when set.
+const effectiveWidth = computed(() => {
+  if (props.renderedWidth !== undefined) return props.renderedWidth
+  return props.event.width > 0 ? props.event.width : 260
+})
 
 // Build a URL-safe path for the event-specific thumbnail.
 // imagePath is like "media/images/t/filename.jpg" — encode each segment
@@ -75,7 +85,9 @@ function onImageError() {
     ]"
     :style="{
       left: event.left + 'px',
-      width: event.width > 0 ? event.width + 'px' : undefined,
+      width: renderedWidth !== undefined
+        ? renderedWidth + 'px'
+        : (event.width > 0 ? event.width + 'px' : undefined),
       borderLeft: `2px solid ${periodColor}88`,
     }"
     :data-slug="event.slug"

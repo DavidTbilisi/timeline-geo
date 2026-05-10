@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, watch, onMounted } from 'vue'
+import { ref, computed, watch, onMounted } from 'vue'
 import { useTimelineStore } from '@/stores/timeline'
 import { useEventsStore } from '@/stores/events'
 import { PERIODS, STAGE_WIDTH, STAGE_HEIGHT } from '@/data/periods'
@@ -28,6 +28,43 @@ async function refreshEvents(period: number) {
 
 onMounted(() => refreshEvents(tlStore.activePeriod))
 watch(() => tlStore.activePeriod, (period) => { refreshEvents(period) })
+
+/**
+ * Per-event rendered-width clamps, keyed by slug.
+ *
+ * The source `events.json` from biblehistory.com places long-duration
+ * "life span" cards (e.g. Miriam at left=9434 width=554.4) and shorter
+ * point-in-time events (e.g. Balak Summons Balaam at left=9975) on the
+ * same row. The duration cards literally overlap their neighbors —
+ * faithful but visually noisy: the next card sits over the previous
+ * card's right-edge thumbnail.
+ *
+ * Clamp each card's width so its right edge stops 4px before the next
+ * card on the same row. The label slide range (used by useFullLabel)
+ * picks the new width up from the DOM automatically.
+ */
+const GAP = 4
+const renderedWidths = computed(() => {
+  const byRow = new Map<number, TimelineEvent[]>()
+  for (const e of visibleEvents.value) {
+    if (!byRow.has(e.row)) byRow.set(e.row, [])
+    byRow.get(e.row)!.push(e)
+  }
+  const clamps = new Map<string, number>()
+  for (const row of byRow.values()) {
+    row.sort((a, b) => a.left - b.left)
+    for (let i = 0; i < row.length - 1; i++) {
+      const cur = row[i]
+      const next = row[i + 1]
+      if (cur.width <= 0) continue
+      const maxRight = next.left - GAP
+      if (cur.left + cur.width > maxRight) {
+        clamps.set(cur.slug, Math.max(40, maxRight - cur.left))
+      }
+    }
+  }
+  return clamps
+})
 
 // Pre-compute period color band gradient (sharp stops, very subtle)
 function hexToRgba(hex: string, alpha: number) {
@@ -82,6 +119,7 @@ const periodBandBg = (() => {
       v-for="event in visibleEvents"
       :key="event.id"
       :event="event"
+      :rendered-width="renderedWidths.get(event.slug)"
       @click="emit('eventClick', event)"
     />
 
