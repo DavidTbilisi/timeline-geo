@@ -284,6 +284,7 @@ const showDropdown = computed(() =>
         class="mt-2 bg-stone-900 border border-white/10 rounded shadow-xl overflow-hidden max-h-72 overflow-y-auto"
       >
         <p class="text-xs text-white/40 px-3 py-1.5 border-b border-white/10">{{ searchCountLabel }}</p>
+        <!-- Empty state is conveyed by `searchCountLabel` above; see issue #54. -->
         <button
           v-for="(r, i) in searchResults"
           :key="r.slug"
@@ -295,12 +296,6 @@ const showDropdown = computed(() =>
           <span class="block font-medium leading-tight">{{ locale === 'ka' && r.titleKa ? r.titleKa : r.titleEn }}</span>
           <span class="block text-xs text-white/50 mt-0.5">{{ locale === 'ka' && r.datesKa ? r.datesKa : r.datesEn }}</span>
         </button>
-        <p
-          v-if="searchResults.length === 0"
-          class="text-xs text-white/40 px-3 py-2 italic"
-        >
-          {{ t('nav.noResults') }}
-        </p>
       </div>
     </div>
 
