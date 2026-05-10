@@ -42,25 +42,30 @@ const sidebarStripTranslate = computed(() =>
   `translate3d(${-(tlStore.activePeriod - 1) * SIDEBAR_WIDTH}px, 0, 0)`
 )
 
-// Scroller render: directly writes to DOM for 60fps performance
+// Scroller render: directly writes to DOM for 60fps performance.
+// Y axis is enabled so the stage/paper drag vertically — the timeline
+// has 14+ event rows on a 1440px canvas, more than fits in the viewport.
+// The bottom date bar gets X-only transform so it stays pinned visually.
 const { setDimensions, scrollTo, scrollBy } = useScroller(
   containerRef,
-  (left, _top) => {
+  (left, top) => {
     const z = zoomLevel.value
     // All scrollable layers share: scaleX(z) from left edge, then translate.
     // CSS right-to-left: translate3d first, then scaleX — equivalent to
-    //   visual position = stageX * z - left
-    // so events appear where they should at the given zoom.
-    const tx = `scaleX(${z}) translate3d(${-left / z}px,0,0)`
-    // Grid still parallaxes for depth; paper scrolls 1:1 with events so the
-    // cream texture feels like the surface events sit on (matches the landing).
-    const txParallax = `scaleX(${z}) translate3d(${-(left / 3) / z}px,0,0)`
+    //   visual_x = stage_x * z - left, visual_y = stage_y - top
+    // so events appear where they should at the given zoom + scroll.
+    const tx = `scaleX(${z}) translate3d(${-left / z}px,${-top}px,0)`
+    const txX = `scaleX(${z}) translate3d(${-left / z}px,0,0)`
+    // Grid still parallaxes horizontally for depth; vertical scroll moves
+    // it 1:1 so the row dividers stay aligned with the event cards.
+    const txParallax = `scaleX(${z}) translate3d(${-(left / 3) / z}px,${-top}px,0)`
 
     const stageEl = stageRef.value?.stageEl
     if (stageEl) stageEl.style.transform = tx
     if (paperRef.value) paperRef.value.style.transform = tx
     if (gridRef.value)  gridRef.value.style.transform  = txParallax
-    if (bottomDatebarRef.value) bottomDatebarRef.value.style.transform = tx
+    // Bottom date bar: X only — must remain pinned at the viewport bottom.
+    if (bottomDatebarRef.value) bottomDatebarRef.value.style.transform = txX
 
     // Floating full-width labels (pass canonical scroll + zoom for correct offsets)
     updateLabels(left / z, z)
@@ -68,7 +73,7 @@ const { setDimensions, scrollTo, scrollBy } = useScroller(
     // Coarse store update — pass canonical (zoom=1) scroll so year/period math works
     tlStore.setScroll(left / z)
   },
-  { scrollingY: false, bouncing: true }
+  { scrollingY: true, bouncing: true }
 )
 
 function init() {
