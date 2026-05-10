@@ -202,12 +202,17 @@ function onEventClick(event: TimelineEvent) {
       bottom: FOOTER_HEIGHT + 'px',
     }"
   >
-    <!-- z=2: Paper texture — primary cream backdrop, matches landing page -->
+    <!-- z=2: Paper texture — primary cream backdrop, matches landing page.
+         Height must equal STAGE_HEIGHT (not 100%) so the paper covers the
+         full vertical extent as the stage drag-scrolls; otherwise the
+         translated bottom edge rises into the viewport and exposes the
+         dark void below. Same for the grid layer. -->
     <div
       ref="paperRef"
       class="tl-paper"
       :style="{
         width: STAGE_WIDTH + 'px',
+        height: STAGE_HEIGHT + 'px',
         backgroundImage: `url('${withBase('css/img/paper-bg.jpg')}')`,
       }"
     />
@@ -216,7 +221,7 @@ function onEventClick(event: TimelineEvent) {
     <div
       ref="gridRef"
       class="tl-grid"
-      :style="{ width: STAGE_WIDTH + 'px' }"
+      :style="{ width: STAGE_WIDTH + 'px', height: STAGE_HEIGHT + 'px' }"
     />
 
     <!-- Year bubble (fixed above the bottom date bar at viewport center) -->
