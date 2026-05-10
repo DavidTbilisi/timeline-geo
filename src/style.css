@@ -406,3 +406,28 @@ div.landing-period h3 {
   font-size: 16px;
   text-transform: none;
 }
+/*
+  ...and keep the hover state from blowing up to 32px on Georgian
+  cards: timeline.css:1002 sets `.zoom-2 ...:hover h3 { font-size: 32px }`
+  which overflows the 190px-wide hover info box for words like
+  "გადასახლება". Match the legacy selector + `:lang(ka)` to win on
+  specificity.
+*/
+:lang(ka) div.landing-stage.zoom-2 div.landing-period.hoverable:hover div.info h3 {
+  font-size: 18px;
+}
+
+/*
+  Period-13 wrap fix.
+
+  Legacy timeline.css authored `.landing-periods { width: 2405px;
+  padding: 0 60px }` assuming `box-sizing: content-box` — total content
+  width 2405px exactly fits 13 cards × 185px. Tailwind preflight sets
+  border-box globally, shrinking the content box to 2285px and forcing
+  card 13 ("გამოცხადების წინასწარმეტყველებები" / Prophecies of
+  Revelation) to wrap onto a second row. Restore content-box on this
+  one container so the float row holds all 13 cards.
+*/
+div.landing-stage div.landing-periods {
+  box-sizing: content-box;
+}

@@ -6,7 +6,6 @@ import PeriodCard from './PeriodCard.vue'
 import EraArch from './EraArch.vue'
 import WelcomePanel from './WelcomePanel.vue'
 import AmazingFacts from './AmazingFacts.vue'
-import PeriodColorBar from '@/components/timeline/PeriodColorBar.vue'
 import { useDragScroll } from '@/composables/useDragScroll'
 
 const { t } = useI18n()
@@ -90,10 +89,6 @@ onMounted(() => {
     <div :class="['landing-footer', 'lv-footer', factsExpanded ? 'active' : '']" data-testid="landing-footer">
       <WelcomePanel />
       <AmazingFacts @toggle="toggleFacts" />
-      <!-- 13-segment period color bar reused from timeline -->
-      <div class="lv-color-bar">
-        <PeriodColorBar />
-      </div>
     </div>
 
   </div>
@@ -149,34 +144,8 @@ onMounted(() => {
   min-height: 132px;
 }
 
-/* Color bar below the amazing-facts bar */
-.lv-color-bar {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  z-index: 320;
-}
-
-/*
-  Shift bar and info up by the color-bar height (28px) so the color bar
-  doesn't overlap the amazing-facts bar.
-*/
-.lv-footer :deep(.bar) {
-  bottom: 28px !important;
-}
-.lv-footer.active :deep(.bar) {
-  bottom: calc(76px + 28px) !important;
-}
-.lv-footer :deep(.info) {
-  bottom: calc(-78px + 28px) !important;
-}
-.lv-footer.active :deep(.info) {
-  bottom: 28px !important;
-}
-.lv-footer :deep(.welcome) {
-  bottom: calc(34px + 28px) !important;
-}
+/* Color bar removed from landing — bar / info / welcome use the reference
+   site's original `bottom` values from timeline.css, no overrides needed. */
 
 /*
   Mobile (< md): the reference stylesheet sets `.welcome p { width: 710px }`,
