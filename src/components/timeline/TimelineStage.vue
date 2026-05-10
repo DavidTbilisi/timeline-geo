@@ -32,45 +32,66 @@ watch(() => tlStore.activePeriod, (period) => { refreshEvents(period) })
 /**
  * Per-event vertical offset (px), keyed by slug.
  *
- * The source `events.json` from biblehistory.com places long-duration
- * "life span" cards (e.g. Aaron at left=9442 width=541) and shorter
- * events that occurred during that span (e.g. Aram (or Ram) at
- * left=9491) on the same row. Their X-coordinates literally overlap.
+ * The source `events.json` places long-duration bars (Aaron 9442+541)
+ * and shorter events that occurred during that span (Aram (or Ram) at
+ * 9491) on the same row, so their X-coords literally overlap. Trimming
+ * widths kills the "this person lived for X years" signal, so instead
+ * we drop the overlapping event into a sub-band 18px below.
  *
- * Trimming widths to fix overlap collapses the long bar (Aaron 541→45)
- * and destroys the "this person lived for X years" visual signal.
- * Instead, lay the row out in two visual bands: anything that doesn't
- * fit in band 0 (the original row top) goes to band 1, shifted down by
- * `BAND_HEIGHT` px. The label slides on its parent's translate, which
- * is unaffected by the inline `top` shift, so info-full labels still
- * track the viewport edge correctly.
+ * Constraints:
+ * - Only minors (30px tall) get shifted — they're the only events that
+ *   fit in the 50px row gap once shifted. Majors (80px) and small majors
+ *   (50px) already extend past their row, shifting them just stacks
+ *   problems.
+ * - Skip the shift if a minor on row N would collide with a row-(N+1)
+ *   event in X, otherwise the sub-band 18-48px slot lands on top of the
+ *   row-(N+1) event at 50-80px and we trade a same-row overlap for a
+ *   cross-row one (worse — the user perceives it as broken layout).
  */
-const BAND_HEIGHT = 35
+const BAND_HEIGHT = 18
 const topOffsets = computed(() => {
   const byRow = new Map<number, TimelineEvent[]>()
   for (const e of visibleEvents.value) {
     if (!byRow.has(e.row)) byRow.set(e.row, [])
     byRow.get(e.row)!.push(e)
   }
+
+  const xRange = (e: TimelineEvent) => ({
+    start: e.left,
+    end: e.left + (e.width > 0 ? e.width : 260),
+  })
+  const overlaps = (
+    a: { start: number; end: number },
+    b: { start: number; end: number },
+  ) => a.start < b.end && a.end > b.start
+
   const offsets = new Map<string, number>()
-  for (const row of byRow.values()) {
+  for (const [rowNum, row] of byRow) {
     row.sort((a, b) => a.left - b.left)
-    const bands: Array<Array<{ start: number; end: number }>> = [[], []]
+    const occupied: Array<{ start: number; end: number }> = []
+    const nextRow = byRow.get(rowNum + 1) ?? []
+
     for (const e of row) {
-      const start = e.left
-      const end = e.left + (e.width > 0 ? e.width : 260)
-      const overlaps = (band: { start: number; end: number }[]) =>
-        band.some(o => start < o.end && end > o.start)
-      if (!overlaps(bands[0])) {
-        bands[0].push({ start, end })
-      } else if (!overlaps(bands[1])) {
-        bands[1].push({ start, end })
-        offsets.set(e.slug, BAND_HEIGHT)
-      } else {
-        // Both bands occupied — accept overlap on band 0 rather than
-        // cascading further (third-band overlaps are rare in this dataset).
-        bands[0].push({ start, end })
+      const r = xRange(e)
+      const collidesSameRow = occupied.some(o => overlaps(o, r))
+      if (!collidesSameRow) {
+        occupied.push(r)
+        continue
       }
+      // Same-row overlap. Only minors are eligible for the sub-band.
+      if (e.type !== 'minor') {
+        occupied.push(r)
+        continue
+      }
+      // Sub-band collision check against the next row's events — would the
+      // shifted minor (top + 18 .. top + 48) land on top of a row-(N+1)
+      // event in our X range?
+      const collidesNextRow = nextRow.some(other => overlaps(xRange(other), r))
+      if (collidesNextRow) {
+        occupied.push(r)
+        continue
+      }
+      offsets.set(e.slug, BAND_HEIGHT)
     }
   }
   return offsets
