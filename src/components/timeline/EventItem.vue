@@ -10,10 +10,11 @@ import { log } from '@/utils/log'
 const props = defineProps<{
   event: TimelineEvent
   /**
-   * Optional clamp from TimelineStage so a long-duration card doesn't
-   * render past the next event on its row. Falls back to `event.width`.
+   * Vertical band offset (px) from TimelineStage. Non-zero shifts this
+   * event below the row's primary band so it doesn't visually overlap
+   * an earlier same-row event whose X-range it falls inside.
    */
-  renderedWidth?: number
+  topOffset?: number
 }>()
 const emit = defineEmits<{ click: [event: TimelineEvent] }>()
 
@@ -48,12 +49,18 @@ const showImage = computed(() => props.event.imagePath && !imageError.value)
 
 // Effective rendered width: data is 0 for ~84% of events because the source
 // HTML omits an inline style. The reference site falls back to a 260px CSS
-// default in that case (see .tl-event.major in style.css). TimelineStage
-// may also pass a row-clamped `renderedWidth` to prevent neighboring cards
-// from overlapping; that takes precedence when set.
-const effectiveWidth = computed(() => {
-  if (props.renderedWidth !== undefined) return props.renderedWidth
-  return props.event.width > 0 ? props.event.width : 260
+// default in that case (see .tl-event.major in style.css).
+const effectiveWidth = computed(() =>
+  props.event.width > 0 ? props.event.width : 260
+)
+
+// Row top offsets match `.tl-event.row-N { top: N*50-30 px }` in style.css.
+// We re-derive the value here so a `topOffset` band shift can override the
+// class-based `top` via inline style without losing the row positioning.
+const computedTop = computed(() => {
+  const offset = props.topOffset
+  if (!offset) return undefined
+  return 20 + (props.event.row - 1) * 50 + offset
 })
 
 // Build a URL-safe path for the event-specific thumbnail.
@@ -85,9 +92,8 @@ function onImageError() {
     ]"
     :style="{
       left: event.left + 'px',
-      width: renderedWidth !== undefined
-        ? renderedWidth + 'px'
-        : (event.width > 0 ? event.width + 'px' : undefined),
+      width: event.width > 0 ? event.width + 'px' : undefined,
+      top: computedTop !== undefined ? computedTop + 'px' : undefined,
       borderLeft: `2px solid ${periodColor}88`,
     }"
     :data-slug="event.slug"
@@ -127,7 +133,10 @@ function onImageError() {
     v-else
     class="tl-event minor group"
     :class="[`row-${event.row}`, `period-${event.period}`]"
-    :style="{ left: event.left + 'px' }"
+    :style="{
+      left: event.left + 'px',
+      top: computedTop !== undefined ? computedTop + 'px' : undefined,
+    }"
     :data-slug="event.slug"
     :data-period="event.period"
     :data-hover-width="event.hoverWidth"

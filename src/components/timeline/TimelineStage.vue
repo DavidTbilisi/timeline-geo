@@ -30,40 +30,50 @@ onMounted(() => refreshEvents(tlStore.activePeriod))
 watch(() => tlStore.activePeriod, (period) => { refreshEvents(period) })
 
 /**
- * Per-event rendered-width clamps, keyed by slug.
+ * Per-event vertical offset (px), keyed by slug.
  *
  * The source `events.json` from biblehistory.com places long-duration
- * "life span" cards (e.g. Miriam at left=9434 width=554.4) and shorter
- * point-in-time events (e.g. Balak Summons Balaam at left=9975) on the
- * same row. The duration cards literally overlap their neighbors —
- * faithful but visually noisy: the next card sits over the previous
- * card's right-edge thumbnail.
+ * "life span" cards (e.g. Aaron at left=9442 width=541) and shorter
+ * events that occurred during that span (e.g. Aram (or Ram) at
+ * left=9491) on the same row. Their X-coordinates literally overlap.
  *
- * Clamp each card's width so its right edge stops 4px before the next
- * card on the same row. The label slide range (used by useFullLabel)
- * picks the new width up from the DOM automatically.
+ * Trimming widths to fix overlap collapses the long bar (Aaron 541→45)
+ * and destroys the "this person lived for X years" visual signal.
+ * Instead, lay the row out in two visual bands: anything that doesn't
+ * fit in band 0 (the original row top) goes to band 1, shifted down by
+ * `BAND_HEIGHT` px. The label slides on its parent's translate, which
+ * is unaffected by the inline `top` shift, so info-full labels still
+ * track the viewport edge correctly.
  */
-const GAP = 4
-const renderedWidths = computed(() => {
+const BAND_HEIGHT = 35
+const topOffsets = computed(() => {
   const byRow = new Map<number, TimelineEvent[]>()
   for (const e of visibleEvents.value) {
     if (!byRow.has(e.row)) byRow.set(e.row, [])
     byRow.get(e.row)!.push(e)
   }
-  const clamps = new Map<string, number>()
+  const offsets = new Map<string, number>()
   for (const row of byRow.values()) {
     row.sort((a, b) => a.left - b.left)
-    for (let i = 0; i < row.length - 1; i++) {
-      const cur = row[i]
-      const next = row[i + 1]
-      if (cur.width <= 0) continue
-      const maxRight = next.left - GAP
-      if (cur.left + cur.width > maxRight) {
-        clamps.set(cur.slug, Math.max(40, maxRight - cur.left))
+    const bands: Array<Array<{ start: number; end: number }>> = [[], []]
+    for (const e of row) {
+      const start = e.left
+      const end = e.left + (e.width > 0 ? e.width : 260)
+      const overlaps = (band: { start: number; end: number }[]) =>
+        band.some(o => start < o.end && end > o.start)
+      if (!overlaps(bands[0])) {
+        bands[0].push({ start, end })
+      } else if (!overlaps(bands[1])) {
+        bands[1].push({ start, end })
+        offsets.set(e.slug, BAND_HEIGHT)
+      } else {
+        // Both bands occupied — accept overlap on band 0 rather than
+        // cascading further (third-band overlaps are rare in this dataset).
+        bands[0].push({ start, end })
       }
     }
   }
-  return clamps
+  return offsets
 })
 
 // Pre-compute period color band gradient (sharp stops, very subtle)
@@ -119,7 +129,7 @@ const periodBandBg = (() => {
       v-for="event in visibleEvents"
       :key="event.id"
       :event="event"
-      :rendered-width="renderedWidths.get(event.slug)"
+      :top-offset="topOffsets.get(event.slug)"
       @click="emit('eventClick', event)"
     />
 
