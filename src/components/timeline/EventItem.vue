@@ -5,9 +5,15 @@ import { useI18n } from 'vue-i18n'
 import { PERIOD_BY_ID } from '@/data/periods'
 import { htmlToPlainText } from '@/utils/htmlText'
 import { withBase } from '@/utils/assetUrl'
+import { log } from '@/utils/log'
 
 const props = defineProps<{ event: TimelineEvent }>()
 const emit = defineEmits<{ click: [event: TimelineEvent] }>()
+
+function onClick() {
+  log.ui('EventItem click', { slug: props.event.slug, type: props.event.type, period: props.event.period })
+  emit('click', props.event)
+}
 const { locale, t } = useI18n()
 
 const imageError = ref(false)
@@ -76,7 +82,7 @@ function onImageError() {
     :data-period="event.period"
     :data-hover-width="event.hoverWidth"
     :title="title"
-    @click="emit('click', event)"
+    @click="onClick"
   >
     <!--
       Event thumbnail as a small box anchored to the RIGHT edge of the card
@@ -114,7 +120,7 @@ function onImageError() {
     :data-period="event.period"
     :data-hover-width="event.hoverWidth"
     :title="`${title} · ${datesPlain}`"
-    @click="emit('click', event)"
+    @click="onClick"
   >
     <h3 class="group-hover:text-white transition-colors">{{ title }}</h3>
   </div>

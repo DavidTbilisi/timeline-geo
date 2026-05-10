@@ -19,6 +19,9 @@
 import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync } from 'fs'
 import { resolve, dirname } from 'path'
 import { fileURLToPath } from 'url'
+import { mkLog } from './_log.mjs'
+
+const log = mkLog('fetchDetails')
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = resolve(__dirname, '..')
@@ -68,6 +71,7 @@ async function fetchSlug(slug, { tries = 3 } = {}) {
     try {
       const ctrl = new AbortController()
       const timer = setTimeout(() => ctrl.abort(), 20000)
+      const t0 = Date.now()
       const res = await fetch(url, {
         signal: ctrl.signal,
         headers: {
@@ -80,9 +84,11 @@ async function fetchSlug(slug, { tries = 3 } = {}) {
       const text = await res.text()
       // The endpoint returns JSON with $.getJSON; verify by parsing.
       const data = JSON.parse(text)
+      log.debug('fetched', { slug, attempt, ms: Date.now() - t0, bytes: text.length })
       return data
     } catch (err) {
       lastErr = err
+      log.warn('fetch attempt failed', { slug, attempt, error: err.message })
       if (attempt < tries) await sleep(1000 * attempt)
     }
   }
@@ -97,11 +103,11 @@ async function runFetch(slugs) {
     : slugs.filter((s) => !existsSync(resolve(CACHE_DIR, `${s}.json`)))
 
   if (todo.length === 0) {
-    console.log('[fetch] All slugs already cached. (Use --refetch to redo.)')
+    log.info('all slugs already cached (use --refetch to redo)')
     return { ok: 0, fail: 0, skipped: slugs.length }
   }
 
-  console.log(`[fetch] ${todo.length} of ${slugs.length} slug(s) to fetch (delay ${DELAY_MS}ms)`)
+  log.info('starting fetch', { todo: todo.length, total: slugs.length, delayMs: DELAY_MS })
 
   let ok = 0
   let fail = 0
@@ -114,15 +120,16 @@ async function runFetch(slugs) {
       writeFileSync(resolve(CACHE_DIR, `${slug}.json`), JSON.stringify(data, null, 2), 'utf8')
       ok++
       const pct = (((i + 1) / todo.length) * 100).toFixed(1)
-      process.stdout.write(`\r[fetch] ${i + 1}/${todo.length} (${pct}%)  ok=${ok} fail=${fail}  last=${slug}                    `)
+      log.progress(`${i + 1}/${todo.length} (${pct}%)  ok=${ok} fail=${fail}  last=${slug}`)
     } catch (err) {
       fail++
       failures.push({ slug, error: err.message })
-      process.stdout.write(`\n[fetch] FAIL ${slug}: ${err.message}\n`)
+      log.progressDone()
+      log.error('fetch failed', { slug, error: err.message })
     }
     if (i < todo.length - 1) await sleep(DELAY_MS)
   }
-  process.stdout.write('\n')
+  log.progressDone()
 
   if (failures.length) {
     writeFileSync(
@@ -130,7 +137,7 @@ async function runFetch(slugs) {
       JSON.stringify(failures, null, 2),
       'utf8',
     )
-    console.log(`[fetch] ${failures.length} failure(s) recorded to scripts/cache/details/_failures.json`)
+    log.warn('failures recorded', { count: failures.length, file: 'scripts/cache/details/_failures.json' })
   }
 
   return { ok, fail, skipped: slugs.length - todo.length }
@@ -210,6 +217,7 @@ function mergePreservingKa(existing, fresh) {
 }
 
 function runMap(slugs) {
+  log.info('starting map', { slugs: slugs.length })
   const periodEvents = new Map()
   for (let p = 1; p <= 13; p++) {
     const file = resolve(EVENTS_DIR, `period-${p}.json`)
@@ -220,10 +228,12 @@ function runMap(slugs) {
 
   let written = 0
   let missing = 0
+  let mergeErrors = 0
   for (const slug of slugs) {
     const cachePath = resolve(CACHE_DIR, `${slug}.json`)
     if (!existsSync(cachePath)) {
       missing++
+      log.debug('no cache for slug, skipping', { slug })
       continue
     }
     const raw = JSON.parse(readFileSync(cachePath, 'utf8'))
@@ -235,14 +245,15 @@ function runMap(slugs) {
       try {
         const existing = JSON.parse(readFileSync(outPath, 'utf8'))
         merged = mergePreservingKa(existing, fresh)
-      } catch {
-        /* fall back to fresh */
+      } catch (e) {
+        mergeErrors++
+        log.warn('merge failed, using fresh', { slug, error: e.message })
       }
     }
     writeFileSync(outPath, JSON.stringify(merged, null, 2), 'utf8')
     written++
   }
-  console.log(`[map]   wrote ${written} detail file(s); ${missing} slug(s) had no cache yet.`)
+  log.info('map done', { written, missing, mergeErrors })
 }
 
 // ── Main ─────────────────────────────────────────────────────────────────────
@@ -250,17 +261,20 @@ function runMap(slugs) {
 let slugs = SINGLE_SLUG ? [SINGLE_SLUG] : loadSlugs()
 if (LIMIT > 0) slugs = slugs.slice(0, LIMIT)
 
-console.log(`Target: ${slugs.length} slug(s)`)
-console.log(`Cache:  ${CACHE_DIR}`)
-console.log(`Out:    ${DETAILS_DIR}`)
+log.info('config', {
+  slugs: slugs.length,
+  cache: CACHE_DIR,
+  out: DETAILS_DIR,
+  flags: { limit: LIMIT, singleSlug: SINGLE_SLUG, mapOnly: MAP_ONLY, refetch: REFETCH, delayMs: DELAY_MS },
+})
 
 if (!MAP_ONLY) {
   const stats = await runFetch(slugs)
-  console.log(`[fetch] ok=${stats.ok} fail=${stats.fail} cached=${stats.skipped}`)
+  log.info('fetch summary', { ok: stats.ok, fail: stats.fail, cached: stats.skipped })
 }
 
 runMap(slugs)
 
 // Quick summary of what's now in cache
 const cachedCount = readdirSync(CACHE_DIR).filter((f) => f.endsWith('.json') && !f.startsWith('_')).length
-console.log(`\nDone. ${cachedCount} cached response(s) on disk.`)
+log.info('done', { cached: cachedCount })

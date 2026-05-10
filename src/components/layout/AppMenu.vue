@@ -9,6 +9,7 @@ import { useTimelineStore } from '@/stores/timeline'
 import type { TimelineEvent } from '@/types/event'
 import FaqModal from './FaqModal.vue'
 import SignInModal from './SignInModal.vue'
+import { log } from '@/utils/log'
 
 const { t, locale } = useI18n()
 const router = useRouter()
@@ -45,6 +46,7 @@ async function onSearch(q: string) {
   highlightedIndex.value = -1
   clearTimeout(searchTimer)
   if (!q.trim() || q.trim().length < 2) { searchResults.value = []; return }
+  log.search('input', { q })
   if (!allLoadedOnce.value) {
     allLoadedOnce.value = true
     await eventsStore.loadAll()
@@ -85,6 +87,7 @@ function onSearchKeydown(e: KeyboardEvent) {
 }
 
 function goToEvent(slug: string) {
+  log.nav('goToEvent', { slug })
   searchQuery.value = ''
   searchResults.value = []
   searchFocused.value = false
@@ -95,11 +98,13 @@ function goToEvent(slug: string) {
 }
 
 function goHome() {
+  log.nav('goHome')
   router.push('/')
 }
 
 function toggleLocale() {
   const next = locale.value === 'ka' ? 'en' : 'ka'
+  log.i18n('toggleLocale', { from: locale.value, to: next })
   locale.value = next
   persistLocale(next)
 }

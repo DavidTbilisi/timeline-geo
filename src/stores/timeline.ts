@@ -1,6 +1,7 @@
 import { defineStore } from 'pinia'
-import { ref, computed } from 'vue'
+import { ref, computed, watch } from 'vue'
 import { PERIODS, STAGE_WIDTH } from '@/data/periods'
+import { log } from '@/utils/log'
 
 export const useTimelineStore = defineStore('timeline', () => {
   const scrollLeft = ref(0)
@@ -8,6 +9,9 @@ export const useTimelineStore = defineStore('timeline', () => {
   const detailOpen = ref(false)
   const activeEventSlug = ref<string | null>(null)
   const viewportWidth = ref(0)
+
+  watch(activePeriod, (next, prev) => log.store('activePeriod', { from: prev, to: next }))
+  watch(detailOpen, (open) => log.store('detailOpen', { open, slug: activeEventSlug.value }))
 
   const activePeriodData = computed(() => PERIODS[activePeriod.value - 1])
 
@@ -45,11 +49,13 @@ export const useTimelineStore = defineStore('timeline', () => {
   }
 
   function openEvent(slug: string) {
+    log.store('openEvent', { slug })
     activeEventSlug.value = slug
     detailOpen.value = true
   }
 
   function closeEvent() {
+    log.store('closeEvent', { slug: activeEventSlug.value })
     detailOpen.value = false
     activeEventSlug.value = null
   }
@@ -63,8 +69,11 @@ export const useTimelineStore = defineStore('timeline', () => {
       const landingPx = p.startPx + (p.landingYear - p.startYear) * p.pxPerYear
       // Center the landing year in the viewport rather than placing it at
       // the left edge — keeps the visual cluster in view.
-      return Math.max(0, landingPx - viewportWidth.value / 2)
+      const target = Math.max(0, landingPx - viewportWidth.value / 2)
+      log.store('scrollToPeriod (landingYear)', { periodId, landingYear: p.landingYear, target })
+      return target
     }
+    log.store('scrollToPeriod (startPx)', { periodId, target: p.startPx })
     return p.startPx
   }
 

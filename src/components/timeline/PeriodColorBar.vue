@@ -5,6 +5,7 @@ import { useI18n } from 'vue-i18n'
 import { useTimelineStore } from '@/stores/timeline'
 import { PERIODS } from '@/data/periods'
 import type { PeriodData } from '@/types/event'
+import { log } from '@/utils/log'
 
 const tlStore = useTimelineStore()
 const router = useRouter()
@@ -19,6 +20,7 @@ function periodLabel(p: PeriodData): string {
 }
 
 function goToPeriod(periodId: number, slug: string) {
+  log.ui('PeriodColorBar click', { periodId, slug })
   tlStore.activePeriod = periodId
   const target = tlStore.scrollToPeriod(periodId)
   tlStore.setScroll(target)

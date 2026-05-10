@@ -18,6 +18,9 @@
 import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, statSync } from 'fs'
 import { resolve, dirname, posix } from 'path'
 import { fileURLToPath } from 'url'
+import { mkLog } from './_log.mjs'
+
+const log = mkLog('fetchImages')
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = resolve(__dirname, '..')
@@ -94,6 +97,7 @@ async function downloadOne(rel, { tries = 3 } = {}) {
     try {
       const ctrl = new AbortController()
       const timer = setTimeout(() => ctrl.abort(), 30000)
+      const t0 = Date.now()
       const res = await fetch(url, {
         signal: ctrl.signal,
         headers: { 'User-Agent': 'timeline-geo-clone/0.1 (local dev mirror)' },
@@ -103,9 +107,11 @@ async function downloadOne(rel, { tries = 3 } = {}) {
       const buf = Buffer.from(await res.arrayBuffer())
       if (buf.length === 0) throw new Error('empty body')
       writeFileSync(outPath, buf)
+      log.debug('downloaded', { rel, bytes: buf.length, ms: Date.now() - t0, attempt })
       return { rel, bytes: buf.length, status: 'ok' }
     } catch (err) {
       lastErr = err
+      log.warn('download attempt failed', { rel, attempt, error: err.message })
       if (attempt < tries) await sleep(800 * attempt)
     }
   }
@@ -148,7 +154,7 @@ async function runPool(items, worker) {
 // ── Main ─────────────────────────────────────────────────────────────────────
 
 const allRefs = collectRefs()
-console.log(`Collected ${allRefs.length} unique image reference(s).`)
+log.info('collected refs', { count: allRefs.length })
 
 const todo = REDO
   ? allRefs
@@ -162,11 +168,11 @@ let work = todo
 if (LIMIT > 0) work = work.slice(0, LIMIT)
 
 if (work.length === 0) {
-  console.log('Nothing to do — all images present locally.')
+  log.info('nothing to do — all images present locally')
   process.exit(0)
 }
 
-console.log(`Downloading ${work.length} of ${todo.length} missing (concurrency=${CONCURRENCY}, delay=${DELAY_MS}ms)`)
+log.info('downloading', { work: work.length, todo: todo.length, concurrency: CONCURRENCY, delayMs: DELAY_MS })
 
 let okCount = 0, failCount = 0, totalBytes = 0
 const failures = []
@@ -182,19 +188,20 @@ const results = await runPool(work, async (item) => {
   } else {
     failCount++
     failures.push(r)
+    log.error('download failed', { rel: r.rel, error: r.error })
   }
   const pct = ((i / work.length) * 100).toFixed(1)
-  process.stdout.write(`\r${i}/${work.length} (${pct}%)  ok=${okCount} fail=${failCount}  ${(totalBytes/1024/1024).toFixed(1)}MB                          `)
+  log.progress(`${i}/${work.length} (${pct}%)  ok=${okCount} fail=${failCount}  ${(totalBytes/1024/1024).toFixed(1)}MB`)
   return r
 })
-process.stdout.write('\n')
+log.progressDone()
 
 const dt = ((Date.now() - start) / 1000).toFixed(1)
-console.log(`Done in ${dt}s.  ok=${okCount}  fail=${failCount}  total=${(totalBytes/1024/1024).toFixed(1)}MB`)
+log.info('done', { seconds: dt, ok: okCount, fail: failCount, mb: (totalBytes/1024/1024).toFixed(1) })
 
 if (failures.length) {
   const failPath = resolve(__dirname, 'cache/_image_failures.json')
   mkdirSync(dirname(failPath), { recursive: true })
   writeFileSync(failPath, JSON.stringify(failures, null, 2), 'utf8')
-  console.log(`Failures recorded to ${posix.relative(ROOT.replace(/\\/g, '/'), failPath.replace(/\\/g, '/'))}`)
+  log.warn('failures recorded', { file: posix.relative(ROOT.replace(/\\/g, '/'), failPath.replace(/\\/g, '/')) })
 }
