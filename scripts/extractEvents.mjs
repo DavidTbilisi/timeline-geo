@@ -13,6 +13,9 @@
 import { readFileSync, writeFileSync, mkdirSync } from 'fs'
 import { resolve, dirname } from 'path'
 import { fileURLToPath } from 'url'
+import { mkLog } from './_log.mjs'
+
+const log = mkLog('extractEvents')
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = resolve(__dirname, '..')
@@ -117,7 +120,15 @@ function parseEvent(html) {
 
 // ── Main ─────────────────────────────────────────────────────────────────────
 
-const raw = JSON.parse(readFileSync(SRC_EVENTS, 'utf8'))
+log.info('starting', { src: SRC_EVENTS })
+
+let raw
+try {
+  raw = JSON.parse(readFileSync(SRC_EVENTS, 'utf8'))
+} catch (e) {
+  log.error('failed to read source events.json', { src: SRC_EVENTS }, e)
+  process.exit(1)
+}
 
 // Ensure output directories exist
 mkdirSync(resolve(ROOT, 'src/data/events'), { recursive: true })
@@ -125,13 +136,15 @@ mkdirSync(resolve(ROOT, 'public/data/details'), { recursive: true })
 
 let totalEvents = 0
 let totalSlugs = 0
+let createdDetails = 0
+let mergedDetails = 0
 
 for (let period = 1; period <= 13; period++) {
   const htmlList = raw[String(period)] ?? []
   const events = htmlList.map(parseEvent).filter(e => e.slug)
 
   totalEvents += events.length
-  console.log(`Period ${period}: ${events.length} events`)
+  log.info(`period parsed`, { period, events: events.length })
 
   // Write structured period JSON
   const outPath = resolve(ROOT, `src/data/events/period-${period}.json`)
@@ -164,16 +177,14 @@ for (let period = 1; period <= 13; period++) {
       // Merge: keep existing translated fields, update English fields
       const merged = { ...parsed, titleEn: ev.titleEn, datesEn: ev.datesEn }
       writeFileSync(detailPath, JSON.stringify(merged, null, 2), 'utf8')
+      mergedDetails++
     } catch {
       // File doesn't exist — create it
       writeFileSync(detailPath, JSON.stringify(detail, null, 2), 'utf8')
+      createdDetails++
     }
   }
 }
 
-console.log(`\n✓ Extracted ${totalEvents} events across 13 periods`)
-console.log(`✓ Created/updated ${totalSlugs} detail placeholder files`)
-console.log('\nNext steps:')
-console.log('  1. cd timeline-geo && npm install')
-console.log('  2. npm run dev')
-console.log('  3. Fill in titleKa / articleKa fields in public/data/details/*.json')
+log.info('done', { totalEvents, totalSlugs, createdDetails, mergedDetails })
+log.info('next steps: npm install → npm run dev → fill titleKa/articleKa in public/data/details/*.json')

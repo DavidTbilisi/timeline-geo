@@ -9,6 +9,7 @@ import { useTimelineStore } from '@/stores/timeline'
 import type { TimelineEvent } from '@/types/event'
 import FaqModal from './FaqModal.vue'
 import SignInModal from './SignInModal.vue'
+import { log } from '@/utils/log'
 
 const { t, locale } = useI18n()
 const router = useRouter()
@@ -45,6 +46,7 @@ async function onSearch(q: string) {
   highlightedIndex.value = -1
   clearTimeout(searchTimer)
   if (!q.trim() || q.trim().length < 2) { searchResults.value = []; return }
+  log.search('input', { q })
   if (!allLoadedOnce.value) {
     allLoadedOnce.value = true
     await eventsStore.loadAll()
@@ -85,6 +87,7 @@ function onSearchKeydown(e: KeyboardEvent) {
 }
 
 function goToEvent(slug: string) {
+  log.nav('goToEvent', { slug })
   searchQuery.value = ''
   searchResults.value = []
   searchFocused.value = false
@@ -95,11 +98,13 @@ function goToEvent(slug: string) {
 }
 
 function goHome() {
+  log.nav('goHome')
   router.push('/')
 }
 
 function toggleLocale() {
   const next = locale.value === 'ka' ? 'en' : 'ka'
+  log.i18n('toggleLocale', { from: locale.value, to: next })
   locale.value = next
   persistLocale(next)
 }
@@ -284,6 +289,7 @@ const showDropdown = computed(() =>
         class="mt-2 bg-stone-900 border border-white/10 rounded shadow-xl overflow-hidden max-h-72 overflow-y-auto"
       >
         <p class="text-xs text-white/40 px-3 py-1.5 border-b border-white/10">{{ searchCountLabel }}</p>
+        <!-- Empty state is conveyed by `searchCountLabel` above; see issue #54. -->
         <button
           v-for="(r, i) in searchResults"
           :key="r.slug"
@@ -295,12 +301,6 @@ const showDropdown = computed(() =>
           <span class="block font-medium leading-tight">{{ locale === 'ka' && r.titleKa ? r.titleKa : r.titleEn }}</span>
           <span class="block text-xs text-white/50 mt-0.5">{{ locale === 'ka' && r.datesKa ? r.datesKa : r.datesEn }}</span>
         </button>
-        <p
-          v-if="searchResults.length === 0"
-          class="text-xs text-white/40 px-3 py-2 italic"
-        >
-          {{ t('nav.noResults') }}
-        </p>
       </div>
     </div>
 

@@ -31,6 +31,9 @@
 import { readFileSync, writeFileSync, readdirSync } from 'fs'
 import { resolve, dirname } from 'path'
 import { fileURLToPath } from 'url'
+import { mkLog } from './_log.mjs'
+
+const log = mkLog('translateDetails')
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = resolve(__dirname, '..')
@@ -57,8 +60,8 @@ const missingOnly = flag('--missing-only')
 const requestedFields = vals('--field')
 
 if ((!exportPath && !importPath) || (exportPath && importPath)) {
-  console.error('Usage: --export <file.csv>  OR  --import <file.csv>')
-  console.error('Optional: --field <name> (repeatable), --missing-only')
+  log.error('usage: --export <file.csv>  OR  --import <file.csv>')
+  log.error('optional: --field <name> (repeatable), --missing-only')
   process.exit(1)
 }
 
@@ -118,6 +121,7 @@ function detailFieldName(field, lang) {
 // ── Export ───────────────────────────────────────────────────────────────────
 
 if (exportPath) {
+  log.info('export starting', { out: exportPath, fields: [...fieldSet], missingOnly })
   const rows = [['slug', 'field', 'en', 'ka']]
   const slugs = readdirSync(DETAILS_DIR)
     .filter((f) => f.endsWith('.json'))
@@ -139,29 +143,32 @@ if (exportPath) {
   }
 
   writeFileSync(exportPath, rows.map(csvRow).join('\n') + '\n', 'utf8')
-  console.log(`Wrote ${totalRows} translation rows for ${slugs.length} events → ${exportPath}`)
-  console.log(`Fields: ${[...fieldSet].join(', ')}${missingOnly ? ' (missing only)' : ''}`)
+  log.info('export done', { rows: totalRows, events: slugs.length, out: exportPath })
 }
 
 // ── Import ───────────────────────────────────────────────────────────────────
 
 if (importPath) {
+  log.info('import starting', { in: importPath })
   const text = readFileSync(importPath, 'utf8')
   const rows = parseCsv(text)
   if (rows.length === 0 || rows[0].join(',') !== 'slug,field,en,ka') {
-    console.error('Expected header row: slug,field,en,ka')
+    log.error('expected header row: slug,field,en,ka')
     process.exit(1)
   }
 
   // Group translations by slug. We mutate JSON files once per slug to avoid
   // repeated read/write cycles.
   const bySlug = new Map()
+  let skippedEmpty = 0
+  let skippedUnknownField = 0
   for (let i = 1; i < rows.length; i++) {
     const [slug, field, , ka] = rows[i]
     if (!slug || !field) continue
-    if (!ka || !ka.trim()) continue
+    if (!ka || !ka.trim()) { skippedEmpty++; continue }
     if (!FIELDS.includes(field)) {
-      console.warn(`Skipping unknown field "${field}" for ${slug}`)
+      skippedUnknownField++
+      log.warn('unknown field, skipping', { slug, field })
       continue
     }
     if (!bySlug.has(slug)) bySlug.set(slug, [])
@@ -181,15 +188,18 @@ if (importPath) {
   }
 
   let detailWrites = 0
-  let eventWrites = 0
+  let missingDetail = 0
   for (const [slug, translations] of bySlug) {
     const detailPath = resolve(DETAILS_DIR, slug + '.json')
     let detail
     try { detail = readJSON(detailPath) }
-    catch { console.warn(`No detail file for slug ${slug} — skipping`); continue }
+    catch {
+      missingDetail++
+      log.warn('no detail file for slug, skipping', { slug })
+      continue
+    }
 
     let detailDirty = false
-    let eventDirty = false
     const eventEntry = eventBySlug.get(slug)
 
     for (const { field, ka } of translations) {
@@ -197,12 +207,10 @@ if (importPath) {
       detailDirty = true
       if (FIELDS_IN_EVENTS.has(field) && eventEntry) {
         eventEntry.event[detailFieldName(field, 'ka')] = ka
-        eventDirty = true
       }
     }
 
     if (detailDirty) { writeJSON(detailPath, detail); detailWrites++ }
-    if (eventDirty)  eventWrites++
   }
 
   // Persist event files (one write per period, not per event)
@@ -215,6 +223,12 @@ if (importPath) {
     writeJSON(resolve(EVENTS_DIR, `period-${periodId}.json`), eventsByPeriod.get(periodId))
   }
 
-  console.log(`Imported ${rows.length - 1} rows.`)
-  console.log(`Updated ${detailWrites} detail files, ${dirtyPeriods.size} event period files.`)
+  log.info('import done', {
+    rows: rows.length - 1,
+    detailWrites,
+    periodWrites: dirtyPeriods.size,
+    skippedEmpty,
+    skippedUnknownField,
+    missingDetail,
+  })
 }

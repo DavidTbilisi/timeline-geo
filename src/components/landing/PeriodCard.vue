@@ -2,6 +2,7 @@
 import type { PeriodData } from '@/types/event'
 import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
+import { log } from '@/utils/log'
 
 const props = defineProps<{ period: PeriodData }>()
 const { locale } = useI18n()
@@ -14,6 +15,7 @@ const description = () =>
     : props.period.descriptionEn
 
 function goToPeriod() {
+  log.ui('PeriodCard click', { id: props.period.id, slug: props.period.slug })
   router.push(`/period/${props.period.slug}`)
 }
 </script>

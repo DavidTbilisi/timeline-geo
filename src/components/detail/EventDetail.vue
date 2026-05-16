@@ -12,6 +12,7 @@ import DetailScriptures from './DetailScriptures.vue'
 import DetailRelated from './DetailRelated.vue'
 import DetailImages from './DetailImages.vue'
 import DetailVideos from './DetailVideos.vue'
+import { log } from '@/utils/log'
 
 const tlStore = useTimelineStore()
 const eventsStore = useEventsStore()
@@ -55,13 +56,19 @@ const visibleTabs = computed((): TabKey[] => {
 })
 
 onMounted(async () => {
-  if (!slug.value) return
+  if (!slug.value) {
+    log.warn('EventDetail mounted with no slug')
+    return
+  }
+  log.ui('EventDetail mount', { slug: slug.value })
   loading.value = true
   detail.value = await eventsStore.loadDetail(slug.value)
   loading.value = false
+  if (!detail.value) log.warn('EventDetail: detail not found', { slug: slug.value })
 })
 
 function close() {
+  log.ui('EventDetail close', { slug: slug.value })
   tlStore.closeEvent()
   const period = PERIODS[(tlStore.activePeriod ?? 1) - 1] ?? PERIODS[0]
   router.replace(`/period/${period.slug}`)
@@ -69,6 +76,7 @@ function close() {
 
 function toggleFav() {
   if (detail.value) {
+    log.ui('EventDetail toggleFav', { slug: slug.value, wasFav: isFav.value })
     favStore.toggle(slug.value, {
       slug: slug.value,
       titleEn: detail.value.titleEn,

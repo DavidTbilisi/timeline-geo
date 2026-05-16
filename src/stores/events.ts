@@ -4,6 +4,7 @@ import type { TimelineEvent } from '@/types/event'
 import type { EventDetail } from '@/types/detail'
 import { withBase } from '@/utils/assetUrl'
 import { PERIOD_BY_ID } from '@/data/periods'
+import { log } from '@/utils/log'
 
 export const useEventsStore = defineStore('events', () => {
   // Events keyed by period (1-13)
@@ -15,20 +16,30 @@ export const useEventsStore = defineStore('events', () => {
   const details = ref<Record<string, EventDetail>>({})
 
   async function loadPeriod(period: number): Promise<TimelineEvent[]> {
-    if (byPeriod.value[period]) return byPeriod.value[period]
+    if (byPeriod.value[period]) {
+      log.data('loadPeriod cache hit', { period, count: byPeriod.value[period].length })
+      return byPeriod.value[period]
+    }
+    const t0 = performance.now()
     try {
       const mod = await import(`@/data/events/period-${period}.json`)
       const events: TimelineEvent[] = mod.default ?? mod
       byPeriod.value[period] = events
+      log.data('loadPeriod loaded', { period, count: events.length, ms: Math.round(performance.now() - t0) })
       return events
-    } catch {
+    } catch (e) {
+      log.error('loadPeriod failed', { period }, e)
       byPeriod.value[period] = []
       return []
     }
   }
 
   async function loadAll() {
-    if (allLoaded.value) return
+    if (allLoaded.value) {
+      log.data('loadAll already loaded', { count: allEvents.value.length })
+      return
+    }
+    const t0 = performance.now()
     const all: TimelineEvent[] = []
     for (let p = 1; p <= 13; p++) {
       const evs = await loadPeriod(p)
@@ -36,6 +47,7 @@ export const useEventsStore = defineStore('events', () => {
     }
     allEvents.value = all
     allLoaded.value = true
+    log.data('loadAll done', { total: all.length, ms: Math.round(performance.now() - t0) })
   }
 
   /** Returns events for active period ± 1 neighbor */
@@ -49,14 +61,24 @@ export const useEventsStore = defineStore('events', () => {
   }
 
   async function loadDetail(slug: string): Promise<EventDetail | null> {
-    if (details.value[slug]) return details.value[slug]
+    if (details.value[slug]) {
+      log.data('loadDetail cache hit', { slug })
+      return details.value[slug]
+    }
+    const url = withBase(`data/details/${slug}.json`)
+    const t0 = performance.now()
     try {
-      const res = await fetch(withBase(`data/details/${slug}.json`))
-      if (!res.ok) return null
+      const res = await fetch(url)
+      if (!res.ok) {
+        log.warn('loadDetail HTTP', { slug, status: res.status, url })
+        return null
+      }
       const d: EventDetail = await res.json()
       details.value[slug] = d
+      log.data('loadDetail loaded', { slug, ms: Math.round(performance.now() - t0) })
       return d
-    } catch {
+    } catch (e) {
+      log.error('loadDetail failed', { slug, url }, e)
       return null
     }
   }
@@ -77,6 +99,7 @@ export const useEventsStore = defineStore('events', () => {
   function search(query: string): TimelineEvent[] {
     const q = query.trim().toLowerCase()
     if (!q) return []
+    const t0 = performance.now()
 
     const wordBoundary = new RegExp(
       '\\b' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'),
@@ -118,7 +141,9 @@ export const useEventsStore = defineStore('events', () => {
       a.score - b.score ||
       a.event.titleEn.localeCompare(b.event.titleEn),
     )
-    return scored.slice(0, 20).map((s) => s.event)
+    const top = scored.slice(0, 20).map((s) => s.event)
+    log.search('search', { query: q, matched: scored.length, returned: top.length, ms: Math.round(performance.now() - t0) })
+    return top
   }
 
   const visibleEvents = computed(() => getVisibleEvents)

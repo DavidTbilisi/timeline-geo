@@ -5,6 +5,7 @@ import { useI18n } from 'vue-i18n'
 import { useTimelineStore } from '@/stores/timeline'
 import { PERIODS } from '@/data/periods'
 import type { PeriodData } from '@/types/event'
+import { log } from '@/utils/log'
 
 const tlStore = useTimelineStore()
 const router = useRouter()
@@ -19,9 +20,14 @@ function periodLabel(p: PeriodData): string {
 }
 
 function goToPeriod(periodId: number, slug: string) {
+  log.ui('PeriodColorBar click', { periodId, slug })
+  // Only flip the active period and navigate. TimelineView watches
+  // `activePeriod` and animates the stage to `scrollToPeriod(p)` when the
+  // diff vs. current `scrollLeft` is large. Calling `setScroll(target)`
+  // here pre-emptively wrote the target into `scrollLeft`, so the
+  // watcher saw diff=0 and skipped the animation — store said "you're
+  // at period N" but the visual transform never moved.
   tlStore.activePeriod = periodId
-  const target = tlStore.scrollToPeriod(periodId)
-  tlStore.setScroll(target)
   router.push('/period/' + slug)
 }
 </script>

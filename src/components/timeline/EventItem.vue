@@ -5,9 +5,23 @@ import { useI18n } from 'vue-i18n'
 import { PERIOD_BY_ID } from '@/data/periods'
 import { htmlToPlainText } from '@/utils/htmlText'
 import { withBase } from '@/utils/assetUrl'
+import { log } from '@/utils/log'
 
-const props = defineProps<{ event: TimelineEvent }>()
+const props = defineProps<{
+  event: TimelineEvent
+  /**
+   * Vertical band offset (px) from TimelineStage. Non-zero shifts this
+   * event below the row's primary band so it doesn't visually overlap
+   * an earlier same-row event whose X-range it falls inside.
+   */
+  topOffset?: number
+}>()
 const emit = defineEmits<{ click: [event: TimelineEvent] }>()
+
+function onClick() {
+  log.ui('EventItem click', { slug: props.event.slug, type: props.event.type, period: props.event.period })
+  emit('click', props.event)
+}
 const { locale, t } = useI18n()
 
 const imageError = ref(false)
@@ -40,6 +54,15 @@ const effectiveWidth = computed(() =>
   props.event.width > 0 ? props.event.width : 260
 )
 
+// Row top offsets match `.tl-event.row-N { top: N*50-30 px }` in style.css.
+// We re-derive the value here so a `topOffset` band shift can override the
+// class-based `top` via inline style without losing the row positioning.
+const computedTop = computed(() => {
+  const offset = props.topOffset
+  if (!offset) return undefined
+  return 20 + (props.event.row - 1) * 50 + offset
+})
+
 // Build a URL-safe path for the event-specific thumbnail.
 // imagePath is like "media/images/t/filename.jpg" — encode each segment
 // then prefix with the deploy base so it works on subpaths (GH Pages).
@@ -70,13 +93,14 @@ function onImageError() {
     :style="{
       left: event.left + 'px',
       width: event.width > 0 ? event.width + 'px' : undefined,
+      top: computedTop !== undefined ? computedTop + 'px' : undefined,
       borderLeft: `2px solid ${periodColor}88`,
     }"
     :data-slug="event.slug"
     :data-period="event.period"
     :data-hover-width="event.hoverWidth"
     :title="title"
-    @click="emit('click', event)"
+    @click="onClick"
   >
     <!--
       Event thumbnail as a small box anchored to the RIGHT edge of the card
@@ -109,12 +133,15 @@ function onImageError() {
     v-else
     class="tl-event minor group"
     :class="[`row-${event.row}`, `period-${event.period}`]"
-    :style="{ left: event.left + 'px' }"
+    :style="{
+      left: event.left + 'px',
+      top: computedTop !== undefined ? computedTop + 'px' : undefined,
+    }"
     :data-slug="event.slug"
     :data-period="event.period"
     :data-hover-width="event.hoverWidth"
     :title="`${title} · ${datesPlain}`"
-    @click="emit('click', event)"
+    @click="onClick"
   >
     <h3 class="group-hover:text-white transition-colors">{{ title }}</h3>
   </div>
