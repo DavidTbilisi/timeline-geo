@@ -168,7 +168,8 @@
     "datesEn": "1379–1416 AD",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -30
   },
   {
     "id": 1312,
@@ -491,7 +492,8 @@
     "datesEn": "1493–1552 AD",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 30
   },
   {
     "id": 1328,
@@ -605,7 +607,8 @@
     "datesEn": "1510 AD",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 80
   },
   {
     "id": 1336,

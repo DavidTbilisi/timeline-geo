@@ -149,7 +149,8 @@
     "datesEn": "1871 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 180
   },
   {
     "id": 650,
@@ -187,7 +188,8 @@
     "datesEn": "1867 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 130
   },
   {
     "id": 655,
@@ -434,7 +436,8 @@
     "datesEn": "1806 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -80
   },
   {
     "id": 1015,
@@ -586,7 +589,8 @@
     "datesEn": "1722–1665 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 130
   },
   {
     "id": 686,
@@ -605,7 +609,8 @@
     "datesEn": "1719–1659 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -30
   },
   {
     "id": 688,
@@ -985,7 +990,8 @@
     "datesEn": "1680 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -30
   },
   {
     "id": 708,
@@ -1004,7 +1010,8 @@
     "datesEn": "1680 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 130
   },
   {
     "id": 709,
@@ -1042,7 +1049,8 @@
     "datesEn": "1679 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 80
   },
   {
     "id": 711,

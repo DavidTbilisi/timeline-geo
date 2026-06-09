@@ -54,7 +54,8 @@
     "datesEn": "1518–1438 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -30
   },
   {
     "id": 724,
@@ -225,7 +226,8 @@
     "datesEn": "1486 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -180
   },
   {
     "id": 730,
@@ -301,7 +303,8 @@
     "datesEn": "1463–1353 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 50
   },
   {
     "id": 734,

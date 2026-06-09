@@ -16,7 +16,8 @@
     "datesEn": "620–588 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 180
   },
   {
     "id": 502,
@@ -35,7 +36,8 @@
     "datesEn": "620–530 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -30
   },
   {
     "id": 458,
@@ -130,7 +132,8 @@
     "datesEn": "600–560 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 130
   },
   {
     "id": 517,
@@ -377,7 +380,8 @@
     "datesEn": "559 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 80
   },
   {
     "id": 495,
@@ -738,7 +742,8 @@
     "datesEn": "457–405 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -130
   },
   {
     "id": 538,
@@ -1042,7 +1047,8 @@
     "datesEn": "380–300 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 30
   },
   {
     "id": 555,
@@ -1061,7 +1067,8 @@
     "datesEn": "360–300 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -30
   },
   {
     "id": 553,
@@ -1099,7 +1106,8 @@
     "datesEn": "340–280 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 30
   },
   {
     "id": 558,

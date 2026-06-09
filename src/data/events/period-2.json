@@ -244,7 +244,8 @@
     "datesEn": "2231–1767 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -30
   },
   {
     "id": 624,
@@ -377,7 +378,8 @@
     "datesEn": "2135–1905 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 30
   },
   {
     "id": 628,

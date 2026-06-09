@@ -339,7 +339,8 @@
     "datesEn": "879 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 160
   },
   {
     "id": 905,
@@ -377,7 +378,8 @@
     "datesEn": "877 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -180
   },
   {
     "id": 906,
@@ -453,7 +455,8 @@
     "datesEn": "869 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 130
   },
   {
     "id": 916,
@@ -529,7 +532,8 @@
     "datesEn": "864–800 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -30
   },
   {
     "id": 917,
@@ -776,7 +780,8 @@
     "datesEn": "847–767 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -30
   },
   {
     "id": 930,
@@ -1213,7 +1218,8 @@
     "datesEn": "773–732 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 80
   },
   {
     "id": 1001,
@@ -1270,7 +1276,8 @@
     "datesEn": "767–687 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -130
   },
   {
     "id": 981,
@@ -1479,7 +1486,8 @@
     "datesEn": "727 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -80
   },
   {
     "id": 937,
@@ -1650,7 +1658,8 @@
     "datesEn": "702 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 130
   },
   {
     "id": 1012,

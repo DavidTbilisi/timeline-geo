@@ -396,7 +396,8 @@
     "datesEn": "29 AD",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 200
   },
   {
     "id": 1051,

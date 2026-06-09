@@ -16,15 +16,21 @@ export interface TimelineEvent {
   imagePath: string | null
   titleKa: string | null
   datesKa: string | null
+  /**
+   * Optional vertical shift (px) from the natural row position, set by
+   * `scripts/computeEventLayout.mjs` when the natural placement would
+   * collide with an x-overlapping neighbour. Positive = down, negative
+   * = up. Omitted when the event sits cleanly at its row.
+   */
+  topOffset?: number
 }
 
 export interface PeriodData {
   id: number
   slug: string
-  nameEn: string
-  nameKa: string | null
-  descriptionEn: string
-  descriptionKa: string | null
+  // Display name + description live in src/i18n/locales/<code>.ts under
+  // `periods.<slug>.{name,description}`. Look them up via
+  // `usePeriodCopy()` so locale and fallback chain are handled centrally.
   color: string
   era: 1 | 2 | 3           // 1=Patriarchs, 2=Israel, 3=Christ
   startPx: number

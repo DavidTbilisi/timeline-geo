@@ -35,7 +35,8 @@
     "datesEn": "1444 BC",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -30
   },
   {
     "id": 744,

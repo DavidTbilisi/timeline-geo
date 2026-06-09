@@ -79,7 +79,11 @@ html, body {
   height: 50px;
 }
 
-/* Row positions: top = 20 + (row-1) * 50 */
+/* Row positions: top = ROW_TOP + (row-1) * ROW_GAP (see src/utils/geometry.mjs).
+   These class rules are the fallback used when the event has no precomputed
+   `topOffset`. When `topOffset` is set, EventItem applies the full top via
+   eventTop(row, offset) inline, which overrides the class rule. If ROW_GAP
+   or ROW_TOP changes, regenerate this block (and rerun computeEventLayout.mjs). */
 .tl-event.row-1  { top: 20px; }
 .tl-event.row-2  { top: 70px; }
 .tl-event.row-3  { top: 120px; }
@@ -327,19 +331,27 @@ html, body {
   overflow: hidden;
 }
 
-/* ── Year bubble: sits just above the bottom date bar, arrow pokes into it ── */
+/* ── Year bubble: sits just above the bottom date bar (the "magnifying
+   glass" marker for the viewport-center year). Dimensions and positioning
+   mirror div.current-year in the reference site's timeline.css. Visual
+   styling (background, glow, border) lives in YearBubble.vue. ── */
 .year-bubble {
   position: absolute;
-  bottom: 66px; /* DATEBAR_HEIGHT — sit on top edge of bottom date bar */
+  bottom: 80px;
+  left: 50%;
+  transform: translateX(-50%);
   z-index: 20;
   pointer-events: none;
-  background: rgba(0,0,0,0.65);
-  border-radius: 4px;
-  padding: 2px 8px;
-  color: #fff;
-  font-size: 13px;
-  font-weight: 600;
   white-space: nowrap;
+  /* Reference site uses 77×53; we go wider so Georgian era labels
+     ("ძვ.წ.", "ახ.წ.") fit alongside the year with comfortable breathing
+     room rather than crowding the lens edges. */
+  width: 108px;
+  height: 56px;
+  padding: 0 8px;
+  text-align: center;
+  line-height: 52px;
+  font-size: 26px;
 }
 
 /* ── Period footer bar ── */

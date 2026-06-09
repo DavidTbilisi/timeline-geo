@@ -3,18 +3,13 @@ import { ref, computed } from 'vue'
 import type { TimelineEvent } from '@/types/event'
 import { useI18n } from 'vue-i18n'
 import { PERIOD_BY_ID } from '@/data/periods'
+import { EVENT_DEFAULT_WIDTH, eventTop } from '@/utils/geometry'
 import { htmlToPlainText } from '@/utils/htmlText'
 import { withBase } from '@/utils/assetUrl'
 import { log } from '@/utils/log'
 
 const props = defineProps<{
   event: TimelineEvent
-  /**
-   * Vertical band offset (px) from TimelineStage. Non-zero shifts this
-   * event below the row's primary band so it doesn't visually overlap
-   * an earlier same-row event whose X-range it falls inside.
-   */
-  topOffset?: number
 }>()
 const emit = defineEmits<{ click: [event: TimelineEvent] }>()
 
@@ -48,19 +43,20 @@ const datesPlain = computed(() => htmlToPlainText(dates.value))
 const showImage = computed(() => props.event.imagePath && !imageError.value)
 
 // Effective rendered width: data is 0 for ~84% of events because the source
-// HTML omits an inline style. The reference site falls back to a 260px CSS
-// default in that case (see .tl-event.major in style.css).
+// HTML omits an inline style. Fall back to EVENT_DEFAULT_WIDTH (= the CSS
+// default in .tl-event.major) so the visible width matches what's painted.
 const effectiveWidth = computed(() =>
-  props.event.width > 0 ? props.event.width : 260
+  props.event.width > 0 ? props.event.width : EVENT_DEFAULT_WIDTH
 )
 
-// Row top offsets match `.tl-event.row-N { top: N*50-30 px }` in style.css.
-// We re-derive the value here so a `topOffset` band shift can override the
-// class-based `top` via inline style without losing the row positioning.
+// When the precomputed `event.topOffset` is non-zero we must apply the
+// full top inline (ROW_TOP + (row-1)*ROW_GAP + offset) so the band shift
+// overrides the class-based `.tl-event.row-N { top }` from style.css.
+// Zero offset → undefined → fall back to the row class.
 const computedTop = computed(() => {
-  const offset = props.topOffset
+  const offset = props.event.topOffset
   if (!offset) return undefined
-  return 20 + (props.event.row - 1) * 50 + offset
+  return eventTop(props.event.row, offset)
 })
 
 // Build a URL-safe path for the event-specific thumbnail.

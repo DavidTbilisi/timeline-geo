@@ -567,7 +567,8 @@
     "datesEn": "1559–1553 AD",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 30
   },
   {
     "id": 1374,
@@ -624,7 +625,8 @@
     "datesEn": "1563–1598 AD",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -80
   },
   {
     "id": 1377,
@@ -643,7 +645,8 @@
     "datesEn": "1563 AD",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": -60
   },
   {
     "id": 1378,
@@ -719,7 +722,8 @@
     "datesEn": "1618–1619 AD",
     "imagePath": null,
     "titleKa": null,
-    "datesKa": null
+    "datesKa": null,
+    "topOffset": 30
   },
   {
     "id": 1382,
