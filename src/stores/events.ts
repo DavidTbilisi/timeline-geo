@@ -1,10 +1,32 @@
 import { defineStore } from 'pinia'
-import { ref, computed } from 'vue'
+import { ref } from 'vue'
 import type { TimelineEvent } from '@/types/event'
 import type { EventDetail } from '@/types/detail'
 import { withBase } from '@/utils/assetUrl'
 import { PERIOD_BY_ID } from '@/data/periods'
+import { i18n } from '@/i18n'
 import { log } from '@/utils/log'
+
+/**
+ * Lowercased period names across every registered locale. Used by the
+ * search ranker so a KA-language query can match the EN period name and
+ * vice versa. New locales registered in src/i18n/index.ts are picked up
+ * automatically — nothing to edit here when adding a language.
+ */
+function getPeriodSearchNames(slug: string): string[] {
+  // vue-i18n's message tree is structurally typed per-locale; the outer
+  // map is open. Cast at the boundary rather than threading exact types
+  // through every layer.
+  const msgs = i18n.global.messages.value as Record<string, {
+    periods?: Record<string, { name?: string }>
+  }>
+  const names: string[] = []
+  for (const loc of Object.keys(msgs)) {
+    const n = msgs[loc]?.periods?.[slug]?.name
+    if (typeof n === 'string' && n.length) names.push(n.toLowerCase())
+  }
+  return names
+}
 
 export const useEventsStore = defineStore('events', () => {
   // Events keyed by period (1-13)
@@ -125,12 +147,10 @@ export const useEventsStore = defineStore('events', () => {
       if (score === Infinity) {
         const period = PERIOD_BY_ID[e.period]
         if (period) {
-          const periodEn = period.nameEn.toLowerCase()
-          const periodKa = period.nameKa?.toLowerCase() ?? ''
-          const periodScore = Math.min(
-            tier(periodEn),
-            periodKa ? tier(periodKa) : Infinity,
-          )
+          let periodScore = Infinity
+          for (const candidate of getPeriodSearchNames(period.slug)) {
+            periodScore = Math.min(periodScore, tier(candidate))
+          }
           if (periodScore < Infinity) score = periodScore + PERIOD_TIER_OFFSET
         }
       }
@@ -146,8 +166,6 @@ export const useEventsStore = defineStore('events', () => {
     return top
   }
 
-  const visibleEvents = computed(() => getVisibleEvents)
-
   return {
     byPeriod,
     allEvents,
@@ -157,6 +175,5 @@ export const useEventsStore = defineStore('events', () => {
     getVisibleEvents,
     loadDetail,
     search,
-    visibleEvents,
   }
 })
