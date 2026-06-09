@@ -3,21 +3,17 @@ import { computed } from 'vue'
 import { useTimelineStore } from '@/stores/timeline'
 import { PERIODS } from '@/data/periods'
 import { useI18n } from 'vue-i18n'
+import { usePeriodCopy } from '@/composables/usePeriodCopy'
 import PeriodColorBar from './PeriodColorBar.vue'
 
 const tlStore = useTimelineStore()
-const { locale, t } = useI18n()
+const { t } = useI18n()
+const { name: periodName } = usePeriodCopy()
 
 const activePeriod = computed(() => tlStore.activePeriod)
 const activePeriodData = computed(() => PERIODS[activePeriod.value - 1])
-const activePeriodName = computed(() => {
-  const p = activePeriodData.value
-  return locale.value === 'ka' ? (p.nameKa ?? p.nameEn) : p.nameEn
-})
-const activeEraName = computed(() => {
-  const p = activePeriodData.value
-  return t(`eras.${p.era}`)
-})
+const activePeriodName = computed(() => periodName(activePeriodData.value.slug))
+const activeEraName = computed(() => t(`eras.${activePeriodData.value.era}`))
 
 function goToPeriod(id: number) {
   tlStore.activePeriod = id
@@ -47,7 +43,7 @@ function goToPeriod(id: number) {
             background: p.color,
             boxShadow: p.id === activePeriod ? `0 0 8px ${p.color}` : 'none',
           }"
-          :title="locale === 'ka' ? (p.nameKa ?? p.nameEn) : p.nameEn"
+          :title="periodName(p.slug)"
           @click="goToPeriod(p.id)"
         />
       </div>

@@ -1,18 +1,15 @@
 <script setup lang="ts">
 import type { PeriodData } from '@/types/event'
-import { useI18n } from 'vue-i18n'
 import { useRouter } from 'vue-router'
+import { usePeriodCopy } from '@/composables/usePeriodCopy'
 import { log } from '@/utils/log'
 
 const props = defineProps<{ period: PeriodData }>()
-const { locale } = useI18n()
 const router = useRouter()
+const { name: periodName, description: periodDescription } = usePeriodCopy()
 
-const name = () => locale.value === 'ka' ? (props.period.nameKa ?? props.period.nameEn) : props.period.nameEn
-const description = () =>
-  locale.value === 'ka'
-    ? (props.period.descriptionKa ?? props.period.descriptionEn)
-    : props.period.descriptionEn
+const name = () => periodName(props.period.slug)
+const description = () => periodDescription(props.period.slug)
 
 function goToPeriod() {
   log.ui('PeriodCard click', { id: props.period.id, slug: props.period.slug })

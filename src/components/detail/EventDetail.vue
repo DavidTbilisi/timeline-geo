@@ -6,6 +6,7 @@ import { useEventsStore } from '@/stores/events'
 import { useFavoritesStore } from '@/stores/favorites'
 import { PERIODS } from '@/data/periods'
 import { useI18n } from 'vue-i18n'
+import { usePeriodCopy } from '@/composables/usePeriodCopy'
 import type { EventDetail as DetailType } from '@/types/detail'
 import DetailArticle from './DetailArticle.vue'
 import DetailScriptures from './DetailScriptures.vue'
@@ -19,6 +20,7 @@ const eventsStore = useEventsStore()
 const favStore = useFavoritesStore()
 const router = useRouter()
 const { t, locale } = useI18n()
+const { name: periodLookupName } = usePeriodCopy()
 
 const detail = ref<DetailType | null>(null)
 const loading = ref(true)
@@ -39,10 +41,7 @@ const dates = computed(() => {
   if (!detail.value) return ''
   return locale.value === 'ka' && detail.value.datesKa ? detail.value.datesKa : detail.value.datesEn
 })
-const periodName = computed(() => {
-  if (!periodData.value) return ''
-  return locale.value === 'ka' ? periodData.value.nameKa : periodData.value.nameEn
-})
+const periodName = computed(() => periodLookupName(periodData.value?.slug))
 
 const hasImages = computed(() => (detail.value?.images?.length ?? 0) > 0)
 const hasVideos = computed(() => (detail.value?.videos?.length ?? 0) > 0)

@@ -66,6 +66,63 @@ export default {
       3: "The life and death of Jesus, the apostles, the Reformation, and the final events of earth's history.",
     },
   },
+  // Period name + description copy. Keyed by period slug (the same slugs
+  // used in /period/<slug> routes and in src/data/periods.ts). Adding a
+  // new locale? Mirror this block in the new locales/<code>.ts file.
+  periods: {
+    'first-generation': {
+      name: 'First Generation',
+      description: 'From the creation of Adam and Eve, to the murder of Abel by Cain, and human history before the flood.',
+    },
+    'noah-and-the-flood': {
+      name: 'Noah & the Flood',
+      description: 'From the ministry of Noah and the global deluge, to Cush, Nimrod, and the tower of Babel.',
+    },
+    'the-patriarchs': {
+      name: 'The Patriarchs',
+      description: 'From the call of Abraham, to Sodom and Gomorrah, and the rise of 12 Jewish tribes through Isaac and Jacob.',
+    },
+    'egypt-to-canaan': {
+      name: 'Egypt to Canaan',
+      description: 'From Joseph being sold into slavery, his rise to power in Egypt, and to Moses and the Exodus.',
+    },
+    'the-judges': {
+      name: 'The Judges',
+      description: "From Moses and the Ten Commandments to Joshua's entrance and Jewish expansion into the Promised Land.",
+    },
+    'united-kingdom': {
+      name: 'United Kingdom',
+      description: 'From King Saul to the prophet Samuel and young King David and his royal dynasty through Solomon.',
+    },
+    'divided-kingdom': {
+      name: 'Divided Kingdom',
+      description: 'From the internal strife that divided the nation of Israel to the prophets who warned of the coming exile.',
+    },
+    'the-exile': {
+      name: 'The Exile',
+      description: "From Israel's fall to exile in Babylon and the major prophets declaring the coming Messiah.",
+    },
+    'life-of-christ': {
+      name: 'Life of Christ',
+      description: 'From the birth of the promised Messiah, Jesus the Christ, to His ministry and death and resurrection.',
+    },
+    'early-church': {
+      name: 'Early Church',
+      description: 'From the martyrdom of Stephen to the persecution and rise of the church through Paul and the apostles.',
+    },
+    'middle-ages': {
+      name: 'Middle Ages',
+      description: 'From the legalization of Christianity under Constantine to the persecution of the Dark Ages.',
+    },
+    'reformation': {
+      name: 'Reformation',
+      description: 'From the great reformers, such as Luther and Wycliffe, to the expansion of the Protestant movement.',
+    },
+    'revelation-prophecies': {
+      name: 'Revelation Prophecies',
+      description: "From the great prophetic events of Revelation to the final events in earth's history.",
+    },
+  },
   sidebar: {
     ageOfPrefix: 'The Age of',
     deeperLink: 'Ready to go deeper?',

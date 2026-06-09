@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { PERIODS, SIDEBAR_WIDTH } from '@/data/periods'
-import { useI18n } from 'vue-i18n'
+import { usePeriodCopy } from '@/composables/usePeriodCopy'
 import { withBase } from '@/utils/assetUrl'
 
 /**
@@ -11,14 +11,11 @@ import { withBase } from '@/utils/assetUrl'
  */
 const props = defineProps<{ periodId: number; active?: boolean }>()
 
-const { locale } = useI18n()
+const { name: periodName, description: periodDescription } = usePeriodCopy()
 
 const period = computed(() => PERIODS[props.periodId - 1])
-const name = computed(() => locale.value === 'ka' ? (period.value.nameKa ?? period.value.nameEn) : period.value.nameEn)
-const description = computed(() => locale.value === 'ka'
-  ? (period.value.descriptionKa ?? period.value.descriptionEn)
-  : period.value.descriptionEn
-)
+const name = computed(() => periodName(period.value.slug))
+const description = computed(() => periodDescription(period.value.slug))
 </script>
 
 <template>
