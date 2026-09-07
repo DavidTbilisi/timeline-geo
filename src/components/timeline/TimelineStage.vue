@@ -4,6 +4,7 @@ import { useTimelineStore } from '@/stores/timeline'
 import { useEventsStore } from '@/stores/events'
 import { useTimelineConfig } from '@lib/config'
 import type { LaidOutEvent } from '@lib/types'
+import { computeBandOffsets } from '@lib/layout'
 import EventItem from './EventItem.vue'
 import TodayMarker from './TodayMarker.vue'
 
@@ -34,73 +35,8 @@ async function refreshEvents(period: number) {
 onMounted(() => refreshEvents(tlStore.activePeriod))
 watch(() => tlStore.activePeriod, (period) => { refreshEvents(period) })
 
-/**
- * Per-event vertical offset (px), keyed by slug.
- *
- * The source `events.json` places long-duration bars (Aaron 9442+541)
- * and shorter events that occurred during that span (Aram (or Ram) at
- * 9491) on the same row, so their X-coords literally overlap. Trimming
- * widths kills the "this person lived for X years" signal, so instead
- * we drop the overlapping event into a sub-band 18px below.
- *
- * Constraints:
- * - Only minors (30px tall) get shifted — they're the only events that
- *   fit in the 50px row gap once shifted. Majors (80px) and small majors
- *   (50px) already extend past their row, shifting them just stacks
- *   problems.
- * - Skip the shift if a minor on row N would collide with a row-(N+1)
- *   event in X, otherwise the sub-band 18-48px slot lands on top of the
- *   row-(N+1) event at 50-80px and we trade a same-row overlap for a
- *   cross-row one (worse — the user perceives it as broken layout).
- */
-const BAND_HEIGHT = 18
-const topOffsets = computed(() => {
-  const byRow = new Map<number, LaidOutEvent[]>()
-  for (const e of visibleEvents.value) {
-    if (!byRow.has(e.row)) byRow.set(e.row, [])
-    byRow.get(e.row)!.push(e)
-  }
-
-  const xRange = (e: LaidOutEvent) => ({
-    start: e.left,
-    end: e.left + (e.width > 0 ? e.width : 260),
-  })
-  const overlaps = (
-    a: { start: number; end: number },
-    b: { start: number; end: number },
-  ) => a.start < b.end && a.end > b.start
-
-  const offsets = new Map<string, number>()
-  for (const [rowNum, row] of byRow) {
-    row.sort((a, b) => a.left - b.left)
-    const occupied: Array<{ start: number; end: number }> = []
-    const nextRow = byRow.get(rowNum + 1) ?? []
-
-    for (const e of row) {
-      const r = xRange(e)
-      const collidesSameRow = occupied.some(o => overlaps(o, r))
-      if (!collidesSameRow) {
-        occupied.push(r)
-        continue
-      }
-      // Same-row overlap. Only minors are eligible for the sub-band.
-      if (e.type !== 'minor') {
-        occupied.push(r)
-        continue
-      }
-      // Sub-band collision check against the next row's events — would the
-      // shifted minor (top + 18 .. top + 48) land on top of a row-(N+1)
-      // event in our X range?
-      const collidesNextRow = nextRow.some(other => overlaps(xRange(other), r))
-      if (collidesNextRow) {
-        occupied.push(r)
-        continue
-      }
-      offsets.set(e.slug, BAND_HEIGHT)
-    }
-  }
-  return offsets
-})
+// Per-event vertical offset (px) for same-row x-overlaps; see computeBandOffsets.
+const topOffsets = computed(() => computeBandOffsets(visibleEvents.value, config.layout))
 
 // Pre-compute period color band gradient (sharp stops, very subtle)
 function hexToRgba(hex: string, alpha: number) {

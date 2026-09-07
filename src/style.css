@@ -79,31 +79,7 @@ html, body {
   height: 50px;
 }
 
-/* Row positions: top = 20 + (row-1) * 50 */
-.tl-event.row-1  { top: 20px; }
-.tl-event.row-2  { top: 70px; }
-.tl-event.row-3  { top: 120px; }
-.tl-event.row-4  { top: 170px; }
-.tl-event.row-5  { top: 220px; }
-.tl-event.row-6  { top: 270px; }
-.tl-event.row-7  { top: 320px; }
-.tl-event.row-8  { top: 370px; }
-.tl-event.row-9  { top: 420px; }
-.tl-event.row-10 { top: 470px; }
-.tl-event.row-11 { top: 520px; }
-.tl-event.row-12 { top: 570px; }
-.tl-event.row-13 { top: 620px; }
-.tl-event.row-14 { top: 670px; }
-.tl-event.row-15 { top: 720px; }
-.tl-event.row-16 { top: 770px; }
-.tl-event.row-17 { top: 820px; }
-.tl-event.row-18 { top: 870px; }
-.tl-event.row-19 { top: 920px; }
-.tl-event.row-20 { top: 970px; }
-.tl-event.row-21 { top: 1020px; }
-.tl-event.row-22 { top: 1070px; }
-.tl-event.row-23 { top: 1120px; }
-.tl-event.row-24 { top: 1170px; }
+/* Row positions are set inline by the layout engine (rowOffset + (row-1) * rowPitch). */
 
 /*
   Major event card — cream/parchment styling matching the reference site.

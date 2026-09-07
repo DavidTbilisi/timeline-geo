@@ -9,21 +9,31 @@ interface StageRef {
   stageEl: HTMLElement | null
 }
 
-const SIDEBAR_WIDTH = 220  // matches data/periods.ts:SIDEBAR_WIDTH (desktop)
-const MIN_MARGIN    = 263  // min px from right before we stop sliding
-
-/**
- * Returns the visual offset where labels should start sliding.
- * On desktop the sidebar covers the right 220px so labels slide once they
- * reach `scrollLeft + 220`. On mobile (< md) the sidebar is hidden via CSS,
- * so labels can slide all the way to the viewport edge — offset becomes 0.
- */
-function menuOffset(): number {
-  if (typeof window === 'undefined') return SIDEBAR_WIDTH
-  return window.matchMedia('(max-width: 767px)').matches ? 0 : SIDEBAR_WIDTH
+export interface FullLabelOptions {
+  /** Width of the sidebar that covers the viewport's right edge on desktop (px). */
+  sidebarWidth?: number
+  /** Min px from the bar's right edge before the label stops sliding. */
+  minMargin?: number
+  /** Viewport width at or below which the sidebar is hidden (px). */
+  mobileMaxWidth?: number
 }
 
-export function useFullLabel(stageRef: Ref<StageRef | null>) {
+export function useFullLabel(stageRef: Ref<StageRef | null>, options: FullLabelOptions = {}) {
+  const sidebarWidth = options.sidebarWidth ?? 220
+  const MIN_MARGIN = options.minMargin ?? 263
+  const mobileMaxWidth = options.mobileMaxWidth ?? 767
+
+  /**
+   * Returns the visual offset where labels should start sliding.
+   * On desktop the sidebar covers the right edge so labels slide once they
+   * reach `scrollLeft + sidebarWidth`. On mobile the sidebar is hidden via
+   * CSS, so labels can slide all the way to the viewport edge — offset 0.
+   */
+  function menuOffset(): number {
+    if (typeof window === 'undefined') return sidebarWidth
+    return window.matchMedia(`(max-width: ${mobileMaxWidth}px)`).matches ? 0 : sidebarWidth
+  }
+
   /**
    * @param scrollLeft  Canonical scroll position (zoom=1 pixel space)
    * @param zoom        Current zoom level (default 1). Divides the applied

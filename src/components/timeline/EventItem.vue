@@ -4,6 +4,7 @@ import type { LaidOutEvent } from '@lib/types'
 import { useI18n } from 'vue-i18n'
 import { useTimelineConfig } from '@lib/config'
 import { useLocalized, localizeEraTokens } from '@lib/i18n'
+import { formatDateRange } from '@lib/layout'
 import { htmlToPlainText } from '@/utils/htmlText'
 import { withBase } from '@/utils/assetUrl'
 import { log } from '@/utils/log'
@@ -35,7 +36,10 @@ const title = computed(() => l(props.event.title))
 // era tokens substituted with the localized abbreviations. See issue #47.
 const dates = computed(() => {
   const entry = pick(props.event.dates)
-  if (!entry) return ''
+  if (!entry) {
+    return formatDateRange(props.event.start, props.event.end,
+      { bc: t('timeline.bc'), ad: t('timeline.ad') }, { showDuration: props.event.type === 'major' })
+  }
   if (entry.locale === locale.value) return entry.text
   return localizeEraTokens(entry.text, { bc: t('timeline.bc'), ad: t('timeline.ad') })
 })
@@ -45,21 +49,14 @@ const datesPlain = computed(() => htmlToPlainText(dates.value))
 
 const showImage = computed(() => props.event.image && !imageError.value)
 
-// Effective rendered width: data is 0 for ~84% of events because the source
-// HTML omits an inline style. The reference site falls back to a 260px CSS
-// default in that case (see .tl-event.major in style.css).
+// Effective rendered width: 0 means a card without a duration bar, which
+// renders at the configured card width (see .tl-event.major in style.css).
 const effectiveWidth = computed(() =>
-  props.event.width > 0 ? props.event.width : 260
+  props.event.width > 0 ? props.event.width : config.layout.cardWidth
 )
 
-// Row top offsets match `.tl-event.row-N { top: N*50-30 px }` in style.css.
-// We re-derive the value here so a `topOffset` band shift can override the
-// class-based `top` via inline style without losing the row positioning.
-const computedTop = computed(() => {
-  const offset = props.topOffset
-  if (!offset) return undefined
-  return 20 + (props.event.row - 1) * 50 + offset
-})
+// Vertical position from the layout engine, plus any band shift.
+const computedTop = computed(() => props.event.top + (props.topOffset ?? 0))
 
 // Build a URL-safe path for the event-specific thumbnail.
 // image is like "media/images/t/filename.jpg" — encode each segment
@@ -84,18 +81,18 @@ function onImageError() {
     v-if="event.type === 'major'"
     class="tl-event major group"
     :class="[
-      `row-${event.row}`,
       `period-${event.period}`,
       event.size === 'small' ? 'small' : '',
     ]"
     :style="{
       left: event.left + 'px',
       width: event.width > 0 ? event.width + 'px' : undefined,
-      top: computedTop !== undefined ? computedTop + 'px' : undefined,
+      top: computedTop + 'px',
       borderLeft: `2px solid ${periodColor}88`,
     }"
     :data-slug="event.slug"
     :data-period="event.period"
+    :data-row="event.row"
     :data-hover-width="event.hoverWidth"
     :title="title"
     @click="onClick"
@@ -130,13 +127,14 @@ function onImageError() {
   <div
     v-else
     class="tl-event minor group"
-    :class="[`row-${event.row}`, `period-${event.period}`]"
+    :class="`period-${event.period}`"
     :style="{
       left: event.left + 'px',
-      top: computedTop !== undefined ? computedTop + 'px' : undefined,
+      top: computedTop + 'px',
     }"
     :data-slug="event.slug"
     :data-period="event.period"
+    :data-row="event.row"
     :data-hover-width="event.hoverWidth"
     :title="`${title} · ${datesPlain}`"
     @click="onClick"

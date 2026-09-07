@@ -1,6 +1,7 @@
 import { defineStore } from 'pinia'
 import { ref, computed, watch } from 'vue'
 import { useTimelineConfig } from '@lib/config'
+import { periodForPx } from '@lib/layout'
 import { log } from '@/utils/log'
 
 export const useTimelineStore = defineStore('timeline', () => {
@@ -21,7 +22,7 @@ export const useTimelineStore = defineStore('timeline', () => {
   const currentYear = computed(() => {
     const p = activePeriodData.value
     const half = viewportWidth.value / 2
-    const adjustLeft = scrollLeft.value + half - 24
+    const adjustLeft = scrollLeft.value + half - layout.centerFudge
     const year = p.startYear + (adjustLeft - p.startPx) / p.pxPerYear
     return Math.round(year)
   })
@@ -35,14 +36,10 @@ export const useTimelineStore = defineStore('timeline', () => {
 
   function setScroll(left: number) {
     scrollLeft.value = left
-    // Detect active period from scroll position
-    const adjusted = left + (viewportWidth.value / 2) + 93 - 110
-    for (const p of periods) {
-      if (adjusted >= p.startPx && adjusted < p.endPx) {
-        if (activePeriod.value !== p.id) activePeriod.value = p.id
-        break
-      }
-    }
+    // Detect active period from scroll position; off-stage positions
+    // (e.g. during bounce) leave it unchanged.
+    const p = periodForPx(periods, left + (viewportWidth.value / 2) + layout.activePeriodOffset)
+    if (p && activePeriod.value !== p.id) activePeriod.value = p.id
   }
 
   function setViewportWidth(w: number) {

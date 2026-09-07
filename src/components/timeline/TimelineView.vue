@@ -36,7 +36,7 @@ const ZOOM_MAX  = 4.0
 const ZOOM_STEP = 0.25
 const zoomLevel = ref(1.0)
 
-const { update: updateLabels } = useFullLabel(stageRef as any)
+const { update: updateLabels } = useFullLabel(stageRef as any, { sidebarWidth: SIDEBAR_WIDTH })
 
 // ── Active period derived values ─────────────────────────────────────────────
 const activePeriodData = computed(() => tlStore.activePeriodData)
