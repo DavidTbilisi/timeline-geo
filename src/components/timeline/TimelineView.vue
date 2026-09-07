@@ -145,8 +145,8 @@ onUnmounted(() => {
 function onKey(e: KeyboardEvent) {
   // Skip zoom shortcuts if typing in an input
   if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return
-  if (e.key === 'ArrowLeft')             scrollBy(-300)
-  if (e.key === 'ArrowRight')            scrollBy(300)
+  if (e.key === 'ArrowLeft')  { e.preventDefault(); scrollBy(-300) }
+  if (e.key === 'ArrowRight') { e.preventDefault(); scrollBy(300) }
   if (e.key === '+' || e.key === '=')    changeZoom(ZOOM_STEP)
   if (e.key === '-' || e.key === '_')    changeZoom(-ZOOM_STEP)
 }

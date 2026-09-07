@@ -8,13 +8,6 @@ export default {
     searchPlaceholder: 'ძებნა...',
     noFavorites: 'რჩეულები ცარიელია',
     noResults: 'შედეგი ვერ მოიძებნა',
-    signIn: 'შესვლა',
-    signOut: 'გასვლა',
-    signedIn: 'წარმატებით შეხვედით',
-    signedOut: 'გამოხვედით სისტემიდან',
-    addedFav: 'დაემატა რჩეულებში',
-    removedFav: 'წაიშალა რჩეულებიდან',
-    pleaseSignIn: 'რჩეულის დასამატებლად გთხოვთ შეხვიდეთ სისტემაში',
     searchResults: {
       zero: 'შედეგი არ არის',
       one: '1 შედეგი',
@@ -65,10 +58,6 @@ export default {
       2: 'ებრაელი ხალხის ისტორია — მოსედან და გამოსვლიდან მეფე დავითამდე და წინასწარმეტყველებ დანიელ და ესაიამდე.',
       3: 'იესოს ცხოვრება და სიკვდილი, მოციქულები, რეფორმაცია და ქვეყნიერების ისტორიის ბოლო მოვლენები.',
     },
-  },
-  sidebar: {
-    ageOfPrefix: 'ეპოქა:',
-    deeperLink: 'გსურთ მეტი ცოდნა?',
   },
   landing: {
     title: 'ბიბლიური ქრონოლოგია',
@@ -127,23 +116,5 @@ export default {
         a: 'ქრონოლოგიას მხარს უჭერენ Chrome-ის, Firefox-ის, Safari-სა და Edge-ის თანამედროვე ვერსიები.',
       },
     ],
-  },
-  account: {
-    heading: 'ანგარიშის პარამეტრები',
-    signInTitle: 'შესვლა',
-    signInButton: 'შესვლა',
-    email: 'ელფოსტა',
-    password: 'პაროლი',
-    submit: 'შესვლა',
-    errors: {
-      email: 'ელფოსტა არასწორია',
-      password: 'პაროლი არასწორია',
-    },
-  },
-  social: {
-    share: 'გაზიარება',
-    twitter: 'Twitter',
-    facebook: 'Facebook',
-    google: 'Google+',
   },
 }
