@@ -2,22 +2,25 @@
 import { ref, computed, watch } from 'vue'
 import { useRouter } from 'vue-router'
 import { useI18n } from 'vue-i18n'
-import { persistLocale } from '@/i18n'
+import { useTimelineConfig } from '@lib/config'
+import { persistLocale, useLocalized } from '@lib/i18n'
 import { useEventsStore } from '@/stores/events'
 import { useFavoritesStore } from '@/stores/favorites'
 import { useTimelineStore } from '@/stores/timeline'
-import type { TimelineEvent } from '@/types/event'
+import type { LaidOutEvent } from '@lib/types'
 import FaqModal from './FaqModal.vue'
 import { log } from '@/utils/log'
 
 const { t, locale } = useI18n()
+const { l } = useLocalized()
+const config = useTimelineConfig()
 const router = useRouter()
 const eventsStore = useEventsStore()
 const favStore = useFavoritesStore()
 const tlStore = useTimelineStore()
 
 const searchQuery = ref('')
-const searchResults = ref<TimelineEvent[]>([])
+const searchResults = ref<LaidOutEvent[]>([])
 const showFavorites = ref(false)
 const showFaq = ref(false)
 const searchFocused = ref(false)
@@ -100,11 +103,20 @@ function goHome() {
   router.push('/')
 }
 
-function toggleLocale() {
-  const next = locale.value === 'ka' ? 'en' : 'ka'
-  log.i18n('toggleLocale', { from: locale.value, to: next })
+/** The locale the switcher offers next: cycles through `locales.available`. */
+const nextLocale = computed(() => {
+  const avail = config.locales.available
+  const i = avail.indexOf(locale.value)
+  return avail[(i + 1) % avail.length] ?? avail[0]
+})
+const localeLabel = (code: string) => config.locales.labels[code] ?? code.toUpperCase()
+const localeName = (code: string) => config.locales.names[code] ?? code
+
+function switchLocale(next: string = nextLocale.value) {
+  if (next === locale.value) return
+  log.i18n('switchLocale', { from: locale.value, to: next })
   locale.value = next
-  persistLocale(next)
+  persistLocale(config, next)
 }
 
 watch(locale, (v) => { document.documentElement.lang = v })
@@ -134,7 +146,7 @@ const showDropdown = computed(() =>
       class="text-white font-bold text-sm whitespace-nowrap hover:opacity-80 transition-opacity mr-2"
       @click="goHome"
     >
-      ✦ {{ t('nav.title') }}
+      ✦ {{ l(config.title) }}
     </button>
 
     <!-- Search (desktop only — mobile uses the drawer copy) -->
@@ -171,8 +183,8 @@ const showDropdown = computed(() =>
           @mousedown="goToEvent(r.slug)"
           @mouseover="highlightedIndex = i"
         >
-          <span class="block font-medium leading-tight">{{ locale === 'ka' && r.titleKa ? r.titleKa : r.titleEn }}</span>
-          <span class="block text-xs text-white/50 mt-0.5">{{ locale === 'ka' && r.datesKa ? r.datesKa : r.datesEn }}</span>
+          <span class="block font-medium leading-tight">{{ l(r.title) }}</span>
+          <span class="block text-xs text-white/50 mt-0.5">{{ l(r.dates) }}</span>
         </button>
       </div>
     </div>
@@ -198,7 +210,7 @@ const showDropdown = computed(() =>
               class="w-full text-left px-2 py-1.5 text-sm text-white hover:bg-white/10 rounded transition-colors block"
               @click="goToEvent(ev.slug); showFavorites = false"
             >
-              {{ locale === 'ka' && ev.titleKa ? ev.titleKa : ev.titleEn }}
+              {{ l(ev.title) }}
             </button>
           </div>
         </div>
@@ -212,14 +224,27 @@ const showDropdown = computed(() =>
         {{ t('nav.faq') }}
       </button>
 
-      <!-- Language toggle -->
+      <!-- Language switcher: a toggle for two locales, a select for more -->
       <button
+        v-if="config.locales.available.length <= 2"
         class="text-white/50 hover:text-white text-xs px-2 py-1 transition-colors border border-white/20 rounded"
-        :title="locale === 'ka' ? t('nav.toggleLocale.toEn') : t('nav.toggleLocale.toKa')"
-        @click="toggleLocale"
+        :title="localeName(nextLocale)"
+        data-testid="locale-toggle"
+        @click="switchLocale()"
       >
-        {{ locale === 'ka' ? 'EN' : 'ქა' }}
+        {{ localeLabel(nextLocale) }}
       </button>
+      <select
+        v-else
+        class="bg-transparent text-white/70 text-xs px-2 py-1 border border-white/20 rounded"
+        :value="locale"
+        data-testid="locale-toggle"
+        @change="switchLocale(($event.target as HTMLSelectElement).value)"
+      >
+        <option v-for="code in config.locales.available" :key="code" :value="code" class="text-black">
+          {{ localeName(code) }}
+        </option>
+      </select>
     </div>
 
     <!-- Hamburger (mobile only) -->
@@ -288,8 +313,8 @@ const showDropdown = computed(() =>
           @mousedown="goToEvent(r.slug)"
           @mouseover="highlightedIndex = i"
         >
-          <span class="block font-medium leading-tight">{{ locale === 'ka' && r.titleKa ? r.titleKa : r.titleEn }}</span>
-          <span class="block text-xs text-white/50 mt-0.5">{{ locale === 'ka' && r.datesKa ? r.datesKa : r.datesEn }}</span>
+          <span class="block font-medium leading-tight">{{ l(r.title) }}</span>
+          <span class="block text-xs text-white/50 mt-0.5">{{ l(r.dates) }}</span>
         </button>
       </div>
     </div>
@@ -310,7 +335,7 @@ const showDropdown = computed(() =>
         class="w-full text-left px-2 py-1.5 text-sm text-white hover:bg-white/10 rounded transition-colors block"
         @click="goToEvent(ev.slug)"
       >
-        {{ locale === 'ka' && ev.titleKa ? ev.titleKa : ev.titleEn }}
+        {{ l(ev.title) }}
       </button>
     </div>
 
@@ -322,14 +347,25 @@ const showDropdown = computed(() =>
       {{ t('nav.faq') }}
     </button>
 
-    <!-- Mobile language toggle -->
+    <!-- Mobile language switcher -->
     <button
+      v-if="config.locales.available.length <= 2"
       class="text-left text-white/60 hover:text-white text-sm px-3 py-2 rounded border border-white/20 hover:bg-white/10 transition-colors"
-      :title="locale === 'ka' ? t('nav.toggleLocale.toEn') : t('nav.toggleLocale.toKa')"
-      @click="toggleLocale"
+      :title="localeName(nextLocale)"
+      @click="switchLocale()"
     >
-      {{ locale === 'ka' ? t('nav.toggleLocale.toEn') : t('nav.toggleLocale.toKa') }}
+      {{ localeName(nextLocale) }}
     </button>
+    <select
+      v-else
+      class="bg-transparent text-white/70 text-sm px-3 py-2 border border-white/20 rounded"
+      :value="locale"
+      @change="switchLocale(($event.target as HTMLSelectElement).value)"
+    >
+      <option v-for="code in config.locales.available" :key="code" :value="code" class="text-black">
+        {{ localeName(code) }}
+      </option>
+    </select>
   </div>
 
   <!-- Modals -->

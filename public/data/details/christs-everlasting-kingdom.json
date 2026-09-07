@@ -2,44 +2,36 @@
   "slug": "christs-everlasting-kingdom",
   "id": 1276,
   "period": 13,
-  "titleEn": "Christ's Everlasting Kingdom",
-  "titleKa": null,
-  "datesEn": "Future",
-  "datesKa": null,
-  "descriptionEn": "After a vision of four beasts and a judgment scene, Daniel sees &#34;One like the Son of Man,&#34; who was given &#34;an everlasting dominion.&#34; Here the kingdom of heaven is established forever. It will &#34;not pass away&#34; or &#34;be destroyed.&#34;",
-  "descriptionKa": null,
-  "articleEn": "In Luke 19:12&#8212;15 Christ is represented as a nobleman who took his journey into a far country to receive for himself a kingdom, and to return. At the close of His priestly ministry in the sanctuary, while still in heaven, Christ receives the kingdom from His Father and then returns to Earth for His saints.",
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Daniel 7:13-14",
-      "verses": [
-        {
-          "number": 13,
-          "line": "I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him."
-        },
-        {
-          "number": 14,
-          "line": "And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed."
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Christ's Everlasting Kingdom"
+  },
+  "dates": {
+    "en": "Future"
+  },
+  "description": {
+    "en": "After a vision of four beasts and a judgment scene, Daniel sees &#34;One like the Son of Man,&#34; who was given &#34;an everlasting dominion.&#34; Here the kingdom of heaven is established forever. It will &#34;not pass away&#34; or &#34;be destroyed.&#34;"
+  },
+  "article": {
+    "en": "In Luke 19:12&#8212;15 Christ is represented as a nobleman who took his journey into a far country to receive for himself a kingdom, and to return. At the close of His priestly ministry in the sanctuary, while still in heaven, Christ receives the kingdom from His Father and then returns to Earth for His saints."
+  },
   "related": [
     {
       "slug": "daniel-7-four-great-beasts",
-      "titleEn": "Daniel 7 - Four Great Beasts",
-      "titleKa": null
+      "title": {
+        "en": "Daniel 7 - Four Great Beasts"
+      }
     },
     {
       "slug": "return-of-christ",
-      "titleEn": "Return of Christ ",
-      "titleKa": null
+      "title": {
+        "en": "Return of Christ "
+      }
     },
     {
       "slug": "resurrection-and-translation-of-the-saints",
-      "titleEn": "Resurrection and Translation of the Saints",
-      "titleKa": null
+      "title": {
+        "en": "Resurrection and Translation of the Saints"
+      }
     }
   ],
   "images": [
@@ -74,5 +66,22 @@
       "caption": "People over the years have predicted the exact date of Christ&#39;s second coming and have obviously failed. The Bible teaches we do not know the day or hour when Jesus will return, but we can know it is near. What is most important is for us to live in a state of being ready always.",
       "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg21102.mp4"
     }
-  ]
+  ],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Daniel 7:13-14",
+        "verses": [
+          {
+            "number": 13,
+            "line": "I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him."
+          },
+          {
+            "number": 14,
+            "line": "And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed."
+          }
+        ]
+      }
+    ]
+  }
 }

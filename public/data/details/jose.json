@@ -2,25 +2,27 @@
   "slug": "jose",
   "id": 418,
   "period": 7,
-  "titleEn": "Jose",
-  "titleKa": null,
-  "datesEn": "712&ndash;627 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;Yahweh is salvation.&#34; He is a Judahite, the son of Eliezer, listed in Luke&#39;s genealogy of Jesus Christ. Jose is also spelled &#34;Jesus&#34; or &#34;Joshua.&#34;",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Jose"
+  },
+  "dates": {
+    "en": "712&ndash;627 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;Yahweh is salvation.&#34; He is a Judahite, the son of Eliezer, listed in Luke&#39;s genealogy of Jesus Christ. Jose is also spelled &#34;Jesus&#34; or &#34;Joshua.&#34;"
+  },
   "related": [
     {
       "slug": "eliezer",
-      "titleEn": "Eliezer",
-      "titleKa": null
+      "title": {
+        "en": "Eliezer"
+      }
     },
     {
       "slug": "er",
-      "titleEn": "Er",
-      "titleKa": null
+      "title": {
+        "en": "Er"
+      }
     }
   ],
   "images": [

@@ -1,6 +1,6 @@
 /**
  * useFullLabel — keeps floating event title labels visible while scrolling.
- * For major events with labelStyle='full', the .info-full element is translated
+ * For major events rendered as bars (`bar: true`), the .info-full element is translated
  * so the title text stays anchored to the left edge of the viewport.
  */
 import type { Ref } from 'vue'

@@ -2,30 +2,21 @@
   "slug": "azor",
   "id": 556,
   "period": 8,
-  "titleEn": "Azor",
-  "titleKa": null,
-  "datesEn": "435&ndash;341 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Meaning of name unknown. The son of Eliakim and father of Zadok, a postexilic Judahite listed in Matthew&#39;s genealogy of Jesus Christ.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Matthew 1:13",
-      "verses": [
-        {
-          "number": 13,
-          "line": "And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Azor"
+  },
+  "dates": {
+    "en": "435&ndash;341 <span>BC</span>"
+  },
+  "description": {
+    "en": "Meaning of name unknown. The son of Eliakim and father of Zadok, a postexilic Judahite listed in Matthew&#39;s genealogy of Jesus Christ."
+  },
   "related": [
     {
       "slug": "eliakim",
-      "titleEn": "Eliakim",
-      "titleKa": null
+      "title": {
+        "en": "Eliakim"
+      }
     }
   ],
   "images": [
@@ -34,5 +25,18 @@
       "caption": "Azor"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Matthew 1:13",
+        "verses": [
+          {
+            "number": 13,
+            "line": "And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;"
+          }
+        ]
+      }
+    ]
+  }
 }

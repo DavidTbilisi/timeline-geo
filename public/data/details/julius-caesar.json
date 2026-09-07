@@ -2,20 +2,24 @@
   "slug": "julius-caesar",
   "id": 580,
   "period": 9,
-  "titleEn": "Julius Caesar",
-  "titleKa": null,
-  "datesEn": "100&ndash;44 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Julius Caesar is the well&#8212;known Roman general who played a major role in the transformation of the Roman Republic into the Roman Empire. He was assassinated by a group of Roman senators.",
-  "descriptionKa": null,
-  "articleEn": "Born into the republic of Rome in approximately 100 B.C., Julius Caesar was one of the most successful war generals in history, having never lost a war. Moreover, a political genius with great ambition, he engineered the great Triumvirate, which divided power between three warring factions, saving what was a burgeoning Roman Empire from civil war. However, eventually, Caesar took advantage of political forces, his military prowess, and happenstance to amass great power and was eventually named &#34;dictator for life.&#34; <BR /><BR />Under his influence, the republic of Rome transformed into the Roman Empire. But shortly thereafter, Caesar was assassinated on March 15, 44 B.C., the date know as the Ides of March. During his eventful life, he was once captured by pirates, was a respected writer, and had an extramarital affair with Cleopatra, whom he would help gain the throne of Egypt. Caesar was the great uncle and adoptive father of Caesar Augustus, the Roman emperor who ordered the census at the time of Jesus&#39; birth.",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Julius Caesar"
+  },
+  "dates": {
+    "en": "100&ndash;44 <span>BC</span>"
+  },
+  "description": {
+    "en": "Julius Caesar is the well&#8212;known Roman general who played a major role in the transformation of the Roman Republic into the Roman Empire. He was assassinated by a group of Roman senators."
+  },
+  "article": {
+    "en": "Born into the republic of Rome in approximately 100 B.C., Julius Caesar was one of the most successful war generals in history, having never lost a war. Moreover, a political genius with great ambition, he engineered the great Triumvirate, which divided power between three warring factions, saving what was a burgeoning Roman Empire from civil war. However, eventually, Caesar took advantage of political forces, his military prowess, and happenstance to amass great power and was eventually named &#34;dictator for life.&#34; <BR /><BR />Under his influence, the republic of Rome transformed into the Roman Empire. But shortly thereafter, Caesar was assassinated on March 15, 44 B.C., the date know as the Ides of March. During his eventful life, he was once captured by pirates, was a respected writer, and had an extramarital affair with Cleopatra, whom he would help gain the throne of Egypt. Caesar was the great uncle and adoptive father of Caesar Augustus, the Roman emperor who ordered the census at the time of Jesus&#39; birth."
+  },
   "related": [
     {
       "slug": "augustus-caesar",
-      "titleEn": "Augustus Caesar",
-      "titleKa": null
+      "title": {
+        "en": "Augustus Caesar"
+      }
     }
   ],
   "images": [

@@ -2,35 +2,27 @@
   "slug": "mattathias-son-of-amos",
   "id": 568,
   "period": 8,
-  "titleEn": "Mattathias",
-  "titleKa": null,
-  "datesEn": "205&ndash;125 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;gift of God.&#34; He is the son of Amos and father of Joseph (not to be confused with Jesus&#39; father or Jacob&#39;s son), a Judahite listed in Luke&#39;s genealogy of Jesus Christ.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:25",
-      "verses": [
-        {
-          "number": 25,
-          "line": "Which was the son of Mattathias, which was the son of Amos, which was the son of Naum, which was the son of Esli, which was the son of Nagge,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Mattathias"
+  },
+  "dates": {
+    "en": "205&ndash;125 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;gift of God.&#34; He is the son of Amos and father of Joseph (not to be confused with Jesus&#39; father or Jacob&#39;s son), a Judahite listed in Luke&#39;s genealogy of Jesus Christ."
+  },
   "related": [
     {
       "slug": "amos",
-      "titleEn": "Amos",
-      "titleKa": null
+      "title": {
+        "en": "Amos"
+      }
     },
     {
       "slug": "joseph-son-of-mattathias",
-      "titleEn": "Joseph",
-      "titleKa": null
+      "title": {
+        "en": "Joseph"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "Tomb of Mattathias ben Johanan, Israel. Photographed by Ariel Palmon."
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:25",
+        "verses": [
+          {
+            "number": 25,
+            "line": "Which was the son of Mattathias, which was the son of Amos, which was the son of Naum, which was the son of Esli, which was the son of Nagge,"
+          }
+        ]
+      }
+    ]
+  }
 }

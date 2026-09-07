@@ -1,14 +1,15 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue'
-import type { TimelineEvent } from '@/types/event'
+import type { LaidOutEvent } from '@lib/types'
 import { useI18n } from 'vue-i18n'
-import { PERIOD_BY_ID } from '@/data/periods'
+import { useTimelineConfig } from '@lib/config'
+import { useLocalized, localizeEraTokens } from '@lib/i18n'
 import { htmlToPlainText } from '@/utils/htmlText'
 import { withBase } from '@/utils/assetUrl'
 import { log } from '@/utils/log'
 
 const props = defineProps<{
-  event: TimelineEvent
+  event: LaidOutEvent
   /**
    * Vertical band offset (px) from TimelineStage. Non-zero shifts this
    * event below the row's primary band so it doesn't visually overlap
@@ -16,36 +17,33 @@ const props = defineProps<{
    */
   topOffset?: number
 }>()
-const emit = defineEmits<{ click: [event: TimelineEvent] }>()
+const emit = defineEmits<{ click: [event: LaidOutEvent] }>()
 
 function onClick() {
   log.ui('EventItem click', { slug: props.event.slug, type: props.event.type, period: props.event.period })
   emit('click', props.event)
 }
 const { locale, t } = useI18n()
+const { l, pick } = useLocalized()
+const config = useTimelineConfig()
 
 const imageError = ref(false)
 
-const title = computed(() =>
-  locale.value === 'ka' && props.event.titleKa ? props.event.titleKa : props.event.titleEn
-)
-// Localize the BC/AD suffix in the date subtitle when displaying KA. If
-// the event ships a hand-translated `datesKa` we use it as-is; otherwise
-// substitute "BC" / "AD" in `datesEn` with the localized abbreviations.
-// See issue #47 (event titleKa is gated on a separate content task).
+const title = computed(() => l(props.event.title))
+// Localize the BC/AD suffix in the date subtitle. A label authored in the
+// active locale is used as-is; one borrowed from a fallback locale gets its
+// era tokens substituted with the localized abbreviations. See issue #47.
 const dates = computed(() => {
-  if (locale.value === 'ka' && props.event.datesKa) return props.event.datesKa
-  const en = props.event.datesEn ?? ''
-  if (locale.value !== 'ka') return en
-  return en
-    .replace(/\bBC\b/g, t('timeline.bc'))
-    .replace(/\bAD\b/g, t('timeline.ad'))
+  const entry = pick(props.event.dates)
+  if (!entry) return ''
+  if (entry.locale === locale.value) return entry.text
+  return localizeEraTokens(entry.text, { bc: t('timeline.bc'), ad: t('timeline.ad') })
 })
 // Plain-text version for use inside title/alt attributes (browsers don't
 // decode HTML inside attributes; raw <span> and entities would be visible).
 const datesPlain = computed(() => htmlToPlainText(dates.value))
 
-const showImage = computed(() => props.event.imagePath && !imageError.value)
+const showImage = computed(() => props.event.image && !imageError.value)
 
 // Effective rendered width: data is 0 for ~84% of events because the source
 // HTML omits an inline style. The reference site falls back to a 260px CSS
@@ -64,15 +62,15 @@ const computedTop = computed(() => {
 })
 
 // Build a URL-safe path for the event-specific thumbnail.
-// imagePath is like "media/images/t/filename.jpg" — encode each segment
+// image is like "media/images/t/filename.jpg" — encode each segment
 // then prefix with the deploy base so it works on subpaths (GH Pages).
 const imageUrl = computed(() => {
-  if (!props.event.imagePath) return ''
-  const encoded = props.event.imagePath.split('/').map(p => encodeURIComponent(p)).join('/')
+  if (!props.event.image) return ''
+  const encoded = props.event.image.split('/').map(p => encodeURIComponent(p)).join('/')
   return withBase(encoded)
 })
 
-const periodData = computed(() => PERIOD_BY_ID[props.event.period])
+const periodData = computed(() => config.byId[props.event.period])
 const periodColor = computed(() => periodData.value?.color ?? '#555')
 
 function onImageError() {
@@ -120,7 +118,7 @@ function onImageError() {
     <!-- Label -->
     <div
       class="info"
-      :class="event.labelStyle === 'full' ? 'info-full' : ''"
+      :class="event.bar ? 'info-full' : ''"
     >
       <h3>{{ title }}</h3>
       <!-- eslint-disable-next-line vue/no-v-html -->

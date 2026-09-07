@@ -1,13 +1,16 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue'
 import { useI18n } from 'vue-i18n'
+import { useTimelineConfig } from '@lib/config'
+import { useLocalized } from '@lib/i18n'
 
 defineEmits<{ (e: 'close'): void }>()
 
-const { t, tm } = useI18n()
+const { t } = useI18n()
+const { l } = useLocalized()
+const config = useTimelineConfig()
 
-interface FaqItem { q: string; a: string }
-const items = computed(() => (tm('faq.items') as FaqItem[]) ?? [])
+const items = computed(() => config.content.faq.map(f => ({ q: l(f.q), a: l(f.a) })))
 const activeIndex = ref(0)
 </script>
 

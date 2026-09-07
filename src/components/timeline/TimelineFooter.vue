@@ -1,23 +1,19 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useTimelineStore } from '@/stores/timeline'
-import { PERIODS } from '@/data/periods'
-import { useI18n } from 'vue-i18n'
+import { useTimelineConfig } from '@lib/config'
+import { useLocalized } from '@lib/i18n'
 import PeriodColorBar from './PeriodColorBar.vue'
 
 const tlStore = useTimelineStore()
-const { locale, t } = useI18n()
+const config = useTimelineConfig()
+const { l } = useLocalized()
+const periods = config.periods
 
 const activePeriod = computed(() => tlStore.activePeriod)
-const activePeriodData = computed(() => PERIODS[activePeriod.value - 1])
-const activePeriodName = computed(() => {
-  const p = activePeriodData.value
-  return locale.value === 'ka' ? (p.nameKa ?? p.nameEn) : p.nameEn
-})
-const activeEraName = computed(() => {
-  const p = activePeriodData.value
-  return t(`eras.${p.era}`)
-})
+const activePeriodData = computed(() => tlStore.activePeriodData)
+const activePeriodName = computed(() => l(activePeriodData.value.name))
+const activeEraName = computed(() => l(config.eraById[activePeriodData.value.era]?.name))
 
 function goToPeriod(id: number) {
   tlStore.activePeriod = id
@@ -28,7 +24,7 @@ function goToPeriod(id: number) {
 
 <template>
   <div class="period-bar flex-col gap-0 px-0">
-    <!-- 13-segment color bar -->
+    <!-- Per-period color bar -->
     <PeriodColorBar />
 
     <!-- Dots + period info row -->
@@ -36,7 +32,7 @@ function goToPeriod(id: number) {
       <!-- Period dots -->
       <div class="flex items-center gap-1.5 flex-1">
         <button
-          v-for="p in PERIODS"
+          v-for="p in periods"
           :key="p.id"
           data-testid="period-dot"
           class="rounded-full transition-all duration-200 flex-shrink-0"
@@ -47,7 +43,7 @@ function goToPeriod(id: number) {
             background: p.color,
             boxShadow: p.id === activePeriod ? `0 0 8px ${p.color}` : 'none',
           }"
-          :title="locale === 'ka' ? (p.nameKa ?? p.nameEn) : p.nameEn"
+          :title="l(p.name)"
           @click="goToPeriod(p.id)"
         />
       </div>

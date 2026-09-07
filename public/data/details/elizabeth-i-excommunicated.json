@@ -2,20 +2,24 @@
   "slug": "elizabeth-i-excommunicated",
   "id": 1378,
   "period": 12,
-  "titleEn": "Elizabeth I Excommunicated ",
-  "titleKa": null,
-  "datesEn": "1570 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Pope Pius V excommunicated Elizabeth I in attempt to cause the English people to usurp her power and restore England to the Catholic faith.",
-  "descriptionKa": null,
-  "articleEn": "After the reign of Bloody Mary, Elizabeth I ended the fierce persecutions of Protestants. Instead of chastising the queen for her less than ardent Catholic faith, the Vatican hoped to win back England through the art of diplomacy. <BR /><BR />For about 10 years, nothing seemed to be moving forward, so Pope Pius V resorted to more drastic measures. In 1569 a rebellion broke out in the north. In hopes that the queen&#39;s people would overthrow the Crown, the pope excommunicated Elizabeth I. However, the rebellion had already been quelled by the time Regnans in Excelsis, a papal bull, arrived in England.<BR /><BR />As a result, Elizabeth began to hunt down Catholic priests living in England and execute them for treason. During her reign, more than 200 Catholic priests were killed.<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Elizabeth I Excommunicated "
+  },
+  "dates": {
+    "en": "1570 <span>AD</span>"
+  },
+  "description": {
+    "en": "Pope Pius V excommunicated Elizabeth I in attempt to cause the English people to usurp her power and restore England to the Catholic faith."
+  },
+  "article": {
+    "en": "After the reign of Bloody Mary, Elizabeth I ended the fierce persecutions of Protestants. Instead of chastising the queen for her less than ardent Catholic faith, the Vatican hoped to win back England through the art of diplomacy. <BR /><BR />For about 10 years, nothing seemed to be moving forward, so Pope Pius V resorted to more drastic measures. In 1569 a rebellion broke out in the north. In hopes that the queen&#39;s people would overthrow the Crown, the pope excommunicated Elizabeth I. However, the rebellion had already been quelled by the time Regnans in Excelsis, a papal bull, arrived in England.<BR /><BR />As a result, Elizabeth began to hunt down Catholic priests living in England and execute them for treason. During her reign, more than 200 Catholic priests were killed.<BR />"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

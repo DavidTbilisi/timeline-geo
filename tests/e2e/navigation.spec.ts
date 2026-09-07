@@ -1,4 +1,5 @@
 import { test, expect } from './fixtures'
+import { PERIODS, SITE, l } from './content'
 
 test.describe('Navigation & Routing', () => {
   test('root path redirects to or renders the landing page', async ({ page }) => {
@@ -13,14 +14,9 @@ test.describe('Navigation & Routing', () => {
   })
 
   test('/period/:slug routes load the correct period', async ({ page }) => {
-    const slugs: [string, string][] = [
-      ['first-generation',       'პირველი თაობა'],
-      ['noah-and-the-flood',     'ნოე და წარღვნა'],
-      ['the-patriarchs',         'პატრიარქები'],
-      ['egypt-to-canaan',        'ეგვიპტედან კანაანამდე'],
-      ['life-of-christ',         'ქრისტეს ცხოვრება'],
-      ['revelation-prophecies',  'გამოცხადების წინასწარმეტყველებები'],
-    ]
+    // A spread of periods across the timeline: first, second, third, middle, last.
+    const picks = [0, 1, 2, Math.floor(PERIODS.length / 2), PERIODS.length - 1]
+    const slugs = picks.map(i => [PERIODS[i].slug, l(PERIODS[i].name)] as const)
 
     for (const [slug, georgianName] of slugs) {
       await page.goto(`/period/${slug}`)
@@ -32,7 +28,7 @@ test.describe('Navigation & Routing', () => {
 
   test('app menu logo click navigates to landing', async ({ page }) => {
     await page.goto('/period/first-generation')
-    await page.locator('button:has-text("ბიბლიური ქრონოლოგია")').click()
+    await page.locator(`button:has-text("${l(SITE.title)}")`).click()
     await expect(page).toHaveURL('/')
   })
 
@@ -77,11 +73,11 @@ test.describe('i18n – Language Switch', () => {
 
     // Switch to English
     await page.locator('button:has-text("EN")').click()
-    await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText('First Generation')
+    await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText(l(PERIODS[0].name, 'en'))
 
     // Switch back to Georgian
     await page.locator('button:has-text("ქა")').click()
-    await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText('პირველი თაობა')
+    await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText(l(PERIODS[0].name))
   })
 
   test('year bubble uses Georgian BC suffix', async ({ page }) => {

@@ -2,117 +2,96 @@
   "slug": "abraham",
   "id": 640,
   "period": 3,
-  "titleEn": "Abraham",
-  "titleKa": null,
-  "datesEn": "1946&ndash;1771 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;father of a multitude.&#34; He is the son of Terah and father of Isaac. Abram, later Abraham, was called by God to leave Ur and go to the land of Canaan where his descendents would become a great nation. He is known as a friend of God.",
-  "descriptionKa": null,
-  "articleEn": "Abraham was born in 1950 b.c. left Haran for Canaan after the death of his father in 1875 b.c., visited Egypt between 1875 and 1864 b.c., and died in 1775 b.c. after having lived in Canaan for 100 years. He was born in Ur in southern Mesopotamia during the Neo&#8212;Sumerian period. In about 1960 b.c., according to the so&#8212;called Low Chronology, shortly before his birth, the strong 3d dynasty of Ur, which had ruled for more than 100 years, came to an end, and was replaced by the rival dynasties of Isin and Larsa, under which Ur declined somewhat in importance as a political center in the Mesopotamian valley. <BR /><BR />During the 75 years that Abraham lived in Ur and Haran the country was under the domination of Sumerian rulers, although the Amorites, who had already taken over most of Syria and Palestine, were already pouring into Mesopotamia. By 1830 b.c. they founded the powerful 1st dynasty of Babylon, whose 6th king, Hammurabi (c. 1728&#8212;1686 b.c.), became the strongest ruler.<BR /><BR />When Abraham entered Canaan he found the country for the greater part in the hands of the Amorites. The country was not a unified state, however, but consisted of numerous city&#8212;states of various sizes with kings and kinglets of Amorite stock forming the ruling class. Egypt, on the other hand, was at that time ruled by the powerful kings of the 12th dynasty (1991 to c. 1780 b.c.). If Abraham was in Egypt between 1875 and 1864 b.c. (see Gen 12) he must have met Sesostris III as king of Egypt who ruled from 1878 to 1840 b.c. <BR /><BR />According to ancient records this king conducted a military campaign into Palestine, directing it against Skmm, which is probably Shechem, but did not occupy the country. It seems that the campaign was a punitive raid, and that its object was not conquest.  During Abraham&#39;s time occurred the military campaigns described in Gen 14. None of the kings mentioned in the narrative can be identified with monarchs known from secular sources, however, archeological evidence confirms the narrative. <BR /><BR />The explorations of Albright and Glueck have brought to light evidence that a flourishing culture and many cities in Transjordan were destroyed in the 20th or 19th cent. b.c., and that the country remained almost entirely uninhabited for several centuries afterward. There is also some evidence that Sodom and Gomorrah, which presumably lay at the southern end of the Dead Sea, were destroyed at that time (see Sodom). The cities Sodom and Gomorrah are mentioned in a cuneiform text from *Ebla of the prepatriarchal period.<BR /><BR />The life of Abraham may be considered under four major periods: (1) His life prior to his journeying to Canaan, at the age of 75. (2) His early sojourn in Canaan to the birth of his son Isaac, a period of 25 years. (3) His life from the birth of Isaac to the death of Sarah and the marriage of Isaac to Rebekah, about 40 years. (4) His later life, old age, and death, about 35 years.",
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Genesis 11:26",
-      "verses": [
-        {
-          "number": 26,
-          "line": "And Terah lived seventy years, and begat Abram, Nahor, and Haran."
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 25:8",
-      "verses": [
-        {
-          "number": 8,
-          "line": "Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people."
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 11:26",
-      "verses": [
-        {
-          "number": 26,
-          "line": "And Terah lived seventy years, and begat Abram, Nahor, and Haran."
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 25:8",
-      "verses": [
-        {
-          "number": 8,
-          "line": "Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people."
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Abraham"
+  },
+  "dates": {
+    "en": "1946&ndash;1771 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;father of a multitude.&#34; He is the son of Terah and father of Isaac. Abram, later Abraham, was called by God to leave Ur and go to the land of Canaan where his descendents would become a great nation. He is known as a friend of God."
+  },
+  "article": {
+    "en": "Abraham was born in 1950 b.c. left Haran for Canaan after the death of his father in 1875 b.c., visited Egypt between 1875 and 1864 b.c., and died in 1775 b.c. after having lived in Canaan for 100 years. He was born in Ur in southern Mesopotamia during the Neo&#8212;Sumerian period. In about 1960 b.c., according to the so&#8212;called Low Chronology, shortly before his birth, the strong 3d dynasty of Ur, which had ruled for more than 100 years, came to an end, and was replaced by the rival dynasties of Isin and Larsa, under which Ur declined somewhat in importance as a political center in the Mesopotamian valley. <BR /><BR />During the 75 years that Abraham lived in Ur and Haran the country was under the domination of Sumerian rulers, although the Amorites, who had already taken over most of Syria and Palestine, were already pouring into Mesopotamia. By 1830 b.c. they founded the powerful 1st dynasty of Babylon, whose 6th king, Hammurabi (c. 1728&#8212;1686 b.c.), became the strongest ruler.<BR /><BR />When Abraham entered Canaan he found the country for the greater part in the hands of the Amorites. The country was not a unified state, however, but consisted of numerous city&#8212;states of various sizes with kings and kinglets of Amorite stock forming the ruling class. Egypt, on the other hand, was at that time ruled by the powerful kings of the 12th dynasty (1991 to c. 1780 b.c.). If Abraham was in Egypt between 1875 and 1864 b.c. (see Gen 12) he must have met Sesostris III as king of Egypt who ruled from 1878 to 1840 b.c. <BR /><BR />According to ancient records this king conducted a military campaign into Palestine, directing it against Skmm, which is probably Shechem, but did not occupy the country. It seems that the campaign was a punitive raid, and that its object was not conquest.  During Abraham&#39;s time occurred the military campaigns described in Gen 14. None of the kings mentioned in the narrative can be identified with monarchs known from secular sources, however, archeological evidence confirms the narrative. <BR /><BR />The explorations of Albright and Glueck have brought to light evidence that a flourishing culture and many cities in Transjordan were destroyed in the 20th or 19th cent. b.c., and that the country remained almost entirely uninhabited for several centuries afterward. There is also some evidence that Sodom and Gomorrah, which presumably lay at the southern end of the Dead Sea, were destroyed at that time (see Sodom). The cities Sodom and Gomorrah are mentioned in a cuneiform text from *Ebla of the prepatriarchal period.<BR /><BR />The life of Abraham may be considered under four major periods: (1) His life prior to his journeying to Canaan, at the age of 75. (2) His early sojourn in Canaan to the birth of his son Isaac, a period of 25 years. (3) His life from the birth of Isaac to the death of Sarah and the marriage of Isaac to Rebekah, about 40 years. (4) His later life, old age, and death, about 35 years."
+  },
   "related": [
     {
       "slug": "terah",
-      "titleEn": "Terah",
-      "titleKa": null
+      "title": {
+        "en": "Terah"
+      }
     },
     {
       "slug": "marriage-of-abraham-and-sarah",
-      "titleEn": "Marriage of Abraham and Sarah",
-      "titleKa": null
+      "title": {
+        "en": "Marriage of Abraham and Sarah"
+      }
     },
     {
       "slug": "abram-called-and-departs-haran",
-      "titleEn": "Abram Called and Departs Haran",
-      "titleKa": null
+      "title": {
+        "en": "Abram Called and Departs Haran"
+      }
     },
     {
       "slug": "famine-in-the-land",
-      "titleEn": "Famine in the Land",
-      "titleKa": null
+      "title": {
+        "en": "Famine in the Land"
+      }
     },
     {
       "slug": "sarah-and-egyptian-king",
-      "titleEn": "Sarah and Egyptian King",
-      "titleKa": null
+      "title": {
+        "en": "Sarah and Egyptian King"
+      }
     },
     {
       "slug": "abram-delivers-sodom-from-four-kings",
-      "titleEn": "Abram Delivers Sodom from Four Kings",
-      "titleKa": null
+      "title": {
+        "en": "Abram Delivers Sodom from Four Kings"
+      }
     },
     {
       "slug": "abram-blessed-by-melchizedek",
-      "titleEn": "Abram Blessed by Melchizedek",
-      "titleKa": null
+      "title": {
+        "en": "Abram Blessed by Melchizedek"
+      }
     },
     {
       "slug": "gods-covenant-with-abram-smoking-furnace",
-      "titleEn": "God's Covenant with Abram / Smoking Furnace",
-      "titleKa": null
+      "title": {
+        "en": "God's Covenant with Abram / Smoking Furnace"
+      }
     },
     {
       "slug": "ishmael-conceived",
-      "titleEn": "Ishmael Conceived",
-      "titleKa": null
+      "title": {
+        "en": "Ishmael Conceived"
+      }
     },
     {
       "slug": "ishmael",
-      "titleEn": "Ishmael",
-      "titleKa": null
+      "title": {
+        "en": "Ishmael"
+      }
     },
     {
       "slug": "abram-becomes-abraham-covenant-of-circumcision",
-      "titleEn": "Abram becomes Abraham, Covenant of Circumcision",
-      "titleKa": null
+      "title": {
+        "en": "Abram becomes Abraham, Covenant of Circumcision"
+      }
     },
     {
       "slug": "isaac",
-      "titleEn": "Isaac",
-      "titleKa": null
+      "title": {
+        "en": "Isaac"
+      }
     },
     {
       "slug": "abrahams-call-to-sacrifice-isaac",
-      "titleEn": "Abraham's Call to Sacrifice Isaac",
-      "titleKa": null
+      "title": {
+        "en": "Abraham's Call to Sacrifice Isaac"
+      }
     }
   ],
   "images": [
@@ -194,5 +173,45 @@
       "caption": "The last in a 12 part series on the life of Abraham. This sermon focuses on the search for a bride for Isaac.",
       "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg2422.mp4"
     }
-  ]
+  ],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Genesis 11:26",
+        "verses": [
+          {
+            "number": 26,
+            "line": "And Terah lived seventy years, and begat Abram, Nahor, and Haran."
+          }
+        ]
+      },
+      {
+        "reference": "Genesis 25:8",
+        "verses": [
+          {
+            "number": 8,
+            "line": "Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people."
+          }
+        ]
+      },
+      {
+        "reference": "Genesis 11:26",
+        "verses": [
+          {
+            "number": 26,
+            "line": "And Terah lived seventy years, and begat Abram, Nahor, and Haran."
+          }
+        ]
+      },
+      {
+        "reference": "Genesis 25:8",
+        "verses": [
+          {
+            "number": 8,
+            "line": "Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people."
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -2,20 +2,24 @@
   "slug": "zwingli-begins-his-ministry",
   "id": 1341,
   "period": 12,
-  "titleEn": "Zwingli Begins His Ministry ",
-  "titleKa": null,
-  "datesEn": "1519 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Zwingli began his ministry in January 1519 in Zurich, Switzerland.",
-  "descriptionKa": null,
-  "articleEn": "<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Zwingli Begins His Ministry "
+  },
+  "dates": {
+    "en": "1519 <span>AD</span>"
+  },
+  "description": {
+    "en": "Zwingli began his ministry in January 1519 in Zurich, Switzerland."
+  },
+  "article": {
+    "en": "<BR />"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

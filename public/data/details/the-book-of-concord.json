@@ -2,20 +2,24 @@
   "slug": "the-book-of-concord",
   "id": 1380,
   "period": 12,
-  "titleEn": "The Book of Concord ",
-  "titleKa": null,
-  "datesEn": "1580 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "A collection of 10 creedal documents that synthesize the Lutheran faith.",
-  "descriptionKa": null,
-  "articleEn": "The Book of Concord is considered a synthesis of the Lutheran Faith. It is a compilation of ten creedal documents, which remain authoritative for the Lutheran community. It was first published in 1580.",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "The Book of Concord "
+  },
+  "dates": {
+    "en": "1580 <span>AD</span>"
+  },
+  "description": {
+    "en": "A collection of 10 creedal documents that synthesize the Lutheran faith."
+  },
+  "article": {
+    "en": "The Book of Concord is considered a synthesis of the Lutheran Faith. It is a compilation of ten creedal documents, which remain authoritative for the Lutheran community. It was first published in 1580."
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

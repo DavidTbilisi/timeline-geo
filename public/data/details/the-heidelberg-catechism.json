@@ -2,20 +2,24 @@
   "slug": "the-heidelberg-catechism",
   "id": 1377,
   "period": 12,
-  "titleEn": "The Heidelberg Catechism  ",
-  "titleKa": null,
-  "datesEn": "1563 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Written after the Reformed (or Calvinist) tradition of faith and still in use today.",
-  "descriptionKa": null,
-  "articleEn": "Frederick III, the Elector of the Palatinate, commissioned the Heidelberg Catechism in 1563. He had accepted the Reformed faith (Calvinism) in 1561 and ejected all of the Lutheran ministers from his territory. Calvinist ministers were brought in to replace them, and two of them, Kaspar Olevianus and Zacharias Ursinus, wrote the Heidelberg Catechism in 1563. This work became one of the Reformed Catechisms that remains authoritative today.",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "The Heidelberg Catechism  "
+  },
+  "dates": {
+    "en": "1563 <span>AD</span>"
+  },
+  "description": {
+    "en": "Written after the Reformed (or Calvinist) tradition of faith and still in use today."
+  },
+  "article": {
+    "en": "Frederick III, the Elector of the Palatinate, commissioned the Heidelberg Catechism in 1563. He had accepted the Reformed faith (Calvinism) in 1561 and ejected all of the Lutheran ministers from his territory. Calvinist ministers were brought in to replace them, and two of them, Kaspar Olevianus and Zacharias Ursinus, wrote the Heidelberg Catechism in 1563. This work became one of the Reformed Catechisms that remains authoritative today."
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

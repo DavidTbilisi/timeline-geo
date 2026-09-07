@@ -2,25 +2,30 @@
   "slug": "antiochus-iv-persecutes-jews-and-desecrates-temple",
   "id": 572,
   "period": 8,
-  "titleEn": "Antiochus IV Persecutes Jews and Desecrates Temple",
-  "titleKa": null,
-  "datesEn": "168 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Antiochus IV Epiphanes set out to obliterate every trace of the Jewish religion and in the year 168 b.c. plundered the Temple, suspended its services, and desecrated the altar of burnt offering.",
-  "descriptionKa": null,
-  "articleEn": "Antiochus IV Epiphanes set out to obliterate every trace of the Jewish religion and in the year 168 b.c. plundered the Temple, suspended its services, and desecrated the altar of burnt offering by erecting an idol altar upon it whereon he caused swine to be offered. This state of affairs continued for at least three full years, until Judas Maccabeus rallied his fellow Jews and repulsed the forces of Antiochus.<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Antiochus IV Persecutes Jews and Desecrates Temple"
+  },
+  "dates": {
+    "en": "168 <span>BC</span>"
+  },
+  "description": {
+    "en": "Antiochus IV Epiphanes set out to obliterate every trace of the Jewish religion and in the year 168 b.c. plundered the Temple, suspended its services, and desecrated the altar of burnt offering."
+  },
+  "article": {
+    "en": "Antiochus IV Epiphanes set out to obliterate every trace of the Jewish religion and in the year 168 b.c. plundered the Temple, suspended its services, and desecrated the altar of burnt offering by erecting an idol altar upon it whereon he caused swine to be offered. This state of affairs continued for at least three full years, until Judas Maccabeus rallied his fellow Jews and repulsed the forces of Antiochus.<BR />"
+  },
   "related": [
     {
       "slug": "antiochus-iv-epiphanes",
-      "titleEn": "Antiochus IV Epiphanes",
-      "titleKa": null
+      "title": {
+        "en": "Antiochus IV Epiphanes"
+      }
     },
     {
       "slug": "maccabees-restore-temple-religious-freedom-hanukkah",
-      "titleEn": "Maccabees Restore Temple",
-      "titleKa": null
+      "title": {
+        "en": "Maccabees Restore Temple"
+      }
     }
   ],
   "images": [

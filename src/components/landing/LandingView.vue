@@ -1,14 +1,13 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue'
-import { PERIODS } from '@/data/periods'
-import { useI18n } from 'vue-i18n'
+import { useTimelineConfig } from '@lib/config'
 import PeriodCard from './PeriodCard.vue'
 import EraArch from './EraArch.vue'
 import WelcomePanel from './WelcomePanel.vue'
 import AmazingFacts from './AmazingFacts.vue'
 import { useDragScroll } from '@/composables/useDragScroll'
 
-const { t } = useI18n()
+const PERIODS = useTimelineConfig().periods
 
 /** Tracks whether the amazing-facts panel is expanded (drives .active on .landing-footer) */
 const factsExpanded = ref(false)

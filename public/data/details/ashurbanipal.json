@@ -2,25 +2,27 @@
   "slug": "ashurbanipal",
   "id": 414,
   "period": 7,
-  "titleEn": "Ashurbanipal",
-  "titleKa": null,
-  "datesEn": "690&ndash;633 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "The son of Esarhaddon, a great ruler of the kingdom of Assyria in its last glory years, best known for his great library of thousands of clay tablets in Nineveh which gives the best information on Assyrian history. They are now in the British Museum.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Ashurbanipal"
+  },
+  "dates": {
+    "en": "690&ndash;633 <span>BC</span>"
+  },
+  "description": {
+    "en": "The son of Esarhaddon, a great ruler of the kingdom of Assyria in its last glory years, best known for his great library of thousands of clay tablets in Nineveh which gives the best information on Assyrian history. They are now in the British Museum."
+  },
   "related": [
     {
       "slug": "esarhaddon",
-      "titleEn": "Esarhaddon",
-      "titleKa": null
+      "title": {
+        "en": "Esarhaddon"
+      }
     },
     {
       "slug": "ashurbanipal-defeats-elam",
-      "titleEn": "Ashurbanipal Defeats Elam",
-      "titleKa": null
+      "title": {
+        "en": "Ashurbanipal Defeats Elam"
+      }
     }
   ],
   "images": [

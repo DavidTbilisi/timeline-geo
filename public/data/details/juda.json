@@ -2,35 +2,27 @@
   "slug": "juda",
   "id": 951,
   "period": 7,
-  "titleEn": "Juda",
-  "titleKa": null,
-  "datesEn": "827&ndash;747 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;let God be praised.&#34; There are many similar names and different spellings for &#34;Juda&#34;: Judah, Judas, etc. This &#34;Juda&#34; KJV is found in the genealogy of Jesus in Luke as the son of Joseph. He was from Judah before the exile to Babylon.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:30",
-      "verses": [
-        {
-          "number": 30,
-          "line": "Which was the son of Simeon, which was the son of Juda, which was the son of Joseph, which was the son of Jonan, which was the son of Eliakim,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Juda"
+  },
+  "dates": {
+    "en": "827&ndash;747 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;let God be praised.&#34; There are many similar names and different spellings for &#34;Juda&#34;: Judah, Judas, etc. This &#34;Juda&#34; KJV is found in the genealogy of Jesus in Luke as the son of Joseph. He was from Judah before the exile to Babylon."
+  },
   "related": [
     {
       "slug": "joseph-son-of-jonan",
-      "titleEn": "Joseph",
-      "titleKa": null
+      "title": {
+        "en": "Joseph"
+      }
     },
     {
       "slug": "simeon-son-of-juda",
-      "titleEn": "Simeon",
-      "titleKa": null
+      "title": {
+        "en": "Simeon"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "Ancestor of Jesus"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:30",
+        "verses": [
+          {
+            "number": 30,
+            "line": "Which was the son of Simeon, which was the son of Juda, which was the son of Joseph, which was the son of Jonan, which was the son of Eliakim,"
+          }
+        ]
+      }
+    ]
+  }
 }

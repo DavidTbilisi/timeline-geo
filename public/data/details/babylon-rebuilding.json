@@ -2,20 +2,24 @@
   "slug": "babylon-rebuilding",
   "id": 420,
   "period": 7,
-  "titleEn": "Babylon Rebuilding",
-  "titleKa": null,
-  "datesEn": "681&ndash;676 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Sennacherib destroyed the city in 689 BC, but its reconstruction began right after his death and was supported by his successor.",
-  "descriptionKa": null,
-  "articleEn": "Sennacherib became so incensed at these frequent rebellions that he systematically and thoroughly destroyed the city in 689 b.c., intending that it should not be rebuilt. However, public opinion even in his homeland was against so rash a deed, and the rebuilding of the city began immediately after Sennacherib&#39;s death.",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Babylon Rebuilding"
+  },
+  "dates": {
+    "en": "681&ndash;676 <span>BC</span>"
+  },
+  "description": {
+    "en": "Sennacherib destroyed the city in 689 BC, but its reconstruction began right after his death and was supported by his successor."
+  },
+  "article": {
+    "en": "Sennacherib became so incensed at these frequent rebellions that he systematically and thoroughly destroyed the city in 689 b.c., intending that it should not be rebuilt. However, public opinion even in his homeland was against so rash a deed, and the rebuilding of the city began immediately after Sennacherib&#39;s death."
+  },
   "related": [
     {
       "slug": "sennacherib-razes-babylon",
-      "titleEn": "Sennacherib Razes Babylon",
-      "titleKa": null
+      "title": {
+        "en": "Sennacherib Razes Babylon"
+      }
     }
   ],
   "images": [

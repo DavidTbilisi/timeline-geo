@@ -1,11 +1,13 @@
 <script setup lang="ts">
 import { ref, onUnmounted, watch } from 'vue'
-import type { Video } from '@/types/detail'
+import { useI18n } from 'vue-i18n'
+import type { Video } from '@lib/types'
 
 const props = defineProps<{
   videos: Video[]
 }>()
 
+const { t } = useI18n()
 const activeIndex = ref(0)
 const videoEl = ref<HTMLVideoElement | null>(null)
 
@@ -72,7 +74,7 @@ const currentVideo = () => props.videos[activeIndex.value] ?? props.videos[0]
           data-testid="video-player"
         >
           <source :src="currentVideo().filename" type="video/mp4" />
-          Your browser does not support HTML5 video.
+          {{ t('detail.videoUnsupported') }}
         </video>
       </div>
 

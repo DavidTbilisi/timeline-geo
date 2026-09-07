@@ -2,30 +2,21 @@
   "slug": "abiud",
   "id": 544,
   "period": 8,
-  "titleEn": "Abiud",
-  "titleKa": null,
-  "datesEn": "475&ndash;400 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Meaning of name unknown. The son of Zorobabel or Zerubbabel and the father of Eliakim, listed in Matthew&#39;s genealogy of Jesus Christ.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Matthew 1:13",
-      "verses": [
-        {
-          "number": 13,
-          "line": "And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Abiud"
+  },
+  "dates": {
+    "en": "475&ndash;400 <span>BC</span>"
+  },
+  "description": {
+    "en": "Meaning of name unknown. The son of Zorobabel or Zerubbabel and the father of Eliakim, listed in Matthew&#39;s genealogy of Jesus Christ."
+  },
   "related": [
     {
       "slug": "eliakim",
-      "titleEn": "Eliakim",
-      "titleKa": null
+      "title": {
+        "en": "Eliakim"
+      }
     }
   ],
   "images": [
@@ -34,5 +25,18 @@
       "caption": "And Zorobabel begat <b>Abiud</b>; and Abiud begat Eliakim; and Eliakim begat Azor; (Matthew 1:13)"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Matthew 1:13",
+        "verses": [
+          {
+            "number": 13,
+            "line": "And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;"
+          }
+        ]
+      }
+    ]
+  }
 }

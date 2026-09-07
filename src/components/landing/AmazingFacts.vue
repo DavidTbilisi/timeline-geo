@@ -1,20 +1,25 @@
 <script setup lang="ts">
 import { ref, computed, onMounted } from 'vue'
 import { useI18n } from 'vue-i18n'
+import { useLocalized } from '@lib/i18n'
+import type { LocalizedString } from '@lib/types'
+// Bible-specific panel: reads its own content until it becomes a landing plugin.
+import factsJson from '@content/amazing-facts.json'
 
-const { t, tm } = useI18n()
+const { t } = useI18n()
+const { l } = useLocalized()
 
-const facts = computed(() => (tm('landing.amazingFacts') as string[]) ?? [])
+const facts = factsJson as LocalizedString[]
 const index = ref(0)
 
 function pickRandom() {
-  if (!facts.value.length) return
-  index.value = Math.floor(Math.random() * facts.value.length)
+  if (!facts.length) return
+  index.value = Math.floor(Math.random() * facts.length)
 }
 
 onMounted(pickRandom)
 
-const current = computed(() => facts.value[index.value] ?? '')
+const current = computed(() => l(facts[index.value]))
 
 const emit = defineEmits<{ toggle: [] }>()
 

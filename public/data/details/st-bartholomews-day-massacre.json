@@ -2,20 +2,24 @@
   "slug": "st-bartholomews-day-massacre",
   "id": 1379,
   "period": 12,
-  "titleEn": "St. Bartholomew's Day Massacre ",
-  "titleKa": null,
-  "datesEn": "1572 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Consisted of angry mobs killing thousands of Huguenots over a period of several days.",
-  "descriptionKa": null,
-  "articleEn": "During the French Reformation, there were intermittent wars between the Huguenots and the Catholics. During a relative time of peace, a great massacre began in Paris.<BR /><BR />The killing started on August 23, 1572, (St. Bartholomew&#39;s Day) when many Huguenot leaders were killed in their beds or murdered as they tried to escape. The bloodthirsty mobs continued to move throughout Paris, killing anyone in their path over a three&#8212;day period. The violence eventually spread to other cities, and thousands more were slaughtered. About 20,000 people were killed during the massacre and, apparently, the River Rhone turned blood red with numerous corpses floating downstream.<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "St. Bartholomew's Day Massacre "
+  },
+  "dates": {
+    "en": "1572 <span>AD</span>"
+  },
+  "description": {
+    "en": "Consisted of angry mobs killing thousands of Huguenots over a period of several days."
+  },
+  "article": {
+    "en": "During the French Reformation, there were intermittent wars between the Huguenots and the Catholics. During a relative time of peace, a great massacre began in Paris.<BR /><BR />The killing started on August 23, 1572, (St. Bartholomew&#39;s Day) when many Huguenot leaders were killed in their beds or murdered as they tried to escape. The bloodthirsty mobs continued to move throughout Paris, killing anyone in their path over a three&#8212;day period. The violence eventually spread to other cities, and thousands more were slaughtered. About 20,000 people were killed during the massacre and, apparently, the River Rhone turned blood red with numerous corpses floating downstream.<BR />"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

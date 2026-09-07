@@ -1,24 +1,23 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import { PERIODS, SIDEBAR_WIDTH } from '@/data/periods'
-import { useI18n } from 'vue-i18n'
+import { useTimelineConfig } from '@lib/config'
+import { useLocalized } from '@lib/i18n'
 import { withBase } from '@/utils/assetUrl'
 
 /**
  * Renders a single sidebar panel for a given period.
- * All 13 panels are placed side by side in a strip inside TimelineView;
+ * All panels are placed side by side in a strip inside TimelineView;
  * the strip is translated so the active period's panel is visible.
  */
 const props = defineProps<{ periodId: number; active?: boolean }>()
 
-const { locale } = useI18n()
+const config = useTimelineConfig()
+const { l } = useLocalized()
+const SIDEBAR_WIDTH = config.layout.sidebarWidth
 
-const period = computed(() => PERIODS[props.periodId - 1])
-const name = computed(() => locale.value === 'ka' ? (period.value.nameKa ?? period.value.nameEn) : period.value.nameEn)
-const description = computed(() => locale.value === 'ka'
-  ? (period.value.descriptionKa ?? period.value.descriptionEn)
-  : period.value.descriptionEn
-)
+const period = computed(() => config.byId[props.periodId] ?? config.periods[0])
+const name = computed(() => l(period.value.name))
+const description = computed(() => l(period.value.description))
 </script>
 
 <template>
@@ -30,6 +29,7 @@ const description = computed(() => locale.value === 'ka'
   >
     <!-- Background image fills the panel -->
     <div
+      v-if="period.sidebarImage"
       class="absolute inset-0 bg-cover bg-center"
       :style="{ backgroundImage: `url('${withBase(period.sidebarImage)}')` }"
     />

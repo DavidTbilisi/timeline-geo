@@ -2,35 +2,24 @@
   "slug": "semei",
   "id": 552,
   "period": 8,
-  "titleEn": "Semei",
-  "titleKa": null,
-  "datesEn": "380&ndash;300 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": null,
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:26",
-      "verses": [
-        {
-          "number": 26,
-          "line": "Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of Juda,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Semei"
+  },
+  "dates": {
+    "en": "380&ndash;300 <span>BC</span>"
+  },
   "related": [
     {
       "slug": "joseph-or-josech",
-      "titleEn": "Joseph (or Josech)",
-      "titleKa": null
+      "title": {
+        "en": "Joseph (or Josech)"
+      }
     },
     {
       "slug": "mattathias-son-of-semei",
-      "titleEn": "Mattathias",
-      "titleKa": null
+      "title": {
+        "en": "Mattathias"
+      }
     }
   ],
   "images": [
@@ -39,5 +28,18 @@
       "caption": "Which was the son of Maath, which was the son of Mattathias, which was the son of <b>Semei</b>, which was the son of Joseph, which was the son of Juda, (Luke 3:26)"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:26",
+        "verses": [
+          {
+            "number": 26,
+            "line": "Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of Juda,"
+          }
+        ]
+      }
+    ]
+  }
 }

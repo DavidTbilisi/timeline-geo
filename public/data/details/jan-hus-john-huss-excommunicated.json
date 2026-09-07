@@ -2,20 +2,24 @@
   "slug": "jan-hus-john-huss-excommunicated",
   "id": 1308,
   "period": 11,
-  "titleEn": "Jan Hus (John Huss) Excommunicated",
-  "titleKa": null,
-  "datesEn": "1410 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Huss&#39;s attempts at reform were halted by his excommunication from the church in 1410 by &#34;antipope&#34; Alexander V.",
-  "descriptionKa": null,
-  "articleEn": "Pope Alexander V empowered the Archbishop to take action against all forms of Wycliffism, including the Hussite reforms, in his papal bull dated 20 December 1409. It mandated the surrender of all his books, the revocation of his doctrines, and the cessation of free preaching. Hus appealed to the pope after the bull&#39;s publication in 1410 to no avail. Hus and his followers were excommunicated, and all Wycliffe&#39;s material was burned.",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Jan Hus (John Huss) Excommunicated"
+  },
+  "dates": {
+    "en": "1410 <span>AD</span>"
+  },
+  "description": {
+    "en": "Huss&#39;s attempts at reform were halted by his excommunication from the church in 1410 by &#34;antipope&#34; Alexander V."
+  },
+  "article": {
+    "en": "Pope Alexander V empowered the Archbishop to take action against all forms of Wycliffism, including the Hussite reforms, in his papal bull dated 20 December 1409. It mandated the surrender of all his books, the revocation of his doctrines, and the cessation of free preaching. Hus appealed to the pope after the bull&#39;s publication in 1410 to no avail. Hus and his followers were excommunicated, and all Wycliffe&#39;s material was burned."
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

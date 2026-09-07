@@ -2,20 +2,24 @@
   "slug": "the-act-of-six-articles",
   "id": 1363,
   "period": 12,
-  "titleEn": "The Act of Six Articles ",
-  "titleKa": null,
-  "datesEn": "1539&ndash;1540 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Reaffirmed Catholic doctrine on six issue, including transubstantiation, celibacy, and private masses.",
-  "descriptionKa": null,
-  "articleEn": "The English Parliament passed the Act of Six Articles in 1539 during the reign of King Henry VIII. The document was very dogmatic. People who did not believe in transubstantiation (that the elements of the Lord&#39;s supper change literally into the body and blood of Christ) were rewarded with the death penalty and the Crown confiscated their property. In fact, these people did not even have the option of recanting. The Six Articles also reaffirmed Catholic doctrine on five other issues: withholding the cup from the laity during communion, clerical celibacy, vows of chastity, private Masses, and auricular confession.<BR /><BR /><BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "The Act of Six Articles "
+  },
+  "dates": {
+    "en": "1539&ndash;1540 <span>AD</span>"
+  },
+  "description": {
+    "en": "Reaffirmed Catholic doctrine on six issue, including transubstantiation, celibacy, and private masses."
+  },
+  "article": {
+    "en": "The English Parliament passed the Act of Six Articles in 1539 during the reign of King Henry VIII. The document was very dogmatic. People who did not believe in transubstantiation (that the elements of the Lord&#39;s supper change literally into the body and blood of Christ) were rewarded with the death penalty and the Crown confiscated their property. In fact, these people did not even have the option of recanting. The Six Articles also reaffirmed Catholic doctrine on five other issues: withholding the cup from the laity during communion, clerical celibacy, vows of chastity, private Masses, and auricular confession.<BR /><BR /><BR />"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

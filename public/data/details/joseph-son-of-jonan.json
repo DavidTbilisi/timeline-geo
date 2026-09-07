@@ -2,35 +2,27 @@
   "slug": "joseph-son-of-jonan",
   "id": 920,
   "period": 7,
-  "titleEn": "Joseph",
-  "titleKa": null,
-  "datesEn": "847&ndash;767 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;may he add.&#34; He is the son of Jonan listed in Luke&#39;s genealogy of Jesus Christ. Note: there are many different Josephs in the Bible.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:30",
-      "verses": [
-        {
-          "number": 30,
-          "line": "Which was the son of Simeon, which was the son of Juda, which was the son of Joseph, which was the son of Jonan, which was the son of Eliakim,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Joseph"
+  },
+  "dates": {
+    "en": "847&ndash;767 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;may he add.&#34; He is the son of Jonan listed in Luke&#39;s genealogy of Jesus Christ. Note: there are many different Josephs in the Bible."
+  },
   "related": [
     {
       "slug": "jonan-or-jonam",
-      "titleEn": "Jonan (or Jonam)",
-      "titleKa": null
+      "title": {
+        "en": "Jonan (or Jonam)"
+      }
     },
     {
       "slug": "juda",
-      "titleEn": "Juda",
-      "titleKa": null
+      "title": {
+        "en": "Juda"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "Ancestor of Jesus"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:30",
+        "verses": [
+          {
+            "number": 30,
+            "line": "Which was the son of Simeon, which was the son of Juda, which was the son of Joseph, which was the son of Jonan, which was the son of Eliakim,"
+          }
+        ]
+      }
+    ]
+  }
 }

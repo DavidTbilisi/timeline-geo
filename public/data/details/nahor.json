@@ -2,44 +2,27 @@
   "slug": "nahor",
   "id": 628,
   "period": 2,
-  "titleEn": "Nahor",
-  "titleKa": null,
-  "datesEn": "2105&ndash;1957 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;snorting.&#34; Son of Serug and the father of Terah. Nahor was the grandfather of Abraham and lived for 148 years. A city was probably founded by or named after him (Gen. 24:10).",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Genesis 11:22",
-      "verses": [
-        {
-          "number": 22,
-          "line": "And Serug lived thirty years, and begat Nahor:"
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 11:25",
-      "verses": [
-        {
-          "number": 25,
-          "line": "And Nahor lived after he begat Terah an hundred and nineteen years, and begat sons and daughters."
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Nahor"
+  },
+  "dates": {
+    "en": "2105&ndash;1957 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;snorting.&#34; Son of Serug and the father of Terah. Nahor was the grandfather of Abraham and lived for 148 years. A city was probably founded by or named after him (Gen. 24:10)."
+  },
   "related": [
     {
       "slug": "serug",
-      "titleEn": "Serug",
-      "titleKa": null
+      "title": {
+        "en": "Serug"
+      }
     },
     {
       "slug": "terah",
-      "titleEn": "Terah",
-      "titleKa": null
+      "title": {
+        "en": "Terah"
+      }
     }
   ],
   "images": [
@@ -48,5 +31,27 @@
       "caption": "Illustration of Nahor in 1553 published by Guillaume Rouille"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Genesis 11:22",
+        "verses": [
+          {
+            "number": 22,
+            "line": "And Serug lived thirty years, and begat Nahor:"
+          }
+        ]
+      },
+      {
+        "reference": "Genesis 11:25",
+        "verses": [
+          {
+            "number": 25,
+            "line": "And Nahor lived after he begat Terah an hundred and nineteen years, and begat sons and daughters."
+          }
+        ]
+      }
+    ]
+  }
 }

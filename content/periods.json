@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "slug": "first-generation",
+    "name": {
+      "en": "First Generation",
+      "ka": "პირველი თაობა"
+    },
+    "description": {
+      "en": "From the creation of Adam and Eve, to the murder of Abel by Cain, and human history before the flood.",
+      "ka": "ადამისა და ევას შექმნიდან აბელის მკვლელობამდე კაენის მიერ — და კაცობრიობის ისტორია წარღვნამდე."
+    },
+    "color": "#ad1f26",
+    "era": 1,
+    "startYear": -4100,
+    "pxPerYear": 1.1,
+    "startPx": 0,
+    "sidebarImage": "/css/img/sidebars_01.jpg",
+    "cardImage": "/css/img/period_1.jpg"
+  },
+  {
+    "id": 2,
+    "slug": "noah-and-the-flood",
+    "name": {
+      "en": "Noah & the Flood",
+      "ka": "ნოე და წარღვნა"
+    },
+    "description": {
+      "en": "From the ministry of Noah and the global deluge, to Cush, Nimrod, and the tower of Babel.",
+      "ka": "ნოეს მოღვაწეობიდან და მსოფლიო წარღვნიდან, ქუშამდე, ნებროდამდე და ბაბილონის გოდოლამდე."
+    },
+    "color": "#db2f2c",
+    "era": 1,
+    "startYear": -2900,
+    "pxPerYear": 4.4,
+    "startPx": 1320,
+    "sidebarImage": "/css/img/sidebars_02.jpg",
+    "cardImage": "/css/img/period_2.jpg"
+  },
+  {
+    "id": 3,
+    "slug": "the-patriarchs",
+    "name": {
+      "en": "The Patriarchs",
+      "ka": "პატრიარქები"
+    },
+    "description": {
+      "en": "From the call of Abraham, to Sodom and Gomorrah, and the rise of 12 Jewish tribes through Isaac and Jacob.",
+      "ka": "აბრაამის მოწოდებიდან, სოდომისა და გომორის გავლით, ისაკისა და იაკობის მეშვეობით 12 ებრაული ტომის წარმოშობამდე."
+    },
+    "color": "#bb3380",
+    "era": 1,
+    "startYear": -1950,
+    "pxPerYear": 11,
+    "startPx": 5500,
+    "sidebarImage": "/css/img/sidebars_03.jpg",
+    "cardImage": "/css/img/period_3.jpg"
+  },
+  {
+    "id": 4,
+    "slug": "egypt-to-canaan",
+    "name": {
+      "en": "Egypt to Canaan",
+      "ka": "ეგვიპტედან კანაანამდე"
+    },
+    "description": {
+      "en": "From Joseph being sold into slavery, his rise to power in Egypt, and to Moses and the Exodus.",
+      "ka": "იოსების მონობაში გაყიდვიდან, მისი ეგვიპტეში აღმავლობით, მოსეთი და გამოსვლით."
+    },
+    "color": "#903a95",
+    "era": 2,
+    "startYear": -1650,
+    "pxPerYear": 4.4,
+    "startPx": 8800,
+    "sidebarImage": "/css/img/sidebars_04.jpg",
+    "cardImage": "/css/img/period_4.jpg"
+  },
+  {
+    "id": 5,
+    "slug": "the-judges",
+    "name": {
+      "en": "The Judges",
+      "ka": "მსაჯულები"
+    },
+    "description": {
+      "en": "From Moses and the Ten Commandments to Joshua's entrance and Jewish expansion into the Promised Land.",
+      "ka": "მოსედან და ათი მცნებიდან იესო ნავეს ძის შესვლამდე და ებრაელების აღთქმულ მიწაზე გავრცელებამდე."
+    },
+    "color": "#63479b",
+    "era": 2,
+    "startYear": -1450,
+    "pxPerYear": 4.4,
+    "startPx": 9680,
+    "sidebarImage": "/css/img/sidebars_05.jpg",
+    "cardImage": "/css/img/period_5.jpg"
+  },
+  {
+    "id": 6,
+    "slug": "united-kingdom",
+    "name": {
+      "en": "United Kingdom",
+      "ka": "გაერთიანებული სამეფო"
+    },
+    "description": {
+      "en": "From King Saul to the prophet Samuel and young King David and his royal dynasty through Solomon.",
+      "ka": "მეფე საულიდან, წინასწარმეტყველ სამუელით და ახალგაზრდა მეფე დავითით, სოლომონამდე გრძელდება მისი სამეფო დინასტია."
+    },
+    "color": "#3b6eb5",
+    "era": 2,
+    "startYear": -1100,
+    "pxPerYear": 22,
+    "startPx": 11220,
+    "sidebarImage": "/css/img/sidebars_06.jpg",
+    "cardImage": "/css/img/period_6.jpg"
+  },
+  {
+    "id": 7,
+    "slug": "divided-kingdom",
+    "name": {
+      "en": "Divided Kingdom",
+      "ka": "გაყოფილი სამეფო"
+    },
+    "description": {
+      "en": "From the internal strife that divided the nation of Israel to the prophets who warned of the coming exile.",
+      "ka": "შინააშლილობიდან, რამაც ისრაელის ერი გახლიჩა, წინასწარმეტყველებამდე, რომლებიც მომავალ გადასახლებაზე აფრთხილებდნენ."
+    },
+    "color": "#23a6c5",
+    "era": 2,
+    "startYear": -930,
+    "pxPerYear": 22,
+    "startPx": 14960,
+    "sidebarImage": "/css/img/sidebars_07.jpg",
+    "cardImage": "/css/img/period_7.jpg"
+  },
+  {
+    "id": 8,
+    "slug": "the-exile",
+    "name": {
+      "en": "The Exile",
+      "ka": "გადასახლება"
+    },
+    "description": {
+      "en": "From Israel's fall to exile in Babylon and the major prophets declaring the coming Messiah.",
+      "ka": "ისრაელის დაცემიდან ბაბილონში გადასახლებამდე და მთავარ წინასწარმეტყველთა მაუწყებლობამდე მომავალი მესიის შესახებ."
+    },
+    "color": "#33bdbb",
+    "era": 2,
+    "startYear": -620,
+    "pxPerYear": 11,
+    "startPx": 21780,
+    "sidebarImage": "/css/img/sidebars_08.jpg",
+    "cardImage": "/css/img/period_8.jpg"
+  },
+  {
+    "id": 9,
+    "slug": "life-of-christ",
+    "name": {
+      "en": "Life of Christ",
+      "ka": "ქრისტეს ცხოვრება"
+    },
+    "description": {
+      "en": "From the birth of the promised Messiah, Jesus the Christ, to His ministry and death and resurrection.",
+      "ka": "აღთქმული მესიის — იესო ქრისტეს დაბადებიდან მის მოღვაწეობამდე, სიკვდილსა და აღდგომამდე."
+    },
+    "color": "#52b148",
+    "era": 3,
+    "startYear": -100,
+    "pxPerYear": 110,
+    "startPx": 27500,
+    "sidebarImage": "/css/img/sidebars_09.jpg",
+    "cardImage": "/css/img/period_9.jpg",
+    "landingYear": 25
+  },
+  {
+    "id": 10,
+    "slug": "early-church",
+    "name": {
+      "en": "Early Church",
+      "ka": "ადრეული ეკლესია"
+    },
+    "description": {
+      "en": "From the martyrdom of Stephen to the persecution and rise of the church through Paul and the apostles.",
+      "ka": "სტეფანეს მოწამეობრივი სიკვდილიდან ეკლესიის დევნამდე და მოციქულ პავლესა და სხვა მოციქულთა მოღვაწეობით ეკლესიის აღმავლობამდე."
+    },
+    "color": "#b6bf34",
+    "era": 3,
+    "startYear": 35,
+    "pxPerYear": 22,
+    "startPx": 42240,
+    "sidebarImage": "/css/img/sidebars_10.jpg",
+    "cardImage": "/css/img/period_10.jpg"
+  },
+  {
+    "id": 11,
+    "slug": "middle-ages",
+    "name": {
+      "en": "Middle Ages",
+      "ka": "შუა საუკუნეები"
+    },
+    "description": {
+      "en": "From the legalization of Christianity under Constantine to the persecution of the Dark Ages.",
+      "ka": "ქრისტიანობის ლეგალიზაციიდან კონსტანტინეს დროს ბნელი საუკუნეების დევნამდე."
+    },
+    "color": "#eec826",
+    "era": 3,
+    "startYear": 350,
+    "pxPerYear": 4.4,
+    "startPx": 49170,
+    "sidebarImage": "/css/img/sidebars_11.jpg",
+    "cardImage": "/css/img/period_11.jpg"
+  },
+  {
+    "id": 12,
+    "slug": "reformation",
+    "name": {
+      "en": "Reformation",
+      "ka": "რეფორმაცია"
+    },
+    "description": {
+      "en": "From the great reformers, such as Luther and Wycliffe, to the expansion of the Protestant movement.",
+      "ka": "დიდ რეფორმატორთა, როგორიცაა ლუთერი და უიკლიფი, მოღვაწეობიდან პროტესტანტული მოძრაობის გავრცელებამდე."
+    },
+    "color": "#e9a327",
+    "era": 3,
+    "startYear": 1520,
+    "pxPerYear": 22,
+    "startPx": 54340,
+    "sidebarImage": "/css/img/sidebars_12.jpg",
+    "cardImage": "/css/img/period_12.jpg"
+  },
+  {
+    "id": 13,
+    "slug": "revelation-prophecies",
+    "name": {
+      "en": "Revelation Prophecies",
+      "ka": "გამოცხადების წინასწარმეტყველებები"
+    },
+    "description": {
+      "en": "From the great prophetic events of Revelation to the final events in earth's history.",
+      "ka": "გამოცხადების დიდი წინასწარმეტყველი მოვლენებიდან ქვეყნიერების ისტორიის ბოლო მოვლენებამდე."
+    },
+    "color": "#ed7c2c",
+    "era": 3,
+    "startYear": 1840,
+    "pxPerYear": 4.4,
+    "startPx": 61380,
+    "sidebarImage": "/css/img/sidebars_13.jpg",
+    "cardImage": "/css/img/period_13.jpg"
+  }
+]

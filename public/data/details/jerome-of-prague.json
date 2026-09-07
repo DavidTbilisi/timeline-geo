@@ -2,20 +2,24 @@
   "slug": "jerome-of-prague",
   "id": 1315,
   "period": 11,
-  "titleEn": "Jerome of Prague ",
-  "titleKa": null,
-  "datesEn": "1379&ndash;1416 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "A follower of Huss who worked to eliminate church doctrines that he considered corrupt, which eventually brought about his death at the stake.",
-  "descriptionKa": null,
-  "articleEn": "Jerome was born in Bohemia (essentially modern&#8212;day Czech Republic) in 1379. In 1398 he graduated from the University of Prague and then traveled to Oxford to continue his studies. It was at Oxford that he became familiar with the writings of John Wycliffe. Sometime later, Jerome introduced the writings of Wycliffe to John Huss back in Prague.<BR /><BR />Jerome&#39;s life was devoted to the cause of reformation. He was imprisoned numerous times because of his radical views against the Catholic Church. On May 30, 1416, Jerome was condemned as a heretic and burned at the stake.",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Jerome of Prague "
+  },
+  "dates": {
+    "en": "1379&ndash;1416 <span>AD</span>"
+  },
+  "description": {
+    "en": "A follower of Huss who worked to eliminate church doctrines that he considered corrupt, which eventually brought about his death at the stake."
+  },
+  "article": {
+    "en": "Jerome was born in Bohemia (essentially modern&#8212;day Czech Republic) in 1379. In 1398 he graduated from the University of Prague and then traveled to Oxford to continue his studies. It was at Oxford that he became familiar with the writings of John Wycliffe. Sometime later, Jerome introduced the writings of Wycliffe to John Huss back in Prague.<BR /><BR />Jerome&#39;s life was devoted to the cause of reformation. He was imprisoned numerous times because of his radical views against the Catholic Church. On May 30, 1416, Jerome was condemned as a heretic and burned at the stake."
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

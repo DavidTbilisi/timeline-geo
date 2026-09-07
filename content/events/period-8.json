@@ -1,0 +1,1598 @@
+[
+  {
+    "id": 475,
+    "slug": "ezekiels-wife",
+    "period": 8,
+    "start": -620,
+    "end": -588,
+    "type": "minor",
+    "title": {
+      "en": "Ezekiel's Wife"
+    },
+    "dates": {
+      "en": "620–588 BC"
+    },
+    "layout": {
+      "row": 3,
+      "left": 21890,
+      "width": 0,
+      "hoverWidth": 352,
+      "bar": false
+    }
+  },
+  {
+    "id": 502,
+    "slug": "neri",
+    "period": 8,
+    "start": -620,
+    "end": -530,
+    "type": "minor",
+    "title": {
+      "en": "Neri"
+    },
+    "dates": {
+      "en": "620–530 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 21890,
+      "width": 0,
+      "hoverWidth": 990,
+      "bar": false
+    }
+  },
+  {
+    "id": 458,
+    "slug": "jehoiachin",
+    "period": 8,
+    "start": -616,
+    "end": -597,
+    "type": "minor",
+    "title": {
+      "en": "Jehoiachin"
+    },
+    "dates": {
+      "en": "616–597 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 21934,
+      "width": 0,
+      "hoverWidth": 209,
+      "bar": false
+    }
+  },
+  {
+    "id": 1262,
+    "slug": "daniel-2-nebuchadnezzars-dream",
+    "period": 8,
+    "start": -606,
+    "end": 2020,
+    "type": "minor",
+    "title": {
+      "en": "Daniel 2 - Nebuchadnezzar's Dream"
+    },
+    "dates": {
+      "en": "606 BC–Future"
+    },
+    "layout": {
+      "row": 14,
+      "left": 22044,
+      "width": 0,
+      "hoverWidth": 238766,
+      "bar": false
+    }
+  },
+  {
+    "id": 1269,
+    "slug": "daniel-7-four-great-beasts",
+    "period": 8,
+    "start": -606,
+    "end": 476,
+    "type": "minor",
+    "title": {
+      "en": "Daniel 7 - Four Great Beasts"
+    },
+    "dates": {
+      "en": "606 BC–476 AD"
+    },
+    "layout": {
+      "row": 4,
+      "left": 22044,
+      "width": 0,
+      "hoverWidth": 68926,
+      "bar": false
+    }
+  },
+  {
+    "id": 466,
+    "slug": "daniel-1-daniel-captive",
+    "period": 8,
+    "start": -605,
+    "end": -605,
+    "type": "minor",
+    "title": {
+      "en": "Daniel 1, Daniel Captive"
+    },
+    "dates": {
+      "en": "605 BC"
+    },
+    "layout": {
+      "row": 19,
+      "left": 22055,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 477,
+    "slug": "evilmerodach",
+    "period": 8,
+    "start": -600,
+    "end": -560,
+    "type": "minor",
+    "title": {
+      "en": "Evil-Merodach"
+    },
+    "dates": {
+      "en": "600–560 BC"
+    },
+    "layout": {
+      "row": 20,
+      "left": 22110,
+      "width": 0,
+      "hoverWidth": 440,
+      "bar": false
+    }
+  },
+  {
+    "id": 517,
+    "slug": "salathiel-or-shealtiel",
+    "period": 8,
+    "start": -600,
+    "end": -519,
+    "type": "minor",
+    "title": {
+      "en": "Salathiel (or Shealtiel)"
+    },
+    "dates": {
+      "en": "600–519 BC"
+    },
+    "layout": {
+      "row": 3,
+      "left": 22110,
+      "width": 0,
+      "hoverWidth": 891,
+      "bar": false
+    }
+  },
+  {
+    "id": 471,
+    "slug": "2nd-invasion-of-jerusalem-by-babylon",
+    "period": 8,
+    "start": -597,
+    "end": -597,
+    "type": "minor",
+    "title": {
+      "en": "2nd Invasion of Jerusalem by Babylon"
+    },
+    "dates": {
+      "en": "597 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 22143,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 472,
+    "slug": "ezekiel-taken-captive",
+    "period": 8,
+    "start": -597,
+    "end": -597,
+    "type": "minor",
+    "title": {
+      "en": "Ezekiel Taken Captive"
+    },
+    "dates": {
+      "en": "597 BC"
+    },
+    "layout": {
+      "row": 11,
+      "left": 22143,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 473,
+    "slug": "daniel-3-golden-image",
+    "period": 8,
+    "start": -594,
+    "end": -594,
+    "type": "minor",
+    "title": {
+      "en": "Daniel 3, Golden Image"
+    },
+    "dates": {
+      "en": "594 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 22176,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 476,
+    "slug": "jerusalems-final-siege-begins-jan-15",
+    "period": 8,
+    "start": -588,
+    "end": -588,
+    "type": "minor",
+    "title": {
+      "en": "Jerusalem's Final Siege Begins Jan 15"
+    },
+    "dates": {
+      "en": "588 BC"
+    },
+    "layout": {
+      "row": 9,
+      "left": 22242,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 465,
+    "slug": "judah-falls-aug-15",
+    "period": 8,
+    "start": -586,
+    "end": -586,
+    "type": "minor",
+    "title": {
+      "en": "Judah Falls, Aug 15"
+    },
+    "dates": {
+      "en": "586 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 22264,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 480,
+    "slug": "fall-of-jerusalem-july-19",
+    "period": 8,
+    "start": -586,
+    "end": -586,
+    "type": "minor",
+    "title": {
+      "en": "Fall of Jerusalem July 19"
+    },
+    "dates": {
+      "en": "586 BC"
+    },
+    "layout": {
+      "row": 7,
+      "left": 22264,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 487,
+    "slug": "belshazzar",
+    "period": 8,
+    "start": -580,
+    "end": -539,
+    "type": "major",
+    "title": {
+      "en": "Belshazzar"
+    },
+    "dates": {
+      "en": "580–539 BC (~41)"
+    },
+    "image": "media/images/t/GoodSalt-belshazzar_8-6-2013 2-18-47 PM.jpg",
+    "layout": {
+      "row": 19,
+      "left": 22330,
+      "width": 451,
+      "hoverWidth": 451,
+      "bar": true
+    }
+  },
+  {
+    "id": 469,
+    "slug": "cambyses",
+    "period": 8,
+    "start": -570,
+    "end": -522,
+    "type": "minor",
+    "title": {
+      "en": "Cambyses"
+    },
+    "dates": {
+      "en": "570–522 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 22440,
+      "width": 0,
+      "hoverWidth": 528,
+      "bar": false
+    }
+  },
+  {
+    "id": 485,
+    "slug": "daniel-4-begin-7-yrs-of-beast",
+    "period": 8,
+    "start": -570,
+    "end": -570,
+    "type": "minor",
+    "title": {
+      "en": "Nebuchadnezzar Dreams of Tree & Humiliated"
+    },
+    "dates": {
+      "en": "570 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 22440,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 490,
+    "slug": "nebuchadnezzars-sanity-returns-after-7-yrs-converted",
+    "period": 8,
+    "start": -563,
+    "end": -563,
+    "type": "minor",
+    "title": {
+      "en": "Nebuchadnezzar's Sanity Returns"
+    },
+    "dates": {
+      "en": "563 BC"
+    },
+    "layout": {
+      "row": 15,
+      "left": 22517,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 492,
+    "slug": "jehoiachin-released-from-prison",
+    "period": 8,
+    "start": -560,
+    "end": -560,
+    "type": "minor",
+    "title": {
+      "en": "Jehoiachin Released from Prison"
+    },
+    "dates": {
+      "en": "560 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 22550,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 494,
+    "slug": "cyrus-ii-unites-persia",
+    "period": 8,
+    "start": -559,
+    "end": -559,
+    "type": "minor",
+    "title": {
+      "en": "Cyrus II Unites Persia"
+    },
+    "dates": {
+      "en": "559 BC"
+    },
+    "layout": {
+      "row": 11,
+      "left": 22561,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 495,
+    "slug": "cambyses-ii",
+    "period": 8,
+    "start": -553,
+    "end": -522,
+    "type": "minor",
+    "title": {
+      "en": "Cambyses II"
+    },
+    "dates": {
+      "en": "553–522 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 22627,
+      "width": 0,
+      "hoverWidth": 341,
+      "bar": false
+    }
+  },
+  {
+    "id": 497,
+    "slug": "belshazzar-king-babylon-waning",
+    "period": 8,
+    "start": -553,
+    "end": -539,
+    "type": "minor",
+    "title": {
+      "en": "Belshazzar King - Babylon Waning"
+    },
+    "dates": {
+      "en": "553–539 BC"
+    },
+    "layout": {
+      "row": 16,
+      "left": 22627,
+      "width": 0,
+      "hoverWidth": 154,
+      "bar": false
+    }
+  },
+  {
+    "id": 506,
+    "slug": "cyrus-ii-conquers-babylon-oct-29",
+    "period": 8,
+    "start": -539,
+    "end": -539,
+    "type": "minor",
+    "title": {
+      "en": "Cyrus II Conquers Babylon Oct 29"
+    },
+    "dates": {
+      "en": "539 BC"
+    },
+    "layout": {
+      "row": 21,
+      "left": 22781,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1277,
+    "slug": "daniel-8-ram-goat-and-little-horn",
+    "period": 8,
+    "start": -539,
+    "end": 2020,
+    "type": "minor",
+    "title": {
+      "en": "Daniel 8 - Ram, Goat and Little Horn"
+    },
+    "dates": {
+      "en": "539 BC–Future"
+    },
+    "layout": {
+      "row": 10,
+      "left": 22781,
+      "width": 0,
+      "hoverWidth": 238029,
+      "bar": false
+    }
+  },
+  {
+    "id": 1290,
+    "slug": "daniel-11-king-of-the-northsouth",
+    "period": 8,
+    "start": -539,
+    "end": 2020,
+    "type": "minor",
+    "title": {
+      "en": "Daniel 11 - King of the North/South"
+    },
+    "dates": {
+      "en": "539 BC–Future"
+    },
+    "layout": {
+      "row": 9,
+      "left": 22781,
+      "width": 0,
+      "hoverWidth": 238029,
+      "bar": false
+    }
+  },
+  {
+    "id": 507,
+    "slug": "daniel-9-prayer-concerning-70-years",
+    "period": 8,
+    "start": -538,
+    "end": -538,
+    "type": "minor",
+    "title": {
+      "en": "Daniel 9, Prayer Concerning 70 Years"
+    },
+    "dates": {
+      "en": "538 BC"
+    },
+    "layout": {
+      "row": 15,
+      "left": 22792,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 509,
+    "slug": "cyrus-ii-first-decree-resettlement-begins",
+    "period": 8,
+    "start": -537,
+    "end": -537,
+    "type": "minor",
+    "title": {
+      "en": "Cyrus II First Decree, Resettlement Begins"
+    },
+    "dates": {
+      "en": "537 BC"
+    },
+    "layout": {
+      "row": 11,
+      "left": 22803,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 608,
+    "slug": "jerusalem-rebuilt",
+    "period": 8,
+    "start": -536,
+    "end": -444,
+    "type": "major",
+    "title": {
+      "en": "Jerusalem Rebuilt"
+    },
+    "dates": {
+      "en": "536–444 BC (~92)"
+    },
+    "image": "media/images/t/Zerubabbel_3-21-2013 10-15-56 AM.jpg",
+    "layout": {
+      "row": 19,
+      "left": 22814,
+      "width": 1012,
+      "hoverWidth": 1012,
+      "bar": true
+    }
+  },
+  {
+    "id": 516,
+    "slug": "jerusalem-temple-resume-building",
+    "period": 8,
+    "start": -520,
+    "end": -520,
+    "type": "minor",
+    "title": {
+      "en": "Jerusalem Temple Resume Building"
+    },
+    "dates": {
+      "en": "520 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 22990,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 518,
+    "slug": "xerxes-i",
+    "period": 8,
+    "start": -519,
+    "end": -465,
+    "type": "major",
+    "title": {
+      "en": "Xerxes I"
+    },
+    "dates": {
+      "en": "519–465 BC (~54)"
+    },
+    "image": "media/images/t/GoodSalt-stdas0429_8-28-2013 12-02-30 PM.jpg",
+    "layout": {
+      "row": 17,
+      "left": 23001,
+      "width": 594,
+      "hoverWidth": 594,
+      "bar": true
+    }
+  },
+  {
+    "id": 523,
+    "slug": "esther",
+    "period": 8,
+    "start": -491,
+    "end": -401,
+    "type": "major",
+    "title": {
+      "en": "Esther"
+    },
+    "dates": {
+      "en": "491–401 BC (~90)"
+    },
+    "image": "media/images/t/GoodSalt-prcas1525_8-28-2013 12-42-28 PM.jpg",
+    "layout": {
+      "row": 21,
+      "left": 23309,
+      "width": 990,
+      "hoverWidth": 990,
+      "bar": true
+    }
+  },
+  {
+    "id": 530,
+    "slug": "artaxerxes-i",
+    "period": 8,
+    "start": -490,
+    "end": -423,
+    "type": "major",
+    "title": {
+      "en": "Artaxerxes I"
+    },
+    "dates": {
+      "en": "490–423 BC (~67)"
+    },
+    "image": "media/images/t/GoodSalt-prcas0699_8-28-2013 12-48-10 PM.jpg",
+    "layout": {
+      "row": 14,
+      "left": 23320,
+      "width": 737,
+      "hoverWidth": 737,
+      "bar": true
+    }
+  },
+  {
+    "id": 531,
+    "slug": "queen-vashti-falls-into-disfavor",
+    "period": 8,
+    "start": -483,
+    "end": -483,
+    "type": "minor",
+    "title": {
+      "en": "Queen Vashti  Falls into Disfavor"
+    },
+    "dates": {
+      "en": "483 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 23397,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 544,
+    "slug": "abiud",
+    "period": 8,
+    "start": -475,
+    "end": -400,
+    "type": "minor",
+    "title": {
+      "en": "Abiud"
+    },
+    "dates": {
+      "en": "475–400 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 23485,
+      "width": 0,
+      "hoverWidth": 825,
+      "bar": false
+    }
+  },
+  {
+    "id": 533,
+    "slug": "hamans-death-decree-april-474",
+    "period": 8,
+    "start": -474,
+    "end": -474,
+    "type": "minor",
+    "title": {
+      "en": "Haman's Death Decree April 474"
+    },
+    "dates": {
+      "en": "474 BC"
+    },
+    "layout": {
+      "row": 16,
+      "left": 23496,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 534,
+    "slug": "jews-delivered-june-474-mordecai-elevated",
+    "period": 8,
+    "start": -474,
+    "end": -474,
+    "type": "minor",
+    "title": {
+      "en": "Jews Delivered, Mordecai Elevated"
+    },
+    "dates": {
+      "en": "474 BC"
+    },
+    "layout": {
+      "row": 6,
+      "left": 23496,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 535,
+    "slug": "nehemiah",
+    "period": 8,
+    "start": -473,
+    "end": -403,
+    "type": "major",
+    "title": {
+      "en": "Nehemiah"
+    },
+    "dates": {
+      "en": "473–403 BC (~70)"
+    },
+    "image": "media/images/t/GoodSalt-Nehemiah_8-1-2013 5-36-17 PM.jpg",
+    "layout": {
+      "row": 11,
+      "left": 23507,
+      "width": 770,
+      "hoverWidth": 770,
+      "bar": true
+    }
+  },
+  {
+    "id": 536,
+    "slug": "rhesa",
+    "period": 8,
+    "start": -470,
+    "end": -390,
+    "type": "minor",
+    "title": {
+      "en": "Rhesa"
+    },
+    "dates": {
+      "en": "470–390 BC"
+    },
+    "layout": {
+      "row": 9,
+      "left": 23540,
+      "width": 0,
+      "hoverWidth": 880,
+      "bar": false
+    }
+  },
+  {
+    "id": 537,
+    "slug": "darius-ii",
+    "period": 8,
+    "start": -457,
+    "end": -405,
+    "type": "minor",
+    "title": {
+      "en": "Darius II"
+    },
+    "dates": {
+      "en": "457–405 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 23683,
+      "width": 0,
+      "hoverWidth": 572,
+      "bar": false
+    }
+  },
+  {
+    "id": 538,
+    "slug": "artaxerxes-i-decree",
+    "period": 8,
+    "start": -457,
+    "end": -457,
+    "type": "minor",
+    "title": {
+      "en": "Artaxerxes I Decree"
+    },
+    "dates": {
+      "en": "457 BC"
+    },
+    "layout": {
+      "row": 7,
+      "left": 23683,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1283,
+    "slug": "sanctuary-cleansed-2300-day-prophecy",
+    "period": 8,
+    "start": -457,
+    "end": 1844,
+    "type": "major",
+    "title": {
+      "en": "2300 Day Prophecy"
+    },
+    "dates": {
+      "en": "457 BC–1844 AD"
+    },
+    "image": "media/images/t/Ark_Commandments_2-27-2013-2-58-25-PM_7-18-2013 11-01-41 AM.jpg",
+    "layout": {
+      "row": 3,
+      "left": 23683,
+      "width": 0,
+      "hoverWidth": 217767,
+      "bar": false
+    }
+  },
+  {
+    "id": 1386,
+    "slug": "the-seventyweeks-prophecy",
+    "period": 8,
+    "start": -457,
+    "end": 34,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "The Seventy-Weeks Prophecy"
+    },
+    "dates": {
+      "en": "457 BC–34 AD (490)"
+    },
+    "image": "media/images/t/70_weeks_Prophecy_sm_2-26-2013 11-30-56 AM.jpg",
+    "layout": {
+      "row": 23,
+      "left": 23683,
+      "width": 18667,
+      "hoverWidth": 18667,
+      "bar": true
+    }
+  },
+  {
+    "id": 610,
+    "slug": "eliakim",
+    "period": 8,
+    "start": -455,
+    "end": -392,
+    "type": "minor",
+    "title": {
+      "en": "Eliakim"
+    },
+    "dates": {
+      "en": "455–392 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 23705,
+      "width": 0,
+      "hoverWidth": 693,
+      "bar": false
+    }
+  },
+  {
+    "id": 542,
+    "slug": "joanna-or-joanan",
+    "period": 8,
+    "start": -450,
+    "end": -370,
+    "type": "minor",
+    "title": {
+      "en": "Joanna (or Joanan)"
+    },
+    "dates": {
+      "en": "450–370 BC"
+    },
+    "layout": {
+      "row": 6,
+      "left": 23760,
+      "width": 0,
+      "hoverWidth": 880,
+      "bar": false
+    }
+  },
+  {
+    "id": 543,
+    "slug": "artaxerxes-ii",
+    "period": 8,
+    "start": -445,
+    "end": -359,
+    "type": "major",
+    "title": {
+      "en": "Artaxerxes II"
+    },
+    "dates": {
+      "en": "445–359 BC (~86)"
+    },
+    "image": "media/images/t/800px-Persepolis_Artaxerxes_II_tomb_8-28-2013 1-31-08 PM.jpg",
+    "layout": {
+      "row": 16,
+      "left": 23815,
+      "width": 946,
+      "hoverWidth": 946,
+      "bar": true
+    }
+  },
+  {
+    "id": 540,
+    "slug": "nehemiah-starts-to-build-walls-of-jerusalem",
+    "period": 8,
+    "start": -444,
+    "end": -444,
+    "type": "minor",
+    "title": {
+      "en": "Nehemiah Starts to Build Walls of Jerusalem"
+    },
+    "dates": {
+      "en": "444 BC"
+    },
+    "layout": {
+      "row": 18,
+      "left": 23826,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 541,
+    "slug": "nehemiahs-1st-term",
+    "period": 8,
+    "start": -444,
+    "end": -432,
+    "type": "minor",
+    "title": {
+      "en": "Nehemiah's 1st Term"
+    },
+    "dates": {
+      "en": "444–432 BC"
+    },
+    "layout": {
+      "row": 19,
+      "left": 23826,
+      "width": 0,
+      "hoverWidth": 132,
+      "bar": false
+    }
+  },
+  {
+    "id": 545,
+    "slug": "ezra-public-reading-of-the-law",
+    "period": 8,
+    "start": -444,
+    "end": -444,
+    "type": "minor",
+    "title": {
+      "en": "Ezra, Public Reading of the Law"
+    },
+    "dates": {
+      "en": "444 BC"
+    },
+    "layout": {
+      "row": 20,
+      "left": 23826,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 546,
+    "slug": "nehemiah-walls-rebuilt",
+    "period": 8,
+    "start": -444,
+    "end": -444,
+    "type": "minor",
+    "title": {
+      "en": "Nehemiah, Walls Rebuilt"
+    },
+    "dates": {
+      "en": "444 BC"
+    },
+    "layout": {
+      "row": 9,
+      "left": 23826,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 556,
+    "slug": "azor",
+    "period": 8,
+    "start": -435,
+    "end": -341,
+    "type": "minor",
+    "title": {
+      "en": "Azor"
+    },
+    "dates": {
+      "en": "435–341 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 23925,
+      "width": 0,
+      "hoverWidth": 1034,
+      "bar": false
+    }
+  },
+  {
+    "id": 549,
+    "slug": "nehemiah-returns-to-babylon",
+    "period": 8,
+    "start": -432,
+    "end": -432,
+    "type": "minor",
+    "title": {
+      "en": "Nehemiah Returns to Babylon"
+    },
+    "dates": {
+      "en": "432 BC"
+    },
+    "layout": {
+      "row": 7,
+      "left": 23958,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 551,
+    "slug": "juda-or-joda",
+    "period": 8,
+    "start": -430,
+    "end": -380,
+    "type": "minor",
+    "title": {
+      "en": "Juda (or Joda)"
+    },
+    "dates": {
+      "en": "430–380 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 23980,
+      "width": 0,
+      "hoverWidth": 550,
+      "bar": false
+    }
+  },
+  {
+    "id": 550,
+    "slug": "artaxerxes-iii",
+    "period": 8,
+    "start": -400,
+    "end": -338,
+    "type": "major",
+    "title": {
+      "en": "Artaxerxes III"
+    },
+    "dates": {
+      "en": "400–338 BC (~62)"
+    },
+    "image": "media/images/t/Persepolis_Artaxerxes_III_tomb.jpg",
+    "layout": {
+      "row": 14,
+      "left": 24310,
+      "width": 682,
+      "hoverWidth": 682,
+      "bar": true
+    }
+  },
+  {
+    "id": 609,
+    "slug": "joseph-or-josech",
+    "period": 8,
+    "start": -400,
+    "end": -312,
+    "type": "minor",
+    "title": {
+      "en": "Joseph (or Josech)"
+    },
+    "dates": {
+      "en": "400–312 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 24310,
+      "width": 0,
+      "hoverWidth": 968,
+      "bar": false
+    }
+  },
+  {
+    "id": 552,
+    "slug": "semei",
+    "period": 8,
+    "start": -380,
+    "end": -300,
+    "type": "minor",
+    "title": {
+      "en": "Semei"
+    },
+    "dates": {
+      "en": "380–300 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 24530,
+      "width": 0,
+      "hoverWidth": 880,
+      "bar": false
+    }
+  },
+  {
+    "id": 555,
+    "slug": "mattathias-son-of-semei",
+    "period": 8,
+    "start": -360,
+    "end": -300,
+    "type": "minor",
+    "title": {
+      "en": "Mattathias"
+    },
+    "dates": {
+      "en": "360–300 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 24750,
+      "width": 0,
+      "hoverWidth": 660,
+      "bar": false
+    }
+  },
+  {
+    "id": 553,
+    "slug": "alexander-the-great",
+    "period": 8,
+    "start": -356,
+    "end": -323,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Alexander the Great"
+    },
+    "dates": {
+      "en": "356–323 BC (~33)"
+    },
+    "image": "media/images/t/Aleksander-d-store_8-8-2013 1-08-59 PM.jpg",
+    "layout": {
+      "row": 16,
+      "left": 24794,
+      "width": 363,
+      "hoverWidth": 363,
+      "bar": true
+    }
+  },
+  {
+    "id": 560,
+    "slug": "maath",
+    "period": 8,
+    "start": -340,
+    "end": -280,
+    "type": "minor",
+    "title": {
+      "en": "Maath"
+    },
+    "dates": {
+      "en": "340–280 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 24970,
+      "width": 0,
+      "hoverWidth": 660,
+      "bar": false
+    }
+  },
+  {
+    "id": 558,
+    "slug": "arbela-battle-of-decisive-victory-over-persia",
+    "period": 8,
+    "start": -331,
+    "end": -331,
+    "type": "minor",
+    "title": {
+      "en": "Arbela, Battle of - Decisive Victory over Persia"
+    },
+    "dates": {
+      "en": "331 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 25069,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 562,
+    "slug": "nagge-or-naggai",
+    "period": 8,
+    "start": -320,
+    "end": -270,
+    "type": "minor",
+    "title": {
+      "en": "Nagge (or Naggai)"
+    },
+    "dates": {
+      "en": "320–270 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 25190,
+      "width": 0,
+      "hoverWidth": 550,
+      "bar": false
+    }
+  },
+  {
+    "id": 564,
+    "slug": "esli",
+    "period": 8,
+    "start": -295,
+    "end": -215,
+    "type": "minor",
+    "title": {
+      "en": "Esli"
+    },
+    "dates": {
+      "en": "295–215 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 25465,
+      "width": 0,
+      "hoverWidth": 880,
+      "bar": false
+    }
+  },
+  {
+    "id": 565,
+    "slug": "naum-or-nahum",
+    "period": 8,
+    "start": -260,
+    "end": -180,
+    "type": "minor",
+    "title": {
+      "en": "Naum (or Nahum)"
+    },
+    "dates": {
+      "en": "260–180 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 25850,
+      "width": 0,
+      "hoverWidth": 880,
+      "bar": false
+    }
+  },
+  {
+    "id": 567,
+    "slug": "amos",
+    "period": 8,
+    "start": -230,
+    "end": -170,
+    "type": "minor",
+    "title": {
+      "en": "Amos"
+    },
+    "dates": {
+      "en": "230–170 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 26180,
+      "width": 0,
+      "hoverWidth": 660,
+      "bar": false
+    }
+  },
+  {
+    "id": 568,
+    "slug": "mattathias-son-of-amos",
+    "period": 8,
+    "start": -205,
+    "end": -125,
+    "type": "minor",
+    "title": {
+      "en": "Mattathias"
+    },
+    "dates": {
+      "en": "205–125 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 26455,
+      "width": 0,
+      "hoverWidth": 880,
+      "bar": false
+    }
+  },
+  {
+    "id": 569,
+    "slug": "joseph-son-of-mattathias",
+    "period": 8,
+    "start": -180,
+    "end": -120,
+    "type": "minor",
+    "title": {
+      "en": "Joseph"
+    },
+    "dates": {
+      "en": "180–120 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 26730,
+      "width": 0,
+      "hoverWidth": 660,
+      "bar": false
+    }
+  },
+  {
+    "id": 572,
+    "slug": "antiochus-iv-persecutes-jews-and-desecrates-temple",
+    "period": 8,
+    "start": -168,
+    "end": -168,
+    "type": "minor",
+    "title": {
+      "en": "Antiochus IV Persecutes Jews and Desecrates Temple"
+    },
+    "dates": {
+      "en": "168 BC"
+    },
+    "layout": {
+      "row": 11,
+      "left": 26862,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 574,
+    "slug": "maccabees-restore-temple-religious-freedom-hanukkah",
+    "period": 8,
+    "start": -165,
+    "end": -165,
+    "type": "minor",
+    "title": {
+      "en": "Maccabees Restore Temple"
+    },
+    "dates": {
+      "en": "165 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 26895,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 577,
+    "slug": "jews-independent-under-hasmonean-dynasty",
+    "period": 8,
+    "start": -164,
+    "end": -63,
+    "type": "minor",
+    "title": {
+      "en": "Jews Independent under Hasmonean Dynasty"
+    },
+    "dates": {
+      "en": "164–63 BC"
+    },
+    "layout": {
+      "row": 15,
+      "left": 26906,
+      "width": 0,
+      "hoverWidth": 4774,
+      "bar": false
+    }
+  },
+  {
+    "id": 575,
+    "slug": "janna-or-jannai",
+    "period": 8,
+    "start": -155,
+    "end": -96,
+    "type": "minor",
+    "title": {
+      "en": "Janna (or Jannai)"
+    },
+    "dates": {
+      "en": "155–96 BC"
+    },
+    "layout": {
+      "row": 16,
+      "left": 27005,
+      "width": 0,
+      "hoverWidth": 1045,
+      "bar": false
+    }
+  },
+  {
+    "id": 578,
+    "slug": "melchi-or-melki",
+    "period": 8,
+    "start": -132,
+    "end": -70,
+    "type": "minor",
+    "title": {
+      "en": "Melchi (or Melki)"
+    },
+    "dates": {
+      "en": "132–70 BC"
+    },
+    "layout": {
+      "row": 15,
+      "left": 27258,
+      "width": 0,
+      "hoverWidth": 3652,
+      "bar": false
+    }
+  },
+  {
+    "id": 579,
+    "slug": "levi-son-of-melchi",
+    "period": 8,
+    "start": -105,
+    "end": -50,
+    "type": "minor",
+    "title": {
+      "en": "Levi"
+    },
+    "dates": {
+      "en": "105–50 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 27555,
+      "width": 0,
+      "hoverWidth": 5555,
+      "bar": false
+    }
+  },
+  {
+    "id": 1394,
+    "slug": "daniels-babylon-prophecies",
+    "period": 8,
+    "start": -605,
+    "end": -539,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Daniel's Babylon Prophecies"
+    },
+    "dates": {
+      "en": "605–539 BC (~66)"
+    },
+    "image": "media/images/t/Statue_Babylon_8-22-2013 12-11-00 PM.jpg",
+    "layout": {
+      "row": 0,
+      "left": 22055,
+      "width": 726,
+      "hoverWidth": 726,
+      "bar": true
+    }
+  },
+  {
+    "id": 1397,
+    "slug": "daniels-medopersia-prophecies",
+    "period": 8,
+    "start": -539,
+    "end": -331,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Daniel's Medo-Persia Prophecies"
+    },
+    "dates": {
+      "en": "539–331 BC (~208)"
+    },
+    "image": "media/images/t/Statue_Persia_8-22-2013 12-26-38 PM.jpg",
+    "layout": {
+      "row": 0,
+      "left": 22781,
+      "width": 2288,
+      "hoverWidth": 2288,
+      "bar": true
+    }
+  },
+  {
+    "id": 1398,
+    "slug": "daniels-greece-prophecies",
+    "period": 8,
+    "start": -323,
+    "end": -168,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Daniel's Greece Prophecies"
+    },
+    "dates": {
+      "en": "323–168 BC (~155)"
+    },
+    "image": "media/images/t/Statue_Greece_8-22-2013 2-30-21 PM.jpg",
+    "layout": {
+      "row": 0,
+      "left": 25157,
+      "width": 1705,
+      "hoverWidth": 1705,
+      "bar": true
+    }
+  },
+  {
+    "id": 1399,
+    "slug": "daniels-rome-prophecies",
+    "period": 8,
+    "start": -168,
+    "end": 476,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Daniel's Rome Prophecies"
+    },
+    "dates": {
+      "en": "168 BC–476 AD"
+    },
+    "image": "media/images/t/Statue_Rome_8-22-2013 3-26-36 PM.jpg",
+    "layout": {
+      "row": 0,
+      "left": 26862,
+      "width": 0,
+      "hoverWidth": 64108,
+      "bar": false
+    }
+  }
+]

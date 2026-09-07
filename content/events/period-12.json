@@ -1,0 +1,935 @@
+[
+  {
+    "id": 1341,
+    "slug": "zwingli-begins-his-ministry",
+    "period": 12,
+    "start": 1520,
+    "end": 1519,
+    "type": "minor",
+    "title": {
+      "en": "Zwingli Begins His Ministry"
+    },
+    "dates": {
+      "en": "1519 AD"
+    },
+    "layout": {
+      "row": 3,
+      "left": 54450,
+      "width": 0,
+      "hoverWidth": 22,
+      "bar": false
+    }
+  },
+  {
+    "id": 1342,
+    "slug": "leipzig-debate",
+    "period": 12,
+    "start": 1520,
+    "end": 1519,
+    "type": "minor",
+    "title": {
+      "en": "Leipzig Debate"
+    },
+    "dates": {
+      "en": "1519 AD"
+    },
+    "layout": {
+      "row": 2,
+      "left": 54450,
+      "width": 0,
+      "hoverWidth": 22,
+      "bar": false
+    }
+  },
+  {
+    "id": 1343,
+    "slug": "exsurge-domine",
+    "period": 12,
+    "start": 1520,
+    "end": 1520,
+    "type": "minor",
+    "title": {
+      "en": "Exsurge Domine"
+    },
+    "dates": {
+      "en": "1520 AD"
+    },
+    "layout": {
+      "row": 2,
+      "left": 54450,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1344,
+    "slug": "luther-excommunicated",
+    "period": 12,
+    "start": 1521,
+    "end": 1521,
+    "type": "minor",
+    "title": {
+      "en": "Luther Excommunicated"
+    },
+    "dates": {
+      "en": "1521 AD"
+    },
+    "layout": {
+      "row": 21,
+      "left": 54472,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1345,
+    "slug": "diet-of-worms",
+    "period": 12,
+    "start": 1521,
+    "end": 1521,
+    "type": "minor",
+    "title": {
+      "en": "Diet of Worms"
+    },
+    "dates": {
+      "en": "1521 AD"
+    },
+    "layout": {
+      "row": 5,
+      "left": 54472,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1346,
+    "slug": "luthers-new-testament",
+    "period": 12,
+    "start": 1521,
+    "end": 1522,
+    "type": "minor",
+    "title": {
+      "en": "Luther's New Testament"
+    },
+    "dates": {
+      "en": "1521–1522 AD"
+    },
+    "layout": {
+      "row": 22,
+      "left": 54472,
+      "width": 0,
+      "hoverWidth": 22,
+      "bar": false
+    }
+  },
+  {
+    "id": 1347,
+    "slug": "the-zurich-disputations",
+    "period": 12,
+    "start": 1523,
+    "end": 1523,
+    "type": "minor",
+    "title": {
+      "en": "The Zurich Disputations"
+    },
+    "dates": {
+      "en": "1523 AD"
+    },
+    "layout": {
+      "row": 1,
+      "left": 54516,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1348,
+    "slug": "the-anabaptist-movement",
+    "period": 12,
+    "start": 1523,
+    "end": 1525,
+    "type": "minor",
+    "title": {
+      "en": "The Anabaptist Movement"
+    },
+    "dates": {
+      "en": "1523–1525 AD"
+    },
+    "layout": {
+      "row": 16,
+      "left": 54516,
+      "width": 0,
+      "hoverWidth": 44,
+      "bar": false
+    }
+  },
+  {
+    "id": 1349,
+    "slug": "the-peasants-revolt",
+    "period": 12,
+    "start": 1524,
+    "end": 1525,
+    "type": "minor",
+    "title": {
+      "en": "The Peasant's Revolt"
+    },
+    "dates": {
+      "en": "1524–1525 AD"
+    },
+    "layout": {
+      "row": 17,
+      "left": 54538,
+      "width": 0,
+      "hoverWidth": 22,
+      "bar": false
+    }
+  },
+  {
+    "id": 1350,
+    "slug": "luther-marries-katherine-von-bora",
+    "period": 12,
+    "start": 1525,
+    "end": 1525,
+    "type": "minor",
+    "title": {
+      "en": "Luther Marries Katherine von Bora"
+    },
+    "dates": {
+      "en": "1525 AD"
+    },
+    "layout": {
+      "row": 18,
+      "left": 54560,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1352,
+    "slug": "sack-of-rome",
+    "period": 12,
+    "start": 1527,
+    "end": 1527,
+    "type": "minor",
+    "title": {
+      "en": "Sack of Rome"
+    },
+    "dates": {
+      "en": "1527 AD"
+    },
+    "layout": {
+      "row": 23,
+      "left": 54604,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1353,
+    "slug": "marburg-colloquy",
+    "period": 12,
+    "start": 1529,
+    "end": 1529,
+    "type": "minor",
+    "title": {
+      "en": "Marburg Colloquy"
+    },
+    "dates": {
+      "en": "1529 AD"
+    },
+    "layout": {
+      "row": 2,
+      "left": 54648,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1354,
+    "slug": "diet-of-augsburg",
+    "period": 12,
+    "start": 1530,
+    "end": 1530,
+    "type": "minor",
+    "title": {
+      "en": "Diet of Augsburg"
+    },
+    "dates": {
+      "en": "1530 AD"
+    },
+    "layout": {
+      "row": 4,
+      "left": 54670,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1355,
+    "slug": "thomas-cranmer-appointed-archbishop-of-canterbury",
+    "period": 12,
+    "start": 1533,
+    "end": 1533,
+    "type": "minor",
+    "title": {
+      "en": "Thomas Cranmer Appointed Archbishop of Canterbury"
+    },
+    "dates": {
+      "en": "1533 AD"
+    },
+    "layout": {
+      "row": 5,
+      "left": 54736,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1356,
+    "slug": "henry-viii-acknowledged-as-head-of-the-english-church",
+    "period": 12,
+    "start": 1534,
+    "end": 1534,
+    "type": "minor",
+    "title": {
+      "en": "Henry VIII Accepted as Head of the English Church"
+    },
+    "dates": {
+      "en": "1534 AD"
+    },
+    "layout": {
+      "row": 20,
+      "left": 54758,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1358,
+    "slug": "first-full-english-bible-published",
+    "period": 12,
+    "start": 1535,
+    "end": 1535,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "First Full English Bible Published"
+    },
+    "dates": {
+      "en": "1535 AD"
+    },
+    "image": "media/images/t/Tyndale_Bible_-_Gospel_of_John_2-26-2013 2-52-00 PM.jpg",
+    "layout": {
+      "row": 6,
+      "left": 54780,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1359,
+    "slug": "dissolution-of-english-monasteries",
+    "period": 12,
+    "start": 1536,
+    "end": 1540,
+    "type": "minor",
+    "title": {
+      "en": "Dissolution of English Monasteries"
+    },
+    "dates": {
+      "en": "1536–1540 AD"
+    },
+    "layout": {
+      "row": 22,
+      "left": 54802,
+      "width": 0,
+      "hoverWidth": 88,
+      "bar": false
+    }
+  },
+  {
+    "id": 1360,
+    "slug": "implementation-of-lutheran-reformation-in-denmark",
+    "period": 12,
+    "start": 1537,
+    "end": 1537,
+    "type": "minor",
+    "title": {
+      "en": "Implementation of Lutheran Reformation in Denmark"
+    },
+    "dates": {
+      "en": "1537 AD"
+    },
+    "layout": {
+      "row": 1,
+      "left": 54824,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1361,
+    "slug": "calvin-sent-away-from-geneva",
+    "period": 12,
+    "start": 1538,
+    "end": 1538,
+    "type": "minor",
+    "title": {
+      "en": "Calvin Sent Away from Geneva"
+    },
+    "dates": {
+      "en": "1538 AD"
+    },
+    "layout": {
+      "row": 3,
+      "left": 54846,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1362,
+    "slug": "publication-of-the-great-bible-in-england",
+    "period": 12,
+    "start": 1539,
+    "end": 1539,
+    "type": "minor",
+    "title": {
+      "en": "Publication of the \"Great Bible\" in England"
+    },
+    "dates": {
+      "en": "1539 AD"
+    },
+    "layout": {
+      "row": 19,
+      "left": 54868,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1363,
+    "slug": "the-act-of-six-articles",
+    "period": 12,
+    "start": 1539,
+    "end": 1540,
+    "type": "minor",
+    "title": {
+      "en": "The Act of Six Articles"
+    },
+    "dates": {
+      "en": "1539–1540 AD"
+    },
+    "layout": {
+      "row": 16,
+      "left": 54868,
+      "width": 0,
+      "hoverWidth": 22,
+      "bar": false
+    }
+  },
+  {
+    "id": 1367,
+    "slug": "the-jesuits",
+    "period": 12,
+    "start": 1540,
+    "end": 2020,
+    "type": "minor",
+    "title": {
+      "en": "The Jesuits"
+    },
+    "dates": {
+      "en": "1540–Future"
+    },
+    "layout": {
+      "row": 17,
+      "left": 54890,
+      "width": 0,
+      "hoverWidth": 7392,
+      "bar": false
+    }
+  },
+  {
+    "id": 1364,
+    "slug": "diet-of-regensburg",
+    "period": 12,
+    "start": 1541,
+    "end": 1541,
+    "type": "minor",
+    "title": {
+      "en": "Diet of Regensburg"
+    },
+    "dates": {
+      "en": "1541 AD"
+    },
+    "layout": {
+      "row": 18,
+      "left": 54912,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1365,
+    "slug": "calvins-ecclesiastical-ordinances-established",
+    "period": 12,
+    "start": 1541,
+    "end": 1541,
+    "type": "minor",
+    "title": {
+      "en": "Calvin's Ecclesiastical Ordinances Established"
+    },
+    "dates": {
+      "en": "1541 AD"
+    },
+    "layout": {
+      "row": 21,
+      "left": 54912,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1366,
+    "slug": "the-roman-inquisition",
+    "period": 12,
+    "start": 1542,
+    "end": 1908,
+    "type": "minor",
+    "title": {
+      "en": "The Roman Inquisition"
+    },
+    "dates": {
+      "en": "1542–1908 AD"
+    },
+    "layout": {
+      "row": 4,
+      "left": 54934,
+      "width": 0,
+      "hoverWidth": 6855.2,
+      "bar": false
+    }
+  },
+  {
+    "id": 1368,
+    "slug": "the-council-of-trent",
+    "period": 12,
+    "start": 1545,
+    "end": 1545,
+    "type": "minor",
+    "title": {
+      "en": "The Council of Trent"
+    },
+    "dates": {
+      "en": "1545 AD"
+    },
+    "layout": {
+      "row": 8,
+      "left": 55000,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1369,
+    "slug": "the-catholic-counterreformation",
+    "period": 12,
+    "start": 1545,
+    "end": 1648,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "The Catholic Counter-Reformation"
+    },
+    "dates": {
+      "en": "1545–1648 AD"
+    },
+    "image": "media/images/t/774px-Westfaelischer_Friede_in_Muenster_Gerard_Terborch_1648_8-5-2013 10-41-37 AM.jpg",
+    "layout": {
+      "row": 10,
+      "left": 55000,
+      "width": 0,
+      "hoverWidth": 2266,
+      "bar": false
+    }
+  },
+  {
+    "id": 1370,
+    "slug": "king-edward-vi",
+    "period": 12,
+    "start": 1547,
+    "end": 1553,
+    "type": "minor",
+    "title": {
+      "en": "King Edward VI"
+    },
+    "dates": {
+      "en": "1547–1553 AD"
+    },
+    "layout": {
+      "row": 6,
+      "left": 55044,
+      "width": 0,
+      "hoverWidth": 132,
+      "bar": false
+    }
+  },
+  {
+    "id": 1372,
+    "slug": "peace-of-augsburg",
+    "period": 12,
+    "start": 1555,
+    "end": 1555,
+    "type": "minor",
+    "title": {
+      "en": "Peace of Augsburg"
+    },
+    "dates": {
+      "en": "1555 AD"
+    },
+    "layout": {
+      "row": 7,
+      "left": 55220,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1373,
+    "slug": "geneva-academy",
+    "period": 12,
+    "start": 1559,
+    "end": 0,
+    "type": "minor",
+    "title": {
+      "en": "Geneva Academy"
+    },
+    "dates": {
+      "en": "1559–1553 AD"
+    },
+    "layout": {
+      "row": 9,
+      "left": 55308,
+      "width": 0,
+      "hoverWidth": 34298,
+      "bar": false
+    }
+  },
+  {
+    "id": 1374,
+    "slug": "the-index-of-prohibited-books",
+    "period": 12,
+    "start": 1559,
+    "end": 1966,
+    "type": "minor",
+    "title": {
+      "en": "The Index of Prohibited Books"
+    },
+    "dates": {
+      "en": "1559–1966 AD"
+    },
+    "layout": {
+      "row": 8,
+      "left": 55308,
+      "width": 0,
+      "hoverWidth": 6736.4,
+      "bar": false
+    }
+  },
+  {
+    "id": 1375,
+    "slug": "jacobus-arminius",
+    "period": 12,
+    "start": 1560,
+    "end": 1609,
+    "type": "major",
+    "title": {
+      "en": "Jacobus Arminius"
+    },
+    "dates": {
+      "en": "1560–1609 AD"
+    },
+    "image": "media/images/t/James_Arminius_2_2-26-2013 12-18-25 PM.jpg",
+    "layout": {
+      "row": 5,
+      "left": 55330,
+      "width": 0,
+      "hoverWidth": 1078,
+      "bar": false
+    }
+  },
+  {
+    "id": 1376,
+    "slug": "wars-of-religion-in-france",
+    "period": 12,
+    "start": 1563,
+    "end": 1598,
+    "type": "minor",
+    "title": {
+      "en": "Wars of Religion in France"
+    },
+    "dates": {
+      "en": "1563–1598 AD"
+    },
+    "layout": {
+      "row": 13,
+      "left": 55396,
+      "width": 0,
+      "hoverWidth": 770,
+      "bar": false
+    }
+  },
+  {
+    "id": 1377,
+    "slug": "the-heidelberg-catechism",
+    "period": 12,
+    "start": 1563,
+    "end": 1563,
+    "type": "minor",
+    "title": {
+      "en": "The Heidelberg Catechism"
+    },
+    "dates": {
+      "en": "1563 AD"
+    },
+    "layout": {
+      "row": 12,
+      "left": 55396,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1378,
+    "slug": "elizabeth-i-excommunicated",
+    "period": 12,
+    "start": 1570,
+    "end": 1570,
+    "type": "minor",
+    "title": {
+      "en": "Elizabeth I Excommunicated"
+    },
+    "dates": {
+      "en": "1570 AD"
+    },
+    "layout": {
+      "row": 9,
+      "left": 55550,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1379,
+    "slug": "st-bartholomews-day-massacre",
+    "period": 12,
+    "start": 1572,
+    "end": 1572,
+    "type": "minor",
+    "title": {
+      "en": "St. Bartholomew's Day Massacre"
+    },
+    "dates": {
+      "en": "1572 AD"
+    },
+    "layout": {
+      "row": 8,
+      "left": 55594,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1380,
+    "slug": "the-book-of-concord",
+    "period": 12,
+    "start": 1580,
+    "end": 1580,
+    "type": "minor",
+    "title": {
+      "en": "The Book of Concord"
+    },
+    "dates": {
+      "en": "1580 AD"
+    },
+    "layout": {
+      "row": 14,
+      "left": 55770,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1381,
+    "slug": "synod-of-dort",
+    "period": 12,
+    "start": 1618,
+    "end": 1619,
+    "type": "minor",
+    "title": {
+      "en": "Synod of Dort"
+    },
+    "dates": {
+      "en": "1618–1619 AD"
+    },
+    "layout": {
+      "row": 12,
+      "left": 56606,
+      "width": 0,
+      "hoverWidth": 22,
+      "bar": false
+    }
+  },
+  {
+    "id": 1382,
+    "slug": "thirty-years-war",
+    "period": 12,
+    "start": 1618,
+    "end": 1648,
+    "type": "minor",
+    "title": {
+      "en": "Thirty Years' War"
+    },
+    "dates": {
+      "en": "1618–1648 AD"
+    },
+    "layout": {
+      "row": 14,
+      "left": 56606,
+      "width": 0,
+      "hoverWidth": 660,
+      "bar": false
+    }
+  },
+  {
+    "id": 1383,
+    "slug": "john-bunyan",
+    "period": 12,
+    "start": 1628,
+    "end": 1688,
+    "type": "minor",
+    "title": {
+      "en": "John Bunyan"
+    },
+    "dates": {
+      "en": "1628–1688 AD"
+    },
+    "layout": {
+      "row": 12,
+      "left": 56826,
+      "width": 0,
+      "hoverWidth": 1320,
+      "bar": false
+    }
+  },
+  {
+    "id": 1384,
+    "slug": "the-english-civil-war",
+    "period": 12,
+    "start": 1642,
+    "end": 1651,
+    "type": "minor",
+    "title": {
+      "en": "The English Civil War"
+    },
+    "dates": {
+      "en": "1642–1651 AD"
+    },
+    "layout": {
+      "row": 14,
+      "left": 57134,
+      "width": 0,
+      "hoverWidth": 198,
+      "bar": false
+    }
+  },
+  {
+    "id": 1385,
+    "slug": "the-treaty-of-westphalia",
+    "period": 12,
+    "start": 1648,
+    "end": 1648,
+    "type": "minor",
+    "title": {
+      "en": "The Treaty of Westphalia"
+    },
+    "dates": {
+      "en": "1648 AD"
+    },
+    "layout": {
+      "row": 12,
+      "left": 57266,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1245,
+    "slug": "beast-rises-from-the-earth",
+    "period": 12,
+    "start": 1776,
+    "end": 1789,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Beast Rises from the Earth"
+    },
+    "dates": {
+      "en": "1776–1789 AD"
+    },
+    "image": "media/images/t/GoodSalt-beasts_8-5-2013 11-11-37 AM.jpg",
+    "layout": {
+      "row": 11,
+      "left": 60082,
+      "width": 0,
+      "hoverWidth": 286,
+      "bar": false
+    }
+  },
+  {
+    "id": 1242,
+    "slug": "church-of-philadelphia-great-enlightenment-age",
+    "period": 12,
+    "start": 1755,
+    "end": 1844,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Church of Philadelphia, Great Enlightenment Age"
+    },
+    "dates": {
+      "en": "1755–1844 AD"
+    },
+    "image": "media/images/t/GoodSalt-prcas2121_8-13-2013 2-05-30 PM.jpg",
+    "layout": {
+      "row": 11,
+      "left": 59620,
+      "width": 0,
+      "hoverWidth": 1887.6,
+      "bar": false
+    }
+  }
+]

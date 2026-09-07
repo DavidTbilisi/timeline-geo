@@ -2,35 +2,27 @@
   "slug": "matthat-father-of-jorum",
   "id": 978,
   "period": 7,
-  "titleEn": "Matthat",
-  "titleKa": null,
-  "datesEn": "767&ndash;687 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;gift.&#34; He is the son of Levi and father of Jorim, a Judahite, listed in Luke&#39;s genealogy of Christ. There is another Matthat who is also the son of another Levi listed later as father of Heli.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:29",
-      "verses": [
-        {
-          "number": 29,
-          "line": "Which was the son of Jose, which was the son of Eliezer, which was the son of Jorim, which was the son of Matthat, which was the son of Levi,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Matthat"
+  },
+  "dates": {
+    "en": "767&ndash;687 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;gift.&#34; He is the son of Levi and father of Jorim, a Judahite, listed in Luke&#39;s genealogy of Christ. There is another Matthat who is also the son of another Levi listed later as father of Heli."
+  },
   "related": [
     {
       "slug": "levi-son-of-simeon",
-      "titleEn": "Levi",
-      "titleKa": null
+      "title": {
+        "en": "Levi"
+      }
     },
     {
       "slug": "jorim",
-      "titleEn": "Jorim",
-      "titleKa": null
+      "title": {
+        "en": "Jorim"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "Matthat."
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:29",
+        "verses": [
+          {
+            "number": 29,
+            "line": "Which was the son of Jose, which was the son of Eliezer, which was the son of Jorim, which was the son of Matthat, which was the son of Levi,"
+          }
+        ]
+      }
+    ]
+  }
 }

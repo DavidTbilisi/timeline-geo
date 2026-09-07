@@ -1,0 +1,289 @@
+[
+  {
+    "id": 1016,
+    "slug": "adam",
+    "period": 1,
+    "start": -3954,
+    "end": -3024,
+    "type": "major",
+    "title": {
+      "en": "Adam"
+    },
+    "dates": {
+      "en": "3954–3024 BC (930)"
+    },
+    "image": "media/images/t/GoodSalt-prcas2581_8-8-2013 9-50-05 AM.jpg",
+    "layout": {
+      "row": 11,
+      "left": 271,
+      "width": 1023,
+      "hoverWidth": 1023,
+      "bar": true
+    }
+  },
+  {
+    "id": 662,
+    "slug": "cain",
+    "period": 1,
+    "start": -3900,
+    "end": -3200,
+    "type": "major",
+    "title": {
+      "en": "Cain"
+    },
+    "dates": {
+      "en": "3900–3200 BC (~700)"
+    },
+    "image": "media/images/t/GoodSalt-Cain_8-5-2013 3-56-06 PM.jpg",
+    "layout": {
+      "row": 14,
+      "left": 330,
+      "width": 770,
+      "hoverWidth": 770,
+      "bar": true
+    }
+  },
+  {
+    "id": 663,
+    "slug": "abel",
+    "period": 1,
+    "start": -3897,
+    "end": -3825,
+    "type": "major",
+    "title": {
+      "en": "Abel"
+    },
+    "dates": {
+      "en": "3897–3825 BC"
+    },
+    "image": "media/images/t/GoodSalt-prcas4883_8-7-2013 3-59-55 PM.jpg",
+    "layout": {
+      "row": 16,
+      "left": 333,
+      "width": 0,
+      "hoverWidth": 79.2,
+      "bar": false
+    }
+  },
+  {
+    "id": 664,
+    "slug": "cain-marked",
+    "period": 1,
+    "start": -3825,
+    "end": -3825,
+    "type": "major",
+    "title": {
+      "en": "Cain Marked"
+    },
+    "dates": {
+      "en": "3825 BC"
+    },
+    "image": "media/images/t/GoodSalt-prcas1582_8-8-2013 9-54-54 AM.jpg",
+    "layout": {
+      "row": 18,
+      "left": 413,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 665,
+    "slug": "seth",
+    "period": 1,
+    "start": -3824,
+    "end": -2912,
+    "type": "major",
+    "title": {
+      "en": "Seth"
+    },
+    "dates": {
+      "en": "3824–2912 BC (912)"
+    },
+    "image": "media/images/t/seth_8-5-2013 5-05-51 PM.jpg",
+    "layout": {
+      "row": 9,
+      "left": 414,
+      "width": 1003.2,
+      "hoverWidth": 1003.2,
+      "bar": true
+    }
+  },
+  {
+    "id": 666,
+    "slug": "enos",
+    "period": 1,
+    "start": -3719,
+    "end": -2814,
+    "type": "major",
+    "title": {
+      "en": "Enos"
+    },
+    "dates": {
+      "en": "3719–2814 BC (905)"
+    },
+    "image": "media/images/t/GoodSalt- Enos_8-5-2013 5-22-39 PM.jpg",
+    "layout": {
+      "row": 7,
+      "left": 529,
+      "width": 1279.3,
+      "hoverWidth": 1279.3,
+      "bar": true
+    }
+  },
+  {
+    "id": 667,
+    "slug": "cainan",
+    "period": 1,
+    "start": -3629,
+    "end": -2719,
+    "type": "major",
+    "title": {
+      "en": "Cainan"
+    },
+    "dates": {
+      "en": "3629–2719 BC (910)"
+    },
+    "image": "media/images/t/Goodsalt- cainan_8-5-2013 5-15-02 PM.jpg",
+    "layout": {
+      "row": 22,
+      "left": 628,
+      "width": 1598.3,
+      "hoverWidth": 1598.3,
+      "bar": true
+    }
+  },
+  {
+    "id": 668,
+    "slug": "mahalaleel",
+    "period": 1,
+    "start": -3559,
+    "end": -2664,
+    "type": "major",
+    "title": {
+      "en": "Mahalaleel"
+    },
+    "dates": {
+      "en": "3559–2664 BC (895)"
+    },
+    "image": "media/images/t/GoodSalt- mahalaleel_8-5-2013 5-20-30 PM.jpg",
+    "layout": {
+      "row": 16,
+      "left": 705,
+      "width": 1763.3,
+      "hoverWidth": 1763.3,
+      "bar": true
+    }
+  },
+  {
+    "id": 669,
+    "slug": "jared",
+    "period": 1,
+    "start": -3494,
+    "end": -2532,
+    "type": "major",
+    "title": {
+      "en": "Jared"
+    },
+    "dates": {
+      "en": "3494–2532 BC (962)"
+    },
+    "image": "media/images/t/GoodSalt- Jared_8-5-2013 5-24-43 PM.jpg",
+    "layout": {
+      "row": 5,
+      "left": 777,
+      "width": 2272.6,
+      "hoverWidth": 2272.6,
+      "bar": true
+    }
+  },
+  {
+    "id": 670,
+    "slug": "enoch",
+    "period": 1,
+    "start": -3332,
+    "end": -2967,
+    "type": "major",
+    "title": {
+      "en": "Enoch"
+    },
+    "dates": {
+      "en": "3332–2967 BC (365)"
+    },
+    "image": "media/images/t/enoch_7-31-2013 12-29-36 PM.jpg",
+    "layout": {
+      "row": 18,
+      "left": 955,
+      "width": 401.5,
+      "hoverWidth": 401.5,
+      "bar": true
+    }
+  },
+  {
+    "id": 671,
+    "slug": "methuselah",
+    "period": 1,
+    "start": -3267,
+    "end": -2298,
+    "type": "major",
+    "title": {
+      "en": "Methuselah"
+    },
+    "dates": {
+      "en": "3267–2298 BC (969)"
+    },
+    "image": "media/images/t/tissot-Building_the_Ark_7-31-2013 9-22-14 AM.jpg",
+    "layout": {
+      "row": 3,
+      "left": 1026,
+      "width": 3052.5,
+      "hoverWidth": 3052.5,
+      "bar": true
+    }
+  },
+  {
+    "id": 672,
+    "slug": "enochs-prophetic-ministry",
+    "period": 1,
+    "start": -3267,
+    "end": -2967,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Enoch's Prophetic Ministry"
+    },
+    "dates": {
+      "en": "3267–2967 BC"
+    },
+    "image": "media/images/t/Enoch_5-21-2013 9-53-09 AM.jpg",
+    "layout": {
+      "row": 20,
+      "left": 1026,
+      "width": 0,
+      "hoverWidth": 330,
+      "bar": false
+    }
+  },
+  {
+    "id": 673,
+    "slug": "lamech",
+    "period": 1,
+    "start": -3080,
+    "end": -2303,
+    "type": "major",
+    "title": {
+      "en": "Lamech"
+    },
+    "dates": {
+      "en": "3080–2303 BC (777)"
+    },
+    "image": "media/images/t/Goodsalt- Lamech_8-5-2013 5-27-05 PM.jpg",
+    "layout": {
+      "row": 14,
+      "left": 1232,
+      "width": 2824.8,
+      "hoverWidth": 2824.8,
+      "bar": true
+    }
+  }
+]

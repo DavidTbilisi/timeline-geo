@@ -2,15 +2,18 @@
   "slug": "egypt-made-a-roman-province",
   "id": 594,
   "period": 9,
-  "titleEn": "Egypt Made a Roman Province",
-  "titleKa": null,
-  "datesEn": "30 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "After its conquest by Octavian Augustus in 30 b.c., the year following the battle of Actium, it became a Roman province under the direct rule of the emperor. This was its status throughout the age of the apostles.",
-  "descriptionKa": null,
-  "articleEn": "<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Egypt Made a Roman Province"
+  },
+  "dates": {
+    "en": "30 <span>BC</span>"
+  },
+  "description": {
+    "en": "After its conquest by Octavian Augustus in 30 b.c., the year following the battle of Actium, it became a Roman province under the direct rule of the emperor. This was its status throughout the age of the apostles."
+  },
+  "article": {
+    "en": "<BR />"
+  },
   "related": [],
   "images": [
     {

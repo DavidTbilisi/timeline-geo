@@ -2,40 +2,36 @@
   "slug": "cush",
   "id": 616,
   "period": 2,
-  "titleEn": "Cush",
-  "titleKa": null,
-  "datesEn": "2295&ndash;1898 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;black.&#34; He is probably the eldest son of Ham and the father of Nimrod. The land of Cush probably came from his name and refers to territories south of Israel.",
-  "descriptionKa": null,
-  "articleEn": "A son of Ham and ancestor of 5 principal peoples: Seba, Havilah, Sabtah, Raamah (from whom Sheba and Dedan descended), and Sabteca (Gen 10:6&#8212;8 1 Chr 1:8). These peoples lived for the most part in Nubia, south of Egypt, and in southern and western Arabia.",
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Genesis 10:6",
-      "verses": [
-        {
-          "number": 6,
-          "line": "And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan."
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Cush"
+  },
+  "dates": {
+    "en": "2295&ndash;1898 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;black.&#34; He is probably the eldest son of Ham and the father of Nimrod. The land of Cush probably came from his name and refers to territories south of Israel."
+  },
+  "article": {
+    "en": "A son of Ham and ancestor of 5 principal peoples: Seba, Havilah, Sabtah, Raamah (from whom Sheba and Dedan descended), and Sabteca (Gen 10:6&#8212;8 1 Chr 1:8). These peoples lived for the most part in Nubia, south of Egypt, and in southern and western Arabia."
+  },
   "related": [
     {
       "slug": "ham",
-      "titleEn": "Ham",
-      "titleKa": null
+      "title": {
+        "en": "Ham"
+      }
     },
     {
       "slug": "nimrod",
-      "titleEn": "Nimrod",
-      "titleKa": null
+      "title": {
+        "en": "Nimrod"
+      }
     },
     {
       "slug": "nimrod-founded-babylon",
-      "titleEn": "Nimrod Founded Babylon",
-      "titleKa": null
+      "title": {
+        "en": "Nimrod Founded Babylon"
+      }
     }
   ],
   "images": [
@@ -44,5 +40,18 @@
       "caption": "Map of Noah&#39;s world including territories of Cush, Lyman Coleman, 1854"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Genesis 10:6",
+        "verses": [
+          {
+            "number": 6,
+            "line": "And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan."
+          }
+        ]
+      }
+    ]
+  }
 }

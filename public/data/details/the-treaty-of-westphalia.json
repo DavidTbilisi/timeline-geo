@@ -2,20 +2,24 @@
   "slug": "the-treaty-of-westphalia",
   "id": 1385,
   "period": 12,
-  "titleEn": "The Treaty of Westphalia ",
-  "titleKa": null,
-  "datesEn": "1648 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Effectively ended the Thirty Years&#39; War by advocating religious toleration.",
-  "descriptionKa": null,
-  "articleEn": "The Treaty of Westphalia ended the Thirty Years&#39; War in 1648. There was no real winner between the Catholic and Protestant forces. Rather, the Treaty of Westphalia promoted the idea of religious toleration. As a result, Catholicism, Calvinism, and Lutheranism were all legally recognized religions in their respected areas.<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "The Treaty of Westphalia "
+  },
+  "dates": {
+    "en": "1648 <span>AD</span>"
+  },
+  "description": {
+    "en": "Effectively ended the Thirty Years&#39; War by advocating religious toleration."
+  },
+  "article": {
+    "en": "The Treaty of Westphalia ended the Thirty Years&#39; War in 1648. There was no real winner between the Catholic and Protestant forces. Rather, the Treaty of Westphalia promoted the idea of religious toleration. As a result, Catholicism, Calvinism, and Lutheranism were all legally recognized religions in their respected areas.<BR />"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

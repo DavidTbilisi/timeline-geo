@@ -1,8 +1,9 @@
 import { test, expect } from './fixtures'
+import { PERIODS, ERAS } from './content'
 
 /**
  * Focused layout checks for the reference-matching landing page.
- * Verifies: 13 period cards, 3 era arches, welcome panel visibility,
+ * Verifies: one card per period, one arch per era, welcome panel visibility,
  * and period-card click navigation.
  */
 test.describe('Landing layout — reference match', () => {
@@ -15,14 +16,14 @@ test.describe('Landing layout — reference match', () => {
     }
   })
 
-  test('renders exactly 13 period cards', async ({ page }) => {
+  test('renders exactly one card per period', async ({ page }) => {
     const cards = page.locator('[data-testid^="period-card-"]')
-    await expect(cards).toHaveCount(13)
+    await expect(cards).toHaveCount(PERIODS.length)
   })
 
-  test('era arches show 3 era headings', async ({ page }) => {
+  test('era arches show one heading per era', async ({ page }) => {
     const arches = page.locator('[data-testid^="era-arch-"]')
-    await expect(arches).toHaveCount(3)
+    await expect(arches).toHaveCount(ERAS.length)
     // The era arch h3 text is in the DOM even if visually hidden by sprite CSS
     await expect(page.locator('[data-testid="era-arch-1"] h3')).toContainText(/Patriarchs|პატრიარქ/i)
     await expect(page.locator('[data-testid="era-arch-2"] h3')).toContainText(/Israel|ისრაელ/i)

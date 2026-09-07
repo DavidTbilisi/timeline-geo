@@ -1,0 +1,1111 @@
+[
+  {
+    "id": 580,
+    "slug": "julius-caesar",
+    "period": 9,
+    "start": -100,
+    "end": -44,
+    "type": "major",
+    "title": {
+      "en": "Julius Caesar"
+    },
+    "dates": {
+      "en": "100–44 BC (55)"
+    },
+    "image": "media/images/t/Portrait_of_Julius_Caesar_color_8-8-2013 1-46-35 PM.jpg",
+    "layout": {
+      "row": 14,
+      "left": 27610,
+      "width": 6160,
+      "hoverWidth": 6160,
+      "bar": true
+    }
+  },
+  {
+    "id": 581,
+    "slug": "simeon-of-the-temple",
+    "period": 9,
+    "start": -90,
+    "end": 3,
+    "type": "major",
+    "title": {
+      "en": "Simeon"
+    },
+    "dates": {
+      "en": "90 BC–3 AD (~93)"
+    },
+    "image": "media/images/t/Yegorov-Simeon_the_Righteous.jpg",
+    "layout": {
+      "row": 16,
+      "left": 28710,
+      "width": 10230,
+      "hoverWidth": 10230,
+      "bar": true
+    }
+  },
+  {
+    "id": 582,
+    "slug": "anna",
+    "period": 9,
+    "start": -89,
+    "end": 7,
+    "type": "major",
+    "title": {
+      "en": "Anna"
+    },
+    "dates": {
+      "en": "89 BC–7 AD"
+    },
+    "image": "media/images/t/GoodSalt-prcas4188_8-6-2013 3-54-10 PM.jpg",
+    "layout": {
+      "row": 11,
+      "left": 28820,
+      "width": 0,
+      "hoverWidth": 10560,
+      "bar": false
+    }
+  },
+  {
+    "id": 583,
+    "slug": "matthat-father-of-heli",
+    "period": 9,
+    "start": -83,
+    "end": -10,
+    "type": "minor",
+    "title": {
+      "en": "Matthat"
+    },
+    "dates": {
+      "en": "83–10 BC"
+    },
+    "layout": {
+      "row": 11,
+      "left": 29480,
+      "width": 0,
+      "hoverWidth": 8030,
+      "bar": false
+    }
+  },
+  {
+    "id": 584,
+    "slug": "herod-the-great",
+    "period": 9,
+    "start": -73,
+    "end": -4,
+    "type": "major",
+    "title": {
+      "en": "Herod the Great"
+    },
+    "dates": {
+      "en": "73–4 BC (~69)"
+    },
+    "image": "media/images/t/HerodtheGreat2_3-20-2013 4-49-58 PM.jpg",
+    "layout": {
+      "row": 18,
+      "left": 30580,
+      "width": 7590,
+      "hoverWidth": 7590,
+      "bar": true
+    }
+  },
+  {
+    "id": 585,
+    "slug": "syria-seleucid-kingdom-annexed-by-rome",
+    "period": 9,
+    "start": -64,
+    "end": -64,
+    "type": "minor",
+    "title": {
+      "en": "Syria Seleucid Kingdom  Annexed by Rome"
+    },
+    "dates": {
+      "en": "64 BC"
+    },
+    "layout": {
+      "row": 6,
+      "left": 31570,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 586,
+    "slug": "pompey-destroys-jerusalem",
+    "period": 9,
+    "start": -64,
+    "end": -64,
+    "type": "minor",
+    "title": {
+      "en": "Pompey Destroys Jerusalem"
+    },
+    "dates": {
+      "en": "64 BC"
+    },
+    "layout": {
+      "row": 7,
+      "left": 31570,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 598,
+    "slug": "augustus-caesar",
+    "period": 9,
+    "start": -63,
+    "end": 14,
+    "type": "major",
+    "title": {
+      "en": "Augustus Caesar"
+    },
+    "dates": {
+      "en": "63 BC–14 AD (~77)"
+    },
+    "image": "media/images/t/Augustus Caesar_3-20-2013 4-27-25 PM.jpg",
+    "layout": {
+      "row": 8,
+      "left": 31680,
+      "width": 8470,
+      "hoverWidth": 8470,
+      "bar": true
+    }
+  },
+  {
+    "id": 587,
+    "slug": "heli",
+    "period": 9,
+    "start": -55,
+    "end": 10,
+    "type": "minor",
+    "title": {
+      "en": "Heli"
+    },
+    "dates": {
+      "en": "55 BC–10 AD"
+    },
+    "layout": {
+      "row": 10,
+      "left": 32560,
+      "width": 0,
+      "hoverWidth": 7150,
+      "bar": false
+    }
+  },
+  {
+    "id": 591,
+    "slug": "joseph-husband-of-mary",
+    "period": 9,
+    "start": -30,
+    "end": 20,
+    "type": "major",
+    "title": {
+      "en": "Joseph"
+    },
+    "dates": {
+      "en": "30 BC–20 AD (~50)"
+    },
+    "image": "media/images/t/GoodSalt-pppas0119_8-28-2013 2-33-30 PM.jpg",
+    "layout": {
+      "row": 6,
+      "left": 35310,
+      "width": 5500,
+      "hoverWidth": 5500,
+      "bar": true
+    }
+  },
+  {
+    "id": 594,
+    "slug": "egypt-made-a-roman-province",
+    "period": 9,
+    "start": -30,
+    "end": -30,
+    "type": "minor",
+    "title": {
+      "en": "Egypt Made a Roman Province"
+    },
+    "dates": {
+      "en": "30 BC"
+    },
+    "layout": {
+      "row": 15,
+      "left": 35310,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 595,
+    "slug": "herod-antipas",
+    "period": 9,
+    "start": -20,
+    "end": 50,
+    "type": "major",
+    "title": {
+      "en": "Herod Antipas"
+    },
+    "dates": {
+      "en": "20 BC–50 AD (~70)"
+    },
+    "image": "media/images/t/Brooklyn_Museum_Herod_James_Tissot_-_overall.jpg",
+    "layout": {
+      "row": 21,
+      "left": 36410,
+      "width": 6380,
+      "hoverWidth": 6380,
+      "bar": true
+    }
+  },
+  {
+    "id": 679,
+    "slug": "jesus",
+    "period": 9,
+    "start": -4,
+    "end": 31,
+    "type": "major",
+    "title": {
+      "en": "Jesus"
+    },
+    "dates": {
+      "en": "4 BC–31 AD (~35)"
+    },
+    "image": "media/images/t/GoodSalt-Jesus_8-1-2013 5-43-23 PM.jpg",
+    "layout": {
+      "row": 10,
+      "left": 38170,
+      "width": 3850,
+      "hoverWidth": 3850,
+      "bar": true
+    }
+  },
+  {
+    "id": 597,
+    "slug": "peter",
+    "period": 9,
+    "start": -1,
+    "end": 65,
+    "type": "minor",
+    "title": {
+      "en": "Peter"
+    },
+    "dates": {
+      "en": "1 BC–65 AD"
+    },
+    "layout": {
+      "row": 12,
+      "left": 38500,
+      "width": 0,
+      "hoverWidth": 4620,
+      "bar": false
+    }
+  },
+  {
+    "id": 1295,
+    "slug": "john",
+    "period": 9,
+    "start": 11,
+    "end": 99,
+    "type": "minor",
+    "title": {
+      "en": "John"
+    },
+    "dates": {
+      "en": "11–99 AD"
+    },
+    "layout": {
+      "row": 12,
+      "left": 39820,
+      "width": 0,
+      "hoverWidth": 4048,
+      "bar": false
+    }
+  },
+  {
+    "id": 1294,
+    "slug": "paul",
+    "period": 9,
+    "start": 14,
+    "end": 67,
+    "type": "minor",
+    "title": {
+      "en": "Paul"
+    },
+    "dates": {
+      "en": "14–67 AD"
+    },
+    "layout": {
+      "row": 12,
+      "left": 40150,
+      "width": 0,
+      "hoverWidth": 3014,
+      "bar": false
+    }
+  },
+  {
+    "id": 1029,
+    "slug": "john-the-baptists-ministry",
+    "period": 9,
+    "start": 25,
+    "end": 27,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "John the Baptist's Ministry"
+    },
+    "dates": {
+      "en": "25–27 AD"
+    },
+    "image": "media/images/t/GoodSalt-prcas0793_8-28-2013 2-48-58 PM.jpg",
+    "layout": {
+      "row": 7,
+      "left": 41360,
+      "width": 0,
+      "hoverWidth": 220,
+      "bar": false
+    }
+  },
+  {
+    "id": 1027,
+    "slug": "baptism-of-christ",
+    "period": 9,
+    "start": 27,
+    "end": 27,
+    "type": "minor",
+    "title": {
+      "en": "Baptism of Christ"
+    },
+    "dates": {
+      "en": "27 AD"
+    },
+    "layout": {
+      "row": 12,
+      "left": 41580,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1028,
+    "slug": "christs-early-ministry",
+    "period": 9,
+    "start": 27,
+    "end": 28,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Christ's Early Ministry"
+    },
+    "dates": {
+      "en": "27–28 AD"
+    },
+    "image": "media/images/t/GoodSalt-prcas2553_8-6-2013 4-34-53 PM.jpg",
+    "layout": {
+      "row": 5,
+      "left": 41580,
+      "width": 0,
+      "hoverWidth": 110,
+      "bar": false
+    }
+  },
+  {
+    "id": 1044,
+    "slug": "rejection-by-sanhedrin",
+    "period": 9,
+    "start": 29,
+    "end": 29,
+    "type": "minor",
+    "title": {
+      "en": "Rejection by Sanhedrin"
+    },
+    "dates": {
+      "en": "29 AD"
+    },
+    "layout": {
+      "row": 13,
+      "left": 41800,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1050,
+    "slug": "demoniac-in-the-synagogue",
+    "period": 9,
+    "start": 29,
+    "end": 29,
+    "type": "minor",
+    "title": {
+      "en": "Demoniac in the Synagogue"
+    },
+    "dates": {
+      "en": "29 AD"
+    },
+    "layout": {
+      "row": 20,
+      "left": 41800,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1051,
+    "slug": "peters-motherinlaw-healed",
+    "period": 9,
+    "start": 29,
+    "end": 29,
+    "type": "minor",
+    "title": {
+      "en": "Peter's Mother-in-law Healed"
+    },
+    "dates": {
+      "en": "29 AD"
+    },
+    "layout": {
+      "row": 14,
+      "left": 41800,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1053,
+    "slug": "the-first-leper-healed",
+    "period": 9,
+    "start": 29,
+    "end": 29,
+    "type": "minor",
+    "title": {
+      "en": "The First Leper Healed"
+    },
+    "dates": {
+      "en": "29 AD"
+    },
+    "layout": {
+      "row": 12,
+      "left": 41800,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1055,
+    "slug": "call-of-levi-matthew",
+    "period": 9,
+    "start": 29,
+    "end": 29,
+    "type": "minor",
+    "title": {
+      "en": "Call of Levi Matthew"
+    },
+    "dates": {
+      "en": "29 AD"
+    },
+    "layout": {
+      "row": 19,
+      "left": 41800,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1057,
+    "slug": "man-with-a-withered-hand",
+    "period": 9,
+    "start": 29,
+    "end": 29,
+    "type": "minor",
+    "title": {
+      "en": "Man with a Withered Hand"
+    },
+    "dates": {
+      "en": "29 AD"
+    },
+    "layout": {
+      "row": 15,
+      "left": 41800,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1059,
+    "slug": "appointment-of-the-twelve-disciples",
+    "period": 9,
+    "start": 29,
+    "end": 29,
+    "type": "minor",
+    "title": {
+      "en": "Appointment of the Twelve Disciples"
+    },
+    "dates": {
+      "en": "29 AD"
+    },
+    "layout": {
+      "row": 3,
+      "left": 41800,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1060,
+    "slug": "sermon-on-the-mount",
+    "period": 9,
+    "start": 29,
+    "end": 29,
+    "type": "minor",
+    "title": {
+      "en": "Sermon on the Mount"
+    },
+    "dates": {
+      "en": "29 AD"
+    },
+    "layout": {
+      "row": 9,
+      "left": 41800,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1061,
+    "slug": "the-centurions-servant-healed",
+    "period": 9,
+    "start": 29,
+    "end": 29,
+    "type": "minor",
+    "title": {
+      "en": "The Centurion's Servant Healed"
+    },
+    "dates": {
+      "en": "29 AD"
+    },
+    "layout": {
+      "row": 8,
+      "left": 41800,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1062,
+    "slug": "two-blind-men-healed",
+    "period": 9,
+    "start": 29,
+    "end": 29,
+    "type": "minor",
+    "title": {
+      "en": "Two Blind Men Healed"
+    },
+    "dates": {
+      "en": "29 AD"
+    },
+    "layout": {
+      "row": 18,
+      "left": 41800,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1063,
+    "slug": "a-mute-demoniac-is-healed",
+    "period": 9,
+    "start": 29,
+    "end": 29,
+    "type": "minor",
+    "title": {
+      "en": "A Mute Demoniac is Healed"
+    },
+    "dates": {
+      "en": "29 AD"
+    },
+    "layout": {
+      "row": 16,
+      "left": 41800,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1070,
+    "slug": "the-storm-on-the-lake",
+    "period": 9,
+    "start": 29,
+    "end": 29,
+    "type": "minor",
+    "title": {
+      "en": "The Storm on the Lake"
+    },
+    "dates": {
+      "en": "29 AD"
+    },
+    "layout": {
+      "row": 7,
+      "left": 41800,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1071,
+    "slug": "demoniacs-of-gadara",
+    "period": 9,
+    "start": 29,
+    "end": 29,
+    "type": "minor",
+    "title": {
+      "en": "Demoniacs of Gadara"
+    },
+    "dates": {
+      "en": "29 AD"
+    },
+    "layout": {
+      "row": 17,
+      "left": 41800,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1075,
+    "slug": "the-inquiry-by-johns-disciples",
+    "period": 9,
+    "start": 29,
+    "end": 29,
+    "type": "minor",
+    "title": {
+      "en": "The Inquiry by John's Disciples"
+    },
+    "dates": {
+      "en": "29 AD"
+    },
+    "layout": {
+      "row": 4,
+      "left": 41800,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1042,
+    "slug": "john-the-baptist-imprisoned",
+    "period": 9,
+    "start": 30,
+    "end": 30,
+    "type": "minor",
+    "title": {
+      "en": "John the Baptist Imprisoned"
+    },
+    "dates": {
+      "en": "30 AD"
+    },
+    "layout": {
+      "row": 5,
+      "left": 41910,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1080,
+    "slug": "martyrdom-of-john-the-baptist",
+    "period": 9,
+    "start": 30,
+    "end": 30,
+    "type": "minor",
+    "title": {
+      "en": "Martyrdom of John the Baptist"
+    },
+    "dates": {
+      "en": "30 AD"
+    },
+    "layout": {
+      "row": 6,
+      "left": 41910,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1139,
+    "slug": "jesus-foretells-his-death",
+    "period": 9,
+    "start": 31,
+    "end": 31,
+    "type": "minor",
+    "title": {
+      "en": "Jesus Foretells His Death"
+    },
+    "dates": {
+      "en": "31 AD"
+    },
+    "layout": {
+      "row": 7,
+      "left": 42020,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1142,
+    "slug": "zacchaeus",
+    "period": 9,
+    "start": 31,
+    "end": 31,
+    "type": "minor",
+    "title": {
+      "en": "Zacchaeus"
+    },
+    "dates": {
+      "en": "31 AD"
+    },
+    "layout": {
+      "row": 8,
+      "left": 42020,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1147,
+    "slug": "the-triumphal-entry",
+    "period": 9,
+    "start": 31,
+    "end": 31,
+    "type": "minor",
+    "title": {
+      "en": "The Triumphal Entry"
+    },
+    "dates": {
+      "en": "31 AD"
+    },
+    "layout": {
+      "row": 9,
+      "left": 42020,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1167,
+    "slug": "celebration-of-the-passover",
+    "period": 9,
+    "start": 31,
+    "end": 31,
+    "type": "minor",
+    "title": {
+      "en": "Celebration of the Passover"
+    },
+    "dates": {
+      "en": "31 AD"
+    },
+    "layout": {
+      "row": 11,
+      "left": 42020,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1168,
+    "slug": "washing-the-disciples-feet",
+    "period": 9,
+    "start": 31,
+    "end": 31,
+    "type": "minor",
+    "title": {
+      "en": "Washing the Disciples' Feet"
+    },
+    "dates": {
+      "en": "31 AD"
+    },
+    "layout": {
+      "row": 10,
+      "left": 42020,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1170,
+    "slug": "the-betrayer-revealed",
+    "period": 9,
+    "start": 31,
+    "end": 31,
+    "type": "minor",
+    "title": {
+      "en": "The Betrayer Revealed"
+    },
+    "dates": {
+      "en": "31 AD"
+    },
+    "layout": {
+      "row": 12,
+      "left": 42020,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1183,
+    "slug": "night-trial-before-sanhedrin",
+    "period": 9,
+    "start": 31,
+    "end": 31,
+    "type": "minor",
+    "title": {
+      "en": "Night Trial before Sanhedrin"
+    },
+    "dates": {
+      "en": "31 AD"
+    },
+    "layout": {
+      "row": 13,
+      "left": 42020,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1184,
+    "slug": "day-trial-before-sanhedrin",
+    "period": 9,
+    "start": 31,
+    "end": 31,
+    "type": "minor",
+    "title": {
+      "en": "Day Trial before Sanhedrin"
+    },
+    "dates": {
+      "en": "31 AD"
+    },
+    "layout": {
+      "row": 14,
+      "left": 42020,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1185,
+    "slug": "judas-confession-and-suicide",
+    "period": 9,
+    "start": 31,
+    "end": 31,
+    "type": "minor",
+    "title": {
+      "en": "Judas' Confession and Suicide"
+    },
+    "dates": {
+      "en": "31 AD"
+    },
+    "layout": {
+      "row": 15,
+      "left": 42020,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1186,
+    "slug": "first-trial-before-pilate",
+    "period": 9,
+    "start": 31,
+    "end": 31,
+    "type": "minor",
+    "title": {
+      "en": "First Trial before Pilate"
+    },
+    "dates": {
+      "en": "31 AD"
+    },
+    "layout": {
+      "row": 16,
+      "left": 42020,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1188,
+    "slug": "second-trial-before-pilate",
+    "period": 9,
+    "start": 31,
+    "end": 31,
+    "type": "minor",
+    "title": {
+      "en": "Second Trial before Pilate"
+    },
+    "dates": {
+      "en": "31 AD"
+    },
+    "layout": {
+      "row": 17,
+      "left": 42020,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1189,
+    "slug": "the-crucifixion",
+    "period": 9,
+    "start": 31,
+    "end": 31,
+    "type": "minor",
+    "title": {
+      "en": "The Crucifixion"
+    },
+    "dates": {
+      "en": "31 AD"
+    },
+    "layout": {
+      "row": 18,
+      "left": 42020,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1193,
+    "slug": "the-resurrection",
+    "period": 9,
+    "start": 31,
+    "end": 31,
+    "type": "minor",
+    "title": {
+      "en": "The Resurrection"
+    },
+    "dates": {
+      "en": "31 AD"
+    },
+    "layout": {
+      "row": 19,
+      "left": 42020,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1199,
+    "slug": "the-ascension",
+    "period": 9,
+    "start": 31,
+    "end": 31,
+    "type": "minor",
+    "title": {
+      "en": "The Ascension"
+    },
+    "dates": {
+      "en": "31 AD"
+    },
+    "layout": {
+      "row": 20,
+      "left": 42020,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1200,
+    "slug": "stoning-of-stephen",
+    "period": 9,
+    "start": 34,
+    "end": 34,
+    "type": "major",
+    "title": {
+      "en": "Stoning of Stephen"
+    },
+    "dates": {
+      "en": "34 AD"
+    },
+    "image": "media/images/t/StStephen_GiacomoCavedone_2-28-2013 2-06-41 PM.jpg",
+    "layout": {
+      "row": 4,
+      "left": 42350,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1293,
+    "slug": "prophecies-of-the-end-of-time",
+    "period": 9,
+    "start": 34,
+    "end": 2020,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Prophecies of the End of Time"
+    },
+    "dates": {
+      "en": "34–Future"
+    },
+    "image": "media/images/t/91726832_11_sm_2-27-2013 11-45-33 AM.jpg",
+    "layout": {
+      "row": 10,
+      "left": 42350,
+      "width": 0,
+      "hoverWidth": 43780,
+      "bar": false
+    }
+  },
+  {
+    "id": 1237,
+    "slug": "church-of-ephesus-apostolic-church-age",
+    "period": 9,
+    "start": 31,
+    "end": 100,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Church of Ephesus, Apostolic Church Age"
+    },
+    "dates": {
+      "en": "31–100 AD"
+    },
+    "image": "media/images/t/149144388_2-28-2013 9-06-13 AM.jpg",
+    "layout": {
+      "row": 1,
+      "left": 42020,
+      "width": 0,
+      "hoverWidth": 1870,
+      "bar": false
+    }
+  }
+]

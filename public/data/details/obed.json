@@ -2,62 +2,27 @@
   "slug": "obed",
   "id": 765,
   "period": 5,
-  "titleEn": "Obed",
-  "titleKa": null,
-  "datesEn": "1203&ndash;1123 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;servant&#34; or &#34;worshiper.&#34; He is the son of Boaz and Ruth and the father of Jesse and grandfather of David. Obed was an ancestor of Jesus Christ and is listed in Matthew and Luke&#39;s genealogies.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Ruth 4:21",
-      "verses": [
-        {
-          "number": 21,
-          "line": "And Salmon begat Boaz, and Boaz begat Obed,"
-        }
-      ]
-    },
-    {
-      "reference": "Matthew 1:5",
-      "verses": [
-        {
-          "number": 5,
-          "line": "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;"
-        }
-      ]
-    },
-    {
-      "reference": "Luke 3:32",
-      "verses": [
-        {
-          "number": 32,
-          "line": "Which was the son of Jesse, which was the son of Obed, which was the son of Booz, which was the son of Salmon, which was the son of Naasson,"
-        }
-      ]
-    },
-    {
-      "reference": "1 Chronicles 2:12",
-      "verses": [
-        {
-          "number": 12,
-          "line": "And Boaz begat Obed, and Obed begat Jesse,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Obed"
+  },
+  "dates": {
+    "en": "1203&ndash;1123 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;servant&#34; or &#34;worshiper.&#34; He is the son of Boaz and Ruth and the father of Jesse and grandfather of David. Obed was an ancestor of Jesus Christ and is listed in Matthew and Luke&#39;s genealogies."
+  },
   "related": [
     {
       "slug": "boaz",
-      "titleEn": "Boaz",
-      "titleKa": null
+      "title": {
+        "en": "Boaz"
+      }
     },
     {
       "slug": "jesse",
-      "titleEn": "Jesse",
-      "titleKa": null
+      "title": {
+        "en": "Jesse"
+      }
     }
   ],
   "images": [
@@ -70,5 +35,45 @@
       "caption": "Pen and brown ink over pencil on paper picture of Ruth, Naomi, and Obed in 1860 by Simeon Solomon locatead at the Birmingham Museums and Art Gallery."
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Ruth 4:21",
+        "verses": [
+          {
+            "number": 21,
+            "line": "And Salmon begat Boaz, and Boaz begat Obed,"
+          }
+        ]
+      },
+      {
+        "reference": "Matthew 1:5",
+        "verses": [
+          {
+            "number": 5,
+            "line": "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;"
+          }
+        ]
+      },
+      {
+        "reference": "Luke 3:32",
+        "verses": [
+          {
+            "number": 32,
+            "line": "Which was the son of Jesse, which was the son of Obed, which was the son of Booz, which was the son of Salmon, which was the son of Naasson,"
+          }
+        ]
+      },
+      {
+        "reference": "1 Chronicles 2:12",
+        "verses": [
+          {
+            "number": 12,
+            "line": "And Boaz begat Obed, and Obed begat Jesse,"
+          }
+        ]
+      }
+    ]
+  }
 }

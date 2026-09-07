@@ -2,35 +2,27 @@
   "slug": "levi-son-of-melchi",
   "id": 579,
   "period": 8,
-  "titleEn": "Levi",
-  "titleKa": null,
-  "datesEn": "105&ndash;50 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;joined&#34; or &#34;attached.&#34; He is the son of Melki or Melchi and father of Matthat, a Judahite listed in Luke&#39;s genealogy of Jesus Christ. Note, there are two Levi&#39;s listed in Luke&#39;s genealogy, plus a few others in Scripture.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:24",
-      "verses": [
-        {
-          "number": 24,
-          "line": "Which was the son of Matthat, which was the son of Levi, which was the son of Melchi, which was the son of Janna, which was the son of Joseph,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Levi"
+  },
+  "dates": {
+    "en": "105&ndash;50 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;joined&#34; or &#34;attached.&#34; He is the son of Melki or Melchi and father of Matthat, a Judahite listed in Luke&#39;s genealogy of Jesus Christ. Note, there are two Levi&#39;s listed in Luke&#39;s genealogy, plus a few others in Scripture."
+  },
   "related": [
     {
       "slug": "melchi-or-melki",
-      "titleEn": "Melchi (or Melki)",
-      "titleKa": null
+      "title": {
+        "en": "Melchi (or Melki)"
+      }
     },
     {
       "slug": "matthat-father-of-heli",
-      "titleEn": "Matthat",
-      "titleKa": null
+      "title": {
+        "en": "Matthat"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "Ancestor of Jesus"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:24",
+        "verses": [
+          {
+            "number": 24,
+            "line": "Which was the son of Matthat, which was the son of Levi, which was the son of Melchi, which was the son of Janna, which was the son of Joseph,"
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -2,35 +2,27 @@
   "slug": "simeon-son-of-juda",
   "id": 956,
   "period": 7,
-  "titleEn": "Simeon",
-  "titleKa": null,
-  "datesEn": "807&ndash;827 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;hearing&#34; or &#34;God hears my prayer.&#34; He is the son of Juda in Luke&#39;s genealogy, a Judahite and ancestor of Jesus Christ. Also spelled &#34;Symeon&#34; (KJV).",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:30",
-      "verses": [
-        {
-          "number": 30,
-          "line": "Which was the son of Simeon, which was the son of Juda, which was the son of Joseph, which was the son of Jonan, which was the son of Eliakim,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Simeon"
+  },
+  "dates": {
+    "en": "807&ndash;827 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;hearing&#34; or &#34;God hears my prayer.&#34; He is the son of Juda in Luke&#39;s genealogy, a Judahite and ancestor of Jesus Christ. Also spelled &#34;Symeon&#34; (KJV)."
+  },
   "related": [
     {
       "slug": "juda",
-      "titleEn": "Juda",
-      "titleKa": null
+      "title": {
+        "en": "Juda"
+      }
     },
     {
       "slug": "levi-son-of-simeon",
-      "titleEn": "Levi",
-      "titleKa": null
+      "title": {
+        "en": "Levi"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "Ancestor of Jesus"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:30",
+        "verses": [
+          {
+            "number": 30,
+            "line": "Which was the son of Simeon, which was the son of Juda, which was the son of Joseph, which was the son of Jonan, which was the son of Eliakim,"
+          }
+        ]
+      }
+    ]
+  }
 }

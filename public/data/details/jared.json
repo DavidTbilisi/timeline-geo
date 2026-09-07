@@ -2,44 +2,27 @@
   "slug": "jared",
   "id": 669,
   "period": 1,
-  "titleEn": "Jared",
-  "titleKa": null,
-  "datesEn": "3494&ndash;2532 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;servant.&#34; The fourth patriarch from Seth, he was the son of Mahalalel and the father of Enoch, also called Jered (1 Chron. 1:2). He lived 962 years.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Genesis 5:15",
-      "verses": [
-        {
-          "number": 15,
-          "line": "And Mahalaleel lived sixty and five years, and begat Jared:"
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 5:20",
-      "verses": [
-        {
-          "number": 20,
-          "line": "And all the days of Jared were nine hundred sixty and two years: and he died."
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Jared"
+  },
+  "dates": {
+    "en": "3494&ndash;2532 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;servant.&#34; The fourth patriarch from Seth, he was the son of Mahalalel and the father of Enoch, also called Jered (1 Chron. 1:2). He lived 962 years."
+  },
   "related": [
     {
       "slug": "mahalaleel",
-      "titleEn": "Mahalaleel",
-      "titleKa": null
+      "title": {
+        "en": "Mahalaleel"
+      }
     },
     {
       "slug": "enoch",
-      "titleEn": "Enoch",
-      "titleKa": null
+      "title": {
+        "en": "Enoch"
+      }
     }
   ],
   "images": [
@@ -48,5 +31,27 @@
       "caption": "Jared"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Genesis 5:15",
+        "verses": [
+          {
+            "number": 15,
+            "line": "And Mahalaleel lived sixty and five years, and begat Jared:"
+          }
+        ]
+      },
+      {
+        "reference": "Genesis 5:20",
+        "verses": [
+          {
+            "number": 20,
+            "line": "And all the days of Jared were nine hundred sixty and two years: and he died."
+          }
+        ]
+      }
+    ]
+  }
 }

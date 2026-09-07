@@ -1,18 +1,12 @@
 <script setup lang="ts">
-import type { PeriodData } from '@/types/event'
-import { useI18n } from 'vue-i18n'
+import type { Period } from '@lib/types'
+import { useLocalized } from '@lib/i18n'
 import { useRouter } from 'vue-router'
 import { log } from '@/utils/log'
 
-const props = defineProps<{ period: PeriodData }>()
-const { locale } = useI18n()
+const props = defineProps<{ period: Period }>()
+const { l } = useLocalized()
 const router = useRouter()
-
-const name = () => locale.value === 'ka' ? (props.period.nameKa ?? props.period.nameEn) : props.period.nameEn
-const description = () =>
-  locale.value === 'ka'
-    ? (props.period.descriptionKa ?? props.period.descriptionEn)
-    : props.period.descriptionEn
 
 function goToPeriod() {
   log.ui('PeriodCard click', { id: props.period.id, slug: props.period.slug })
@@ -29,9 +23,9 @@ function goToPeriod() {
   >
     <div class="image" />
     <div class="info">
-      <h3>{{ name() }}</h3>
+      <h3>{{ l(period.name) }}</h3>
       <div class="dash-line" />
-      <h4>{{ description() }}</h4>
+      <h4>{{ l(period.description) }}</h4>
     </div>
   </div>
 </template>

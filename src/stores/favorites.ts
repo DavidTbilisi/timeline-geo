@@ -1,21 +1,41 @@
 import { defineStore } from 'pinia'
 import { ref, watch } from 'vue'
-import type { TimelineEvent } from '@/types/event'
+import type { LocalizedString } from '@lib/types'
+import { useTimelineConfig } from '@lib/config'
 import { log } from '@/utils/log'
 
-const STORAGE_KEY = 'tl-geo-favorites'
+/** The minimum an event needs to appear in the favorites list. */
+export interface FavoriteEntry {
+  slug: string
+  title: LocalizedString
+  period: number
+}
+
+function readSlugs(key: string): string[] {
+  try {
+    const parsed = JSON.parse(localStorage.getItem(key) ?? '[]')
+    return Array.isArray(parsed) ? parsed.filter((s) => typeof s === 'string') : []
+  } catch {
+    return []
+  }
+}
 
 export const useFavoritesStore = defineStore('favorites', () => {
-  const slugs = ref<string[]>(
-    JSON.parse(localStorage.getItem(STORAGE_KEY) ?? '[]')
-  )
+  const config = useTimelineConfig()
+  const STORAGE_KEY = config.storage.favorites
+
+  const slugs = ref<string[]>(readSlugs(STORAGE_KEY))
   log.store('favorites init', { count: slugs.value.length })
 
   // Cache of event data for display in the favorites list
-  const eventCache = ref<Record<string, Pick<TimelineEvent, 'slug' | 'titleEn' | 'titleKa' | 'period'>>>({})
+  const eventCache = ref<Record<string, FavoriteEntry>>({})
 
   watch(slugs, (val) => {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(val))
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(val))
+    } catch (e) {
+      log.warn('favorites persist failed', e)
+    }
     log.store('favorites persisted', { count: val.length })
   }, { deep: true })
 
@@ -23,7 +43,7 @@ export const useFavoritesStore = defineStore('favorites', () => {
     return slugs.value.includes(slug)
   }
 
-  function toggle(slug: string, eventData?: Pick<TimelineEvent, 'slug' | 'titleEn' | 'titleKa' | 'period'>) {
+  function toggle(slug: string, eventData?: FavoriteEntry) {
     const idx = slugs.value.indexOf(slug)
     if (idx === -1) {
       slugs.value.push(slug)
@@ -35,7 +55,7 @@ export const useFavoritesStore = defineStore('favorites', () => {
     }
   }
 
-  function cacheEvent(event: Pick<TimelineEvent, 'slug' | 'titleEn' | 'titleKa' | 'period'>) {
+  function cacheEvent(event: FavoriteEntry) {
     eventCache.value[event.slug] = event
   }
 

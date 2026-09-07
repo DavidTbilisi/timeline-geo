@@ -2,20 +2,24 @@
   "slug": "henry-viii-acknowledged-as-head-of-the-english-church",
   "id": 1356,
   "period": 12,
-  "titleEn": "Henry VIII Accepted as Head of the English Church ",
-  "titleKa": null,
-  "datesEn": "1534 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "As a result of the Act of Supremacy and Henry VIII&#39;s excommunication, the king was acknowledged as supreme head of the Church of England.",
-  "descriptionKa": null,
-  "articleEn": "<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Henry VIII Accepted as Head of the English Church "
+  },
+  "dates": {
+    "en": "1534 <span>AD</span>"
+  },
+  "description": {
+    "en": "As a result of the Act of Supremacy and Henry VIII&#39;s excommunication, the king was acknowledged as supreme head of the Church of England."
+  },
+  "article": {
+    "en": "<BR />"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

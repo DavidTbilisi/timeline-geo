@@ -1,22 +1,23 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useRouter } from 'vue-router'
-import { useI18n } from 'vue-i18n'
 import { useTimelineStore } from '@/stores/timeline'
-import { PERIODS } from '@/data/periods'
-import type { PeriodData } from '@/types/event'
+import { useTimelineConfig } from '@lib/config'
+import { useLocalized } from '@lib/i18n'
+import type { Period } from '@lib/types'
 import { log } from '@/utils/log'
 
 const tlStore = useTimelineStore()
 const router = useRouter()
-const { locale } = useI18n()
+const { l } = useLocalized()
+const PERIODS = useTimelineConfig().periods
 
 const activePeriod = computed(() => tlStore.activePeriod)
 
-// Use the localized period name for tooltip + a11y when KA is active,
-// falling back to nameEn if a translation is missing. See issue #59.
-function periodLabel(p: PeriodData): string {
-  return locale.value === 'ka' ? (p.nameKa ?? p.nameEn) : p.nameEn
+// Localized period name for tooltip + a11y, with the configured fallback
+// chain when a translation is missing. See issue #59.
+function periodLabel(p: Period): string {
+  return l(p.name)
 }
 
 function goToPeriod(periodId: number, slug: string) {

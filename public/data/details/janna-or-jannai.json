@@ -2,35 +2,30 @@
   "slug": "janna-or-jannai",
   "id": 575,
   "period": 8,
-  "titleEn": "Janna (or Jannai)",
-  "titleKa": null,
-  "datesEn": "155&ndash;96 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;may he answer.&#34; He is the son of Joseph and father of Melki (or Melchi), a Judahite listed in Luke&#39;s genealogy of Jesus Christ. A variant spelling of Janna is Jannai.",
-  "descriptionKa": null,
-  "articleEn": "Name means &#34;may he hear.&#34; He is the son of Joseph and father of Melki (or Melchi), a Judahite listed in Luke&#39;s genealogy of Jesus Christ. A variant spelling of Janna is Jannai.",
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:24",
-      "verses": [
-        {
-          "number": 24,
-          "line": "Which was the son of Matthat, which was the son of Levi, which was the son of Melchi, which was the son of Janna, which was the son of Joseph,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Janna (or Jannai)"
+  },
+  "dates": {
+    "en": "155&ndash;96 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;may he answer.&#34; He is the son of Joseph and father of Melki (or Melchi), a Judahite listed in Luke&#39;s genealogy of Jesus Christ. A variant spelling of Janna is Jannai."
+  },
+  "article": {
+    "en": "Name means &#34;may he hear.&#34; He is the son of Joseph and father of Melki (or Melchi), a Judahite listed in Luke&#39;s genealogy of Jesus Christ. A variant spelling of Janna is Jannai."
+  },
   "related": [
     {
       "slug": "joseph-son-of-mattathias",
-      "titleEn": "Joseph",
-      "titleKa": null
+      "title": {
+        "en": "Joseph"
+      }
     },
     {
       "slug": "melchi-or-melki",
-      "titleEn": "Melchi (or Melki)",
-      "titleKa": null
+      "title": {
+        "en": "Melchi (or Melki)"
+      }
     }
   ],
   "images": [
@@ -39,5 +34,18 @@
       "caption": "Which was the son of Matthat, which was the son of Levi, which was the son of Melchi, which was the son of <b>Janna</b>, which was the son of Joseph, (Luke 3:24)"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:24",
+        "verses": [
+          {
+            "number": 24,
+            "line": "Which was the son of Matthat, which was the son of Levi, which was the son of Melchi, which was the son of Janna, which was the son of Joseph,"
+          }
+        ]
+      }
+    ]
+  }
 }

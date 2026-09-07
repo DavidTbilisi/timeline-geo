@@ -2,20 +2,24 @@
   "slug": "william-farel",
   "id": 1327,
   "period": 11,
-  "titleEn": "William Farel ",
-  "titleKa": null,
-  "datesEn": "1489&ndash;1565 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "A French evangelist and founder of the Reformed Church. Part of the circle of Meaux and worked closely with John Calvin.",
-  "descriptionKa": null,
-  "articleEn": "William Farel was born in 1489. His life was devoted to preaching and speaking out against the Roman Church. He was a student of Jacques LefÃ¨vre in his early years. In 1532 he settled down in Geneva, Switzerland. Farel was also the man responsible for convincing John Calvin to stay in Geneva and turn the city into the ideal Christian society. Although Farel was a good friend of Calvin&#39;s, his theology was closer to that of Martin Luther. Ironically, by disagreeing with John Calvin, William Farel was banished from Geneva in 1538. After this took place, Farel moved to Neuch&#226;tel where he lived until his death in 1565.<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "William Farel "
+  },
+  "dates": {
+    "en": "1489&ndash;1565 <span>AD</span>"
+  },
+  "description": {
+    "en": "A French evangelist and founder of the Reformed Church. Part of the circle of Meaux and worked closely with John Calvin."
+  },
+  "article": {
+    "en": "William Farel was born in 1489. His life was devoted to preaching and speaking out against the Roman Church. He was a student of Jacques LefÃ¨vre in his early years. In 1532 he settled down in Geneva, Switzerland. Farel was also the man responsible for convincing John Calvin to stay in Geneva and turn the city into the ideal Christian society. Although Farel was a good friend of Calvin&#39;s, his theology was closer to that of Martin Luther. Ironically, by disagreeing with John Calvin, William Farel was banished from Geneva in 1538. After this took place, Farel moved to Neuch&#226;tel where he lived until his death in 1565.<BR />"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

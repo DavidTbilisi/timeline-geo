@@ -1,0 +1,16 @@
+{
+  "title": {
+    "en": "Bible Timeline",
+    "ka": "ბიბლიური ქრონოლოგია"
+  },
+  "welcome": {
+    "heading": {
+      "en": "Welcome",
+      "ka": "მოგესალმებით"
+    },
+    "body": {
+      "en": "From the creation of the world to the last-day events of Revelation, the timeline is a comprehensive guide to major Bible events, characters, and prophecies. Just click on one of the three \"Ages\" above to get started.",
+      "ka": "ქვეყნიერების შექმნიდან გამოცხადების ბოლო დღეების მოვლენებამდე — ქრონოლოგია წარმოადგენს ბიბლიის მთავარი მოვლენების, პერსონაჟებისა და წინასწარმეტყველებების ყოვლისმომცველ გზამკვლევს. დასაწყებად უბრალოდ დააჭირეთ ერთ-ერთ \"ეპოქას\" ზემოთ."
+    }
+  }
+}

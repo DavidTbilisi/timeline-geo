@@ -2,20 +2,24 @@
   "slug": "king-alfonso-the-wise",
   "id": 1310,
   "period": 11,
-  "titleEn": "King Alfonso the Wise ",
-  "titleKa": null,
-  "datesEn": "1221&ndash;1284 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Ordered that the Bible be translated into Spanish. The Biblia Alfonsina is one of the earliest translations of the Bible into a common language in Western Europe.",
-  "descriptionKa": null,
-  "articleEn": "Alfonso X, also called &#34;the Wise,&#34; was king of Castile. He was born on November 23, 1221, and died on April 4, 1284. Near the end of his life, Alfonso the Wise commissioned a Bible to be printed in the Spanish language. The Biblia Alfonsina was published in 1280 and is one of the earliest translations of the Bible into a common language.<BR /><BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "King Alfonso the Wise "
+  },
+  "dates": {
+    "en": "1221&ndash;1284 <span>AD</span>"
+  },
+  "description": {
+    "en": "Ordered that the Bible be translated into Spanish. The Biblia Alfonsina is one of the earliest translations of the Bible into a common language in Western Europe."
+  },
+  "article": {
+    "en": "Alfonso X, also called &#34;the Wise,&#34; was king of Castile. He was born on November 23, 1221, and died on April 4, 1284. Near the end of his life, Alfonso the Wise commissioned a Bible to be printed in the Spanish language. The Biblia Alfonsina was published in 1280 and is one of the earliest translations of the Bible into a common language.<BR /><BR />"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

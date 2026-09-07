@@ -2,35 +2,27 @@
   "slug": "eliezer",
   "id": 1008,
   "period": 7,
-  "titleEn": "Eliezer",
-  "titleKa": null,
-  "datesEn": "729&ndash;647 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;my God is a helper.&#34; He is the son of Jorim and a Judahite listed in Luke&#39;s geneaology of Jesus Christ.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:29",
-      "verses": [
-        {
-          "number": 29,
-          "line": "Which was the son of Jose, which was the son of Eliezer, which was the son of Jorim, which was the son of Matthat, which was the son of Levi,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Eliezer"
+  },
+  "dates": {
+    "en": "729&ndash;647 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;my God is a helper.&#34; He is the son of Jorim and a Judahite listed in Luke&#39;s geneaology of Jesus Christ."
+  },
   "related": [
     {
       "slug": "jorim",
-      "titleEn": "Jorim",
-      "titleKa": null
+      "title": {
+        "en": "Jorim"
+      }
     },
     {
       "slug": "jose",
-      "titleEn": "Jose",
-      "titleKa": null
+      "title": {
+        "en": "Jose"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "Ancestor of Jesus"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:29",
+        "verses": [
+          {
+            "number": 29,
+            "line": "Which was the son of Jose, which was the son of Eliezer, which was the son of Jorim, which was the son of Matthat, which was the son of Levi,"
+          }
+        ]
+      }
+    ]
+  }
 }

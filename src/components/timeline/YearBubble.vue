@@ -13,15 +13,7 @@ const label = computed(() => {
   return `${value} ${suffix}`
 })
 
-const color = computed(() => {
-  const p = tlStore.activePeriod
-  const colors: Record<number, string> = {
-    1:'#ad1f26',2:'#db2f2c',3:'#bb3380',4:'#903a95',5:'#63479b',
-    6:'#3b6eb5',7:'#23a6c5',8:'#33bdbb',9:'#52b148',10:'#b6bf34',
-    11:'#eec826',12:'#e9a327',13:'#ed7c2c',
-  }
-  return colors[p] ?? '#555'
-})
+const color = computed(() => tlStore.activePeriodData?.color ?? '#555')
 </script>
 
 <template>

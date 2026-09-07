@@ -2,15 +2,15 @@
   "slug": "artaxerxes-iii",
   "id": 550,
   "period": 8,
-  "titleEn": "Artaxerxes III",
-  "titleKa": null,
-  "datesEn": "400&ndash;338 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "He was the son and successor of Artaxerxes II and was succeeded by his son, Arses of Persia also known as Artaxerxes IV. His reign coincided with the reign of Philip II in Macedon and Nectanebo II in Egypt.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Artaxerxes III"
+  },
+  "dates": {
+    "en": "400&ndash;338 <span>BC</span>"
+  },
+  "description": {
+    "en": "He was the son and successor of Artaxerxes II and was succeeded by his son, Arses of Persia also known as Artaxerxes IV. His reign coincided with the reign of Philip II in Macedon and Nectanebo II in Egypt."
+  },
   "related": [],
   "images": [
     {

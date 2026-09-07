@@ -2,15 +2,18 @@
   "slug": "cambyses-ii",
   "id": 495,
   "period": 8,
-  "titleEn": "Cambyses II",
-  "titleKa": null,
-  "datesEn": "553&ndash;522 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Cyrus died in 530 b.c., probably while on some eastern campaign and was succeeded by his son, Cambyses II. This ambitious young man, to make secure his crown, murdered his brother and sister. After eight years of apparent success, he died in 522 b.c.",
-  "descriptionKa": null,
-  "articleEn": "<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Cambyses II"
+  },
+  "dates": {
+    "en": "553&ndash;522 <span>BC</span>"
+  },
+  "description": {
+    "en": "Cyrus died in 530 b.c., probably while on some eastern campaign and was succeeded by his son, Cambyses II. This ambitious young man, to make secure his crown, murdered his brother and sister. After eight years of apparent success, he died in 522 b.c."
+  },
+  "article": {
+    "en": "<BR />"
+  },
   "related": [],
   "images": [
     {

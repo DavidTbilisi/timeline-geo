@@ -2,34 +2,24 @@
   "slug": "asher",
   "id": 701,
   "period": 3,
-  "titleEn": "Asher",
-  "titleKa": null,
-  "datesEn": "1698&ndash;1596 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;happy.&#34; He is Jacob&#39;s eighth son through Zilpah, Leah&#39;s handmaid. He has four sons and a daughter. Little is known of Asher and his tribe. Anna, the prophetess, comes from this tribe (Luke 2:36).",
-  "descriptionKa": null,
-  "articleEn": "The eighth son of Jacob by Zilpah, the maidservant of Leah (Gen 30:12, 13 35:26). He had 4 sons and a daughter (Gen 46:17 1 Chr 7:30), and became the founder of a tribe.",
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Genesis 30:12-13",
-      "verses": [
-        {
-          "number": 12,
-          "line": "And Zilpah Leah's maid bare Jacob a second son."
-        },
-        {
-          "number": 13,
-          "line": "And Leah said, Happy am I, for the daughters will call me blessed: and she called his name Asher."
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Asher"
+  },
+  "dates": {
+    "en": "1698&ndash;1596 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;happy.&#34; He is Jacob&#39;s eighth son through Zilpah, Leah&#39;s handmaid. He has four sons and a daughter. Little is known of Asher and his tribe. Anna, the prophetess, comes from this tribe (Luke 2:36)."
+  },
+  "article": {
+    "en": "The eighth son of Jacob by Zilpah, the maidservant of Leah (Gen 30:12, 13 35:26). He had 4 sons and a daughter (Gen 46:17 1 Chr 7:30), and became the founder of a tribe."
+  },
   "related": [
     {
       "slug": "jacob",
-      "titleEn": "Jacob",
-      "titleKa": null
+      "title": {
+        "en": "Jacob"
+      }
     }
   ],
   "images": [
@@ -38,5 +28,22 @@
       "caption": "Symbol for the tribe of Asher"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Genesis 30:12-13",
+        "verses": [
+          {
+            "number": 12,
+            "line": "And Zilpah Leah's maid bare Jacob a second son."
+          },
+          {
+            "number": 13,
+            "line": "And Leah said, Happy am I, for the daughters will call me blessed: and she called his name Asher."
+          }
+        ]
+      }
+    ]
+  }
 }

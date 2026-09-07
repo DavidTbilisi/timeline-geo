@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { useI18n } from 'vue-i18n'
-import type { Scripture } from '@/types/detail'
+import type { Scripture } from '@app/types/bible'
 
 defineProps<{ scriptures: Scripture[] }>()
 const { t } = useI18n()

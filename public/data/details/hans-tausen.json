@@ -2,20 +2,24 @@
   "slug": "hans-tausen",
   "id": 1328,
   "period": 11,
-  "titleEn": "Hans Tausen ",
-  "titleKa": null,
-  "datesEn": "1494&ndash;1561 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "The leading figure of the Danish Reformation.",
-  "descriptionKa": null,
-  "articleEn": "Hans Tausen was a Danish reformer. He was born in Denmark in 1494 and died in 1561. In May 1523 Tausen traveled to Wittenburg and studied under Martin Luther. From that point on he preached the Protestant faith. In 1542 Tausen became the bishop of Ribe, holding that position for 22 years. In 1535 he published the Pentateuch into the Danish language, which had never been done before.<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Hans Tausen "
+  },
+  "dates": {
+    "en": "1494&ndash;1561 <span>AD</span>"
+  },
+  "description": {
+    "en": "The leading figure of the Danish Reformation."
+  },
+  "article": {
+    "en": "Hans Tausen was a Danish reformer. He was born in Denmark in 1494 and died in 1561. In May 1523 Tausen traveled to Wittenburg and studied under Martin Luther. From that point on he preached the Protestant faith. In 1542 Tausen became the bishop of Ribe, holding that position for 22 years. In 1535 he published the Pentateuch into the Danish language, which had never been done before.<BR />"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

@@ -2,20 +2,24 @@
   "slug": "luthers-new-testament",
   "id": 1346,
   "period": 12,
-  "titleEn": "Luther's New Testament ",
-  "titleKa": null,
-  "datesEn": "1521&ndash;1522 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Luther published his translation of the New Testament into German in 1522.",
-  "descriptionKa": null,
-  "articleEn": "During the time that Luther spent in Wartburg Castle, he wrote sermons. But his most important work was translating the New Testament into German. Although it was an extremely difficult task, he completed his translation in just 11 weeks.<BR /><BR />Luther brought his New Testament to Wittenberg in March 1522, and Philip Melanchthon proofread the texts for errors. The final product was published in September 1522 and was dedicated to Luther&#39;s protector and friend, Frederick, Duke of Saxony.<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Luther's New Testament "
+  },
+  "dates": {
+    "en": "1521&ndash;1522 <span>AD</span>"
+  },
+  "description": {
+    "en": "Luther published his translation of the New Testament into German in 1522."
+  },
+  "article": {
+    "en": "During the time that Luther spent in Wartburg Castle, he wrote sermons. But his most important work was translating the New Testament into German. Although it was an extremely difficult task, he completed his translation in just 11 weeks.<BR /><BR />Luther brought his New Testament to Wittenberg in March 1522, and Philip Melanchthon proofread the texts for errors. The final product was published in September 1522 and was dedicated to Luther&#39;s protector and friend, Frederick, Duke of Saxony.<BR />"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

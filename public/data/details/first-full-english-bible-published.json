@@ -2,20 +2,24 @@
   "slug": "first-full-english-bible-published",
   "id": 1358,
   "period": 12,
-  "titleEn": "First Full English Bible Published ",
-  "titleKa": null,
-  "datesEn": "1535 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Known as the Tyndale Bible, it was the first translated from the original languages (Hebrew, Greek) into English.",
-  "descriptionKa": null,
-  "articleEn": "<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "First Full English Bible Published "
+  },
+  "dates": {
+    "en": "1535 <span>AD</span>"
+  },
+  "description": {
+    "en": "Known as the Tyndale Bible, it was the first translated from the original languages (Hebrew, Greek) into English."
+  },
+  "article": {
+    "en": "<BR />"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

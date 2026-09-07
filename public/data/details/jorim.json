@@ -2,35 +2,27 @@
   "slug": "jorim",
   "id": 991,
   "period": 7,
-  "titleEn": "Jorim",
-  "titleKa": null,
-  "datesEn": "747&ndash;667 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;Yahweh is exalted.&#34; He is the son of Matthat in Luke&#39;s genealogy, a Judahite, and an ancestor of Christ.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:29",
-      "verses": [
-        {
-          "number": 29,
-          "line": "Which was the son of Jose, which was the son of Eliezer, which was the son of Jorim, which was the son of Matthat, which was the son of Levi,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Jorim"
+  },
+  "dates": {
+    "en": "747&ndash;667 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;Yahweh is exalted.&#34; He is the son of Matthat in Luke&#39;s genealogy, a Judahite, and an ancestor of Christ."
+  },
   "related": [
     {
       "slug": "matthat-father-of-jorum",
-      "titleEn": "Matthat",
-      "titleKa": null
+      "title": {
+        "en": "Matthat"
+      }
     },
     {
       "slug": "eliezer",
-      "titleEn": "Eliezer",
-      "titleKa": null
+      "title": {
+        "en": "Eliezer"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "Ancestor of Jesus"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:29",
+        "verses": [
+          {
+            "number": 29,
+            "line": "Which was the son of Jose, which was the son of Eliezer, which was the son of Jorim, which was the son of Matthat, which was the son of Levi,"
+          }
+        ]
+      }
+    ]
+  }
 }

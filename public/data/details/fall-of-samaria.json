@@ -2,25 +2,18 @@
   "slug": "fall-of-samaria",
   "id": 999,
   "period": 7,
-  "titleEn": "Fall of Samaria",
-  "titleKa": null,
-  "datesEn": "722 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "After a 3&#8212;year siege against Samaria, the Assyrians successfully capture the city and carry away its citizens. These people are replaced by others from Babylonia and Syria (see 2 Ki 17:24). Israel as a people and kingdom of the north cease to be.",
-  "descriptionKa": null,
-  "articleEn": "The Bible says of this siege of Samaria that &#34;They took it&#34;. The plural &#34;they&#34; is of interest. It might refer to the Assyrians in general, but that is hardly likely, for the previous verse speaks of Shalmaneser as coming against Samaria and besieging it. It has been suggested that the &#34;they&#34; here probably refers to Shalmaneser and someone associated with him. This may have been Shalmaneser&#39;s general and successor on the throne, Sargon (see on ch. 17:6).",
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "2 Kings 18:10",
-      "verses": [
-        {
-          "number": 10,
-          "line": "And at the end of three years they took it: even in the sixth year of Hezekiah, that is the ninth year of Hoshea king of Israel, Samaria was taken."
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Fall of Samaria"
+  },
+  "dates": {
+    "en": "722 <span>BC</span>"
+  },
+  "description": {
+    "en": "After a 3&#8212;year siege against Samaria, the Assyrians successfully capture the city and carry away its citizens. These people are replaced by others from Babylonia and Syria (see 2 Ki 17:24). Israel as a people and kingdom of the north cease to be."
+  },
+  "article": {
+    "en": "The Bible says of this siege of Samaria that &#34;They took it&#34;. The plural &#34;they&#34; is of interest. It might refer to the Assyrians in general, but that is hardly likely, for the previous verse speaks of Shalmaneser as coming against Samaria and besieging it. It has been suggested that the &#34;they&#34; here probably refers to Shalmaneser and someone associated with him. This may have been Shalmaneser&#39;s general and successor on the throne, Sargon (see on ch. 17:6)."
+  },
   "related": [],
   "images": [
     {
@@ -28,5 +21,18 @@
       "caption": "The fall of Samaria"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "2 Kings 18:10",
+        "verses": [
+          {
+            "number": 10,
+            "line": "And at the end of three years they took it: even in the sixth year of Hezekiah, that is the ninth year of Hoshea king of Israel, Samaria was taken."
+          }
+        ]
+      }
+    ]
+  }
 }

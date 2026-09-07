@@ -2,30 +2,24 @@
   "slug": "titus-written",
   "id": 1229,
   "period": 10,
-  "titleEn": "Titus Written",
-  "titleKa": null,
-  "datesEn": "65 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Paul wrote the book of Titus probably after his first release from prison in Rome. It was written to his co&#8212;hort in ministry, Titus, who worked on the island of Crete. Paul indicates he wrote from Nicopolis.",
-  "descriptionKa": null,
-  "articleEn": "The letter to Titus seems to have been written somewhat later than 1 Timothy, although it deals with matter very similar to that discussed in the first letter to Timothy. It refers to Paul&#39;s work on the island of Crete, which must have taken place also during this last missionary journey (Titus 1:5). However, when the letter was written, Paul had already left the island and had probably gone to Greece, leaving Titus in charge of the work on Crete. Informing Titus of his plans to spend the coming winter at Nicopolis on the western coast of Greece, he requested his young fellow worker to meet him there (3:12). If a year is allowed for Paul&#39;s journey in Asia Minor and Macedonia, and some time for his work in Crete and Greece, his letter to Titus may be dated about a.d. 65.",
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Titus 3:12",
-      "verses": [
-        {
-          "number": 12,
-          "line": "When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter."
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Titus Written"
+  },
+  "dates": {
+    "en": "65 <span>AD</span>"
+  },
+  "description": {
+    "en": "Paul wrote the book of Titus probably after his first release from prison in Rome. It was written to his co&#8212;hort in ministry, Titus, who worked on the island of Crete. Paul indicates he wrote from Nicopolis."
+  },
+  "article": {
+    "en": "The letter to Titus seems to have been written somewhat later than 1 Timothy, although it deals with matter very similar to that discussed in the first letter to Timothy. It refers to Paul&#39;s work on the island of Crete, which must have taken place also during this last missionary journey (Titus 1:5). However, when the letter was written, Paul had already left the island and had probably gone to Greece, leaving Titus in charge of the work on Crete. Informing Titus of his plans to spend the coming winter at Nicopolis on the western coast of Greece, he requested his young fellow worker to meet him there (3:12). If a year is allowed for Paul&#39;s journey in Asia Minor and Macedonia, and some time for his work in Crete and Greece, his letter to Titus may be dated about a.d. 65."
+  },
   "related": [
     {
       "slug": "paul",
-      "titleEn": "Paul",
-      "titleKa": null
+      "title": {
+        "en": "Paul"
+      }
     }
   ],
   "images": [
@@ -46,5 +40,18 @@
       "caption": "The hidden beach of Balos on the island of Crete, Greece. Crete is the largest of the Greek islands and the fifth largest island in the Mediterranean Sea at 8,336 kmÂ² (3,219 square miles)."
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Titus 3:12",
+        "verses": [
+          {
+            "number": 12,
+            "line": "When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter."
+          }
+        ]
+      }
+    ]
+  }
 }

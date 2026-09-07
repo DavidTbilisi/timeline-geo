@@ -2,30 +2,21 @@
   "slug": "rhesa",
   "id": 536,
   "period": 8,
-  "titleEn": "Rhesa",
-  "titleKa": null,
-  "datesEn": "470&ndash;390 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name may mean &#34;affection.&#34; He is the son of Zerubbabel or Zorobabel and mentioned in Luke&#39;s genealogy of Jesus Christ.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:27",
-      "verses": [
-        {
-          "number": 27,
-          "line": "Which was the son of Joanna, which was the son of Rhesa, which was the son of Zorobabel, which was the son of Salathiel, which was the son of Neri,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Rhesa"
+  },
+  "dates": {
+    "en": "470&ndash;390 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name may mean &#34;affection.&#34; He is the son of Zerubbabel or Zorobabel and mentioned in Luke&#39;s genealogy of Jesus Christ."
+  },
   "related": [
     {
       "slug": "joanna-or-joanan",
-      "titleEn": "Joanna (or Joanan)",
-      "titleKa": null
+      "title": {
+        "en": "Joanna (or Joanan)"
+      }
     }
   ],
   "images": [
@@ -34,5 +25,18 @@
       "caption": "Which was the son of Joanna, which was the son of <b>Rhesa</b>, which was the son of Zorobabel, which was the son of Salathiel, which was the son of Neri"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:27",
+        "verses": [
+          {
+            "number": 27,
+            "line": "Which was the son of Joanna, which was the son of Rhesa, which was the son of Zorobabel, which was the son of Salathiel, which was the son of Neri,"
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -85,6 +85,9 @@ export default defineConfig({
   resolve: {
     alias: {
       '@': resolve(__dirname, 'src'),
+      '@lib': resolve(__dirname, 'src/lib'),
+      '@app': resolve(__dirname, 'src/app'),
+      '@content': resolve(__dirname, 'content'),
     },
   },
   server: {
