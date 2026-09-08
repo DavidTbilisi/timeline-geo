@@ -6,7 +6,7 @@
 // surface it.
 //
 // Usage:
-//   import { mkLog } from './_log.mjs'
+//   import { mkLog } from './log.mjs'
 //   const log = mkLog('fetchDetails')
 //   log.info('starting', { slugs: 591 })
 //   log.warn('retry', { slug, attempt })
