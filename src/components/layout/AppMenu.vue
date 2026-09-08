@@ -8,7 +8,6 @@ import { useFavoritesStore } from '@/stores/favorites'
 import { useTimelineStore } from '@/stores/timeline'
 import type { TimelineEvent } from '@/types/event'
 import FaqModal from './FaqModal.vue'
-import SignInModal from './SignInModal.vue'
 import { log } from '@/utils/log'
 
 const { t, locale } = useI18n()
@@ -21,7 +20,6 @@ const searchQuery = ref('')
 const searchResults = ref<TimelineEvent[]>([])
 const showFavorites = ref(false)
 const showFaq = ref(false)
-const showSignIn = ref(false)
 const searchFocused = ref(false)
 const highlightedIndex = ref(-1)
 const allLoadedOnce = ref(false)
@@ -214,14 +212,6 @@ const showDropdown = computed(() =>
         {{ t('nav.faq') }}
       </button>
 
-      <!-- Sign In -->
-      <button
-        class="text-white/70 hover:text-white text-xs px-2 py-1 transition-colors"
-        @click="showSignIn = true"
-      >
-        {{ t('nav.signIn') }}
-      </button>
-
       <!-- Language toggle -->
       <button
         class="text-white/50 hover:text-white text-xs px-2 py-1 transition-colors border border-white/20 rounded"
@@ -332,14 +322,6 @@ const showDropdown = computed(() =>
       {{ t('nav.faq') }}
     </button>
 
-    <!-- Mobile Sign In -->
-    <button
-      class="text-left text-white/80 hover:text-white text-sm px-3 py-2 rounded bg-white/5 hover:bg-white/10 transition-colors"
-      @click="showSignIn = true; mobileMenuOpen = false"
-    >
-      {{ t('nav.signIn') }}
-    </button>
-
     <!-- Mobile language toggle -->
     <button
       class="text-left text-white/60 hover:text-white text-sm px-3 py-2 rounded border border-white/20 hover:bg-white/10 transition-colors"
@@ -352,5 +334,4 @@ const showDropdown = computed(() =>
 
   <!-- Modals -->
   <FaqModal v-if="showFaq" @close="showFaq = false" />
-  <SignInModal v-if="showSignIn" @close="showSignIn = false" />
 </template>

@@ -8,13 +8,6 @@ export default {
     searchPlaceholder: 'Search...',
     noFavorites: 'No favorites yet',
     noResults: 'No results found',
-    signIn: 'Sign In',
-    signOut: 'Sign Out',
-    signedIn: "You've Signed In",
-    signedOut: "You've Signed Out",
-    addedFav: 'Added to Favorites',
-    removedFav: 'Removed from Favorites',
-    pleaseSignIn: 'Please Sign In to Add Favorite',
     searchResults: {
       zero: 'No Results',
       one: '1 Result',
@@ -65,10 +58,6 @@ export default {
       2: 'The history of the Jewish nation, from Moses and the Exodus to King David and the prophets Daniel and Isaiah.',
       3: "The life and death of Jesus, the apostles, the Reformation, and the final events of earth's history.",
     },
-  },
-  sidebar: {
-    ageOfPrefix: 'The Age of',
-    deeperLink: 'Ready to go deeper?',
   },
   landing: {
     title: 'The Bible Timeline',
@@ -127,23 +116,5 @@ export default {
         a: 'The timeline supports modern versions of Chrome, Firefox, Safari, and Edge.',
       },
     ],
-  },
-  account: {
-    heading: 'Account Settings',
-    signInTitle: 'Sign In',
-    signInButton: 'Sign In',
-    email: 'Email',
-    password: 'Password',
-    submit: 'Sign In',
-    errors: {
-      email: 'Email is incorrect',
-      password: 'Password is incorrect',
-    },
-  },
-  social: {
-    share: 'Share',
-    twitter: 'Twitter',
-    facebook: 'Facebook',
-    google: 'Google+',
   },
 }

@@ -159,7 +159,7 @@ test.describe('Event Detail Panel', () => {
     const favoritesButton = page.locator('button').filter({ hasText: 'რჩეულები' })
     // The favorites dropdown places event buttons immediately after the menu button.
     // Wait for at least one favorited event to appear (any button after the
-    // favorites toggle that's not the search/FAQ/sign-in/locale toggle).
+    // favorites toggle that's not the search/FAQ/locale toggle).
     const favEventCount = await page.waitForFunction(
       () => {
         const slugs = JSON.parse(localStorage.getItem('tl-geo-favorites') ?? '[]') as string[]

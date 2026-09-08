@@ -3,9 +3,6 @@ import { useRouter } from 'vue-router'
 import { useTimelineStore } from '@/stores/timeline'
 import { PERIODS } from '@/data/periods'
 
-/** How many pixels to scroll per ArrowLeft / ArrowRight keypress. */
-const SCROLL_STEP = 600
-
 /**
  * Returns true when the keyboard event originated inside a text-input element
  * that should consume the key itself (input, textarea, contenteditable).
@@ -22,11 +19,12 @@ function isTextTarget(e: KeyboardEvent): boolean {
 /**
  * useKeyboard — attaches global keyboard shortcuts for the timeline page.
  *
- * ArrowRight   scroll timeline right by SCROLL_STEP px
- * ArrowLeft    scroll timeline left  by SCROLL_STEP px
- * ArrowUp/Down reserved (no-op, no default prevented)
  * F            toggle fullscreen
  * Escape       close event detail overlay and restore /period/ URL
+ *
+ * Arrow keys (scroll) and +/- (zoom) are handled by TimelineView, which
+ * owns the scroller; they used to be duplicated here as store-only writes
+ * that the scroller's render callback immediately overwrote.
  */
 export function useKeyboard() {
   const tlStore = useTimelineStore()
@@ -36,21 +34,6 @@ export function useKeyboard() {
     if (isTextTarget(e)) return
 
     switch (e.key) {
-      case 'ArrowRight':
-        e.preventDefault()
-        tlStore.setScroll(tlStore.scrollLeft + SCROLL_STEP)
-        break
-
-      case 'ArrowLeft':
-        e.preventDefault()
-        tlStore.setScroll(tlStore.scrollLeft - SCROLL_STEP)
-        break
-
-      case 'ArrowUp':
-      case 'ArrowDown':
-        // Reserved for future zoom — intentionally no-op
-        break
-
       case 'f':
       case 'F':
         if (!document.fullscreenElement) {

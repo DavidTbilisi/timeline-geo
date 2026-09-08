@@ -8,6 +8,12 @@ export default defineConfig({
   workers: process.env.CI ? 1 : undefined,
   reporter: 'html',
 
+  // Visual baselines (tests/e2e/visual.spec.ts). A small tolerance absorbs
+  // sub-pixel anti-aliasing differences between Chromium builds.
+  expect: {
+    toHaveScreenshot: { maxDiffPixelRatio: 0.01 },
+  },
+
   use: {
     baseURL: 'http://localhost:5174',
     trace: 'on-first-retry',

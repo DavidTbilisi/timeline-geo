@@ -2,7 +2,7 @@ import { test, expect } from './fixtures'
 
 // Issue #18 — mobile/tablet responsive layout (phase 1: AppMenu hamburger)
 // At < md (768px), the desktop search/buttons row collapses into a hamburger
-// that opens a drawer holding search + favorites + FAQ + sign in + lang toggle.
+// that opens a drawer holding search + favorites + FAQ + lang toggle.
 test.describe('AppMenu — mobile hamburger (< md)', () => {
   test.use({ viewport: { width: 375, height: 700 } })
 
@@ -28,9 +28,8 @@ test.describe('AppMenu — mobile hamburger (< md)', () => {
     const drawer = page.getByTestId('mobile-menu')
     await expect(drawer).toBeVisible()
 
-    // Drawer contains the FAQ + Sign In + Favorites + Lang buttons
+    // Drawer contains the FAQ + Favorites + Lang buttons
     await expect(drawer.locator('button', { hasText: 'კითხვა-პასუხი' })).toBeVisible()
-    await expect(drawer.locator('button', { hasText: 'შესვლა' })).toBeVisible()
     await expect(drawer.locator('button', { hasText: 'რჩეულები' })).toBeVisible()
 
     // Tap the hamburger again to close

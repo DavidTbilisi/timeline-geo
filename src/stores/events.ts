@@ -1,5 +1,5 @@
 import { defineStore } from 'pinia'
-import { ref, computed } from 'vue'
+import { ref } from 'vue'
 import type { TimelineEvent } from '@/types/event'
 import type { EventDetail } from '@/types/detail'
 import { withBase } from '@/utils/assetUrl'
@@ -146,8 +146,6 @@ export const useEventsStore = defineStore('events', () => {
     return top
   }
 
-  const visibleEvents = computed(() => getVisibleEvents)
-
   return {
     byPeriod,
     allEvents,
@@ -157,6 +155,5 @@ export const useEventsStore = defineStore('events', () => {
     getVisibleEvents,
     loadDetail,
     search,
-    visibleEvents,
   }
 })
