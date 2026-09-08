@@ -39,6 +39,11 @@ export interface LayoutOptions {
   centerFudge?: number
   /** Added to the viewport centre when detecting the active period (px). */
   activePeriodOffset?: number
+  /** Landing page: card width, gap between cards, stage padding, arch inset (px). */
+  landingCardWidth?: number
+  landingCardGap?: number
+  landingPadding?: number
+  landingArchInset?: number
 }
 export type ResolvedLayoutOptions = Required<LayoutOptions>
 
@@ -70,6 +75,23 @@ export interface ContentOptions {
   faq?: FaqEntry[]
 }
 
+export interface ThemeOptions {
+  fonts?: {
+    /** Body/UI stack (`--tl-font-sans`). */
+    sans?: string
+    /** Card and era titles (`--tl-font-display`). */
+    display?: string
+    /** Welcome heading (`--tl-font-script`). */
+    script?: string
+    /** Prose on the landing page (`--tl-font-serif`). */
+    serif?: string
+  }
+  /** Page background behind everything (`--tl-page-bg`). */
+  pageBackground?: string
+  /** Extra custom properties set on the root element. */
+  cssVars?: Record<string, string>
+}
+
 export interface TimelineConfig {
   /** Stable identifier; namespaces browser storage keys. */
   id: string
@@ -82,7 +104,12 @@ export interface TimelineConfig {
   assets?: {
     /** URL prefix for public assets (e.g. Vite's `import.meta.env.BASE_URL`). Defaults to `'/'`. */
     baseUrl?: string
+    /** Paper texture behind the stage and landing (public path). */
+    paperBg?: string
+    /** Vertical grid-line texture over the paper (public path). */
+    gridLines?: string
   }
+  theme?: ThemeOptions
   i18n?: {
     /** Extra / overriding vue-i18n messages per locale, deep-merged over the engine's English chrome. */
     messages?: Record<LocaleCode, MessageTree>
@@ -110,7 +137,8 @@ export interface ResolvedTimelineConfig {
   eras: Era[]
   layout: ResolvedLayoutOptions
   loaders: TimelineLoaders
-  assets: { baseUrl: string }
+  assets: { baseUrl: string; paperBg?: string; gridLines?: string }
+  theme: { fonts: NonNullable<ThemeOptions['fonts']>; pageBackground?: string; cssVars: Record<string, string> }
   i18n: { messages: Record<LocaleCode, MessageTree> }
   content: { welcome?: ContentOptions['welcome']; faq: FaqEntry[] }
   storage: { favorites: string; locale: string }

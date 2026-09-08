@@ -19,7 +19,7 @@ test.describe('Timeline Visuals (issues #5 & #21)', () => {
     await expect(paper).toBeAttached()
     // Should have a background-image pointing at paper-bg.jpg
     const bgImage = await paper.evaluate((el) =>
-      (el as HTMLElement).style.backgroundImage
+      getComputedStyle(el).backgroundImage
     )
     expect(bgImage).toContain('paper-bg.jpg')
   })

@@ -1,0 +1,53 @@
+/*
+  Bible timeline theme — everything visual that is specific to this dataset
+  and to the original site's art: licensed webfonts, the era-name sprite, the
+  footer badge/ark/banner images and the Georgian typography patches.
+  Loaded after the engine stylesheet so these rules win.
+*/
+@import './typography.css';
+@import './noto-georgian.css';
+
+/* Era names are rendered as a sprite (three logos stacked 41px apart). */
+.landing .arch h3 {
+  text-indent: -9999px;
+  font-size: 0;
+  background-image: url('/css/img/landing_era_logos.png');
+  background-size: cover;
+}
+.landing .arch-1 h3 { background-position: 0 0; }
+.landing .arch-2 h3 { background-position: 0 -41px; }
+.landing .arch-3 h3 { background-position: 0 -82px; }
+
+/* Footer chrome art */
+.landing-footer .welcome h3 { background-image: url('/css/img/landing_footer_brown.png'); }
+.landing-footer .toggle { background-image: url('/css/img/landing_footer_black.png'); }
+.landing-footer .info .image { background-image: url('/css/img/landing_footer_ark.jpg'); }
+.landing-footer .info .af_logo {
+  width: 133px;
+  height: 59px;
+  background: url('/css/img/landing_af_banner.png') no-repeat center center;
+  background-size: cover;
+  position: absolute;
+  top: 5px;
+  left: 202px;
+}
+
+/*
+  KA period card title overflow fix (issue #49).
+
+  Card titles render at 30px uppercase in a compressed Latin font with no
+  width controls. Georgian translations like "გაერთიანებული სამეფო" /
+  "გაყოფილი სამეფო" are longer than English and overflow into the
+  neighbouring card, so shrink the font and drop uppercase for KA…
+*/
+:lang(ka) .landing-stage .landing-period .info h3 {
+  font-size: 16px;
+  text-transform: none;
+}
+/*
+  …and keep the hover state from blowing up to 32px on Georgian cards,
+  which overflows the hover info box for words like "გადასახლება".
+*/
+:lang(ka) .landing-stage .landing-period.hoverable:hover .info h3 {
+  font-size: 18px;
+}

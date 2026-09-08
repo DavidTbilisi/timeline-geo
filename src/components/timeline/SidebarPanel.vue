@@ -2,7 +2,7 @@
 import { computed } from 'vue'
 import { useTimelineConfig } from '@lib/config'
 import { useLocalized } from '@lib/i18n'
-import { withBase } from '@/utils/assetUrl'
+import { resolveAsset } from '@lib/theme'
 
 /**
  * Renders a single sidebar panel for a given period.
@@ -31,7 +31,7 @@ const description = computed(() => l(period.value.description))
     <div
       v-if="period.sidebarImage"
       class="absolute inset-0 bg-cover bg-center"
-      :style="{ backgroundImage: `url('${withBase(period.sidebarImage)}')` }"
+      :style="{ backgroundImage: `url('${resolveAsset(config, period.sidebarImage)}')` }"
     />
     <!-- Dark gradient overlay for legibility -->
     <div class="absolute inset-0 bg-gradient-to-b from-black/60 to-black/80" />
