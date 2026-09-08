@@ -1,0 +1,172 @@
+<script setup lang="ts">
+import { ref, onMounted, computed, watch } from 'vue'
+import { useTimelineStore } from '../../stores/timeline'
+import { useEventsStore } from '../../stores/events'
+import { useFavoritesStore } from '../../stores/favorites'
+import { useTimelineConfig } from '../../config/inject'
+import { useLocalized } from '../../i18n/localized'
+import { useTimelineNav } from '../../router/useTimelineNav'
+import { builtinDetailTabs } from '../../plugins/builtinTabs'
+import type { DetailTabPlugin } from '../../plugins/types'
+import { useI18n } from 'vue-i18n'
+import type { EventDetail as DetailType } from '../../types/detail'
+import { log } from '../../utils/log'
+
+const tlStore = useTimelineStore()
+const eventsStore = useEventsStore()
+const favStore = useFavoritesStore()
+const nav = useTimelineNav()
+const { t } = useI18n()
+const { l } = useLocalized()
+const config = useTimelineConfig()
+
+const detail = ref<DetailType | null>(null)
+const loading = ref(true)
+const slug = computed(() => tlStore.activeEventSlug ?? '')
+
+const isFav = computed(() => favStore.isFavorite(slug.value))
+const periodData = computed(() => {
+  if (!detail.value) return null
+  return config.byId[detail.value.period] ?? null
+})
+const periodColor = computed(() => periodData.value?.color ?? '#555')
+const title = computed(() => detail.value ? l(detail.value.title) : '')
+const dates = computed(() => detail.value ? l(detail.value.dates) : '')
+const periodName = computed(() => periodData.value ? l(periodData.value.name) : '')
+
+// Tabs come from config.plugins.detailTabs (default: the built-ins), sorted
+// by `order`; a tab hides itself via `hasContent`.
+const tabs = computed(() =>
+  [...(config.plugins.detailTabs ?? builtinDetailTabs)].sort((a, b) => (a.order ?? 0) - (b.order ?? 0)),
+)
+const visibleTabs = computed(() => {
+  const d = detail.value
+  return d ? tabs.value.filter(tab => tab.hasContent?.(d) ?? true) : []
+})
+const activeTab = ref('')
+watch(visibleTabs, (list) => {
+  if (!list.some(tab => tab.id === activeTab.value)) activeTab.value = list[0]?.id ?? ''
+}, { immediate: true })
+const currentTab = computed(() => visibleTabs.value.find(tab => tab.id === activeTab.value))
+
+function tabLabel(tab: DetailTabPlugin): string {
+  return 'key' in tab.label && typeof tab.label.key === 'string' ? t(tab.label.key) : l(tab.label)
+}
+
+onMounted(async () => {
+  if (!slug.value) {
+    log.warn('EventDetail mounted with no slug')
+    return
+  }
+  log.ui('EventDetail mount', { slug: slug.value })
+  loading.value = true
+  detail.value = await eventsStore.loadDetail(slug.value)
+  loading.value = false
+  if (!detail.value) log.warn('EventDetail: detail not found', { slug: slug.value })
+})
+
+function close() {
+  log.ui('EventDetail close', { slug: slug.value })
+  tlStore.closeEvent()
+  const period = config.byId[tlStore.activePeriod] ?? config.periods[0]
+  nav.toPeriod(period.slug, { replace: true })
+}
+
+function toggleFav() {
+  if (detail.value) {
+    log.ui('EventDetail toggleFav', { slug: slug.value, wasFav: isFav.value })
+    favStore.toggle(slug.value, {
+      slug: slug.value,
+      title: detail.value.title,
+      period: detail.value.period,
+    })
+  }
+}
+</script>
+
+<template>
+  <div class="detail-overlay">
+    <!-- Colored header bar -->
+    <div
+      class="flex items-center gap-3 px-4 py-3 flex-shrink-0 relative overflow-hidden"
+      :style="{ background: periodColor }"
+    >
+      <!-- Back button -->
+      <button
+        class="flex-shrink-0 flex items-center justify-center w-8 h-8 rounded-full bg-black/20 hover:bg-black/40 text-white transition-colors"
+        :title="t('detail.back')"
+        @click="close"
+      >
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M19 12H5M12 5l-7 7 7 7"/>
+        </svg>
+      </button>
+
+      <!-- Title block -->
+      <div class="flex-1 min-w-0">
+        <p v-if="periodName" class="text-white/60 text-[10px] uppercase tracking-widest font-semibold leading-none mb-0.5">{{ periodName }}</p>
+        <h1 class="text-base font-bold text-white leading-tight truncate">{{ title || '…' }}</h1>
+        <!-- Source JSON encodes dates as HTML (e.g. "3954&ndash;3024 <span>BC</span>"); render as HTML so entities decode and the BC/AD span styles apply. -->
+        <!-- eslint-disable-next-line vue/no-v-html -->
+        <p v-if="dates" class="text-white/70 text-xs mt-0.5" v-html="dates" />
+      </div>
+
+      <!-- Favorite star button -->
+      <button
+        data-testid="favorite-button"
+        class="flex-shrink-0 flex items-center justify-center w-8 h-8 rounded-full transition-all"
+        :class="isFav ? 'bg-white/25 text-yellow-300' : 'bg-black/20 text-white/50 hover:text-white/80 hover:bg-black/30'"
+        :aria-pressed="isFav ? 'true' : 'false'"
+        :title="isFav ? t('detail.removeFavorite') : t('detail.addFavorite')"
+        @click="toggleFav"
+      >
+        <svg width="16" height="16" viewBox="0 0 24 24" :fill="isFav ? 'currentColor' : 'none'" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Loading state -->
+    <div v-if="loading" class="flex-1 flex items-center justify-center">
+      <div class="flex flex-col items-center gap-3">
+        <div class="w-8 h-8 rounded-full border-2 border-white/20 border-t-white/80 animate-spin" />
+        <span class="text-white/40 text-xs">{{ t('detail.loading') }}</span>
+      </div>
+    </div>
+
+    <template v-else>
+      <!-- Tabs -->
+      <div class="flex border-b border-white/10 flex-shrink-0 bg-black/40 overflow-x-auto">
+        <button
+          v-for="tab in visibleTabs"
+          :key="tab.id"
+          class="flex-shrink-0 px-4 py-2.5 text-xs font-semibold uppercase tracking-wider transition-colors relative"
+          :class="activeTab === tab.id
+            ? 'text-white'
+            : 'text-white/40 hover:text-white/70'"
+          :data-testid="`tab-${tab.id}`"
+          @click="activeTab = tab.id"
+        >
+          {{ tabLabel(tab) }}
+          <!-- Active underline bar -->
+          <span
+            v-if="activeTab === tab.id"
+            class="absolute bottom-0 left-3 right-3 h-0.5 rounded-full"
+            :style="{ background: periodColor }"
+          />
+        </button>
+      </div>
+
+      <!-- Tab content -->
+      <div class="flex-1 overflow-y-auto p-4 md:p-6" :class="{ '!p-0': currentTab?.flush }">
+        <component
+          :is="currentTab.component"
+          v-if="currentTab && detail"
+          :detail="detail"
+          :period-color="periodColor"
+          :class="currentTab.flush ? 'h-full' : ''"
+        />
+      </div>
+    </template>
+  </div>
+</template>

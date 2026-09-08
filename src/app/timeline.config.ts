@@ -1,10 +1,21 @@
-import { defineTimelineConfig, type Period, type Era } from '@lib/index'
+import { defineTimelineConfig, articleTab, relatedTab, imagesTab, videoTab, type Period, type Era, type DetailTabPlugin } from '@lib/index'
+import DetailScriptures from './components/DetailScriptures.vue'
+import AmazingFacts from './components/AmazingFacts.vue'
+import IntroSplash from './components/IntroSplash.vue'
 import periods from '@content/periods.json'
 import eras from '@content/eras.json'
 import site from '@content/site.json'
 import faq from '@content/faq.json'
 import { bibleLoaders } from './loaders'
 import { bibleMessages } from './i18n/messages'
+
+/** Scripture passages, shown between Article and Related. Always present: an empty tab shows a placeholder. */
+const scripturesTab: DetailTabPlugin = {
+  id: 'scriptures',
+  label: { key: 'detail.tabs.scriptures' },
+  component: DetailScriptures,
+  order: 20,
+}
 
 export const bibleConfig = defineTimelineConfig({
   id: 'timeline-geo',
@@ -28,7 +39,15 @@ export const bibleConfig = defineTimelineConfig({
     datebarHeight: 66,
     footerHeight: 75,
   },
+  routes: { aliases: ['/home'] },
   loaders: bibleLoaders,
+  plugins: {
+    detailTabs: [articleTab, scripturesTab, relatedTab, imagesTab, videoTab],
+    landingPanels: [
+      { id: 'amazing-facts', placement: 'footer', component: AmazingFacts },
+      { id: 'intro', placement: 'overlay', component: IntroSplash },
+    ],
+  },
   assets: {
     baseUrl: import.meta.env.BASE_URL,
     paperBg: 'css/img/paper-bg.jpg',

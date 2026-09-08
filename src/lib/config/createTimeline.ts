@@ -5,6 +5,8 @@ import { TIMELINE_CONFIG_KEY, setActiveConfig } from './inject'
 import { buildMessages } from '../i18n/messages'
 import { loadStoredLocale } from '../i18n/locale-storage'
 import { applyThemeVars } from '../theme/applyThemeVars'
+import { createTimelineRoutes } from '../router/createTimelineRoutes'
+import { configureLog } from '../utils/log'
 
 /** Identity helper that gives consumers type inference and completion for their config. */
 export function defineTimelineConfig(config: TimelineConfig): TimelineConfig {
@@ -20,8 +22,10 @@ export function defineTimelineConfig(config: TimelineConfig): TimelineConfig {
 export function createTimeline(input: TimelineConfig): TimelineInstance {
   const config = resolveConfig(input)
   const messages = buildMessages(config)
+  configureLog({ enabled: config.debug })
   return {
     config,
+    routes: createTimelineRoutes(config),
     messages,
     initialLocale: () => loadStoredLocale(config) ?? config.locales.default,
     install(app: App) {

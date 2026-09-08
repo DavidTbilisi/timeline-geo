@@ -1,8 +1,10 @@
 import type { App } from 'vue'
+import type { RouteRecordRaw } from 'vue-router'
 import type { LocaleCode, LocalizedString, MessageTree } from '../types/locale'
 import type { Period, ResolvedPeriod, Era } from '../types/period'
 import type { TimelineEventInput } from '../types/event'
 import type { EventDetail } from '../types/detail'
+import type { DetailTabPlugin, LandingPanelPlugin } from '../plugins/types'
 
 export interface LayoutOptions {
   /** Total stage width in px. Defaults to the projection of `endYear`. */
@@ -75,6 +77,19 @@ export interface ContentOptions {
   faq?: FaqEntry[]
 }
 
+export interface RouteOptions {
+  /** Path of the landing page. Defaults to `'/'`. */
+  home?: string
+  /** Extra paths that also show the landing page. */
+  aliases?: string[]
+  /** Prefix of period routes (`<prefix>/:slug`). Defaults to `'/period'`. */
+  periodPrefix?: string
+  /** Prefix of event routes (`<prefix>/:slug`). Defaults to `'/event'`. */
+  eventPrefix?: string
+  /** Redirect unknown paths home. Defaults to true. */
+  catchAll?: boolean
+}
+
 export interface ThemeOptions {
   fonts?: {
     /** Body/UI stack (`--tl-font-sans`). */
@@ -100,7 +115,14 @@ export interface TimelineConfig {
   periods: Period[]
   eras: Era[]
   layout?: LayoutOptions
+  routes?: RouteOptions
   loaders: TimelineLoaders
+  plugins?: {
+    /** Tabs in the event overlay. Defaults to the built-in article/related/images/video tabs. */
+    detailTabs?: DetailTabPlugin[]
+    /** Components mounted into the landing page's slots. */
+    landingPanels?: LandingPanelPlugin[]
+  }
   assets?: {
     /** URL prefix for public assets (e.g. Vite's `import.meta.env.BASE_URL`). Defaults to `'/'`. */
     baseUrl?: string
@@ -108,6 +130,8 @@ export interface TimelineConfig {
     paperBg?: string
     /** Vertical grid-line texture over the paper (public path). */
     gridLines?: string
+    /** Public path prefix for detail images; `images[].file` is appended. Defaults to `'media/images/original/'`. */
+    detailImageBase?: string
   }
   theme?: ThemeOptions
   i18n?: {
@@ -136,8 +160,14 @@ export interface ResolvedTimelineConfig {
   periods: ResolvedPeriod[]
   eras: Era[]
   layout: ResolvedLayoutOptions
+  routes: Required<RouteOptions>
   loaders: TimelineLoaders
-  assets: { baseUrl: string; paperBg?: string; gridLines?: string }
+  plugins: {
+    /** `undefined` means the built-in tabs (resolved lazily to keep component imports out of config). */
+    detailTabs?: DetailTabPlugin[]
+    landingPanels: LandingPanelPlugin[]
+  }
+  assets: { baseUrl: string; paperBg?: string; gridLines?: string; detailImageBase: string }
   theme: { fonts: NonNullable<ThemeOptions['fonts']>; pageBackground?: string; cssVars: Record<string, string> }
   i18n: { messages: Record<LocaleCode, MessageTree> }
   content: { welcome?: ContentOptions['welcome']; faq: FaqEntry[] }
@@ -150,6 +180,8 @@ export interface ResolvedTimelineConfig {
 
 export interface TimelineInstance {
   config: ResolvedTimelineConfig
+  /** Route records for the consumer's vue-router instance. */
+  routes: RouteRecordRaw[]
   /** vue-i18n messages: engine chrome (en) merged with `config.i18n.messages`. */
   messages: Record<LocaleCode, MessageTree>
   /** The stored locale if valid, else `locales.default`. */
