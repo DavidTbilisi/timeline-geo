@@ -29,7 +29,20 @@ export const bibleConfig = defineTimelineConfig({
     footerHeight: 75,
   },
   loaders: bibleLoaders,
-  assets: { baseUrl: import.meta.env.BASE_URL },
+  assets: {
+    baseUrl: import.meta.env.BASE_URL,
+    paperBg: 'css/img/paper-bg.jpg',
+    gridLines: 'css/img/vert-lines.png',
+  },
+  theme: {
+    fonts: {
+      sans: "'Noto Sans Georgian', sans-serif",
+      display: "'interstate_compressedregular', 'Arial Narrow', sans-serif",
+      // Noto Serif Georgian covers the KA heading; the swash font has no Georgian glyphs. See issue #60.
+      script: "'hoeflernew_-swashitalic', 'Noto Serif Georgian', serif",
+      serif: 'Georgia, serif',
+    },
+  },
   i18n: { messages: bibleMessages },
   content: { welcome: site.welcome, faq },
   // Keep the pre-refactor keys so existing visitors keep their favorites and locale.

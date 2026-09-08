@@ -2,7 +2,7 @@
 /**
  * fetchFonts.mjs — Download the woff2 files for Noto Sans Georgian and
  * Noto Serif Georgian from Google Fonts and emit a self-hosted CSS
- * stylesheet at src/assets/styles/noto-georgian.css.
+ * stylesheet at src/app/styles/noto-georgian.css.
  *
  * Why: timeline-geo's audience is primarily Georgian-speaking. Depending
  * on fonts.googleapis.com / fonts.gstatic.com is a hedge against networks
@@ -24,7 +24,7 @@ import { fileURLToPath } from 'node:url'
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const ROOT = resolve(__dirname, '..')
 const FONT_DIR = resolve(ROOT, 'public', 'fonts')
-const CSS_OUT = resolve(ROOT, 'src', 'assets', 'styles', 'noto-georgian.css')
+const CSS_OUT = resolve(ROOT, 'src', 'app', 'styles', 'noto-georgian.css')
 
 const UA =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 ' +

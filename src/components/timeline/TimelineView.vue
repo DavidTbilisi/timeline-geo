@@ -6,7 +6,6 @@ import { useTimelineConfig } from '@lib/config'
 import { useLocalized } from '@lib/i18n'
 import { useScroller } from '@/composables/useScroller'
 import { useFullLabel } from '@/composables/useFullLabel'
-import { withBase } from '@/utils/assetUrl'
 import type { LaidOutEvent } from '@lib/types'
 import TimelineStage from './TimelineStage.vue'
 import TimelineDateBar from './TimelineDateBar.vue'
@@ -218,7 +217,6 @@ function onEventClick(event: LaidOutEvent) {
       :style="{
         width: STAGE_WIDTH + 'px',
         height: STAGE_HEIGHT + 'px',
-        backgroundImage: `url('${withBase('css/img/paper-bg.jpg')}')`,
       }"
     />
 

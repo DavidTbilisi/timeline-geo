@@ -80,11 +80,9 @@ function onImageError() {
   <div
     v-if="event.type === 'major'"
     class="tl-event major group"
-    :class="[
-      `period-${event.period}`,
-      event.size === 'small' ? 'small' : '',
-    ]"
+    :class="{ small: event.size === 'small' }"
     :style="{
+      '--period-color': periodColor,
       left: event.left + 'px',
       width: event.width > 0 ? event.width + 'px' : undefined,
       top: computedTop + 'px',
@@ -127,8 +125,8 @@ function onImageError() {
   <div
     v-else
     class="tl-event minor group"
-    :class="`period-${event.period}`"
     :style="{
+      '--period-color': periodColor,
       left: event.left + 'px',
       top: computedTop + 'px',
     }"

@@ -22,7 +22,7 @@ test.describe('Timeline Parallax Layers', () => {
     const paper = page.locator('.tl-paper')
     await expect(paper).toBeAttached()
     const bgImage = await paper.evaluate(
-      (el) => (el as HTMLElement).style.backgroundImage
+      (el) => getComputedStyle(el).backgroundImage
     )
     expect(bgImage).toContain('paper-bg.jpg')
   })

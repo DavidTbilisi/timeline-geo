@@ -20,6 +20,10 @@ export const DEFAULT_LAYOUT: Omit<ResolvedLayoutOptions, 'stageWidth' | 'endYear
   packGap: 8,
   centerFudge: 24,
   activePeriodOffset: -17,
+  landingCardWidth: 170,
+  landingCardGap: 15,
+  landingPadding: 60,
+  landingArchInset: 20,
 }
 
 /**
@@ -92,7 +96,8 @@ export function resolveConfig(config: TimelineConfig): ResolvedTimelineConfig {
     eras: config.eras,
     layout,
     loaders: config.loaders,
-    assets: { baseUrl: config.assets?.baseUrl ?? '/' },
+    assets: { baseUrl: config.assets?.baseUrl ?? '/', paperBg: config.assets?.paperBg, gridLines: config.assets?.gridLines },
+    theme: { fonts: config.theme?.fonts ?? {}, pageBackground: config.theme?.pageBackground, cssVars: config.theme?.cssVars ?? {} },
     i18n: { messages: config.i18n?.messages ?? {} },
     content: { welcome: config.content?.welcome, faq: config.content?.faq ?? [] },
     storage: {

@@ -68,7 +68,7 @@ function labelStyle(x: number) {
       v-for="tick in majorTicks"
       :key="'L' + tick.x"
       class="absolute whitespace-nowrap pointer-events-none select-none"
-      style="font-size: 10px; font-family: 'Noto Sans Georgian', sans-serif; color: #828076;"
+      style="font-size: 10px; font-family: var(--tl-font-sans, sans-serif); color: #828076;"
       :style="labelStyle(tick.x)"
     >
       {{ formatYear(tick.year) }}
