@@ -19,7 +19,7 @@ node_modules
 dist
 dist-app
 # Generated JSON Schema (npm run build:lib)
-schema/
+/schema/
 dist-ssr
 coverage
 
