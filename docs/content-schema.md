@@ -1,5 +1,7 @@
 # Content schema
 
+Validate a content directory with `npx timeline-validate <contentDir> [detailsDir]` (see [publishing.md](./publishing.md#validating-content)); the same rules are published as JSON Schema under `timeline-geo/schema/*.schema.json`.
+
 All text is a `LocalizedString`: an object keyed by locale code, e.g. `{ "en": "Adam", "ka": "ადამი" }`. Missing locales fall back along the configured chain.
 
 ## Period

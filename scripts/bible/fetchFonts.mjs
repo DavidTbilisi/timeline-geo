@@ -8,7 +8,7 @@
  * on fonts.googleapis.com / fonts.gstatic.com is a hedge against networks
  * that block Google CDNs. See issue #61.
  *
- * Usage: `node scripts/fetchFonts.mjs`
+ * Usage: `node scripts/bible/fetchFonts.mjs`
  *
  * The script keeps only the `georgian` and `latin` subsets (Latin is
  * needed for English text in EN locale and for any Latin code/numbers
@@ -22,7 +22,7 @@ import { resolve, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
-const ROOT = resolve(__dirname, '..')
+const ROOT = resolve(__dirname, '../..')
 const FONT_DIR = resolve(ROOT, 'public', 'fonts')
 const CSS_OUT = resolve(ROOT, 'src', 'app', 'styles', 'noto-georgian.css')
 

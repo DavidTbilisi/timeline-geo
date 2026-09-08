@@ -28,5 +28,8 @@
     "src/**/*.tsx",
     "src/**/*.vue",
     "content/**/*.json"
+  ],
+  "exclude": [
+    "src/lib/cli"
   ]
 }

@@ -8,24 +8,25 @@
     "dev:example": "vite -c examples/minimal/vite.config.ts",
     "build": "npm run build:app",
     "build:app": "vue-tsc -b && vite build",
-    "build:lib": "rimraf dist && vite build -c vite.lib.config.ts && vue-tsc -p tsconfig.lib.json && rimraf dist/styles.js dist/styles.js.map",
+    "build:lib": "rimraf dist && vite build -c vite.lib.config.ts && vite build -c vite.cli.config.ts && vue-tsc -p tsconfig.lib.json && node scripts/emit-schema.mjs && rimraf dist/styles.js dist/styles.js.map",
     "build:example": "vite build -c examples/minimal/vite.config.ts",
     "typecheck": "vue-tsc --noEmit -p tsconfig.app.json && vue-tsc --noEmit -p tsconfig.node.json && vue-tsc --noEmit -p tsconfig.lib.json && vue-tsc --noEmit -p tsconfig.example.json",
     "check:boundaries": "node scripts/check-lib-boundaries.mjs",
     "preview": "vite preview",
-    "extract": "node scripts/extractEvents.mjs",
-    "fetch:details": "node scripts/fetchDetails.mjs",
-    "fetch:images": "node scripts/fetchImages.mjs",
-    "fetch:fonts": "node scripts/fetchFonts.mjs",
-    "translate:export": "node scripts/translateDetails.mjs --export",
-    "translate:import": "node scripts/translateDetails.mjs --import",
+    "fetch:details": "node scripts/bible/fetchDetails.mjs",
+    "fetch:images": "node scripts/bible/fetchImages.mjs",
+    "fetch:fonts": "node scripts/bible/fetchFonts.mjs",
+    "translate:export": "node scripts/translate.mjs --export",
+    "translate:import": "node scripts/translate.mjs --import",
     "test": "playwright test",
     "test:unit": "vitest run",
     "test:e2e": "playwright test",
     "test:ui": "playwright test --ui",
     "test:headed": "playwright test --headed",
     "prepublishOnly": "npm run check:boundaries && npm run test:unit && npm run build:lib && publint",
-    "test:example": "playwright test -c playwright.example.config.ts"
+    "test:example": "playwright test -c playwright.example.config.ts",
+    "validate:content": "node bin/timeline-validate.mjs content public/data/details --locales ka,en",
+    "validate:example": "node bin/timeline-validate.mjs examples/minimal/content --events examples/minimal/public/content/events examples/minimal/public/content/details --locales en,de"
   },
   "devDependencies": {
     "@playwright/test": "^1.49.0",
@@ -59,10 +60,13 @@
       "import": "./dist/index.js"
     },
     "./style.css": "./dist/style.css",
-    "./package.json": "./package.json"
+    "./package.json": "./package.json",
+    "./schema/*": "./schema/*"
   },
   "files": [
     "dist",
+    "bin",
+    "schema",
     "README.md"
   ],
   "sideEffects": [
@@ -81,5 +85,11 @@
     "vue": "^3.4.0",
     "vue-i18n": "^9.13.0 || ^10.0.0 || ^11.0.0",
     "vue-router": "^4.3.0"
+  },
+  "dependencies": {
+    "zod": "^4.5.4"
+  },
+  "bin": {
+    "timeline-validate": "./bin/timeline-validate.mjs"
   }
 }

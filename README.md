@@ -42,6 +42,8 @@ npm run build:app       # Bible site → dist-app/
 npm run build:lib       # package → dist/ (ES module, style.css, types)
 npm run build:example   # example → examples/minimal/dist (EXAMPLE_USE_DIST=1 to consume dist/)
 npm run test:example    # smoke test of the example against the built package
+npm run validate:content  # timeline-validate over the Bible content (after build:lib)
+npm run validate:example  # …and over the example dataset
 ```
 
 Node 20+ is required. `tests/e2e/visual.spec.ts` holds chromium screenshot baselines (Linux) that guard the Bible site's rendering; regenerate them deliberately with `npx playwright test visual --project=chromium --update-snapshots`.
@@ -64,7 +66,7 @@ src/app/            Bible consumer: main, config, loaders, messages, Bible-only 
 content/            Bible content: periods, eras, site strings, FAQ, events/period-N.json
 public/             Bible runtime assets: data/details, css/img, fonts, media (gitignored)
 examples/minimal/   synthetic example consumer
-scripts/            content tooling; scripts/bible/ holds the one-off scrapers and the schema migration
+scripts/            lib/ (shared helpers), bible/ (dataset scrapers + the schema migration), translate.mjs, emit-schema.mjs
 tests/              unit/ (Vitest), e2e/ (Playwright, Bible app), example/ (Playwright, example)
 ```
 
@@ -73,12 +75,14 @@ tests/              unit/ (Vitest), e2e/ (Playwright, Bible app), example/ (Play
 Content was scraped once from timeline.biblehistory.com and is committed under `content/` (cards) and `public/data/details/` (articles). Images under `public/media/` are gitignored and re-fetched in CI.
 
 ```bash
-npm run fetch:details      # scripts/fetchDetails.mjs — re-fetch detail JSON (needs network)
-npm run fetch:images       # scripts/fetchImages.mjs  — mirror images into public/media
-npm run fetch:fonts        # scripts/fetchFonts.mjs   — self-host Noto Georgian
-npm run translate:export   # CSV for translators
-npm run translate:import   # translated CSV back into the JSON
+npm run fetch:details      # scripts/bible/fetchDetails.mjs — re-fetch detail JSON (needs network)
+npm run fetch:images       # scripts/bible/fetchImages.mjs  — mirror images into public/media
+npm run fetch:fonts        # scripts/bible/fetchFonts.mjs   — self-host Noto Georgian
+npm run translate:export -- out.csv --target ka   # CSV (slug,field,source,target) for translators
+npm run translate:import -- out.csv --target ka   # translated CSV back into details + event cards
 ```
+
+See `scripts/bible/README.md`; the generic helpers (argv, JSON, CSV, HTTP retry, pool, locale-preserving merge) live in `scripts/lib/`.
 
 ## Deployment
 

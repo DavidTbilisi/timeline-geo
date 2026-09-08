@@ -10,7 +10,17 @@ This repository is both the engine (`src/lib`, published) and its first consumer
 | `npm run build:app` | `dist-app/` (the Bible site, deployed to GitHub Pages) |
 | `npm run build:example` | `examples/minimal/dist/`; `EXAMPLE_USE_DIST=1` consumes `dist/` instead of the source |
 
-`package.json` exports `.` (ESM + types) and `./style.css`; `files` whitelists `dist` and the README, so content and assets cannot leak into the tarball. Vue, Pinia, vue-router and vue-i18n are peer dependencies.
+`build:lib` also compiles the `timeline-validate` CLI (`dist/cli/validate.js`, exposed through `bin/`) and writes JSON Schema files for the content types into `schema/` (published under `exports["./schema/*"]`, so editors can validate `periods.json` and friends with a `$schema` reference).
+
+`package.json` exports `.` (ESM + types), `./style.css` and `./schema/*`; `files` whitelists `dist`, `bin`, `schema` and the README, so content and assets cannot leak into the tarball. Vue, Pinia, vue-router and vue-i18n are peer dependencies; `zod` is a runtime dependency of the CLI only (the main entry never imports it).
+
+## Validating content
+
+```bash
+npx timeline-validate <contentDir> [detailsDir] [--events <dir>] [--locales en,ka] [--max-rows 24] [--json]
+```
+
+Checks every period, era, event and detail against the schemas and the references between them (unique ids and slugs, era membership, `event.period`, `start <= end`, `layout.row` range, `related[].slug`, detail file names) and reports locale keys outside `--locales`. Errors exit 1; warnings never fail the run. In this repository `npm run validate:content` checks the Bible data and `npm run validate:example` the example (both need `npm run build:lib` first); `tests/unit/validateDataset.spec.ts` runs the same validation in CI without a build.
 
 ## Checks before a release
 
