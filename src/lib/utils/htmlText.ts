@@ -4,7 +4,7 @@
  * (title attrs, alt attrs) where browsers do not decode HTML.
  *
  * Handles tags via regex and the named/numeric entities that appear in
- * timeline detail JSONs (extracted from biblehistory.com): &ndash;, &mdash;,
+ * timeline detail JSONs: &ndash;, &mdash;,
  * &hellip;, &amp;, &lt;, &gt;, &quot;, &apos;, &nbsp;, &#NNN;.
  */
 
