@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { htmlToPlainText } from '@/utils/htmlText'
+import { htmlToPlainText } from '@lib/utils/htmlText'
 
 describe('htmlToPlainText', () => {
   it('strips tags and decodes named + numeric entities', () => {

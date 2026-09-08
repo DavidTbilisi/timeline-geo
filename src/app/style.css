@@ -1,0 +1,14 @@
+/* App stylesheet: engine styles, then the Bible theme on top, then Tailwind. */
+@import '../lib/styles/engine.css';
+@import './styles/bible-theme.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}

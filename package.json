@@ -18,7 +18,8 @@
     "test:unit": "vitest run",
     "test:e2e": "playwright test",
     "test:ui": "playwright test --ui",
-    "test:headed": "playwright test --headed"
+    "test:headed": "playwright test --headed",
+    "check:boundaries": "node scripts/check-lib-boundaries.mjs"
   },
   "dependencies": {
     "pinia": "^2.2.0",
