@@ -20,7 +20,7 @@ export interface Video {
  * Extension point for dataset-specific detail data. Plugins augment this
  * interface with their own key:
  *
- *   declare module '<package>' {
+ *   declare module '@davidtbilisi/timeline-engine' {
  *     interface DetailExtensions { scriptures: Scripture[] }
  *   }
  */
