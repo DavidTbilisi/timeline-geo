@@ -2,30 +2,24 @@
   "slug": "deadly-wound-healed",
   "id": 1244,
   "period": 13,
-  "titleEn": "The Deadly Wound",
-  "titleKa": null,
-  "datesEn": "1798&ndash;1929 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "The Revelation 13:3 prophecy that the beast&#39;s head would appear to be &#34;mortally wounded&#34; saw its fulfillment in 1798, when the French army entered Rome and took Pope Pius VI captive. It was subsequently healed with the reestablishment of the papacy i",
-  "descriptionKa": null,
-  "articleEn": "In Revelation 13:3, the Bible predicts that the beast, the papacy, would appear to lose its power completely and then, subsequently, would regain that power so that all the world would wonder after it. Napoleon&#39;s French army, led by Louis&#8212;Alexandre Berthier, entered Rome and ended the papacy&#39;s 1,260&#8212;year political reign by taking Pope Pius VI, the &#34;head&#34; of the church of Rome, as a prisoner to France in February 1798. <BR /><BR />However, that wound was healed in the year 1929 when Mussolini executed the Concordat of 1929 with Pope Pius XI, restoring the properties and powers that had been taken away from the church in 1798. At that time, Vatican City was set up as a sovereign political power. Today, the restoration and influence of the papacy, with more than a billion followers, in world affairs is attested to by the fact that most of the countries of the world have political representatives at Vatican City.",
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Revelation 13:3",
-      "verses": [
-        {
-          "number": 3,
-          "line": "And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast."
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "The Deadly Wound"
+  },
+  "dates": {
+    "en": "1798&ndash;1929 <span>AD</span>"
+  },
+  "description": {
+    "en": "The Revelation 13:3 prophecy that the beast&#39;s head would appear to be &#34;mortally wounded&#34; saw its fulfillment in 1798, when the French army entered Rome and took Pope Pius VI captive. It was subsequently healed with the reestablishment of the papacy i"
+  },
+  "article": {
+    "en": "In Revelation 13:3, the Bible predicts that the beast, the papacy, would appear to lose its power completely and then, subsequently, would regain that power so that all the world would wonder after it. Napoleon&#39;s French army, led by Louis&#8212;Alexandre Berthier, entered Rome and ended the papacy&#39;s 1,260&#8212;year political reign by taking Pope Pius VI, the &#34;head&#34; of the church of Rome, as a prisoner to France in February 1798. <BR /><BR />However, that wound was healed in the year 1929 when Mussolini executed the Concordat of 1929 with Pope Pius XI, restoring the properties and powers that had been taken away from the church in 1798. At that time, Vatican City was set up as a sovereign political power. Today, the restoration and influence of the papacy, with more than a billion followers, in world affairs is attested to by the fact that most of the countries of the world have political representatives at Vatican City."
+  },
   "related": [
     {
       "slug": "prophecies-of-the-end-of-time",
-      "titleEn": "Prophecies of the End of Time",
-      "titleKa": null
+      "title": {
+        "en": "Prophecies of the End of Time"
+      }
     }
   ],
   "images": [
@@ -57,5 +51,18 @@
       "caption": "Who is the antichrist? This sermon delves into Revelation 12, 13, and 17 along with Daniel 7. The animals spoken of represent nations and kingdoms and powers. A beast power will arise that has and will persecute the people of God. The power combines religious and political powers at the end of time.",
       "filename": "http://manna.amazingfacts.org/amazingfacts/shows/afp/afp33.mp4"
     }
-  ]
+  ],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Revelation 13:3",
+        "verses": [
+          {
+            "number": 3,
+            "line": "And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast."
+          }
+        ]
+      }
+    ]
+  }
 }

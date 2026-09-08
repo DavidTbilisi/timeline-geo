@@ -4,9 +4,10 @@ import { useRouter } from 'vue-router'
 import { useTimelineStore } from '@/stores/timeline'
 import { useEventsStore } from '@/stores/events'
 import { useFavoritesStore } from '@/stores/favorites'
-import { PERIODS } from '@/data/periods'
+import { useTimelineConfig } from '@lib/config'
+import { useLocalized } from '@lib/i18n'
 import { useI18n } from 'vue-i18n'
-import type { EventDetail as DetailType } from '@/types/detail'
+import type { EventDetail as DetailType } from '@lib/types'
 import DetailArticle from './DetailArticle.vue'
 import DetailScriptures from './DetailScriptures.vue'
 import DetailRelated from './DetailRelated.vue'
@@ -18,7 +19,9 @@ const tlStore = useTimelineStore()
 const eventsStore = useEventsStore()
 const favStore = useFavoritesStore()
 const router = useRouter()
-const { t, locale } = useI18n()
+const { t } = useI18n()
+const { l } = useLocalized()
+const config = useTimelineConfig()
 
 const detail = ref<DetailType | null>(null)
 const loading = ref(true)
@@ -28,21 +31,13 @@ const slug = computed(() => tlStore.activeEventSlug ?? '')
 const isFav = computed(() => favStore.isFavorite(slug.value))
 const periodData = computed(() => {
   if (!detail.value) return null
-  return PERIODS[detail.value.period - 1] ?? null
+  return config.byId[detail.value.period] ?? null
 })
 const periodColor = computed(() => periodData.value?.color ?? '#555')
-const title = computed(() => {
-  if (!detail.value) return ''
-  return locale.value === 'ka' && detail.value.titleKa ? detail.value.titleKa : detail.value.titleEn
-})
-const dates = computed(() => {
-  if (!detail.value) return ''
-  return locale.value === 'ka' && detail.value.datesKa ? detail.value.datesKa : detail.value.datesEn
-})
-const periodName = computed(() => {
-  if (!periodData.value) return ''
-  return locale.value === 'ka' ? periodData.value.nameKa : periodData.value.nameEn
-})
+const title = computed(() => detail.value ? l(detail.value.title) : '')
+const dates = computed(() => detail.value ? l(detail.value.dates) : '')
+const periodName = computed(() => periodData.value ? l(periodData.value.name) : '')
+const scriptures = computed(() => detail.value?.extensions?.scriptures ?? [])
 
 const hasImages = computed(() => (detail.value?.images?.length ?? 0) > 0)
 const hasVideos = computed(() => (detail.value?.videos?.length ?? 0) > 0)
@@ -70,7 +65,7 @@ onMounted(async () => {
 function close() {
   log.ui('EventDetail close', { slug: slug.value })
   tlStore.closeEvent()
-  const period = PERIODS[(tlStore.activePeriod ?? 1) - 1] ?? PERIODS[0]
+  const period = config.byId[tlStore.activePeriod] ?? config.periods[0]
   router.replace(`/period/${period.slug}`)
 }
 
@@ -79,8 +74,7 @@ function toggleFav() {
     log.ui('EventDetail toggleFav', { slug: slug.value, wasFav: isFav.value })
     favStore.toggle(slug.value, {
       slug: slug.value,
-      titleEn: detail.value.titleEn,
-      titleKa: detail.value.titleKa,
+      title: detail.value.title,
       period: detail.value.period,
     })
   }
@@ -163,7 +157,7 @@ function toggleFav() {
       <!-- Tab content -->
       <div class="flex-1 overflow-y-auto p-4 md:p-6" :class="{ '!p-0': activeTab === 'images' || activeTab === 'video' }">
         <DetailArticle v-if="activeTab === 'article'" :detail="detail" />
-        <DetailScriptures v-else-if="activeTab === 'scriptures'" :scriptures="detail?.scriptures ?? []" />
+        <DetailScriptures v-else-if="activeTab === 'scriptures'" :scriptures="scriptures" />
         <DetailRelated v-else-if="activeTab === 'related'" :related="detail?.related ?? []" />
         <DetailImages
           v-else-if="activeTab === 'images'"

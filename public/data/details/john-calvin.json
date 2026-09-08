@@ -2,20 +2,24 @@
   "slug": "john-calvin",
   "id": 1334,
   "period": 11,
-  "titleEn": "John Calvin ",
-  "titleKa": null,
-  "datesEn": "1509&ndash;1564 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "French theologian of the Protestant Reformation and the founder of Calvinist theology.",
-  "descriptionKa": null,
-  "articleEn": "John Calvin was born on July 10, 1509, in northern France. During his life, he attended Paris, Orleans, and Bruges Universities. Between 1532 and 1533, Calvin became associated with the Protestant Reformation. Between 1536 and 1538 he worked in Geneva, Switzerland. As a result of some issues in church governance, Calvin left Geneva for a time, returning in 1541. He remained in Geneva until his death on May 27, 1564.<BR /><BR />Calvin was a passionate speaker. In addition to speaking out against the Catholic Church, he wrote against the Anabaptists and the Lutherans. In spite of this, Calvin considered himself to be a follower of Martin Luther and viewed his work as building on Luther&#39;s.<BR /><BR />Calvin&#39;s most popular work is called the Instruction in the Christian Religion or Institutes. Although the first edition was published in 1536, the final and definitive edition was completed in 1559 and was five times larger than the original. The Institutes were published to go along with Calvin&#39;s commentaries on Scripture",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "John Calvin "
+  },
+  "dates": {
+    "en": "1509&ndash;1564 <span>AD</span>"
+  },
+  "description": {
+    "en": "French theologian of the Protestant Reformation and the founder of Calvinist theology."
+  },
+  "article": {
+    "en": "John Calvin was born on July 10, 1509, in northern France. During his life, he attended Paris, Orleans, and Bruges Universities. Between 1532 and 1533, Calvin became associated with the Protestant Reformation. Between 1536 and 1538 he worked in Geneva, Switzerland. As a result of some issues in church governance, Calvin left Geneva for a time, returning in 1541. He remained in Geneva until his death on May 27, 1564.<BR /><BR />Calvin was a passionate speaker. In addition to speaking out against the Catholic Church, he wrote against the Anabaptists and the Lutherans. In spite of this, Calvin considered himself to be a follower of Martin Luther and viewed his work as building on Luther&#39;s.<BR /><BR />Calvin&#39;s most popular work is called the Instruction in the Christian Religion or Institutes. Although the first edition was published in 1536, the final and definitive edition was completed in 1559 and was five times larger than the original. The Institutes were published to go along with Calvin&#39;s commentaries on Scripture"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

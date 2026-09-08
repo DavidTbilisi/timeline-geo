@@ -2,15 +2,18 @@
   "slug": "syria-seleucid-kingdom-annexed-by-rome",
   "id": 585,
   "period": 9,
-  "titleEn": "Syria Seleucid Kingdom  Annexed by Rome",
-  "titleKa": null,
-  "datesEn": "64 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "In 64 Pompey campaigned in Syria, ended the Seleucid monarchy, and turned southward into Palestine. He took Jerusalem and broke the power of the Hasmonaeans. By 63 Syria and Judea were added to the Roman territory",
-  "descriptionKa": null,
-  "articleEn": "In 67 the popular party made Pompey commander of the forces Rome sent to the East to rid the sea of the Cilician pirates, a task he accomplished in three months. The next year he was authorized to wage war with the recalcitrant kings of Pontus and Armenia. Victorious, he pushed on to the Caspian and subjected Asia Minor to the will of Rome. In 64 Pompey campaigned in Syria, ended the Seleucid monarchy, and turned southward into Palestine. He took Jerusalem and broke the power of the Hasmonaeans. By 63 Syria and Judea were added to the Roman territory",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Syria Seleucid Kingdom  Annexed by Rome"
+  },
+  "dates": {
+    "en": "64 <span>BC</span>"
+  },
+  "description": {
+    "en": "In 64 Pompey campaigned in Syria, ended the Seleucid monarchy, and turned southward into Palestine. He took Jerusalem and broke the power of the Hasmonaeans. By 63 Syria and Judea were added to the Roman territory"
+  },
+  "article": {
+    "en": "In 67 the popular party made Pompey commander of the forces Rome sent to the East to rid the sea of the Cilician pirates, a task he accomplished in three months. The next year he was authorized to wage war with the recalcitrant kings of Pontus and Armenia. Victorious, he pushed on to the Caspian and subjected Asia Minor to the will of Rome. In 64 Pompey campaigned in Syria, ended the Seleucid monarchy, and turned southward into Palestine. He took Jerusalem and broke the power of the Hasmonaeans. By 63 Syria and Judea were added to the Roman territory"
+  },
   "related": [],
   "images": [
     {

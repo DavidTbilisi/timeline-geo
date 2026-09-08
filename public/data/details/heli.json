@@ -2,35 +2,27 @@
   "slug": "heli",
   "id": 587,
   "period": 9,
-  "titleEn": "Heli",
-  "titleKa": null,
-  "datesEn": "55 <span>BC</span>&ndash;10 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Father of Joseph in the line of our Lord&#39;s ancestry (Luke 3:23).",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:23",
-      "verses": [
-        {
-          "number": 23,
-          "line": "And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was the son of Heli,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Heli"
+  },
+  "dates": {
+    "en": "55 <span>BC</span>&ndash;10 <span>AD</span>"
+  },
+  "description": {
+    "en": "Father of Joseph in the line of our Lord&#39;s ancestry (Luke 3:23)."
+  },
   "related": [
     {
       "slug": "matthat-father-of-heli",
-      "titleEn": "Matthat",
-      "titleKa": null
+      "title": {
+        "en": "Matthat"
+      }
     },
     {
       "slug": "joseph-husband-of-mary",
-      "titleEn": "Joseph",
-      "titleKa": null
+      "title": {
+        "en": "Joseph"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was the son of <b>Heli</b>, (Luke 3:23)"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:23",
+        "verses": [
+          {
+            "number": 23,
+            "line": "And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was the son of Heli,"
+          }
+        ]
+      }
+    ]
+  }
 }

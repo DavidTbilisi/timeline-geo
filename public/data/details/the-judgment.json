@@ -2,34 +2,24 @@
   "slug": "the-judgment",
   "id": 1275,
   "period": 13,
-  "titleEn": "The Judgment",
-  "titleKa": null,
-  "datesEn": "1844&ndash;",
-  "datesKa": null,
-  "descriptionEn": "Daniel&#39;s dream of four beasts is followed by a dream of the Ancient of Days being seated and the books were opened. It describes a judgment over which God presides. This scene follows the claims made by the little horn in Daniel 7:8.",
-  "descriptionKa": null,
-  "articleEn": "Daniel 7:9, 10 cannot represent the second coming of Christ to this earth, for Christ comes to &#34;the Ancient of days.&#34; The coming of Christ to the most holy place for the cleansing of the sanctuary is here represented.",
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Daniel 7:9-10",
-      "verses": [
-        {
-          "number": 9,
-          "line": "I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire."
-        },
-        {
-          "number": 10,
-          "line": "A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened."
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "The Judgment"
+  },
+  "dates": {
+    "en": "1844&ndash;"
+  },
+  "description": {
+    "en": "Daniel&#39;s dream of four beasts is followed by a dream of the Ancient of Days being seated and the books were opened. It describes a judgment over which God presides. This scene follows the claims made by the little horn in Daniel 7:8."
+  },
+  "article": {
+    "en": "Daniel 7:9, 10 cannot represent the second coming of Christ to this earth, for Christ comes to &#34;the Ancient of days.&#34; The coming of Christ to the most holy place for the cleansing of the sanctuary is here represented."
+  },
   "related": [
     {
       "slug": "daniel-7-four-great-beasts",
-      "titleEn": "Daniel 7 - Four Great Beasts",
-      "titleKa": null
+      "title": {
+        "en": "Daniel 7 - Four Great Beasts"
+      }
     }
   ],
   "images": [
@@ -42,5 +32,22 @@
       "caption": "Artist rendition of the wilderness tabernacle. "
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Daniel 7:9-10",
+        "verses": [
+          {
+            "number": 9,
+            "line": "I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire."
+          },
+          {
+            "number": 10,
+            "line": "A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened."
+          }
+        ]
+      }
+    ]
+  }
 }

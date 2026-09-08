@@ -1,4 +1,5 @@
 import { test, expect } from './fixtures'
+import { PERIODS, periodBySlug, l } from './content'
 
 test.describe('Timeline View', () => {
   test.beforeEach(async ({ page }) => {
@@ -49,7 +50,7 @@ test.describe('Timeline View', () => {
 
   test('shows the sidebar panel with period name', async ({ page }) => {
     await expect(page.locator('[data-testid="tl-sidebar-active"]')).toBeVisible()
-    await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText('პირველი თაობა')
+    await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText(l(periodBySlug('first-generation').name))
   })
 
   test('renders event bars on the stage', async ({ page }) => {
@@ -104,9 +105,9 @@ test.describe('Timeline View', () => {
     expect(newTransform).not.toEqual(initialTransform)
   })
 
-  test('period footer shows 13 period dots', async ({ page }) => {
+  test('period footer shows one dot per period', async ({ page }) => {
     const dots = page.locator('[data-testid="period-dot"]')
-    await expect(dots).toHaveCount(13)
+    await expect(dots).toHaveCount(PERIODS.length)
   })
 
   test('active period dot is highlighted', async ({ page }) => {
@@ -123,13 +124,13 @@ test.describe('Timeline View', () => {
     await page.waitForTimeout(800)
 
     // Sidebar should update to period 2 name
-    await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText('ნოე')
+    await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText(l(periodBySlug('noah-and-the-flood').name))
   })
 
   test('navigating via URL slug loads correct period', async ({ page }) => {
     await page.goto('/period/united-kingdom')
     await page.waitForSelector('[data-testid="tl-sidebar-active"]')
-    await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText('გაერთიანებული სამეფო')
+    await expect(page.locator('[data-testid="tl-sidebar-active"]')).toContainText(l(periodBySlug('united-kingdom').name))
   })
 
   // Regression for #39 — minor event tooltip (title attr) must not contain

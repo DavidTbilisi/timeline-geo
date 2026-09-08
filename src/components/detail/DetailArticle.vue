@@ -1,21 +1,15 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
-import type { EventDetail } from '@/types/detail'
+import { useLocalized } from '@lib/i18n'
+import type { EventDetail } from '@lib/types'
 
 const props = defineProps<{ detail: EventDetail | null }>()
-const { locale, t } = useI18n()
+const { t } = useI18n()
+const { l } = useLocalized()
 
-const description = computed(() => {
-  const d = props.detail
-  if (!d) return null
-  return locale.value === 'ka' && d.descriptionKa ? d.descriptionKa : d.descriptionEn
-})
-const article = computed(() => {
-  const d = props.detail
-  if (!d) return null
-  return locale.value === 'ka' && d.articleKa ? d.articleKa : d.articleEn
-})
+const description = computed(() => props.detail ? l(props.detail.description) || null : null)
+const article = computed(() => props.detail ? l(props.detail.article) || null : null)
 const paragraphs = computed<string[]>(() => {
   const a = article.value
   if (!a) return []

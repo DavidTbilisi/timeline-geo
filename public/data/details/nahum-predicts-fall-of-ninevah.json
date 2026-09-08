@@ -2,30 +2,21 @@
   "slug": "nahum-predicts-fall-of-ninevah",
   "id": 436,
   "period": 7,
-  "titleEn": "Nahum Predicts Fall of Ninevah",
-  "titleKa": null,
-  "datesEn": "662 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Nahum predicts in his book (3:7) the fall of Nineveh, the Assyrian capital. His prophecy takes place at the peak of Assyrian power, probably around 50 years earlier.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Nahum 3:7",
-      "verses": [
-        {
-          "number": 7,
-          "line": "And it shall come to pass, that all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Nahum Predicts Fall of Ninevah"
+  },
+  "dates": {
+    "en": "662 <span>BC</span>"
+  },
+  "description": {
+    "en": "Nahum predicts in his book (3:7) the fall of Nineveh, the Assyrian capital. His prophecy takes place at the peak of Assyrian power, probably around 50 years earlier."
+  },
   "related": [
     {
       "slug": "nahum",
-      "titleEn": "Nahum",
-      "titleKa": null
+      "title": {
+        "en": "Nahum"
+      }
     }
   ],
   "images": [
@@ -34,5 +25,18 @@
       "caption": "Prophet Nahum"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Nahum 3:7",
+        "verses": [
+          {
+            "number": 7,
+            "line": "And it shall come to pass, that all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?"
+          }
+        ]
+      }
+    ]
+  }
 }

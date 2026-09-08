@@ -2,20 +2,24 @@
   "slug": "luther-begins-lecturing-at-wittenburg",
   "id": 1336,
   "period": 11,
-  "titleEn": "Luther Begins Lecturing at Wittenburg ",
-  "titleKa": null,
-  "datesEn": "1512&ndash;",
-  "datesKa": null,
-  "descriptionEn": "Luther became a professor at the Wittenburg University in 1512 and retained the position for the rest of his career.",
-  "descriptionKa": null,
-  "articleEn": "Luther began teaching at Wittenberg in 1512 and held this position for the rest of his life. It was sometime between 1512 and 1519 that he made his &#34;Reformation breakthrough&#34; while preparing for his lectures at Wittenberg.<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Luther Begins Lecturing at Wittenburg "
+  },
+  "dates": {
+    "en": "1512&ndash;"
+  },
+  "description": {
+    "en": "Luther became a professor at the Wittenburg University in 1512 and retained the position for the rest of his career."
+  },
+  "article": {
+    "en": "Luther began teaching at Wittenberg in 1512 and held this position for the rest of his life. It was sometime between 1512 and 1519 that he made his &#34;Reformation breakthrough&#34; while preparing for his lectures at Wittenberg.<BR />"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

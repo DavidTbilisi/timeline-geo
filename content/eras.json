@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "en": "Age of Patriarchs",
+      "ka": "პატრიარქების ეპოქა"
+    },
+    "description": {
+      "en": "The timeline begins with Adam in Eden, then on to Noah and the Flood and the birth of Israel through Abraham, Isaac, and Jacob.",
+      "ka": "ქრონოლოგია იწყება ადამით ედემში, შემდეგ გრძელდება ნოეთი და წარღვნით, აბრაამის, ისაკისა და იაკობის გავლით ისრაელის დაბადებამდე."
+    },
+    "periods": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "name": {
+      "en": "Age of Israel",
+      "ka": "ისრაელის ეპოქა"
+    },
+    "description": {
+      "en": "The history of the Jewish nation, from Moses and the Exodus to King David and the prophets Daniel and Isaiah.",
+      "ka": "ებრაელი ხალხის ისტორია — მოსედან და გამოსვლიდან მეფე დავითამდე და წინასწარმეტყველებ დანიელ და ესაიამდე."
+    },
+    "periods": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": 3,
+    "name": {
+      "en": "Age of Christ",
+      "ka": "ქრისტეს ეპოქა"
+    },
+    "description": {
+      "en": "The life and death of Jesus, the apostles, the Reformation, and the final events of earth's history.",
+      "ka": "იესოს ცხოვრება და სიკვდილი, მოციქულები, რეფორმაცია და ქვეყნიერების ისტორიის ბოლო მოვლენები."
+    },
+    "periods": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  }
+]

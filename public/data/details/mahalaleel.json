@@ -2,44 +2,27 @@
   "slug": "mahalaleel",
   "id": 668,
   "period": 1,
-  "titleEn": "Mahalaleel",
-  "titleKa": null,
-  "datesEn": "3559&ndash;2664 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;praise of God.&#34; The son of Cainan, from the line of Seth, also called Maleleel or Mahalaleel (Luke 3:37). He lived 895 years.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Genesis 5:12",
-      "verses": [
-        {
-          "number": 12,
-          "line": "And Cainan lived seventy years, and begat Mahalaleel:"
-        }
-      ]
-    },
-    {
-      "reference": "Genesis 5:17",
-      "verses": [
-        {
-          "number": 17,
-          "line": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died."
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Mahalaleel"
+  },
+  "dates": {
+    "en": "3559&ndash;2664 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;praise of God.&#34; The son of Cainan, from the line of Seth, also called Maleleel or Mahalaleel (Luke 3:37). He lived 895 years."
+  },
   "related": [
     {
       "slug": "cainan",
-      "titleEn": "Cainan",
-      "titleKa": null
+      "title": {
+        "en": "Cainan"
+      }
     },
     {
       "slug": "jared",
-      "titleEn": "Jared",
-      "titleKa": null
+      "title": {
+        "en": "Jared"
+      }
     }
   ],
   "images": [
@@ -48,5 +31,27 @@
       "caption": "Mahalaleel"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Genesis 5:12",
+        "verses": [
+          {
+            "number": 12,
+            "line": "And Cainan lived seventy years, and begat Mahalaleel:"
+          }
+        ]
+      },
+      {
+        "reference": "Genesis 5:17",
+        "verses": [
+          {
+            "number": 17,
+            "line": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died."
+          }
+        ]
+      }
+    ]
+  }
 }

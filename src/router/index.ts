@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import { PERIOD_BY_SLUG } from '@/data/periods'
+import { useTimelineConfig } from '@lib/config'
 import { log } from '@/utils/log'
 
 export const router = createRouter({
@@ -23,7 +23,7 @@ export const router = createRouter({
       // See issue #50.
       beforeEnter: (to) => {
         const slug = to.params.slug as string
-        if (!PERIOD_BY_SLUG[slug]) {
+        if (!useTimelineConfig().bySlug[slug]) {
           log.route('unknown period slug, redirecting to /', { slug })
           return '/'
         }

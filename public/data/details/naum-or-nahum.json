@@ -2,35 +2,27 @@
   "slug": "naum-or-nahum",
   "id": 565,
   "period": 8,
-  "titleEn": "Naum (or Nahum)",
-  "titleKa": null,
-  "datesEn": "260&ndash;180 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;consolation.&#34; He is the son of Esli (or Eslie) and father of Amos, a Judahite listed in Luke&#39;s genealogy of Jesus Christ. His name has also been spelled &#34;Nahum.&#34;",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:25",
-      "verses": [
-        {
-          "number": 25,
-          "line": "Which was the son of Mattathias, which was the son of Amos, which was the son of Naum, which was the son of Esli, which was the son of Nagge,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Naum (or Nahum)"
+  },
+  "dates": {
+    "en": "260&ndash;180 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;consolation.&#34; He is the son of Esli (or Eslie) and father of Amos, a Judahite listed in Luke&#39;s genealogy of Jesus Christ. His name has also been spelled &#34;Nahum.&#34;"
+  },
   "related": [
     {
       "slug": "esli",
-      "titleEn": "Esli",
-      "titleKa": null
+      "title": {
+        "en": "Esli"
+      }
     },
     {
       "slug": "amos",
-      "titleEn": "Amos",
-      "titleKa": null
+      "title": {
+        "en": "Amos"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "Which was the son of Mattathias, which was the son of Amos, which was the son of <b>Naum</b>, which was the son of Esli, which was the son of Nagge, (Luke 3:25)"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:25",
+        "verses": [
+          {
+            "number": 25,
+            "line": "Which was the son of Mattathias, which was the son of Amos, which was the son of Naum, which was the son of Esli, which was the son of Nagge,"
+          }
+        ]
+      }
+    ]
+  }
 }

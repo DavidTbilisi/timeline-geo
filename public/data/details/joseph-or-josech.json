@@ -2,35 +2,27 @@
   "slug": "joseph-or-josech",
   "id": 609,
   "period": 8,
-  "titleEn": "Joseph (or Josech)",
-  "titleKa": null,
-  "datesEn": "400&ndash;312 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;may he add.&#34; He is the son of Juda or Judah in Luke&#39;s genealogy of Jesus Christ. A different Greek text spells Joseph as Josech not to be confused with the father of Jesus Christ or the son of Jacob.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:26",
-      "verses": [
-        {
-          "number": 26,
-          "line": "Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of Juda,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Joseph (or Josech)"
+  },
+  "dates": {
+    "en": "400&ndash;312 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;may he add.&#34; He is the son of Juda or Judah in Luke&#39;s genealogy of Jesus Christ. A different Greek text spells Joseph as Josech not to be confused with the father of Jesus Christ or the son of Jacob."
+  },
   "related": [
     {
       "slug": "juda-or-joda",
-      "titleEn": "Juda (or Joda)",
-      "titleKa": null
+      "title": {
+        "en": "Juda (or Joda)"
+      }
     },
     {
       "slug": "semei",
-      "titleEn": "Semei",
-      "titleKa": null
+      "title": {
+        "en": "Semei"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of <b>Joseph</b>, which was the son of Juda, (Luke 3:26)"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:26",
+        "verses": [
+          {
+            "number": 26,
+            "line": "Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of Juda,"
+          }
+        ]
+      }
+    ]
+  }
 }

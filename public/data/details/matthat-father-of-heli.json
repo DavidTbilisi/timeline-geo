@@ -2,35 +2,27 @@
   "slug": "matthat-father-of-heli",
   "id": 583,
   "period": 9,
-  "titleEn": "Matthat",
-  "titleKa": null,
-  "datesEn": "83&ndash;10 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;gift of God.&#34; He is the son of Levi and father of Heli, a Judahite listed in Luke&#39;s genealogy of Jesus Christ.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:24",
-      "verses": [
-        {
-          "number": 24,
-          "line": "Which was the son of Matthat, which was the son of Levi, which was the son of Melchi, which was the son of Janna, which was the son of Joseph,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Matthat"
+  },
+  "dates": {
+    "en": "83&ndash;10 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;gift of God.&#34; He is the son of Levi and father of Heli, a Judahite listed in Luke&#39;s genealogy of Jesus Christ."
+  },
   "related": [
     {
       "slug": "levi-son-of-melchi",
-      "titleEn": "Levi",
-      "titleKa": null
+      "title": {
+        "en": "Levi"
+      }
     },
     {
       "slug": "heli",
-      "titleEn": "Heli",
-      "titleKa": null
+      "title": {
+        "en": "Heli"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "Ancestor of Jesus"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:24",
+        "verses": [
+          {
+            "number": 24,
+            "line": "Which was the son of Matthat, which was the son of Levi, which was the son of Melchi, which was the son of Janna, which was the son of Joseph,"
+          }
+        ]
+      }
+    ]
+  }
 }

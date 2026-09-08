@@ -2,38 +2,24 @@
   "slug": "1-timothy-written",
   "id": 1228,
   "period": 10,
-  "titleEn": "1 Timothy Written",
-  "titleKa": null,
-  "datesEn": "65 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "The book of 1 Timothy was written by Paul, probably after his release from prison in Rome. After visiting Ephesus, he went to Macedonia where he penned this letter of instruction to his young associate in ministry, Timothy.",
-  "descriptionKa": null,
-  "articleEn": "Since Paul had indicated in his prison epistles that he was anxious to see the churches in Asia and Macedonia as soon as possible (Phil. 2:24 Philemon 22), it may be assumed that he traveled to those eastern lands shortly after his release. He visited Ephesus, the main city of the province of Asia, before he proceeded to Macedonia (1 Tim. 1:3), where the beloved church of Philippi was located. The first letter to Timothy was written after these visits, and so may be dated about a year following his release, probably a.d. 65.",
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "1 Timothy 1:1-3",
-      "verses": [
-        {
-          "number": 1,
-          "line": "Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;"
-        },
-        {
-          "number": 2,
-          "line": "Unto Timothy, my own son in the faith: Grace, mercy, and peace, from God our Father and Jesus Christ our Lord."
-        },
-        {
-          "number": 3,
-          "line": "As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "1 Timothy Written"
+  },
+  "dates": {
+    "en": "65 <span>AD</span>"
+  },
+  "description": {
+    "en": "The book of 1 Timothy was written by Paul, probably after his release from prison in Rome. After visiting Ephesus, he went to Macedonia where he penned this letter of instruction to his young associate in ministry, Timothy."
+  },
+  "article": {
+    "en": "Since Paul had indicated in his prison epistles that he was anxious to see the churches in Asia and Macedonia as soon as possible (Phil. 2:24 Philemon 22), it may be assumed that he traveled to those eastern lands shortly after his release. He visited Ephesus, the main city of the province of Asia, before he proceeded to Macedonia (1 Tim. 1:3), where the beloved church of Philippi was located. The first letter to Timothy was written after these visits, and so may be dated about a year following his release, probably a.d. 65."
+  },
   "related": [
     {
       "slug": "paul",
-      "titleEn": "Paul",
-      "titleKa": null
+      "title": {
+        "en": "Paul"
+      }
     }
   ],
   "images": [
@@ -54,5 +40,26 @@
       "caption": "Akropol in Bergama in Turkey"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "1 Timothy 1:1-3",
+        "verses": [
+          {
+            "number": 1,
+            "line": "Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;"
+          },
+          {
+            "number": 2,
+            "line": "Unto Timothy, my own son in the faith: Grace, mercy, and peace, from God our Father and Jesus Christ our Lord."
+          },
+          {
+            "number": 3,
+            "line": "As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,"
+          }
+        ]
+      }
+    ]
+  }
 }

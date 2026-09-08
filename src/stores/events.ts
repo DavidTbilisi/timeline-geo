@@ -1,29 +1,31 @@
 import { defineStore } from 'pinia'
 import { ref } from 'vue'
-import type { TimelineEvent } from '@/types/event'
-import type { EventDetail } from '@/types/detail'
-import { withBase } from '@/utils/assetUrl'
-import { PERIOD_BY_ID } from '@/data/periods'
+import type { LaidOutEvent, EventDetail } from '@lib/types'
+import { useTimelineConfig } from '@lib/config'
+import { applyLayout } from '@lib/layout/applyOverrides'
+import { pickLocalized } from '@lib/i18n/localized'
 import { log } from '@/utils/log'
 
 export const useEventsStore = defineStore('events', () => {
-  // Events keyed by period (1-13)
-  const byPeriod = ref<Record<number, TimelineEvent[]>>({})
+  const config = useTimelineConfig()
+
+  // Events keyed by period id
+  const byPeriod = ref<Record<number, LaidOutEvent[]>>({})
   // All events flat list (for search)
-  const allEvents = ref<TimelineEvent[]>([])
+  const allEvents = ref<LaidOutEvent[]>([])
   const allLoaded = ref(false)
   // Detail cache keyed by slug
   const details = ref<Record<string, EventDetail>>({})
 
-  async function loadPeriod(period: number): Promise<TimelineEvent[]> {
+  async function loadPeriod(period: number): Promise<LaidOutEvent[]> {
     if (byPeriod.value[period]) {
       log.data('loadPeriod cache hit', { period, count: byPeriod.value[period].length })
       return byPeriod.value[period]
     }
     const t0 = performance.now()
     try {
-      const mod = await import(`@/data/events/period-${period}.json`)
-      const events: TimelineEvent[] = mod.default ?? mod
+      const raw = await config.loaders.events(period)
+      const events = applyLayout(raw)
       byPeriod.value[period] = events
       log.data('loadPeriod loaded', { period, count: events.length, ms: Math.round(performance.now() - t0) })
       return events
@@ -40,9 +42,9 @@ export const useEventsStore = defineStore('events', () => {
       return
     }
     const t0 = performance.now()
-    const all: TimelineEvent[] = []
-    for (let p = 1; p <= 13; p++) {
-      const evs = await loadPeriod(p)
+    const all: LaidOutEvent[] = []
+    for (const p of config.periods) {
+      const evs = await loadPeriod(p.id)
       all.push(...evs)
     }
     allEvents.value = all
@@ -50,11 +52,13 @@ export const useEventsStore = defineStore('events', () => {
     log.data('loadAll done', { total: all.length, ms: Math.round(performance.now() - t0) })
   }
 
-  /** Returns events for active period ± 1 neighbor */
-  function getVisibleEvents(activePeriod: number): TimelineEvent[] {
-    const result: TimelineEvent[] = []
-    for (let p = Math.max(1, activePeriod - 1); p <= Math.min(13, activePeriod + 1); p++) {
-      const evs = byPeriod.value[p]
+  /** Returns events for the active period ± 1 neighbour (by chronological index). */
+  function getVisibleEvents(activePeriod: number): LaidOutEvent[] {
+    const { periods } = config
+    const idx = config.byId[activePeriod]?.index ?? 0
+    const result: LaidOutEvent[] = []
+    for (let i = Math.max(0, idx - 1); i <= Math.min(periods.length - 1, idx + 1); i++) {
+      const evs = byPeriod.value[periods[i].id]
       if (evs) result.push(...evs)
     }
     return result
@@ -65,41 +69,40 @@ export const useEventsStore = defineStore('events', () => {
       log.data('loadDetail cache hit', { slug })
       return details.value[slug]
     }
-    const url = withBase(`data/details/${slug}.json`)
     const t0 = performance.now()
     try {
-      const res = await fetch(url)
-      if (!res.ok) {
-        log.warn('loadDetail HTTP', { slug, status: res.status, url })
+      const d = await config.loaders.detail(slug)
+      if (!d) {
+        log.warn('loadDetail: not found', { slug })
         return null
       }
-      const d: EventDetail = await res.json()
       details.value[slug] = d
       log.data('loadDetail loaded', { slug, ms: Math.round(performance.now() - t0) })
       return d
     } catch (e) {
-      log.error('loadDetail failed', { slug, url }, e)
+      log.error('loadDetail failed', { slug }, e)
       return null
     }
   }
 
   /**
-   * Relevance-ranked search across `titleEn`, `titleKa` (when present),
-   * and the event's containing period name (EN + KA).
+   * Relevance-ranked search across event titles (every available locale)
+   * and the containing period's name.
    *
    * Tier order — exact > prefix > word-boundary > substring — applied
    * first to event titles, then to period names. Period-name matches
    * are demoted by adding `PERIOD_TIER_OFFSET` so a direct title match
    * always outranks a period-name fallback. See #55, #56.
    *
-   * Until events ship with `titleKa`, period-name matching is the main
-   * way KA queries (e.g. "პირველი" → events in "პირველი თაობა") return
-   * results at all.
+   * Until events ship with translated titles, period-name matching is the
+   * main way non-English queries return results at all.
    */
-  function search(query: string): TimelineEvent[] {
+  function search(query: string): LaidOutEvent[] {
     const q = query.trim().toLowerCase()
     if (!q) return []
     const t0 = performance.now()
+    const locales = config.locales.available
+    const sortChain = [config.locales.fallback, ...locales]
 
     const wordBoundary = new RegExp(
       '\\b' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'),
@@ -113,24 +116,26 @@ export const useEventsStore = defineStore('events', () => {
       return Infinity
     }
 
+    function bestTier(value: Partial<Record<string, string>>): number {
+      let best = Infinity
+      for (const loc of locales) {
+        const text = value[loc]
+        if (text) best = Math.min(best, tier(text.toLowerCase()))
+      }
+      return best
+    }
+
     // Direct title matches always rank above any period-name match.
     const PERIOD_TIER_OFFSET = 10
 
-    type Scored = { event: TimelineEvent; score: number }
+    type Scored = { event: LaidOutEvent; score: number }
     const scored: Scored[] = []
     for (const e of allEvents.value) {
-      const en = e.titleEn.toLowerCase()
-      const ka = e.titleKa?.toLowerCase() ?? ''
-      let score = Math.min(tier(en), ka ? tier(ka) : Infinity)
+      let score = bestTier(e.title)
       if (score === Infinity) {
-        const period = PERIOD_BY_ID[e.period]
+        const period = config.byId[e.period]
         if (period) {
-          const periodEn = period.nameEn.toLowerCase()
-          const periodKa = period.nameKa?.toLowerCase() ?? ''
-          const periodScore = Math.min(
-            tier(periodEn),
-            periodKa ? tier(periodKa) : Infinity,
-          )
+          const periodScore = bestTier(period.name)
           if (periodScore < Infinity) score = periodScore + PERIOD_TIER_OFFSET
         }
       }
@@ -139,7 +144,7 @@ export const useEventsStore = defineStore('events', () => {
 
     scored.sort((a, b) =>
       a.score - b.score ||
-      a.event.titleEn.localeCompare(b.event.titleEn),
+      pickLocalized(a.event.title, sortChain).localeCompare(pickLocalized(b.event.title, sortChain)),
     )
     const top = scored.slice(0, 20).map((s) => s.event)
     log.search('search', { query: q, matched: scored.length, returned: top.length, ms: Math.round(performance.now() - t0) })

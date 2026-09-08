@@ -1,0 +1,1445 @@
+[
+  {
+    "id": 640,
+    "slug": "abraham",
+    "period": 3,
+    "start": -1950,
+    "end": -1771,
+    "type": "major",
+    "title": {
+      "en": "Abraham"
+    },
+    "dates": {
+      "en": "1946–1771 BC (175)"
+    },
+    "image": "media/images/t/Sarah_Abraham_8-8-2013 10-08-24 AM.jpg",
+    "layout": {
+      "row": 13,
+      "left": 5610,
+      "width": 1969,
+      "hoverWidth": 1969,
+      "bar": true
+    }
+  },
+  {
+    "id": 641,
+    "slug": "sarah",
+    "period": 3,
+    "start": -1936,
+    "end": -1809,
+    "type": "major",
+    "title": {
+      "en": "Sarah"
+    },
+    "dates": {
+      "en": "1936–1809 BC (~127)"
+    },
+    "image": "media/images/t/GoodSalt-prcas5769_8-7-2013 1-18-26 PM.jpg",
+    "layout": {
+      "row": 2,
+      "left": 5764,
+      "width": 1397,
+      "hoverWidth": 1397,
+      "bar": true
+    }
+  },
+  {
+    "id": 642,
+    "slug": "lot",
+    "period": 3,
+    "start": -1925,
+    "end": -1825,
+    "type": "major",
+    "title": {
+      "en": "Lot"
+    },
+    "dates": {
+      "en": "1925–1825 BC (~100)"
+    },
+    "image": "media/images/t/GoodSalt-pppas0304_8-7-2013 1-20-30 PM.jpg",
+    "layout": {
+      "row": 15,
+      "left": 5885,
+      "width": 1100,
+      "hoverWidth": 1100,
+      "bar": true
+    }
+  },
+  {
+    "id": 643,
+    "slug": "marriage-of-abraham-and-sarah",
+    "period": 3,
+    "start": -1915,
+    "end": -1809,
+    "type": "minor",
+    "title": {
+      "en": "Marriage of Abraham and Sarah"
+    },
+    "dates": {
+      "en": "1915–1809 BC"
+    },
+    "layout": {
+      "row": 9,
+      "left": 5995,
+      "width": 0,
+      "hoverWidth": 1166,
+      "bar": false
+    }
+  },
+  {
+    "id": 644,
+    "slug": "marriage-of-nahor-and-milcah",
+    "period": 3,
+    "start": -1906,
+    "end": -1850,
+    "type": "minor",
+    "title": {
+      "en": "Marriage of Nahor and Milcah"
+    },
+    "dates": {
+      "en": "1906–1850 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 6094,
+      "width": 0,
+      "hoverWidth": 616,
+      "bar": false
+    }
+  },
+  {
+    "id": 647,
+    "slug": "terah-leaves-ur-for-city-of-haran",
+    "period": 3,
+    "start": -1896,
+    "end": -1896,
+    "type": "minor",
+    "title": {
+      "en": "Terah Leaves Ur for City of Haran"
+    },
+    "dates": {
+      "en": "1896 BC"
+    },
+    "layout": {
+      "row": 23,
+      "left": 6204,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 648,
+    "slug": "abram-called-and-departs-haran",
+    "period": 3,
+    "start": -1871,
+    "end": -1871,
+    "type": "minor",
+    "title": {
+      "en": "Abram Called and Departs Haran"
+    },
+    "dates": {
+      "en": "1871 BC"
+    },
+    "layout": {
+      "row": 5,
+      "left": 6479,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 649,
+    "slug": "famine-in-the-land",
+    "period": 3,
+    "start": -1871,
+    "end": -1871,
+    "type": "minor",
+    "title": {
+      "en": "Famine in the Land"
+    },
+    "dates": {
+      "en": "1871 BC"
+    },
+    "layout": {
+      "row": 4,
+      "left": 6479,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 650,
+    "slug": "sarah-and-egyptian-king",
+    "period": 3,
+    "start": -1871,
+    "end": -1871,
+    "type": "minor",
+    "title": {
+      "en": "Sarah and Egyptian King"
+    },
+    "dates": {
+      "en": "1871 BC"
+    },
+    "layout": {
+      "row": 9,
+      "left": 6479,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 651,
+    "slug": "lot-moves-to-sodom",
+    "period": 3,
+    "start": -1867,
+    "end": -1867,
+    "type": "minor",
+    "title": {
+      "en": "Lot Moves to Sodom"
+    },
+    "dates": {
+      "en": "1867 BC"
+    },
+    "layout": {
+      "row": 23,
+      "left": 6523,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 655,
+    "slug": "abram-delivers-sodom-from-four-kings",
+    "period": 3,
+    "start": -1866,
+    "end": -1866,
+    "type": "minor",
+    "title": {
+      "en": "Abram Delivers Sodom from Four Kings"
+    },
+    "dates": {
+      "en": "1866 BC"
+    },
+    "layout": {
+      "row": 11,
+      "left": 6534,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 656,
+    "slug": "abram-blessed-by-melchizedek",
+    "period": 3,
+    "start": -1866,
+    "end": -1866,
+    "type": "minor",
+    "title": {
+      "en": "Abram Blessed by Melchizedek"
+    },
+    "dates": {
+      "en": "1866 BC"
+    },
+    "layout": {
+      "row": 7,
+      "left": 6534,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 657,
+    "slug": "gods-covenant-with-abram-smoking-furnace",
+    "period": 3,
+    "start": -1865,
+    "end": -1865,
+    "type": "minor",
+    "title": {
+      "en": "God's Covenant with Abram / Smoking Furnace"
+    },
+    "dates": {
+      "en": "1865 BC"
+    },
+    "layout": {
+      "row": 1,
+      "left": 6545,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 654,
+    "slug": "laban",
+    "period": 3,
+    "start": -1860,
+    "end": -1760,
+    "type": "minor",
+    "title": {
+      "en": "Laban"
+    },
+    "dates": {
+      "en": "1860–1760 BC"
+    },
+    "layout": {
+      "row": 6,
+      "left": 6600,
+      "width": 0,
+      "hoverWidth": 1100,
+      "bar": false
+    }
+  },
+  {
+    "id": 611,
+    "slug": "ishmael",
+    "period": 3,
+    "start": -1860,
+    "end": -1723,
+    "type": "major",
+    "title": {
+      "en": "Ishmael"
+    },
+    "dates": {
+      "en": "1860–1723 BC (~137)"
+    },
+    "image": "media/images/t/Navez_Agar_et_Ismael.jpg",
+    "layout": {
+      "row": 24,
+      "left": 6600,
+      "width": 1507,
+      "hoverWidth": 1507,
+      "bar": true
+    }
+  },
+  {
+    "id": 607,
+    "slug": "abram-becomes-abraham-covenant-of-circumcision",
+    "period": 3,
+    "start": -1852,
+    "end": -1852,
+    "type": "minor",
+    "title": {
+      "en": "Abram becomes Abraham, Covenant of Circumcision"
+    },
+    "dates": {
+      "en": "1852 BC"
+    },
+    "layout": {
+      "row": 4,
+      "left": 6688,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 612,
+    "slug": "isaac",
+    "period": 3,
+    "start": -1846,
+    "end": -1666,
+    "type": "major",
+    "title": {
+      "en": "Isaac"
+    },
+    "dates": {
+      "en": "1846–1666 BC (180)"
+    },
+    "image": "media/images/t/GoodSalt-stdas0144_8-8-2013 10-37-09 AM.jpg",
+    "layout": {
+      "row": 8,
+      "left": 6754,
+      "width": 1980,
+      "hoverWidth": 1980,
+      "bar": true
+    }
+  },
+  {
+    "id": 652,
+    "slug": "lot-and-daughters-dwell-in-a-cave",
+    "period": 3,
+    "start": -1845,
+    "end": -1845,
+    "type": "minor",
+    "title": {
+      "en": "Lot and Daughters Dwell in a Cave"
+    },
+    "dates": {
+      "en": "1845 BC"
+    },
+    "layout": {
+      "row": 23,
+      "left": 6765,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 658,
+    "slug": "sodom-destroyed",
+    "period": 3,
+    "start": -1845,
+    "end": -1845,
+    "type": "minor",
+    "title": {
+      "en": "Sodom Destroyed"
+    },
+    "dates": {
+      "en": "1845 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 6765,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 659,
+    "slug": "ishmael-mocks-isaac",
+    "period": 3,
+    "start": -1843,
+    "end": -1843,
+    "type": "minor",
+    "title": {
+      "en": "Ishmael Mocks Isaac"
+    },
+    "dates": {
+      "en": "1843 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 6787,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 680,
+    "slug": "abrahams-call-to-sacrifice-isaac",
+    "period": 3,
+    "start": -1826,
+    "end": -1826,
+    "type": "minor",
+    "title": {
+      "en": "Abraham's Call to Sacrifice Isaac"
+    },
+    "dates": {
+      "en": "1826 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 6974,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 661,
+    "slug": "rebekah",
+    "period": 3,
+    "start": -1825,
+    "end": -1825,
+    "type": "minor",
+    "title": {
+      "en": "Rebekah"
+    },
+    "dates": {
+      "en": "1825 BC"
+    },
+    "layout": {
+      "row": 11,
+      "left": 6985,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 601,
+    "slug": "isaac-rebekah-married",
+    "period": 3,
+    "start": -1806,
+    "end": -1806,
+    "type": "minor",
+    "title": {
+      "en": "Isaac & Rebekah Married"
+    },
+    "dates": {
+      "en": "1806 BC"
+    },
+    "layout": {
+      "row": 7,
+      "left": 7194,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1015,
+    "slug": "jacob",
+    "period": 3,
+    "start": -1786,
+    "end": -1639,
+    "type": "major",
+    "title": {
+      "en": "Jacob"
+    },
+    "dates": {
+      "en": "1786–1639 BC (147)"
+    },
+    "image": "media/images/t/GoodSalt-Jacob_8-5-2013 4-05-57 PM.jpg",
+    "layout": {
+      "row": 6,
+      "left": 7414,
+      "width": 1544.4,
+      "hoverWidth": 1544.4,
+      "bar": true
+    }
+  },
+  {
+    "id": 602,
+    "slug": "esau",
+    "period": 3,
+    "start": -1786,
+    "end": -1650,
+    "type": "major",
+    "title": {
+      "en": "Esau"
+    },
+    "dates": {
+      "en": "1786–1650 BC"
+    },
+    "image": "media/images/t/GoodSalt-prcas0680_8-7-2013 1-46-50 PM.jpg",
+    "layout": {
+      "row": 11,
+      "left": 7414,
+      "width": 0,
+      "hoverWidth": 1496,
+      "bar": false
+    }
+  },
+  {
+    "id": 681,
+    "slug": "esau-sells-birthright-to-jacob",
+    "period": 3,
+    "start": -1755,
+    "end": -1755,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Esau Sells Birthright to Jacob"
+    },
+    "dates": {
+      "en": "1755 BC"
+    },
+    "image": "media/images/t/GoodSalt-prcas2699_8-13-2013 2-38-44 PM.jpg",
+    "layout": {
+      "row": 11,
+      "left": 7755,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 682,
+    "slug": "famine-in-the-land-isaac",
+    "period": 3,
+    "start": -1748,
+    "end": -1748,
+    "type": "major",
+    "title": {
+      "en": "Famine in the Land"
+    },
+    "dates": {
+      "en": "1748 BC"
+    },
+    "image": "media/images/t/GoodSalt-stdas0759_8-5-2013 4-42-14 PM.jpg",
+    "layout": {
+      "row": 15,
+      "left": 7832,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 603,
+    "slug": "esau-marries-two-wives",
+    "period": 3,
+    "start": -1746,
+    "end": -1746,
+    "type": "minor",
+    "title": {
+      "en": "Esau Marries Two Wives"
+    },
+    "dates": {
+      "en": "1746 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 7854,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 683,
+    "slug": "leah",
+    "period": 3,
+    "start": -1726,
+    "end": -1660,
+    "type": "minor",
+    "title": {
+      "en": "Leah"
+    },
+    "dates": {
+      "en": "1726–1660 BC"
+    },
+    "layout": {
+      "row": 11,
+      "left": 8074,
+      "width": 0,
+      "hoverWidth": 726,
+      "bar": false
+    }
+  },
+  {
+    "id": 684,
+    "slug": "rachel",
+    "period": 3,
+    "start": -1724,
+    "end": -1680,
+    "type": "minor",
+    "title": {
+      "en": "Rachel"
+    },
+    "dates": {
+      "en": "1724–1680 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 8096,
+      "width": 0,
+      "hoverWidth": 484,
+      "bar": false
+    }
+  },
+  {
+    "id": 685,
+    "slug": "zilpah",
+    "period": 3,
+    "start": -1722,
+    "end": -1665,
+    "type": "minor",
+    "title": {
+      "en": "Zilpah"
+    },
+    "dates": {
+      "en": "1722–1665 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 8118,
+      "width": 0,
+      "hoverWidth": 627,
+      "bar": false
+    }
+  },
+  {
+    "id": 686,
+    "slug": "bilhah",
+    "period": 3,
+    "start": -1719,
+    "end": -1659,
+    "type": "minor",
+    "title": {
+      "en": "Bilhah"
+    },
+    "dates": {
+      "en": "1719–1659 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 8151,
+      "width": 0,
+      "hoverWidth": 660,
+      "bar": false
+    }
+  },
+  {
+    "id": 688,
+    "slug": "jacob-fled-canaan-jacobs-ladder",
+    "period": 3,
+    "start": -1709,
+    "end": -1709,
+    "type": "minor",
+    "title": {
+      "en": "Jacob Fled Canaan, Jacob's Ladder"
+    },
+    "dates": {
+      "en": "1709 BC"
+    },
+    "layout": {
+      "row": 2,
+      "left": 8261,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 689,
+    "slug": "esau-marries-third-wife",
+    "period": 3,
+    "start": -1709,
+    "end": -1709,
+    "type": "minor",
+    "title": {
+      "en": "Esau Marries Third Wife"
+    },
+    "dates": {
+      "en": "1709 BC"
+    },
+    "layout": {
+      "row": 1,
+      "left": 8261,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 690,
+    "slug": "jacob-finishes-first-7-years-for-laban",
+    "period": 3,
+    "start": -1702,
+    "end": -1702,
+    "type": "minor",
+    "title": {
+      "en": "Jacob Finishes First 7 Years for Laban"
+    },
+    "dates": {
+      "en": "1702 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 8338,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 691,
+    "slug": "jacob-marries-leah-and-rachel",
+    "period": 3,
+    "start": -1702,
+    "end": -1702,
+    "type": "minor",
+    "title": {
+      "en": "Jacob Marries Leah and Rachel"
+    },
+    "dates": {
+      "en": "1702 BC"
+    },
+    "layout": {
+      "row": 3,
+      "left": 8338,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 692,
+    "slug": "reuben",
+    "period": 3,
+    "start": -1701,
+    "end": -1611,
+    "type": "minor",
+    "title": {
+      "en": "Reuben"
+    },
+    "dates": {
+      "en": "1701–1611 BC"
+    },
+    "layout": {
+      "row": 11,
+      "left": 8349,
+      "width": 0,
+      "hoverWidth": 732.6,
+      "bar": false
+    }
+  },
+  {
+    "id": 693,
+    "slug": "simeon",
+    "period": 3,
+    "start": -1700,
+    "end": -1610,
+    "type": "minor",
+    "title": {
+      "en": "Simeon"
+    },
+    "dates": {
+      "en": "1700–1610 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 8360,
+      "width": 0,
+      "hoverWidth": 726,
+      "bar": false
+    }
+  },
+  {
+    "id": 694,
+    "slug": "levi",
+    "period": 3,
+    "start": -1699,
+    "end": -1562,
+    "type": "minor",
+    "title": {
+      "en": "Levi"
+    },
+    "dates": {
+      "en": "1699–1562 BC"
+    },
+    "layout": {
+      "row": 15,
+      "left": 8371,
+      "width": 0,
+      "hoverWidth": 926.2,
+      "bar": false
+    }
+  },
+  {
+    "id": 697,
+    "slug": "dan",
+    "period": 3,
+    "start": -1699,
+    "end": -1599,
+    "type": "minor",
+    "title": {
+      "en": "Dan"
+    },
+    "dates": {
+      "en": "1699–1599 BC"
+    },
+    "layout": {
+      "row": 16,
+      "left": 8371,
+      "width": 0,
+      "hoverWidth": 763.4,
+      "bar": false
+    }
+  },
+  {
+    "id": 699,
+    "slug": "gad",
+    "period": 3,
+    "start": -1699,
+    "end": -1595,
+    "type": "minor",
+    "title": {
+      "en": "Gad"
+    },
+    "dates": {
+      "en": "1699–1595 BC"
+    },
+    "layout": {
+      "row": 17,
+      "left": 8371,
+      "width": 0,
+      "hoverWidth": 781,
+      "bar": false
+    }
+  },
+  {
+    "id": 695,
+    "slug": "judah",
+    "period": 3,
+    "start": -1698,
+    "end": -1598,
+    "type": "minor",
+    "title": {
+      "en": "Judah"
+    },
+    "dates": {
+      "en": "1698–1598 BC"
+    },
+    "layout": {
+      "row": 18,
+      "left": 8382,
+      "width": 0,
+      "hoverWidth": 756.8,
+      "bar": false
+    }
+  },
+  {
+    "id": 698,
+    "slug": "naphtali",
+    "period": 3,
+    "start": -1698,
+    "end": -1600,
+    "type": "minor",
+    "title": {
+      "en": "Naphtali"
+    },
+    "dates": {
+      "en": "1698–1600 BC"
+    },
+    "layout": {
+      "row": 19,
+      "left": 8382,
+      "width": 0,
+      "hoverWidth": 748,
+      "bar": false
+    }
+  },
+  {
+    "id": 701,
+    "slug": "asher",
+    "period": 3,
+    "start": -1698,
+    "end": -1596,
+    "type": "minor",
+    "title": {
+      "en": "Asher"
+    },
+    "dates": {
+      "en": "1698–1596 BC"
+    },
+    "layout": {
+      "row": 22,
+      "left": 8382,
+      "width": 0,
+      "hoverWidth": 765.6,
+      "bar": false
+    }
+  },
+  {
+    "id": 702,
+    "slug": "issachar",
+    "period": 3,
+    "start": -1697,
+    "end": -1594,
+    "type": "minor",
+    "title": {
+      "en": "Issachar"
+    },
+    "dates": {
+      "en": "1697–1594 BC"
+    },
+    "layout": {
+      "row": 21,
+      "left": 8393,
+      "width": 0,
+      "hoverWidth": 763.4,
+      "bar": false
+    }
+  },
+  {
+    "id": 703,
+    "slug": "zebulun",
+    "period": 3,
+    "start": -1696,
+    "end": -1597,
+    "type": "minor",
+    "title": {
+      "en": "Zebulun"
+    },
+    "dates": {
+      "en": "1696–1597 BC"
+    },
+    "layout": {
+      "row": 23,
+      "left": 8404,
+      "width": 0,
+      "hoverWidth": 739.2,
+      "bar": false
+    }
+  },
+  {
+    "id": 700,
+    "slug": "jacob-finishes-next-7-years-for-laban",
+    "period": 3,
+    "start": -1695,
+    "end": -1695,
+    "type": "minor",
+    "title": {
+      "en": "Jacob Finishes Next 7 Years for Laban"
+    },
+    "dates": {
+      "en": "1695 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 8415,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 704,
+    "slug": "dinah",
+    "period": 3,
+    "start": -1695,
+    "end": -1585,
+    "type": "minor",
+    "title": {
+      "en": "Dinah"
+    },
+    "dates": {
+      "en": "1695–1585 BC"
+    },
+    "layout": {
+      "row": 24,
+      "left": 8415,
+      "width": 0,
+      "hoverWidth": 781,
+      "bar": false
+    }
+  },
+  {
+    "id": 1017,
+    "slug": "joseph",
+    "period": 3,
+    "start": -1695,
+    "end": -1585,
+    "type": "major",
+    "title": {
+      "en": "Joseph"
+    },
+    "dates": {
+      "en": "1695–1585 BC (110)"
+    },
+    "image": "media/images/t/GoodSalt-prcas0659_8-7-2013 3-16-58 PM.jpg",
+    "layout": {
+      "row": 4,
+      "left": 8415,
+      "width": 781,
+      "hoverWidth": 781,
+      "bar": true
+    }
+  },
+  {
+    "id": 705,
+    "slug": "jacob-leaves-haran",
+    "period": 3,
+    "start": -1689,
+    "end": -1689,
+    "type": "minor",
+    "title": {
+      "en": "Jacob Leaves Haran"
+    },
+    "dates": {
+      "en": "1689 BC"
+    },
+    "layout": {
+      "row": 20,
+      "left": 8481,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 706,
+    "slug": "jacob-wrestles-angel",
+    "period": 3,
+    "start": -1689,
+    "end": -1689,
+    "type": "minor",
+    "title": {
+      "en": "Jacob Wrestles Angel"
+    },
+    "dates": {
+      "en": "1689 BC"
+    },
+    "layout": {
+      "row": 1,
+      "left": 8481,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 707,
+    "slug": "the-dinah-incident",
+    "period": 3,
+    "start": -1680,
+    "end": -1680,
+    "type": "minor",
+    "title": {
+      "en": "The Dinah Incident"
+    },
+    "dates": {
+      "en": "1680 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 8580,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 708,
+    "slug": "benjamin",
+    "period": 3,
+    "start": -1680,
+    "end": -1680,
+    "type": "minor",
+    "title": {
+      "en": "Benjamin"
+    },
+    "dates": {
+      "en": "1680 BC"
+    },
+    "layout": {
+      "row": 22,
+      "left": 8580,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 709,
+    "slug": "reuben-lays-with-bilhah",
+    "period": 3,
+    "start": -1680,
+    "end": -1680,
+    "type": "minor",
+    "title": {
+      "en": "Reuben Lays with Bilhah"
+    },
+    "dates": {
+      "en": "1680 BC"
+    },
+    "layout": {
+      "row": 15,
+      "left": 8580,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 710,
+    "slug": "jacob-comes-to-hebron",
+    "period": 3,
+    "start": -1679,
+    "end": -1679,
+    "type": "minor",
+    "title": {
+      "en": "Jacob Comes to Hebron"
+    },
+    "dates": {
+      "en": "1679 BC"
+    },
+    "layout": {
+      "row": 11,
+      "left": 8591,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 711,
+    "slug": "josephs-dreams",
+    "period": 3,
+    "start": -1678,
+    "end": -1678,
+    "type": "minor",
+    "title": {
+      "en": "Joseph's Dreams"
+    },
+    "dates": {
+      "en": "1678 BC"
+    },
+    "layout": {
+      "row": 16,
+      "left": 8602,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 604,
+    "slug": "joseph-taken-to-egypt",
+    "period": 3,
+    "start": -1678,
+    "end": -1678,
+    "type": "minor",
+    "title": {
+      "en": "Joseph Taken to Egypt"
+    },
+    "dates": {
+      "en": "1678 BC"
+    },
+    "layout": {
+      "row": 3,
+      "left": 8602,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 712,
+    "slug": "judah-leaves-marries-a-canaanite",
+    "period": 3,
+    "start": -1678,
+    "end": -1677,
+    "type": "minor",
+    "title": {
+      "en": "Judah Leaves, Marries a Canaanite"
+    },
+    "dates": {
+      "en": "1678–1677 BC"
+    },
+    "layout": {
+      "row": 17,
+      "left": 8602,
+      "width": 0,
+      "hoverWidth": 11,
+      "bar": false
+    }
+  },
+  {
+    "id": 696,
+    "slug": "potiphars-wife-incident",
+    "period": 3,
+    "start": -1668,
+    "end": -1668,
+    "type": "minor",
+    "title": {
+      "en": "Potiphar's Wife Incident"
+    },
+    "dates": {
+      "en": "1668 BC"
+    },
+    "layout": {
+      "row": 2,
+      "left": 8712,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 713,
+    "slug": "joseph-cast-into-prison",
+    "period": 3,
+    "start": -1668,
+    "end": -1665,
+    "type": "minor",
+    "title": {
+      "en": "Joseph Cast into Prison"
+    },
+    "dates": {
+      "en": "1668–1665 BC"
+    },
+    "layout": {
+      "row": 1,
+      "left": 8712,
+      "width": 0,
+      "hoverWidth": 33,
+      "bar": false
+    }
+  },
+  {
+    "id": 714,
+    "slug": "joseph-butler-and-baker-cast-into-prison",
+    "period": 3,
+    "start": -1666,
+    "end": -1666,
+    "type": "minor",
+    "title": {
+      "en": "Joseph - Butler and Baker Cast into Prison"
+    },
+    "dates": {
+      "en": "1666 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 8734,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 605,
+    "slug": "joseph-freed-pharaohs-dream-7-years-of-plenty",
+    "period": 3,
+    "start": -1665,
+    "end": -1665,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Joseph Interprets Pharaoh's Dream & Freed"
+    },
+    "dates": {
+      "en": "1665 BC"
+    },
+    "image": "media/images/t/GoodSalt-prcas2865_8-6-2013 11-12-06 AM.jpg",
+    "layout": {
+      "row": 18,
+      "left": 8745,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 715,
+    "slug": "manasseh",
+    "period": 3,
+    "start": -1663,
+    "end": -1573,
+    "type": "minor",
+    "title": {
+      "en": "Manasseh"
+    },
+    "dates": {
+      "en": "1663–1573 BC"
+    },
+    "layout": {
+      "row": 9,
+      "left": 8767,
+      "width": 0,
+      "hoverWidth": 481.8,
+      "bar": false
+    }
+  },
+  {
+    "id": 716,
+    "slug": "ephraim",
+    "period": 3,
+    "start": -1660,
+    "end": -1570,
+    "type": "minor",
+    "title": {
+      "en": "Ephraim"
+    },
+    "dates": {
+      "en": "1660–1570 BC"
+    },
+    "layout": {
+      "row": 20,
+      "left": 8800,
+      "width": 0,
+      "hoverWidth": 462,
+      "bar": false
+    }
+  },
+  {
+    "id": 717,
+    "slug": "judah-impregnates-tamar",
+    "period": 3,
+    "start": -1659,
+    "end": -1659,
+    "type": "minor",
+    "title": {
+      "en": "Judah Impregnates Tamar"
+    },
+    "dates": {
+      "en": "1659 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 8811,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 718,
+    "slug": "pharez-or-perez",
+    "period": 3,
+    "start": -1658,
+    "end": -1568,
+    "type": "minor",
+    "title": {
+      "en": "Pharez (or Perez)"
+    },
+    "dates": {
+      "en": "1658–1568 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 8822,
+      "width": 0,
+      "hoverWidth": 448.8,
+      "bar": false
+    }
+  },
+  {
+    "id": 719,
+    "slug": "7-year-drought-josephs-brothers-come-to-egypt",
+    "period": 3,
+    "start": -1658,
+    "end": -1658,
+    "type": "minor",
+    "title": {
+      "en": "7 Year Drought, Joseph's Brothers Come to Egypt"
+    },
+    "dates": {
+      "en": "1658 BC"
+    },
+    "layout": {
+      "row": 11,
+      "left": 8822,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 606,
+    "slug": "jacob-and-family-come-to-egypt",
+    "period": 3,
+    "start": -1656,
+    "end": -1656,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Jacob and Family Come to Egypt"
+    },
+    "dates": {
+      "en": "1656 BC"
+    },
+    "image": "media/images/t/735px-Rembrandt_-_Jacob_Blessing_the_Children_of_Joseph_-_WGA19117_8-8-2013 10-44-05 AM.jpg",
+    "layout": {
+      "row": 15,
+      "left": 8844,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  }
+]

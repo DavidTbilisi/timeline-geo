@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue'
-import type { EventImage } from '@/types/detail'
+import { useI18n } from 'vue-i18n'
+import type { EventImage } from '@lib/types'
 import { withBase } from '@/utils/assetUrl'
 
 const props = defineProps<{
@@ -8,6 +9,7 @@ const props = defineProps<{
   periodColor?: string
 }>()
 
+const { t } = useI18n()
 const current = ref(0)
 const errors = ref<Set<number>>(new Set())
 
@@ -76,7 +78,7 @@ function next() {
         <template v-if="validImages.length > 1">
           <button
             class="absolute left-2 top-1/2 -translate-y-1/2 w-8 h-8 rounded-full bg-black/50 hover:bg-black/70 text-white flex items-center justify-center transition-colors z-10"
-            aria-label="Previous image"
+            :aria-label="t('detail.prevImage')"
             @click="prev"
           >
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
@@ -85,7 +87,7 @@ function next() {
           </button>
           <button
             class="absolute right-2 top-1/2 -translate-y-1/2 w-8 h-8 rounded-full bg-black/50 hover:bg-black/70 text-white flex items-center justify-center transition-colors z-10"
-            aria-label="Next image"
+            :aria-label="t('detail.nextImage')"
             @click="next"
           >
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
@@ -122,7 +124,7 @@ function next() {
     </template>
 
     <div v-else class="flex-1 flex items-center justify-center text-white/30 text-sm">
-      No images available
+      {{ t('detail.noImages') }}
     </div>
   </div>
 </template>

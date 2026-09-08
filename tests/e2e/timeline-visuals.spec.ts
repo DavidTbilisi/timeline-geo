@@ -1,4 +1,5 @@
 import { test, expect } from './fixtures'
+import { PERIODS } from './content'
 
 /**
  * Visual-parity checks for issues #5 and #21.
@@ -32,14 +33,14 @@ test.describe('Timeline Visuals (issues #5 & #21)', () => {
     await expect(page.locator('.tl-period-bg-slice')).toHaveCount(0)
   })
 
-  test('sidebar strip exists and contains 13 panels; translates to active period', async ({ page }) => {
+  test('sidebar strip exists and contains one panel per period; translates to active period', async ({ page }) => {
     // Viewport wrapper must be present
     const viewport = page.locator('.tl-sidebar-viewport')
     await expect(viewport).toBeAttached()
 
-    // Inner strip must have 13 panels
+    // Inner strip must have one panel per period
     const panels = page.locator('.tl-sidebar-panel')
-    await expect(panels).toHaveCount(13)
+    await expect(panels).toHaveCount(PERIODS.length)
 
     // For period 1 (first-generation), the strip translate should be 0px
     const strip = page.locator('.tl-sidebar-strip')

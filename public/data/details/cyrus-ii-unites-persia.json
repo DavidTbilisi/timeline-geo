@@ -2,15 +2,18 @@
   "slug": "cyrus-ii-unites-persia",
   "id": 494,
   "period": 8,
-  "titleEn": "Cyrus II Unites Persia",
-  "titleKa": null,
-  "datesEn": "559 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "After c. 559 b.c. Cyrus united the various Persian tribes into one nation, and between 553 and 550 b.c. defeated his grandfather Astyages and took over the Median Empire with its capital, Ecbatana.",
-  "descriptionKa": null,
-  "articleEn": "<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Cyrus II Unites Persia"
+  },
+  "dates": {
+    "en": "559 <span>BC</span>"
+  },
+  "description": {
+    "en": "After c. 559 b.c. Cyrus united the various Persian tribes into one nation, and between 553 and 550 b.c. defeated his grandfather Astyages and took over the Median Empire with its capital, Ecbatana."
+  },
+  "article": {
+    "en": "<BR />"
+  },
   "related": [],
   "images": [
     {

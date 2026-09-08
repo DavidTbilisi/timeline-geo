@@ -2,38 +2,21 @@
   "slug": "philistine-invasion-while-saul-seeks-david",
   "id": 812,
   "period": 6,
-  "titleEn": "Philistine Invasion While Saul Seeks David",
-  "titleKa": null,
-  "datesEn": "1017 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "When Saul discovers David hiding in the Wilderness of Maon, the armies are on opposite sides of a mountain. Saul begins to encircle David&#39;s army when he is interrupted. A messenger says, &#34;Hurry ... the Philistines have invaded the land.&#34; Saul leaves.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "1 Samuel 23:27-29",
-      "verses": [
-        {
-          "number": 27,
-          "line": "But there came a messenger unto Saul, saying, Haste thee, and come; for the Philistines have invaded the land."
-        },
-        {
-          "number": 28,
-          "line": "Wherefore Saul returned from pursuing after David, and went against the Philistines: therefore they called that place Selahammahlekoth."
-        },
-        {
-          "number": 29,
-          "line": "And David went up from thence, and dwelt in strong holds at Engedi."
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Philistine Invasion While Saul Seeks David"
+  },
+  "dates": {
+    "en": "1017 <span>BC</span>"
+  },
+  "description": {
+    "en": "When Saul discovers David hiding in the Wilderness of Maon, the armies are on opposite sides of a mountain. Saul begins to encircle David&#39;s army when he is interrupted. A messenger says, &#34;Hurry ... the Philistines have invaded the land.&#34; Saul leaves."
+  },
   "related": [
     {
       "slug": "david",
-      "titleEn": "David",
-      "titleKa": null
+      "title": {
+        "en": "David"
+      }
     }
   ],
   "images": [
@@ -42,5 +25,26 @@
       "caption": "Wilderness of Maon."
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "1 Samuel 23:27-29",
+        "verses": [
+          {
+            "number": 27,
+            "line": "But there came a messenger unto Saul, saying, Haste thee, and come; for the Philistines have invaded the land."
+          },
+          {
+            "number": 28,
+            "line": "Wherefore Saul returned from pursuing after David, and went against the Philistines: therefore they called that place Selahammahlekoth."
+          },
+          {
+            "number": 29,
+            "line": "And David went up from thence, and dwelt in strong holds at Engedi."
+          }
+        ]
+      }
+    ]
+  }
 }

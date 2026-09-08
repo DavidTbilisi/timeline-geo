@@ -2,35 +2,27 @@
   "slug": "melchi-or-melki",
   "id": 578,
   "period": 8,
-  "titleEn": "Melchi (or Melki)",
-  "titleKa": null,
-  "datesEn": "132&ndash;70 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;my king.&#34; He is the son of Janna (or Jannai) and father of Levi, a Judahite listed in Luke&#39;s genealogy of Jesus Christ. Note, there are two Judahites listed by this name in Luke&#39;s genealogy.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:24",
-      "verses": [
-        {
-          "number": 24,
-          "line": "Which was the son of Matthat, which was the son of Levi, which was the son of Melchi, which was the son of Janna, which was the son of Joseph,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Melchi (or Melki)"
+  },
+  "dates": {
+    "en": "132&ndash;70 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;my king.&#34; He is the son of Janna (or Jannai) and father of Levi, a Judahite listed in Luke&#39;s genealogy of Jesus Christ. Note, there are two Judahites listed by this name in Luke&#39;s genealogy."
+  },
   "related": [
     {
       "slug": "janna-or-jannai",
-      "titleEn": "Janna (or Jannai)",
-      "titleKa": null
+      "title": {
+        "en": "Janna (or Jannai)"
+      }
     },
     {
       "slug": "levi-son-of-melchi",
-      "titleEn": "Levi",
-      "titleKa": null
+      "title": {
+        "en": "Levi"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "Which was the son of Matthat, which was the son of Levi, which was the son of <b>Melchi</b>, which was the son of Janna, which was the son of Joseph, (Luke 3:24)"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:24",
+        "verses": [
+          {
+            "number": 24,
+            "line": "Which was the son of Matthat, which was the son of Levi, which was the son of Melchi, which was the son of Janna, which was the son of Joseph,"
+          }
+        ]
+      }
+    ]
+  }
 }

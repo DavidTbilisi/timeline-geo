@@ -1,9 +1,10 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import { PERIODS } from '@/data/periods'
 import { useI18n } from 'vue-i18n'
+import { useTimelineConfig } from '@lib/config'
 
 const { t } = useI18n()
+const config = useTimelineConfig()
 
 /**
  * Compute the absolute x pixel position of the current real-world year
@@ -11,9 +12,10 @@ const { t } = useI18n()
  */
 const todayX = computed(() => {
   const todayYear = new Date().getFullYear()
+  const { periods } = config
   // Find last period whose startYear <= todayYear
-  let period = PERIODS[PERIODS.length - 1]
-  for (const p of PERIODS) {
+  let period = periods[periods.length - 1]
+  for (const p of periods) {
     if (p.startYear <= todayYear) period = p
   }
   return Math.round(period.startPx + (todayYear - period.startYear) * period.pxPerYear)

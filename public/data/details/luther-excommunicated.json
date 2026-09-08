@@ -2,15 +2,18 @@
   "slug": "luther-excommunicated",
   "id": 1344,
   "period": 12,
-  "titleEn": "Luther Excommunicated ",
-  "titleKa": null,
-  "datesEn": "1521 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Luther was excommunicated for his ideas by Pope Leo X on January 3, 1521.",
-  "descriptionKa": null,
-  "articleEn": "<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Luther Excommunicated "
+  },
+  "dates": {
+    "en": "1521 <span>AD</span>"
+  },
+  "description": {
+    "en": "Luther was excommunicated for his ideas by Pope Leo X on January 3, 1521."
+  },
+  "article": {
+    "en": "<BR />"
+  },
   "related": [],
   "images": [
     {

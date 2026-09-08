@@ -2,20 +2,21 @@
   "slug": "arbela-battle-of-decisive-victory-over-persia",
   "id": 558,
   "period": 8,
-  "titleEn": "Arbela, Battle of - Decisive Victory over Persia",
-  "titleKa": null,
-  "datesEn": "331 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "In 331 Alexander attacked the heart of the Persian Empire against Darius. The battle took place at  Arbela and, though he escaped, Darius was totally defeated. Alexander then headed south and took Babylon, Susa and Persepolis.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Arbela, Battle of - Decisive Victory over Persia"
+  },
+  "dates": {
+    "en": "331 <span>BC</span>"
+  },
+  "description": {
+    "en": "In 331 Alexander attacked the heart of the Persian Empire against Darius. The battle took place at  Arbela and, though he escaped, Darius was totally defeated. Alexander then headed south and took Babylon, Susa and Persepolis."
+  },
   "related": [
     {
       "slug": "alexander-the-great",
-      "titleEn": "Alexander the Great",
-      "titleKa": null
+      "title": {
+        "en": "Alexander the Great"
+      }
     }
   ],
   "images": [

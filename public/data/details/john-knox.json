@@ -2,20 +2,24 @@
   "slug": "john-knox",
   "id": 1337,
   "period": 11,
-  "titleEn": "John Knox ",
-  "titleKa": null,
-  "datesEn": "1513&ndash;1572 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "A priest and leader of the Protestant Reformation in Scotland. Eventually became the chaplain of king Edward VI of England.",
-  "descriptionKa": null,
-  "articleEn": "John Knox was born about 1513 near Edinburgh, Scotland. He attended St. Andrews University and became a convert to Protestantism around the age of 30. Knox traveled abroad for about 13 years. In 1553, he fled to the continent to escape the wrath of Queen &#34;Bloody&#34; Mary. As a result, Knox began pastoring a congregation in Frankfurt, Germany. While in Frankfurt, he began to cause controversy by going beyond the Book of Common Prayer. The Book of Common Prayer was compiled by Thomas Cranmer and was considered the official book of service. By introducing teachings not contained in this book, John Knox was considered too radical. Nevertheless, Knox introduced a more reformed worship style, which agitated conservatives. As a result, Knox was expelled from Frankfurt and moved to Geneva, Switzerland.<BR /><BR />In 1559 John Knox returned to Scotland and continued to help reform the church. While there, he published the Book of Discipline and the Book of Common Order. Knox died in 1572.<BR /><BR /><BR /><BR /><BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "John Knox "
+  },
+  "dates": {
+    "en": "1513&ndash;1572 <span>AD</span>"
+  },
+  "description": {
+    "en": "A priest and leader of the Protestant Reformation in Scotland. Eventually became the chaplain of king Edward VI of England."
+  },
+  "article": {
+    "en": "John Knox was born about 1513 near Edinburgh, Scotland. He attended St. Andrews University and became a convert to Protestantism around the age of 30. Knox traveled abroad for about 13 years. In 1553, he fled to the continent to escape the wrath of Queen &#34;Bloody&#34; Mary. As a result, Knox began pastoring a congregation in Frankfurt, Germany. While in Frankfurt, he began to cause controversy by going beyond the Book of Common Prayer. The Book of Common Prayer was compiled by Thomas Cranmer and was considered the official book of service. By introducing teachings not contained in this book, John Knox was considered too radical. Nevertheless, Knox introduced a more reformed worship style, which agitated conservatives. As a result, Knox was expelled from Frankfurt and moved to Geneva, Switzerland.<BR /><BR />In 1559 John Knox returned to Scotland and continued to help reform the church. While there, he published the Book of Discipline and the Book of Common Order. Knox died in 1572.<BR /><BR /><BR /><BR /><BR />"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

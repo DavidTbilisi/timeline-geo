@@ -2,20 +2,24 @@
   "slug": "luther-travels-to-rome",
   "id": 1335,
   "period": 11,
-  "titleEn": "Luther Travels to Rome ",
-  "titleKa": null,
-  "datesEn": "1510 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Although Luther did travel to Rome in 1510, the truth behind the various stories is uncertain.",
-  "descriptionKa": null,
-  "articleEn": "Martin Luther&#39;s journey to Rome is perhaps one of the most confused stories of his life, full of legend and mystery. At different times, even Luther contradicted himself when relating the story to others. In addition, the first two biographers of Luther&#39;s life, Melanchthon and Mathesius, share different stories of Luther&#39;s journey. Unfortunately, the truth of Luther&#39;s journey to Rome will remain a mystery.<BR /><BR />Nevertheless, Luther did travel to Rome in 1510, but at this time he was not mature enough in his faith to realize all of the abuses of Rome. It wasn&#39;t until October 31, 1517, that the Ninety&#8212;five Theses were made public. Furthermore, it wasn&#39;t until 1519 that Luther began to believe that the pope was the antichrist.",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Luther Travels to Rome "
+  },
+  "dates": {
+    "en": "1510 <span>AD</span>"
+  },
+  "description": {
+    "en": "Although Luther did travel to Rome in 1510, the truth behind the various stories is uncertain."
+  },
+  "article": {
+    "en": "Martin Luther&#39;s journey to Rome is perhaps one of the most confused stories of his life, full of legend and mystery. At different times, even Luther contradicted himself when relating the story to others. In addition, the first two biographers of Luther&#39;s life, Melanchthon and Mathesius, share different stories of Luther&#39;s journey. Unfortunately, the truth of Luther&#39;s journey to Rome will remain a mystery.<BR /><BR />Nevertheless, Luther did travel to Rome in 1510, but at this time he was not mature enough in his faith to realize all of the abuses of Rome. It wasn&#39;t until October 31, 1517, that the Ninety&#8212;five Theses were made public. Furthermore, it wasn&#39;t until 1519 that Luther began to believe that the pope was the antichrist."
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

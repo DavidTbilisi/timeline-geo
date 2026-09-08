@@ -2,20 +2,24 @@
   "slug": "thomas-cranmer-appointed-archbishop-of-canterbury",
   "id": 1355,
   "period": 12,
-  "titleEn": "Thomas Cranmer Appointed Archbishop of Canterbury ",
-  "titleKa": null,
-  "datesEn": "1533 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Cranmer was appointed Archbishop of Canterbury in 1533, thanks to the influence of Henry VIII and the family of Anne Boleyn.",
-  "descriptionKa": null,
-  "articleEn": "<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Thomas Cranmer Appointed Archbishop of Canterbury "
+  },
+  "dates": {
+    "en": "1533 <span>AD</span>"
+  },
+  "description": {
+    "en": "Cranmer was appointed Archbishop of Canterbury in 1533, thanks to the influence of Henry VIII and the family of Anne Boleyn."
+  },
+  "article": {
+    "en": "<BR />"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

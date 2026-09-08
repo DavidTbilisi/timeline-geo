@@ -2,35 +2,27 @@
   "slug": "hilkiah",
   "id": 422,
   "period": 7,
-  "titleEn": "Hilkiah",
-  "titleKa": null,
-  "datesEn": "720&ndash;610 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;Yahweh is my portion.&#34; He is the son of Shallum and a high priest in the reign of Josiah, who helps the king with religious reformation. He is the priest who finds the book of the Law in the Temple when repairing the building.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "1 Chronicles 6:13",
-      "verses": [
-        {
-          "number": 13,
-          "line": "And Shallum begat Hilkiah, and Hilkiah begat Azariah,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Hilkiah"
+  },
+  "dates": {
+    "en": "720&ndash;610 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;Yahweh is my portion.&#34; He is the son of Shallum and a high priest in the reign of Josiah, who helps the king with religious reformation. He is the priest who finds the book of the Law in the Temple when repairing the building."
+  },
   "related": [
     {
       "slug": "shallum",
-      "titleEn": "Shallum",
-      "titleKa": null
+      "title": {
+        "en": "Shallum"
+      }
     },
     {
       "slug": "jeremiah",
-      "titleEn": "Jeremiah",
-      "titleKa": null
+      "title": {
+        "en": "Jeremiah"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "The book of the law found"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "1 Chronicles 6:13",
+        "verses": [
+          {
+            "number": 13,
+            "line": "And Shallum begat Hilkiah, and Hilkiah begat Azariah,"
+          }
+        ]
+      }
+    ]
+  }
 }

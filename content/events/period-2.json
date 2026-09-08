@@ -1,0 +1,495 @@
+[
+  {
+    "id": 674,
+    "slug": "noah",
+    "period": 2,
+    "start": -2898,
+    "end": -1948,
+    "type": "major",
+    "title": {
+      "en": "Noah"
+    },
+    "dates": {
+      "en": "2898–1948 BC (950)"
+    },
+    "image": "media/images/t/GoodSalt-pppas0233_8-7-2013 3-06-32 PM.jpg",
+    "layout": {
+      "row": 11,
+      "left": 1439,
+      "width": 4193.2,
+      "hoverWidth": 4193.2,
+      "bar": true
+    }
+  },
+  {
+    "id": 675,
+    "slug": "noahs-preaching",
+    "period": 2,
+    "start": -2418,
+    "end": -2298,
+    "type": "major",
+    "title": {
+      "en": "Noah's Preaching"
+    },
+    "dates": {
+      "en": "2418–2298 BC (120)"
+    },
+    "image": "media/images/t/GoodSalt-pppas0232_8-7-2013 12-53-32 PM.jpg",
+    "layout": {
+      "row": 7,
+      "left": 3551,
+      "width": 528,
+      "hoverWidth": 528,
+      "bar": true
+    }
+  },
+  {
+    "id": 676,
+    "slug": "japheth",
+    "period": 2,
+    "start": -2398,
+    "end": -1798,
+    "type": "major",
+    "title": {
+      "en": "Japheth"
+    },
+    "dates": {
+      "en": "2398–1798 BC (~600)"
+    },
+    "image": "media/images/t/noah_and_helpers_build_ark_3_7-22-2013 2-36-48 PM.jpg",
+    "layout": {
+      "row": 17,
+      "left": 3639,
+      "width": 3643.2,
+      "hoverWidth": 3643.2,
+      "bar": true
+    }
+  },
+  {
+    "id": 677,
+    "slug": "ham",
+    "period": 2,
+    "start": -2343,
+    "end": -1743,
+    "type": "major",
+    "title": {
+      "en": "Ham"
+    },
+    "dates": {
+      "en": "2343–1743 BC (~600)"
+    },
+    "image": "media/images/t/Noah Sacrifice_5-20-2013 5-44-48 PM.jpg",
+    "layout": {
+      "row": 19,
+      "left": 3881,
+      "width": 4006.2,
+      "hoverWidth": 4006.2,
+      "bar": true
+    }
+  },
+  {
+    "id": 678,
+    "slug": "shem",
+    "period": 2,
+    "start": -2396,
+    "end": -1796,
+    "type": "major",
+    "title": {
+      "en": "Shem"
+    },
+    "dates": {
+      "en": "2396–1796 BC (600)"
+    },
+    "image": "media/images/t/Noah Sacrifice_5-20-2013 5-43-25 PM.jpg",
+    "layout": {
+      "row": 21,
+      "left": 3648,
+      "width": 3656.4,
+      "hoverWidth": 3656.4,
+      "bar": true
+    }
+  },
+  {
+    "id": 613,
+    "slug": "flood",
+    "period": 2,
+    "start": -2298,
+    "end": -2297,
+    "type": "major",
+    "title": {
+      "en": "Flood"
+    },
+    "dates": {
+      "en": "2298–2297 BC"
+    },
+    "image": "media/images/t/GoodSalt-flood_8-5-2013 3-57-56 PM.jpg",
+    "layout": {
+      "row": 9,
+      "left": 4079,
+      "width": 0,
+      "hoverWidth": 4.4,
+      "bar": false
+    }
+  },
+  {
+    "id": 614,
+    "slug": "hams-sin-and-curse",
+    "period": 2,
+    "start": -2297,
+    "end": -2297,
+    "type": "minor",
+    "title": {
+      "en": "Ham's Sin and Curse"
+    },
+    "dates": {
+      "en": "2297 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 4083,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 615,
+    "slug": "arphaxad",
+    "period": 2,
+    "start": -2296,
+    "end": -1858,
+    "type": "minor",
+    "title": {
+      "en": "Arphaxad"
+    },
+    "dates": {
+      "en": "2296–1858 BC (438)"
+    },
+    "layout": {
+      "row": 15,
+      "left": 4088,
+      "width": 0,
+      "hoverWidth": 2534.4,
+      "bar": false
+    }
+  },
+  {
+    "id": 616,
+    "slug": "cush",
+    "period": 2,
+    "start": -2295,
+    "end": -1898,
+    "type": "minor",
+    "title": {
+      "en": "Cush"
+    },
+    "dates": {
+      "en": "2295–1898 BC"
+    },
+    "layout": {
+      "row": 16,
+      "left": 4092,
+      "width": 0,
+      "hoverWidth": 2090,
+      "bar": false
+    }
+  },
+  {
+    "id": 617,
+    "slug": "migration-to-plain-of-shinar",
+    "period": 2,
+    "start": -2280,
+    "end": -2280,
+    "type": "minor",
+    "title": {
+      "en": "Migration to Plain of Shinar"
+    },
+    "dates": {
+      "en": "2280 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 4158,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 619,
+    "slug": "nimrod",
+    "period": 2,
+    "start": -2268,
+    "end": -1868,
+    "type": "major",
+    "title": {
+      "en": "Nimrod"
+    },
+    "dates": {
+      "en": "2268–1868 BC (~400)"
+    },
+    "image": "media/images/t/iStock_000015554530Small-nimrod_7-31-2013 11-47-16 AM.jpg",
+    "layout": {
+      "row": 6,
+      "left": 4211,
+      "width": 2301.2,
+      "hoverWidth": 2301.2,
+      "bar": true
+    }
+  },
+  {
+    "id": 618,
+    "slug": "salah",
+    "period": 2,
+    "start": -2261,
+    "end": -1828,
+    "type": "minor",
+    "title": {
+      "en": "Salah"
+    },
+    "dates": {
+      "en": "2261–1828 BC"
+    },
+    "layout": {
+      "row": 5,
+      "left": 4242,
+      "width": 0,
+      "hoverWidth": 2710.4,
+      "bar": false
+    }
+  },
+  {
+    "id": 620,
+    "slug": "eber",
+    "period": 2,
+    "start": -2231,
+    "end": -1767,
+    "type": "minor",
+    "title": {
+      "en": "Eber"
+    },
+    "dates": {
+      "en": "2231–1767 BC"
+    },
+    "layout": {
+      "row": 4,
+      "left": 4374,
+      "width": 0,
+      "hoverWidth": 3249.4,
+      "bar": false
+    }
+  },
+  {
+    "id": 624,
+    "slug": "nimrod-founded-babylon",
+    "period": 2,
+    "start": -2200,
+    "end": -2200,
+    "type": "minor",
+    "title": {
+      "en": "Nimrod Founded Babylon"
+    },
+    "dates": {
+      "en": "2200 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 4510,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 621,
+    "slug": "peleg",
+    "period": 2,
+    "start": -2197,
+    "end": -1958,
+    "type": "minor",
+    "title": {
+      "en": "Peleg"
+    },
+    "dates": {
+      "en": "2197–1958 BC"
+    },
+    "layout": {
+      "row": 9,
+      "left": 4523,
+      "width": 0,
+      "hoverWidth": 1051.6,
+      "bar": false
+    }
+  },
+  {
+    "id": 622,
+    "slug": "tower-of-babel-division-of-earth",
+    "period": 2,
+    "start": -2197,
+    "end": -2197,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Tower of Babel, Division of Earth"
+    },
+    "dates": {
+      "en": "2197 BC"
+    },
+    "image": "media/images/t/Cleve-van_construction-tower-babel_8-7-2013 10-25-44 AM.jpg",
+    "layout": {
+      "row": 2,
+      "left": 4523,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 625,
+    "slug": "nimrod-founded-nineveh",
+    "period": 2,
+    "start": -2195,
+    "end": -2195,
+    "type": "minor",
+    "title": {
+      "en": "Nimrod Founded Nineveh"
+    },
+    "dates": {
+      "en": "2195 BC"
+    },
+    "layout": {
+      "row": 1,
+      "left": 4532,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 623,
+    "slug": "job",
+    "period": 2,
+    "start": -2185,
+    "end": -1945,
+    "type": "major",
+    "title": {
+      "en": "Job"
+    },
+    "dates": {
+      "en": "2185–1945 BC (~240)"
+    },
+    "image": "media/images/t/Job1_8-7-2013 10-50-16 AM.jpg",
+    "layout": {
+      "row": 4,
+      "left": 4576,
+      "width": 1089,
+      "hoverWidth": 1089,
+      "bar": true
+    }
+  },
+  {
+    "id": 626,
+    "slug": "reu",
+    "period": 2,
+    "start": -2167,
+    "end": -1928,
+    "type": "minor",
+    "title": {
+      "en": "Reu"
+    },
+    "dates": {
+      "en": "2167–1928 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 4655,
+      "width": 0,
+      "hoverWidth": 1196.8,
+      "bar": false
+    }
+  },
+  {
+    "id": 627,
+    "slug": "serug",
+    "period": 2,
+    "start": -2135,
+    "end": -1905,
+    "type": "minor",
+    "title": {
+      "en": "Serug"
+    },
+    "dates": {
+      "en": "2135–1905 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 4796,
+      "width": 0,
+      "hoverWidth": 1309,
+      "bar": false
+    }
+  },
+  {
+    "id": 628,
+    "slug": "nahor",
+    "period": 2,
+    "start": -2105,
+    "end": -1957,
+    "type": "minor",
+    "title": {
+      "en": "Nahor"
+    },
+    "dates": {
+      "en": "2105–1957 BC"
+    },
+    "layout": {
+      "row": 3,
+      "left": 4928,
+      "width": 0,
+      "hoverWidth": 651.2,
+      "bar": false
+    }
+  },
+  {
+    "id": 629,
+    "slug": "terah",
+    "period": 2,
+    "start": -2076,
+    "end": -1871,
+    "type": "minor",
+    "title": {
+      "en": "Terah"
+    },
+    "dates": {
+      "en": "2076–1871 BC (205)"
+    },
+    "layout": {
+      "row": 8,
+      "left": 5056,
+      "width": 0,
+      "hoverWidth": 1423.4,
+      "bar": false
+    }
+  },
+  {
+    "id": 635,
+    "slug": "haran",
+    "period": 2,
+    "start": -1949,
+    "end": -1879,
+    "type": "minor",
+    "title": {
+      "en": "Haran"
+    },
+    "dates": {
+      "en": "1949–1879 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 5614,
+      "width": 0,
+      "hoverWidth": 763.4,
+      "bar": false
+    }
+  }
+]

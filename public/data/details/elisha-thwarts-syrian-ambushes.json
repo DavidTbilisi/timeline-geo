@@ -2,20 +2,24 @@
   "slug": "elisha-thwarts-syrian-ambushes",
   "id": 942,
   "period": 7,
-  "titleEn": "Elisha Thwarts Syrian Ambushes",
-  "titleKa": null,
-  "datesEn": "845 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Elisha informs the king of Israel of several ambushes placed by the king of Damascus, and is then the target of a Syrian attack.",
-  "descriptionKa": null,
-  "articleEn": "Elisha informs the king of Israel of several ambushes placed by the king of Damascus, and is then the target of a Syrian attack. However he blinds the Syrian soldiers and leads them to the capital Samaria, surrendering them to the king and recommending that they be fed and sent home.",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Elisha Thwarts Syrian Ambushes"
+  },
+  "dates": {
+    "en": "845 <span>BC</span>"
+  },
+  "description": {
+    "en": "Elisha informs the king of Israel of several ambushes placed by the king of Damascus, and is then the target of a Syrian attack."
+  },
+  "article": {
+    "en": "Elisha informs the king of Israel of several ambushes placed by the king of Damascus, and is then the target of a Syrian attack. However he blinds the Syrian soldiers and leads them to the capital Samaria, surrendering them to the king and recommending that they be fed and sent home."
+  },
   "related": [
     {
       "slug": "elisha",
-      "titleEn": "Elisha",
-      "titleKa": null
+      "title": {
+        "en": "Elisha"
+      }
     }
   ],
   "images": [

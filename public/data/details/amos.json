@@ -2,35 +2,27 @@
   "slug": "amos",
   "id": 567,
   "period": 8,
-  "titleEn": "Amos",
-  "titleKa": null,
-  "datesEn": "230&ndash;170 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;burden&#34; or &#34;burden bearer.&#34; He is the son of Nahum (or Naum) and father of Mattathias as listed in Luke&#39;s genealogy of Jesus Christ.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:25",
-      "verses": [
-        {
-          "number": 25,
-          "line": "Which was the son of Mattathias, which was the son of Amos, which was the son of Naum, which was the son of Esli, which was the son of Nagge,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Amos"
+  },
+  "dates": {
+    "en": "230&ndash;170 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;burden&#34; or &#34;burden bearer.&#34; He is the son of Nahum (or Naum) and father of Mattathias as listed in Luke&#39;s genealogy of Jesus Christ."
+  },
   "related": [
     {
       "slug": "naum-or-nahum",
-      "titleEn": "Naum (or Nahum)",
-      "titleKa": null
+      "title": {
+        "en": "Naum (or Nahum)"
+      }
     },
     {
       "slug": "mattathias-son-of-amos",
-      "titleEn": "Mattathias",
-      "titleKa": null
+      "title": {
+        "en": "Mattathias"
+      }
     }
   ],
   "images": [
@@ -43,5 +35,18 @@
       "caption": "Amos. Artist: James Jacques Joseph Tissot, c. 1902"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:25",
+        "verses": [
+          {
+            "number": 25,
+            "line": "Which was the son of Mattathias, which was the son of Amos, which was the son of Naum, which was the son of Esli, which was the son of Nagge,"
+          }
+        ]
+      }
+    ]
+  }
 }

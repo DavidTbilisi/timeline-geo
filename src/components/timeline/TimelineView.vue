@@ -2,11 +2,12 @@
 import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
 import { useRouter } from 'vue-router'
 import { useTimelineStore } from '@/stores/timeline'
-import { PERIODS, PERIOD_BY_ID, STAGE_WIDTH, STAGE_HEIGHT, DATEBAR_HEIGHT, FOOTER_HEIGHT, SIDEBAR_WIDTH } from '@/data/periods'
+import { useTimelineConfig } from '@lib/config'
+import { useLocalized } from '@lib/i18n'
 import { useScroller } from '@/composables/useScroller'
 import { useFullLabel } from '@/composables/useFullLabel'
 import { withBase } from '@/utils/assetUrl'
-import type { TimelineEvent } from '@/types/event'
+import type { LaidOutEvent } from '@lib/types'
 import TimelineStage from './TimelineStage.vue'
 import TimelineDateBar from './TimelineDateBar.vue'
 import YearBubble from './YearBubble.vue'
@@ -17,6 +18,10 @@ import CanvasPointer from './CanvasPointer.vue'
 
 const tlStore = useTimelineStore()
 const router = useRouter()
+const config = useTimelineConfig()
+const { l } = useLocalized()
+const PERIODS = config.periods
+const { stageWidth: STAGE_WIDTH, stageHeight: STAGE_HEIGHT, datebarHeight: DATEBAR_HEIGHT, footerHeight: FOOTER_HEIGHT, sidebarWidth: SIDEBAR_WIDTH } = config.layout
 
 const containerRef = ref<HTMLElement | null>(null)
 const stageRef = ref<InstanceType<typeof TimelineStage> | null>(null)
@@ -34,12 +39,12 @@ const zoomLevel = ref(1.0)
 const { update: updateLabels } = useFullLabel(stageRef as any)
 
 // ── Active period derived values ─────────────────────────────────────────────
-const activePeriodData = computed(() => PERIODS[tlStore.activePeriod - 1])
+const activePeriodData = computed(() => tlStore.activePeriodData)
 const activePeriodColor = computed(() => activePeriodData.value.color)
 
-// Sidebar strip: all 13 sidebar images side by side; translateX to show active
+// Sidebar strip: every period's panel side by side; translateX to show active
 const sidebarStripTranslate = computed(() =>
-  `translate3d(${-(tlStore.activePeriod - 1) * SIDEBAR_WIDTH}px, 0, 0)`
+  `translate3d(${-activePeriodData.value.index * SIDEBAR_WIDTH}px, 0, 0)`
 )
 
 // Scroller render: directly writes to DOM for 60fps performance.
@@ -112,7 +117,7 @@ function onStageMouseMove(e: MouseEvent) {
   const left = parseFloat(card.style.left) || 0
   const hoverWidth = parseFloat(card.dataset.hoverWidth || '0')
   const periodId = parseInt(card.dataset.period || '0', 10)
-  const period = PERIOD_BY_ID[periodId]
+  const period = config.byId[periodId]
   if (!period || hoverWidth <= 0) { clearOverlay(); return }
   applyOverlay(bottomDatebarColorRef.value, left, hoverWidth, period.color)
 }
@@ -186,7 +191,7 @@ watch(() => tlStore.activePeriod, (p) => {
   }
 })
 
-function onEventClick(event: TimelineEvent) {
+function onEventClick(event: LaidOutEvent) {
   tlStore.openEvent(event.slug)
   router.push(`/event/${event.slug}`)
 }
@@ -256,7 +261,7 @@ function onEventClick(event: TimelineEvent) {
       <TimelineDateBar :flip="true" />
     </div>
 
-    <!-- z=20: Sidebar strip — 220px viewport, inner strip has all 13 images side by side.
+    <!-- z=20: Sidebar strip — sidebar-width viewport, inner strip has every period's panel side by side.
          Hidden on mobile (< md) so the canvas can fill the viewport. -->
     <div class="tl-sidebar-viewport">
       <div
@@ -280,7 +285,7 @@ function onEventClick(event: TimelineEvent) {
       :style="{ background: activePeriodColor }"
       data-testid="tl-mobile-period-chip"
     >
-      {{ $i18n.locale === 'ka' ? activePeriodData.nameKa : activePeriodData.nameEn }}
+      {{ l(activePeriodData.name) }}
     </div>
 
     <!-- Scroll arrows -->

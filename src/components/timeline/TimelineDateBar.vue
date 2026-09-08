@@ -2,14 +2,16 @@
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { getDateTicks } from '@/composables/useDateTicks'
-import { STAGE_WIDTH } from '@/data/periods'
+import { useTimelineConfig } from '@lib/config'
 
 // flip = true: ticks at top of bar, label below (used for bottom bar)
 // flip = false (default): ticks at bottom of bar, label above (used for top bar)
 const props = defineProps<{ flip?: boolean }>()
 
 const { t } = useI18n()
-const allTicks = getDateTicks()
+const config = useTimelineConfig()
+const STAGE_WIDTH = config.layout.stageWidth
+const allTicks = getDateTicks(config)
 
 const minorTicks = computed(() => allTicks.filter(t => !t.major))
 const majorTicks = computed(() => allTicks.filter(t => t.major))

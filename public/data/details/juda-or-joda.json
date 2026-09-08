@@ -2,35 +2,27 @@
   "slug": "juda-or-joda",
   "id": 551,
   "period": 8,
-  "titleEn": "Juda (or Joda)",
-  "titleKa": null,
-  "datesEn": "430&ndash;380 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Juda",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:26",
-      "verses": [
-        {
-          "number": 26,
-          "line": "Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of Juda,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Juda (or Joda)"
+  },
+  "dates": {
+    "en": "430&ndash;380 <span>BC</span>"
+  },
+  "description": {
+    "en": "Juda"
+  },
   "related": [
     {
       "slug": "joanna-or-joanan",
-      "titleEn": "Joanna (or Joanan)",
-      "titleKa": null
+      "title": {
+        "en": "Joanna (or Joanan)"
+      }
     },
     {
       "slug": "joseph-or-josech",
-      "titleEn": "Joseph (or Josech)",
-      "titleKa": null
+      "title": {
+        "en": "Joseph (or Josech)"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of <b>Juda</b>, (Luke 3:26)"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:26",
+        "verses": [
+          {
+            "number": 26,
+            "line": "Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of Juda,"
+          }
+        ]
+      }
+    ]
+  }
 }

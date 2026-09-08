@@ -2,20 +2,24 @@
   "slug": "peter-waldo-establishes-waldenses-church",
   "id": 1303,
   "period": 11,
-  "titleEn": "Peter Waldo Establishes â€œWaldensesâ€ Church",
-  "titleKa": null,
-  "datesEn": "1177 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Peter Waldo is the commonly accepted founder of the Waldensian church.",
-  "descriptionKa": null,
-  "articleEn": "Different sources attribute the establishment of the Waldensian movement to various people and historical periods, but the Waldenses themselves credit Peter Waldo. Waldo&#39;s street preaching began in Lyon in the year 1177A.D.",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Peter Waldo Establishes â€œWaldensesâ€ Church"
+  },
+  "dates": {
+    "en": "1177 <span>AD</span>"
+  },
+  "description": {
+    "en": "Peter Waldo is the commonly accepted founder of the Waldensian church."
+  },
+  "article": {
+    "en": "Different sources attribute the establishment of the Waldensian movement to various people and historical periods, but the Waldenses themselves credit Peter Waldo. Waldo&#39;s street preaching began in Lyon in the year 1177A.D."
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

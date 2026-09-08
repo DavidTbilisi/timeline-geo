@@ -2,35 +2,27 @@
   "slug": "nagge-or-naggai",
   "id": 562,
   "period": 8,
-  "titleEn": "Nagge (or Naggai)",
-  "titleKa": null,
-  "datesEn": "320&ndash;270 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name may mean &#34;illuminating.&#34; He is the son of Maath and father of Eslie or Esli, a Judahite appearing in Luke&#39;s genealogy of Jesus Christ.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:25",
-      "verses": [
-        {
-          "number": 25,
-          "line": "Which was the son of Mattathias, which was the son of Amos, which was the son of Naum, which was the son of Esli, which was the son of Nagge,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Nagge (or Naggai)"
+  },
+  "dates": {
+    "en": "320&ndash;270 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name may mean &#34;illuminating.&#34; He is the son of Maath and father of Eslie or Esli, a Judahite appearing in Luke&#39;s genealogy of Jesus Christ."
+  },
   "related": [
     {
       "slug": "maath",
-      "titleEn": "Maath",
-      "titleKa": null
+      "title": {
+        "en": "Maath"
+      }
     },
     {
       "slug": "esli",
-      "titleEn": "Esli",
-      "titleKa": null
+      "title": {
+        "en": "Esli"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "Which was the son of Mattathias, which was the son of Amos, which was the son of Naum, which was the son of Esli, which was the son of <b>Nagge</b>, (Luke 3:25)"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:25",
+        "verses": [
+          {
+            "number": 25,
+            "line": "Which was the son of Mattathias, which was the son of Amos, which was the son of Naum, which was the son of Esli, which was the son of Nagge,"
+          }
+        ]
+      }
+    ]
+  }
 }

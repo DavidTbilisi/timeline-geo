@@ -2,62 +2,27 @@
   "slug": "boaz",
   "id": 754,
   "period": 5,
-  "titleEn": "Boaz",
-  "titleKa": null,
-  "datesEn": "1273&ndash;1193 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;strength is in him.&#34; He is the son of Salmon from the line of Perez and the husband of Ruth. He is a wealthy Bethlehamite who marries a Moabitess because of the &#34;levirate law.&#34; He is listed as an ancestor of David and Jesus Christ.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "1 Chronicles 2:11",
-      "verses": [
-        {
-          "number": 11,
-          "line": "And Nahshon begat Salma, and Salma begat Boaz,"
-        }
-      ]
-    },
-    {
-      "reference": "Ruth 4:21",
-      "verses": [
-        {
-          "number": 21,
-          "line": "And Salmon begat Boaz, and Boaz begat Obed,"
-        }
-      ]
-    },
-    {
-      "reference": "Matthew 1:5",
-      "verses": [
-        {
-          "number": 5,
-          "line": "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;"
-        }
-      ]
-    },
-    {
-      "reference": "Luke 3:32",
-      "verses": [
-        {
-          "number": 32,
-          "line": "Which was the son of Jesse, which was the son of Obed, which was the son of Booz, which was the son of Salmon, which was the son of Naasson,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Boaz"
+  },
+  "dates": {
+    "en": "1273&ndash;1193 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;strength is in him.&#34; He is the son of Salmon from the line of Perez and the husband of Ruth. He is a wealthy Bethlehamite who marries a Moabitess because of the &#34;levirate law.&#34; He is listed as an ancestor of David and Jesus Christ."
+  },
   "related": [
     {
       "slug": "salmon",
-      "titleEn": "Salmon",
-      "titleKa": null
+      "title": {
+        "en": "Salmon"
+      }
     },
     {
       "slug": "obed",
-      "titleEn": "Obed",
-      "titleKa": null
+      "title": {
+        "en": "Obed"
+      }
     }
   ],
   "images": [
@@ -76,5 +41,45 @@
       "caption": "The story of Ruth is full of symbolism about Christ, the gospel, and salvation. For instance, a woman is a symbol of the church in Scripture. Pastor Batchelor explores the entire book of Ruth. The principal redeemer in the book who represents Christ is the man Boaz.",
       "filename": "http://manna.amazingfacts.org/amazingfacts/shows/eg/eg5367.mp4"
     }
-  ]
+  ],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "1 Chronicles 2:11",
+        "verses": [
+          {
+            "number": 11,
+            "line": "And Nahshon begat Salma, and Salma begat Boaz,"
+          }
+        ]
+      },
+      {
+        "reference": "Ruth 4:21",
+        "verses": [
+          {
+            "number": 21,
+            "line": "And Salmon begat Boaz, and Boaz begat Obed,"
+          }
+        ]
+      },
+      {
+        "reference": "Matthew 1:5",
+        "verses": [
+          {
+            "number": 5,
+            "line": "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;"
+          }
+        ]
+      },
+      {
+        "reference": "Luke 3:32",
+        "verses": [
+          {
+            "number": 32,
+            "line": "Which was the son of Jesse, which was the son of Obed, which was the son of Booz, which was the son of Salmon, which was the son of Naasson,"
+          }
+        ]
+      }
+    ]
+  }
 }

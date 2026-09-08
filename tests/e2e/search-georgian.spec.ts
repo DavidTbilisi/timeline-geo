@@ -4,8 +4,8 @@ const SEARCH_DROPDOWN = '.bg-stone-900.absolute'
 
 /**
  * Issue #55 — Searching for Georgian text returned zero results because no
- * event ships with `titleKa` populated. The 13 PERIODS however do have
- * `nameKa`, so we can at least surface period-level matches when the
+ * event ships with a Georgian title. The periods however do have Georgian
+ * names, so we can at least surface period-level matches when the
  * locale is KA: any event whose period name (KA or EN) contains the query
  * is returned, even if the event itself has no KA title.
  *
@@ -21,7 +21,7 @@ test.describe('Search — Georgian period-name matching (issue #55)', () => {
 
   test('Georgian "პირველი" matches events in the First Generation period', async ({ page }) => {
     const input = page.getByPlaceholder('ძებნა...')
-    // "პირველი" is the start of "პირველი თაობა" (First Generation) in src/data/periods.ts.
+    // "პირველი" is the start of "პირველი თაობა" (First Generation) in content/periods.json.
     await input.fill('პირველი')
     await page.waitForTimeout(300) // debounce
 
@@ -34,7 +34,7 @@ test.describe('Search — Georgian period-name matching (issue #55)', () => {
 
   test('Georgian "ნოე" matches Noah-period events', async ({ page }) => {
     const input = page.getByPlaceholder('ძებნა...')
-    // "ნოე" is the start of "ნოე და წარღვნა" (Noah & the Flood) in src/data/periods.ts.
+    // "ნოე" is the start of "ნოე და წარღვნა" (Noah & the Flood) in content/periods.json.
     await input.fill('ნოე')
     await page.waitForTimeout(300)
 

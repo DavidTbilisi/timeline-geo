@@ -2,42 +2,24 @@
   "slug": "barnabas-and-paul-take-famine-relief-to-jerusalem",
   "id": 1207,
   "period": 10,
-  "titleEn": "Barnabas and Paul take Famine Relief to Jerusalem",
-  "titleKa": null,
-  "datesEn": "45 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Prophets come to Antioch from Jerusalem and tell of a coming famine in the world. The disciples decide to send relief to the brethren in Judea and send help through Barnabas and Saul.",
-  "descriptionKa": null,
-  "articleEn": "As they labored in Antioch certain ones having the prophetic gift came from Jerusalem (Acts 11:27). One of these, by the name of Agabus, was divinely inspired to predict a worldwide famine (v 28). As a result of this the believers in Antioch determined to send relief to the Christians of Judea. They chose Paul and Barnabas to take the contribution to Judea (vs 29, 30). Upon the fulfillment of their mission, Paul and Barnabas returned to Antioch, taking with them John Mark, a relative of Barnabas (Acts 12:25 cf. Col 4:10).",
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Acts 11:27-30",
-      "verses": [
-        {
-          "number": 27,
-          "line": "And in these days came prophets from Jerusalem unto Antioch."
-        },
-        {
-          "number": 28,
-          "line": "And there stood up one of them named Agabus, and signified by the Spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar."
-        },
-        {
-          "number": 29,
-          "line": "Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judaea:"
-        },
-        {
-          "number": 30,
-          "line": "Which also they did, and sent it to the elders by the hands of Barnabas and Saul."
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Barnabas and Paul take Famine Relief to Jerusalem"
+  },
+  "dates": {
+    "en": "45 <span>AD</span>"
+  },
+  "description": {
+    "en": "Prophets come to Antioch from Jerusalem and tell of a coming famine in the world. The disciples decide to send relief to the brethren in Judea and send help through Barnabas and Saul."
+  },
+  "article": {
+    "en": "As they labored in Antioch certain ones having the prophetic gift came from Jerusalem (Acts 11:27). One of these, by the name of Agabus, was divinely inspired to predict a worldwide famine (v 28). As a result of this the believers in Antioch determined to send relief to the Christians of Judea. They chose Paul and Barnabas to take the contribution to Judea (vs 29, 30). Upon the fulfillment of their mission, Paul and Barnabas returned to Antioch, taking with them John Mark, a relative of Barnabas (Acts 12:25 cf. Col 4:10)."
+  },
   "related": [
     {
       "slug": "paul",
-      "titleEn": "Paul",
-      "titleKa": null
+      "title": {
+        "en": "Paul"
+      }
     }
   ],
   "images": [
@@ -54,5 +36,30 @@
       "caption": "The Prophecy of Agabus by Louis Cheron in 1687."
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Acts 11:27-30",
+        "verses": [
+          {
+            "number": 27,
+            "line": "And in these days came prophets from Jerusalem unto Antioch."
+          },
+          {
+            "number": 28,
+            "line": "And there stood up one of them named Agabus, and signified by the Spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar."
+          },
+          {
+            "number": 29,
+            "line": "Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judaea:"
+          },
+          {
+            "number": 30,
+            "line": "Which also they did, and sent it to the elders by the hands of Barnabas and Saul."
+          }
+        ]
+      }
+    ]
+  }
 }

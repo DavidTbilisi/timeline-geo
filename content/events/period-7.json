@@ -1,0 +1,2446 @@
+[
+  {
+    "id": 875,
+    "slug": "division-of-israel",
+    "period": 7,
+    "start": -930,
+    "end": -931,
+    "type": "minor",
+    "title": {
+      "en": "Division of Israel"
+    },
+    "dates": {
+      "en": "931 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 15070,
+      "width": 0,
+      "hoverWidth": 22,
+      "bar": false
+    }
+  },
+  {
+    "id": 880,
+    "slug": "prophet-from-judah-curses-jeroboams-altar-at-bethel",
+    "period": 7,
+    "start": -930,
+    "end": -930,
+    "type": "minor",
+    "title": {
+      "en": "Unknown Prophet Curses Jeroboam's Altar"
+    },
+    "dates": {
+      "en": "930 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 15070,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 877,
+    "slug": "rehoboam-forsakes-righteousness",
+    "period": 7,
+    "start": -928,
+    "end": -928,
+    "type": "minor",
+    "title": {
+      "en": "Rehoboam Forsakes Righteousness"
+    },
+    "dates": {
+      "en": "928 BC"
+    },
+    "layout": {
+      "row": 11,
+      "left": 15114,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 878,
+    "slug": "solomons-temple-sacked-by-shishak",
+    "period": 7,
+    "start": -926,
+    "end": -926,
+    "type": "minor",
+    "title": {
+      "en": "Solomon's Temple Sacked by Shishak"
+    },
+    "dates": {
+      "en": "926 BC"
+    },
+    "layout": {
+      "row": 9,
+      "left": 15158,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 890,
+    "slug": "ahab",
+    "period": 7,
+    "start": -918,
+    "end": -853,
+    "type": "major",
+    "title": {
+      "en": "Ahab"
+    },
+    "dates": {
+      "en": "918–853 BC (~65)"
+    },
+    "image": "media/images/t/Elijah_4-17-2013 4-20-32 PM.jpg",
+    "layout": {
+      "row": 14,
+      "left": 15334,
+      "width": 1430,
+      "hoverWidth": 1430,
+      "bar": true
+    }
+  },
+  {
+    "id": 881,
+    "slug": "jeroboam-is-child-dies",
+    "period": 7,
+    "start": -915,
+    "end": -915,
+    "type": "minor",
+    "title": {
+      "en": "Jeroboam I's Child Dies"
+    },
+    "dates": {
+      "en": "915 BC"
+    },
+    "layout": {
+      "row": 11,
+      "left": 15400,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 868,
+    "slug": "abijah",
+    "period": 7,
+    "start": -913,
+    "end": -911,
+    "type": "minor",
+    "title": {
+      "en": "Abijah"
+    },
+    "dates": {
+      "en": "913–911 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 15444,
+      "width": 0,
+      "hoverWidth": 44,
+      "bar": false
+    }
+  },
+  {
+    "id": 883,
+    "slug": "elah",
+    "period": 7,
+    "start": -912,
+    "end": -885,
+    "type": "minor",
+    "title": {
+      "en": "Elah"
+    },
+    "dates": {
+      "en": "912–885 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 15466,
+      "width": 0,
+      "hoverWidth": 594,
+      "bar": false
+    }
+  },
+  {
+    "id": 876,
+    "slug": "melea",
+    "period": 7,
+    "start": -907,
+    "end": -827,
+    "type": "minor",
+    "title": {
+      "en": "Melea"
+    },
+    "dates": {
+      "en": "907–827 BC"
+    },
+    "layout": {
+      "row": 18,
+      "left": 15576,
+      "width": 0,
+      "hoverWidth": 1760,
+      "bar": false
+    }
+  },
+  {
+    "id": 887,
+    "slug": "jehoshaphat",
+    "period": 7,
+    "start": -907,
+    "end": -848,
+    "type": "minor",
+    "title": {
+      "en": "Jehoshaphat"
+    },
+    "dates": {
+      "en": "907–848 BC"
+    },
+    "layout": {
+      "row": 19,
+      "left": 15576,
+      "width": 0,
+      "hoverWidth": 1298,
+      "bar": false
+    }
+  },
+  {
+    "id": 889,
+    "slug": "elijah",
+    "period": 7,
+    "start": -904,
+    "end": -850,
+    "type": "major",
+    "title": {
+      "en": "Elijah"
+    },
+    "dates": {
+      "en": "904–850 BC (~54)"
+    },
+    "image": "media/images/t/Elijah taken up 1005-63_7-22-2013 3-12-23 PM.JPG",
+    "layout": {
+      "row": 16,
+      "left": 15642,
+      "width": 1188,
+      "hoverWidth": 1188,
+      "bar": true
+    }
+  },
+  {
+    "id": 891,
+    "slug": "palestine-invaded-by-zerah",
+    "period": 7,
+    "start": -900,
+    "end": -900,
+    "type": "minor",
+    "title": {
+      "en": "Palestine Invaded by Zerah"
+    },
+    "dates": {
+      "en": "900 BC"
+    },
+    "layout": {
+      "row": 20,
+      "left": 15730,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 892,
+    "slug": "benhadad-ii",
+    "period": 7,
+    "start": -900,
+    "end": -841,
+    "type": "minor",
+    "title": {
+      "en": "Benhadad II"
+    },
+    "dates": {
+      "en": "900–841 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 15730,
+      "width": 0,
+      "hoverWidth": 1298,
+      "bar": false
+    }
+  },
+  {
+    "id": 902,
+    "slug": "athaliah",
+    "period": 7,
+    "start": -898,
+    "end": -835,
+    "type": "minor",
+    "title": {
+      "en": "Athaliah"
+    },
+    "dates": {
+      "en": "898–835 BC"
+    },
+    "layout": {
+      "row": 11,
+      "left": 15774,
+      "width": 0,
+      "hoverWidth": 1386,
+      "bar": false
+    }
+  },
+  {
+    "id": 894,
+    "slug": "shalmaneser-iii",
+    "period": 7,
+    "start": -894,
+    "end": -824,
+    "type": "minor",
+    "title": {
+      "en": "Shalmaneser III"
+    },
+    "dates": {
+      "en": "894–824 BC"
+    },
+    "layout": {
+      "row": 18,
+      "left": 15862,
+      "width": 0,
+      "hoverWidth": 1540,
+      "bar": false
+    }
+  },
+  {
+    "id": 888,
+    "slug": "eliakim-son-of-melea",
+    "period": 7,
+    "start": -887,
+    "end": -807,
+    "type": "minor",
+    "title": {
+      "en": "Eliakim"
+    },
+    "dates": {
+      "en": "887–807 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 16016,
+      "width": 0,
+      "hoverWidth": 1760,
+      "bar": false
+    }
+  },
+  {
+    "id": 899,
+    "slug": "elisha",
+    "period": 7,
+    "start": -885,
+    "end": -798,
+    "type": "major",
+    "title": {
+      "en": "Elisha"
+    },
+    "dates": {
+      "en": "885–798 BC (~87)"
+    },
+    "image": "media/images/t/ElishaRaisingShunammitesSon.jpg",
+    "layout": {
+      "row": 11,
+      "left": 16060,
+      "width": 1914,
+      "hoverWidth": 1914,
+      "bar": true
+    }
+  },
+  {
+    "id": 904,
+    "slug": "omri-builds-samaria",
+    "period": 7,
+    "start": -879,
+    "end": -879,
+    "type": "minor",
+    "title": {
+      "en": "Omri Builds Samaria"
+    },
+    "dates": {
+      "en": "879 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 16192,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 905,
+    "slug": "ahaziah-9th-king",
+    "period": 7,
+    "start": -878,
+    "end": -852,
+    "type": "minor",
+    "title": {
+      "en": "Ahaziah"
+    },
+    "dates": {
+      "en": "878–852 BC"
+    },
+    "layout": {
+      "row": 9,
+      "left": 16214,
+      "width": 0,
+      "hoverWidth": 572,
+      "bar": false
+    }
+  },
+  {
+    "id": 897,
+    "slug": "omri-subdues-moabites",
+    "period": 7,
+    "start": -877,
+    "end": -877,
+    "type": "minor",
+    "title": {
+      "en": "Omri Subdues Moabites"
+    },
+    "dates": {
+      "en": "877 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 16236,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 906,
+    "slug": "joram",
+    "period": 7,
+    "start": -877,
+    "end": -840,
+    "type": "minor",
+    "title": {
+      "en": "Joram"
+    },
+    "dates": {
+      "en": "877–840 BC"
+    },
+    "layout": {
+      "row": 7,
+      "left": 16236,
+      "width": 0,
+      "hoverWidth": 814,
+      "bar": false
+    }
+  },
+  {
+    "id": 911,
+    "slug": "asa-contracts-disease-in-his-feet",
+    "period": 7,
+    "start": -872,
+    "end": -872,
+    "type": "minor",
+    "title": {
+      "en": "Asa Contracts Disease in His Feet"
+    },
+    "dates": {
+      "en": "872 BC"
+    },
+    "layout": {
+      "row": 5,
+      "left": 16346,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 912,
+    "slug": "obadiah-hides-the-prophets-of-god",
+    "period": 7,
+    "start": -870,
+    "end": -870,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Obadiah Hides the Prophets of God"
+    },
+    "dates": {
+      "en": "870 BC"
+    },
+    "image": "media/images/t/Obadiah_hides_prophets_8-26-2013 5-48-34 PM.jpg",
+    "layout": {
+      "row": 6,
+      "left": 16390,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 914,
+    "slug": "jehoshaphat-sends-levites-out-to-teach-the-law",
+    "period": 7,
+    "start": -869,
+    "end": -869,
+    "type": "minor",
+    "title": {
+      "en": "Jehoshaphat Sends Levites Out to Teach the Law"
+    },
+    "dates": {
+      "en": "869 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 16412,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 916,
+    "slug": "three-and-one-half-years-of-no-rain",
+    "period": 7,
+    "start": -869,
+    "end": -866,
+    "type": "minor",
+    "title": {
+      "en": "Three and One Half Years of No Rain"
+    },
+    "dates": {
+      "en": "869–866 BC"
+    },
+    "layout": {
+      "row": 18,
+      "left": 16412,
+      "width": 0,
+      "hoverWidth": 66,
+      "bar": false
+    }
+  },
+  {
+    "id": 901,
+    "slug": "jonan-or-jonam",
+    "period": 7,
+    "start": -878,
+    "end": -876,
+    "type": "minor",
+    "title": {
+      "en": "Jonan (or Jonam)"
+    },
+    "dates": {
+      "en": "878–876 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 16214,
+      "width": 0,
+      "hoverWidth": 44,
+      "bar": false
+    }
+  },
+  {
+    "id": 918,
+    "slug": "end-3-12-years-of-no-rain-elijah-runs-to-horeb",
+    "period": 7,
+    "start": -866,
+    "end": -866,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "End 3 1/2 Years of No Rain, Elijah Runs to Horeb"
+    },
+    "dates": {
+      "en": "866 BC"
+    },
+    "image": "media/images/t/_GoodSalt-prcas2859_8-26-2013 6-09-22 PM.jpg",
+    "layout": {
+      "row": 19,
+      "left": 16478,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 915,
+    "slug": "gehazi",
+    "period": 7,
+    "start": -864,
+    "end": -800,
+    "type": "minor",
+    "title": {
+      "en": "Gehazi"
+    },
+    "dates": {
+      "en": "864–800 BC"
+    },
+    "layout": {
+      "row": 21,
+      "left": 16522,
+      "width": 0,
+      "hoverWidth": 1408,
+      "bar": false
+    }
+  },
+  {
+    "id": 917,
+    "slug": "ahaziah-6th-king",
+    "period": 7,
+    "start": -863,
+    "end": -841,
+    "type": "minor",
+    "title": {
+      "en": "Ahaziah"
+    },
+    "dates": {
+      "en": "863–841 BC"
+    },
+    "layout": {
+      "row": 22,
+      "left": 16544,
+      "width": 0,
+      "hoverWidth": 484,
+      "bar": false
+    }
+  },
+  {
+    "id": 922,
+    "slug": "ahab-and-naboths-vineyard",
+    "period": 7,
+    "start": -855,
+    "end": -855,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Ahab and Naboth's Vineyard"
+    },
+    "dates": {
+      "en": "855 BC"
+    },
+    "image": "media/images/t/456px-Jezebel_has_Naboth_killed_8-27-2013 9-42-38 AM.jpg",
+    "layout": {
+      "row": 21,
+      "left": 16720,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 921,
+    "slug": "ahab-defeats-benhadad-i-of-syria",
+    "period": 7,
+    "start": -853,
+    "end": -853,
+    "type": "minor",
+    "title": {
+      "en": "Ahab Defeats Benhadad I of Syria"
+    },
+    "dates": {
+      "en": "853 BC"
+    },
+    "layout": {
+      "row": 24,
+      "left": 16764,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 923,
+    "slug": "micaiah-prophesies-defeat-of-ahab",
+    "period": 7,
+    "start": -853,
+    "end": -853,
+    "type": "minor",
+    "title": {
+      "en": "Micaiah Prophesies Defeat of Ahab"
+    },
+    "dates": {
+      "en": "853 BC"
+    },
+    "layout": {
+      "row": 1,
+      "left": 16764,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 924,
+    "slug": "ahab-battles-with-jehoshaphat-against-syrians",
+    "period": 7,
+    "start": -853,
+    "end": -853,
+    "type": "minor",
+    "title": {
+      "en": "Ahab Battles with Jehoshaphat Against Syrians"
+    },
+    "dates": {
+      "en": "853 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 16764,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 925,
+    "slug": "ahab-battles-assyrians-at-qarqar-allied-w-benhadad",
+    "period": 7,
+    "start": -853,
+    "end": -853,
+    "type": "minor",
+    "title": {
+      "en": "Ahab Battles Assyrians at Qarqar allied w Ben-hadad"
+    },
+    "dates": {
+      "en": "853 BC"
+    },
+    "layout": {
+      "row": 9,
+      "left": 16764,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 926,
+    "slug": "ahaziah-of-israel-tries-to-intimidate-elijah",
+    "period": 7,
+    "start": -853,
+    "end": -853,
+    "type": "minor",
+    "title": {
+      "en": "Ahaziah of Israel Tries to Intimidate Elijah"
+    },
+    "dates": {
+      "en": "853 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 16764,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 940,
+    "slug": "jehoram-of-judah-receives-prophetic-writing-from-elijah",
+    "period": 7,
+    "start": -851,
+    "end": -851,
+    "type": "minor",
+    "title": {
+      "en": "Jehoram of Judah Receives Letter from Elijah"
+    },
+    "dates": {
+      "en": "851 BC"
+    },
+    "layout": {
+      "row": 23,
+      "left": 16808,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 928,
+    "slug": "elisha-mocked-by-youth-at-bethel",
+    "period": 7,
+    "start": -850,
+    "end": -850,
+    "type": "minor",
+    "title": {
+      "en": "Elisha Mocked by Youth at Bethel"
+    },
+    "dates": {
+      "en": "850 BC"
+    },
+    "layout": {
+      "row": 6,
+      "left": 16830,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 933,
+    "slug": "jehoahaz",
+    "period": 7,
+    "start": -850,
+    "end": -798,
+    "type": "minor",
+    "title": {
+      "en": "Jehoahaz"
+    },
+    "dates": {
+      "en": "850–798 BC"
+    },
+    "layout": {
+      "row": 2,
+      "left": 16830,
+      "width": 0,
+      "hoverWidth": 1144,
+      "bar": false
+    }
+  },
+  {
+    "id": 931,
+    "slug": "elisha-and-the-widows-oil",
+    "period": 7,
+    "start": -849,
+    "end": -849,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Elisha and the Widow's Oil"
+    },
+    "dates": {
+      "en": "849 BC"
+    },
+    "image": "media/images/t/GoodSalt-lwjas0179_8-6-2013 2-49-26 PM.jpg",
+    "layout": {
+      "row": 4,
+      "left": 16852,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 936,
+    "slug": "elisha-purifies-the-pot-of-stew",
+    "period": 7,
+    "start": -848,
+    "end": -848,
+    "type": "minor",
+    "title": {
+      "en": "Elisha Purifies the Pot of Stew"
+    },
+    "dates": {
+      "en": "848 BC"
+    },
+    "layout": {
+      "row": 3,
+      "left": 16874,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 920,
+    "slug": "joseph-son-of-jonan",
+    "period": 7,
+    "start": -847,
+    "end": -767,
+    "type": "minor",
+    "title": {
+      "en": "Joseph"
+    },
+    "dates": {
+      "en": "847–767 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 16896,
+      "width": 0,
+      "hoverWidth": 1760,
+      "bar": false
+    }
+  },
+  {
+    "id": 930,
+    "slug": "elisha-promises-shunammite-woman-a-son",
+    "period": 7,
+    "start": -847,
+    "end": -847,
+    "type": "minor",
+    "title": {
+      "en": "Elisha Promises Shunammite Woman a Son"
+    },
+    "dates": {
+      "en": "847 BC"
+    },
+    "layout": {
+      "row": 7,
+      "left": 16896,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 939,
+    "slug": "elisha-feeds-100-men",
+    "period": 7,
+    "start": -847,
+    "end": -847,
+    "type": "minor",
+    "title": {
+      "en": "Elisha Feeds 100 Men"
+    },
+    "dates": {
+      "en": "847 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 16896,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 941,
+    "slug": "elisha-and-miracle-of-the-floating-ax-head",
+    "period": 7,
+    "start": -846,
+    "end": -846,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Elisha and Miracle of the Floating Ax Head"
+    },
+    "dates": {
+      "en": "846 BC"
+    },
+    "image": "media/images/t/GoodSalt-pppas0209_8-6-2013 3-10-18 PM.jpg",
+    "layout": {
+      "row": 15,
+      "left": 16918,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 942,
+    "slug": "elisha-thwarts-syrian-ambushes",
+    "period": 7,
+    "start": -845,
+    "end": -845,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Elisha Thwarts Syrian Ambushes"
+    },
+    "dates": {
+      "en": "845 BC"
+    },
+    "image": "media/images/t/GoodSalt-stdas0556_8-6-2013 3-12-36 PM.jpg",
+    "layout": {
+      "row": 17,
+      "left": 16940,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 945,
+    "slug": "benhadad-ii-siege-of-samaria-and-deliverance",
+    "period": 7,
+    "start": -845,
+    "end": -845,
+    "type": "minor",
+    "title": {
+      "en": "Benhadad II Siege of Samaria and Deliverance"
+    },
+    "dates": {
+      "en": "845 BC"
+    },
+    "layout": {
+      "row": 19,
+      "left": 16940,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 943,
+    "slug": "jehoram-of-judah-struck-with-bowel-disease",
+    "period": 7,
+    "start": -843,
+    "end": -843,
+    "type": "minor",
+    "title": {
+      "en": "Jehoram of Judah Struck with Bowel Disease"
+    },
+    "dates": {
+      "en": "843 BC"
+    },
+    "layout": {
+      "row": 20,
+      "left": 16984,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 946,
+    "slug": "joash-or-jehoash",
+    "period": 7,
+    "start": -842,
+    "end": -796,
+    "type": "major",
+    "title": {
+      "en": "Joash (or Jehoash)"
+    },
+    "dates": {
+      "en": "842–796 BC (~46)"
+    },
+    "image": "media/images/t/_GoodSalt-stdas0028_8-27-2013 12-10-43 PM.jpg",
+    "layout": {
+      "row": 21,
+      "left": 17006,
+      "width": 1012,
+      "hoverWidth": 1012,
+      "bar": true
+    }
+  },
+  {
+    "id": 947,
+    "slug": "shalmaneser-iii-of-assyria-defeats-hazael-of-damascus",
+    "period": 7,
+    "start": -841,
+    "end": -841,
+    "type": "minor",
+    "title": {
+      "en": "Shalmaneser III Defeats Hazael"
+    },
+    "dates": {
+      "en": "841 BC"
+    },
+    "layout": {
+      "row": 24,
+      "left": 17028,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 934,
+    "slug": "elisha-warns-shunammite-woman-of-7-year-famine",
+    "period": 7,
+    "start": -839,
+    "end": -839,
+    "type": "minor",
+    "title": {
+      "en": "Elisha Warns Shunammite Woman of 7 Year Famine"
+    },
+    "dates": {
+      "en": "839 BC"
+    },
+    "layout": {
+      "row": 1,
+      "left": 17072,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 944,
+    "slug": "shunammite-womans-land-restored",
+    "period": 7,
+    "start": -832,
+    "end": -832,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Shunammite Woman's Land Restored"
+    },
+    "dates": {
+      "en": "832 BC"
+    },
+    "image": "media/images/t/_GoodSalt-prcas0990_8-27-2013 12-26-23 PM.jpg",
+    "layout": {
+      "row": 7,
+      "left": 17226,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 938,
+    "slug": "naaman-healed-gehazi-leprous",
+    "period": 7,
+    "start": -830,
+    "end": -830,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Naaman Healed, Gehazi Leprous"
+    },
+    "dates": {
+      "en": "830 BC"
+    },
+    "image": "media/images/t/_GoodSalt-prcas1640_8-27-2013 12-29-08 PM.jpg",
+    "layout": {
+      "row": 14,
+      "left": 17270,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 951,
+    "slug": "juda",
+    "period": 7,
+    "start": -827,
+    "end": -747,
+    "type": "minor",
+    "title": {
+      "en": "Juda"
+    },
+    "dates": {
+      "en": "827–747 BC"
+    },
+    "layout": {
+      "row": 19,
+      "left": 17336,
+      "width": 0,
+      "hoverWidth": 1760,
+      "bar": false
+    }
+  },
+  {
+    "id": 952,
+    "slug": "jehoash",
+    "period": 7,
+    "start": -825,
+    "end": -782,
+    "type": "major",
+    "title": {
+      "en": "Jehoash"
+    },
+    "dates": {
+      "en": "825–782 BC (~43)"
+    },
+    "image": "media/images/t/Golden Calf_4-3-2013 5-18-17 PM.jpg",
+    "layout": {
+      "row": 16,
+      "left": 17380,
+      "width": 946,
+      "hoverWidth": 946,
+      "bar": true
+    }
+  },
+  {
+    "id": 960,
+    "slug": "jonah",
+    "period": 7,
+    "start": -823,
+    "end": -720,
+    "type": "major",
+    "title": {
+      "en": "Jonah"
+    },
+    "dates": {
+      "en": "823–720 BC (~103)"
+    },
+    "image": "media/images/t/Jonah_7-31-2013 11-11-16 AM.jpg",
+    "layout": {
+      "row": 9,
+      "left": 17424,
+      "width": 2266,
+      "hoverWidth": 2266,
+      "bar": true
+    }
+  },
+  {
+    "id": 954,
+    "slug": "amaziah",
+    "period": 7,
+    "start": -821,
+    "end": -767,
+    "type": "minor",
+    "title": {
+      "en": "Amaziah"
+    },
+    "dates": {
+      "en": "821–767 BC"
+    },
+    "layout": {
+      "row": 5,
+      "left": 17468,
+      "width": 0,
+      "hoverWidth": 1188,
+      "bar": false
+    }
+  },
+  {
+    "id": 958,
+    "slug": "jeroboam-ii",
+    "period": 7,
+    "start": -820,
+    "end": -753,
+    "type": "major",
+    "title": {
+      "en": "Jeroboam II"
+    },
+    "dates": {
+      "en": "820–753 BC (~67)"
+    },
+    "image": "media/images/t/GoodSalt-Jeroboam_8-1-2013 5-29-02 PM.jpg",
+    "layout": {
+      "row": 1,
+      "left": 17490,
+      "width": 1474,
+      "hoverWidth": 1474,
+      "bar": true
+    }
+  },
+  {
+    "id": 957,
+    "slug": "uzziah",
+    "period": 7,
+    "start": -808,
+    "end": -739,
+    "type": "major",
+    "title": {
+      "en": "Uzziah"
+    },
+    "dates": {
+      "en": "808–739 BC (~69)"
+    },
+    "image": "media/images/t/Rembrandt_Harmensz_van_Rijn_032.jpg",
+    "layout": {
+      "row": 14,
+      "left": 17754,
+      "width": 1518,
+      "hoverWidth": 1518,
+      "bar": true
+    }
+  },
+  {
+    "id": 956,
+    "slug": "simeon-son-of-juda",
+    "period": 7,
+    "start": -807,
+    "end": -827,
+    "type": "minor",
+    "title": {
+      "en": "Simeon"
+    },
+    "dates": {
+      "en": "807–827 BC"
+    },
+    "layout": {
+      "row": 3,
+      "left": 17776,
+      "width": 0,
+      "hoverWidth": 440,
+      "bar": false
+    }
+  },
+  {
+    "id": 955,
+    "slug": "jonah-to-ninevah",
+    "period": 7,
+    "start": -790,
+    "end": -790,
+    "type": "major",
+    "title": {
+      "en": "Jonah to Ninevah"
+    },
+    "dates": {
+      "en": "790 BC"
+    },
+    "image": "media/images/t/GoodSalt-prcas2580_8-6-2013 3-27-53 PM.jpg",
+    "layout": {
+      "row": 7,
+      "left": 18150,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 962,
+    "slug": "uzziah-azariah-prosperous-time",
+    "period": 7,
+    "start": -790,
+    "end": -770,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Uzziah Azariah, Prosperous Time"
+    },
+    "dates": {
+      "en": "790–770 BC (~20)"
+    },
+    "image": "media/images/t/_GoodSalt-stdas0031_8-27-2013 1-27-15 PM.jpg",
+    "layout": {
+      "row": 21,
+      "left": 18150,
+      "width": 440,
+      "hoverWidth": 440,
+      "bar": true
+    }
+  },
+  {
+    "id": 964,
+    "slug": "levi-son-of-simeon",
+    "period": 7,
+    "start": -787,
+    "end": -707,
+    "type": "minor",
+    "title": {
+      "en": "Levi"
+    },
+    "dates": {
+      "en": "787–707 BC (~80)"
+    },
+    "layout": {
+      "row": 3,
+      "left": 18216,
+      "width": 0,
+      "hoverWidth": 1760,
+      "bar": false
+    }
+  },
+  {
+    "id": 969,
+    "slug": "zechariah",
+    "period": 7,
+    "start": -776,
+    "end": -752,
+    "type": "major",
+    "title": {
+      "en": "Zechariah"
+    },
+    "dates": {
+      "en": "776–752 BC (~24)"
+    },
+    "image": "media/images/t/Zechariah_of_Israel_8-27-2013 2-08-27 PM.png",
+    "layout": {
+      "row": 16,
+      "left": 18458,
+      "width": 528,
+      "hoverWidth": 528,
+      "bar": true
+    }
+  },
+  {
+    "id": 972,
+    "slug": "jotham",
+    "period": 7,
+    "start": -773,
+    "end": -732,
+    "type": "minor",
+    "title": {
+      "en": "Jotham"
+    },
+    "dates": {
+      "en": "773–732 BC"
+    },
+    "layout": {
+      "row": 11,
+      "left": 18524,
+      "width": 0,
+      "hoverWidth": 902,
+      "bar": false
+    }
+  },
+  {
+    "id": 1001,
+    "slug": "shalmaneser-v",
+    "period": 7,
+    "start": -772,
+    "end": -722,
+    "type": "minor",
+    "title": {
+      "en": "Shalmaneser V"
+    },
+    "dates": {
+      "en": "772–722 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 18546,
+      "width": 0,
+      "hoverWidth": 1100,
+      "bar": false
+    }
+  },
+  {
+    "id": 975,
+    "slug": "pekahiah",
+    "period": 7,
+    "start": -767,
+    "end": -740,
+    "type": "minor",
+    "title": {
+      "en": "Pekahiah"
+    },
+    "dates": {
+      "en": "767–740 BC"
+    },
+    "layout": {
+      "row": 21,
+      "left": 18656,
+      "width": 0,
+      "hoverWidth": 594,
+      "bar": false
+    }
+  },
+  {
+    "id": 978,
+    "slug": "matthat-father-of-jorum",
+    "period": 7,
+    "start": -767,
+    "end": -687,
+    "type": "minor",
+    "title": {
+      "en": "Matthat"
+    },
+    "dates": {
+      "en": "767–687 BC"
+    },
+    "layout": {
+      "row": 7,
+      "left": 18656,
+      "width": 0,
+      "hoverWidth": 1760,
+      "bar": false
+    }
+  },
+  {
+    "id": 981,
+    "slug": "isaiah",
+    "period": 7,
+    "start": -766,
+    "end": -686,
+    "type": "major",
+    "title": {
+      "en": "Isaiah"
+    },
+    "dates": {
+      "en": "766–686 BC (~80)"
+    },
+    "image": "media/images/t/Isaiah_7-31-2013 11-16-12 AM.jpg",
+    "layout": {
+      "row": 11,
+      "left": 18678,
+      "width": 1760,
+      "hoverWidth": 1760,
+      "bar": true
+    }
+  },
+  {
+    "id": 979,
+    "slug": "sargon-ii",
+    "period": 7,
+    "start": -758,
+    "end": -705,
+    "type": "minor",
+    "title": {
+      "en": "Sargon II"
+    },
+    "dates": {
+      "en": "758–705 BC"
+    },
+    "layout": {
+      "row": 7,
+      "left": 18854,
+      "width": 0,
+      "hoverWidth": 1166,
+      "bar": false
+    }
+  },
+  {
+    "id": 980,
+    "slug": "great-earthquake",
+    "period": 7,
+    "start": -757,
+    "end": -757,
+    "type": "major",
+    "title": {
+      "en": "Great Earthquake"
+    },
+    "dates": {
+      "en": "757 BC"
+    },
+    "image": "media/images/t/_GoodSalt-prcas3399_8-27-2013 2-13-06 PM.jpg",
+    "layout": {
+      "row": 5,
+      "left": 18876,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 982,
+    "slug": "ahaz",
+    "period": 7,
+    "start": -755,
+    "end": -715,
+    "type": "minor",
+    "title": {
+      "en": "Ahaz"
+    },
+    "dates": {
+      "en": "755–715 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 18920,
+      "width": 0,
+      "hoverWidth": 880,
+      "bar": false
+    }
+  },
+  {
+    "id": 991,
+    "slug": "jorim",
+    "period": 7,
+    "start": -747,
+    "end": -667,
+    "type": "minor",
+    "title": {
+      "en": "Jorim"
+    },
+    "dates": {
+      "en": "747–667 BC"
+    },
+    "layout": {
+      "row": 16,
+      "left": 19096,
+      "width": 0,
+      "hoverWidth": 1760,
+      "bar": false
+    }
+  },
+  {
+    "id": 989,
+    "slug": "hezekiah",
+    "period": 7,
+    "start": -741,
+    "end": -686,
+    "type": "major",
+    "title": {
+      "en": "Hezekiah"
+    },
+    "dates": {
+      "en": "741–686 BC (~55)"
+    },
+    "image": "media/images/t/_GoodSalt-prcas5185_8-27-2013 2-25-13 PM.jpg",
+    "layout": {
+      "row": 7,
+      "left": 19228,
+      "width": 1210,
+      "hoverWidth": 1210,
+      "bar": true
+    }
+  },
+  {
+    "id": 992,
+    "slug": "sennacherib",
+    "period": 7,
+    "start": -735,
+    "end": -681,
+    "type": "major",
+    "title": {
+      "en": "Sennacherib"
+    },
+    "dates": {
+      "en": "735–681 BC (~54)"
+    },
+    "image": "media/images/t/Sennacherib.jpg",
+    "layout": {
+      "row": 23,
+      "left": 19360,
+      "width": 1188,
+      "hoverWidth": 1188,
+      "bar": true
+    }
+  },
+  {
+    "id": 993,
+    "slug": "immanuel",
+    "period": 7,
+    "start": -734,
+    "end": -734,
+    "type": "minor",
+    "title": {
+      "en": "Immanuel"
+    },
+    "dates": {
+      "en": "734 BC"
+    },
+    "layout": {
+      "row": 15,
+      "left": 19382,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 995,
+    "slug": "babylon-taken-by-chaldeans",
+    "period": 7,
+    "start": -732,
+    "end": -539,
+    "type": "minor",
+    "title": {
+      "en": "Babylon taken by Chaldeans"
+    },
+    "dates": {
+      "en": "732–539 BC"
+    },
+    "layout": {
+      "row": 16,
+      "left": 19426,
+      "width": 0,
+      "hoverWidth": 3355,
+      "bar": false
+    }
+  },
+  {
+    "id": 1008,
+    "slug": "eliezer",
+    "period": 7,
+    "start": -729,
+    "end": -647,
+    "type": "minor",
+    "title": {
+      "en": "Eliezer"
+    },
+    "dates": {
+      "en": "729–647 BC"
+    },
+    "layout": {
+      "row": 21,
+      "left": 19492,
+      "width": 0,
+      "hoverWidth": 1804,
+      "bar": false
+    }
+  },
+  {
+    "id": 997,
+    "slug": "reformationpassover-celebrated-in-judah-option-1",
+    "period": 7,
+    "start": -727,
+    "end": -727,
+    "type": "minor",
+    "title": {
+      "en": "Reformation-Passover Celebrated in Judah"
+    },
+    "dates": {
+      "en": "727 BC"
+    },
+    "layout": {
+      "row": 15,
+      "left": 19536,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 937,
+    "slug": "second-invasion-of-israel-from-assyria",
+    "period": 7,
+    "start": -725,
+    "end": -722,
+    "type": "minor",
+    "title": {
+      "en": "Second Invasion of Israel from Assyria"
+    },
+    "dates": {
+      "en": "725–722 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 19580,
+      "width": 0,
+      "hoverWidth": 66,
+      "bar": false
+    }
+  },
+  {
+    "id": 988,
+    "slug": "assyria-invades-northern-kingdom",
+    "period": 7,
+    "start": -725,
+    "end": -725,
+    "type": "minor",
+    "title": {
+      "en": "Assyria Invades Northern Kingdom"
+    },
+    "dates": {
+      "en": "725 BC"
+    },
+    "layout": {
+      "row": 18,
+      "left": 19580,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 999,
+    "slug": "fall-of-samaria",
+    "period": 7,
+    "start": -722,
+    "end": -722,
+    "type": "minor",
+    "title": {
+      "en": "Fall of Samaria"
+    },
+    "dates": {
+      "en": "722 BC"
+    },
+    "layout": {
+      "row": 17,
+      "left": 19646,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 422,
+    "slug": "hilkiah",
+    "period": 7,
+    "start": -720,
+    "end": -610,
+    "type": "major",
+    "title": {
+      "en": "Hilkiah"
+    },
+    "dates": {
+      "en": "720–610 BC (~110)"
+    },
+    "image": "media/images/t/_GoodSalt-prcas3129_8-27-2013 2-51-48 PM.jpg",
+    "layout": {
+      "row": 1,
+      "left": 19690,
+      "width": 2310,
+      "hoverWidth": 2310,
+      "bar": true
+    }
+  },
+  {
+    "id": 418,
+    "slug": "jose",
+    "period": 7,
+    "start": -712,
+    "end": -627,
+    "type": "minor",
+    "title": {
+      "en": "Jose"
+    },
+    "dates": {
+      "en": "712–627 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 19866,
+      "width": 0,
+      "hoverWidth": 1870,
+      "bar": false
+    }
+  },
+  {
+    "id": 423,
+    "slug": "esarhaddon",
+    "period": 7,
+    "start": -711,
+    "end": -669,
+    "type": "minor",
+    "title": {
+      "en": "Esarhaddon"
+    },
+    "dates": {
+      "en": "711–669 BC"
+    },
+    "layout": {
+      "row": 15,
+      "left": 19888,
+      "width": 0,
+      "hoverWidth": 924,
+      "bar": false
+    }
+  },
+  {
+    "id": 1013,
+    "slug": "invasion-of-philistines",
+    "period": 7,
+    "start": -710,
+    "end": -710,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Invasion of Philistines"
+    },
+    "dates": {
+      "en": "710 BC"
+    },
+    "image": "media/images/t/GoodSalt-prcas1040_8-7-2013 3-36-57 PM.jpg",
+    "layout": {
+      "row": 16,
+      "left": 19910,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1009,
+    "slug": "manasseh-king-of-judah",
+    "period": 7,
+    "start": -709,
+    "end": -642,
+    "type": "major",
+    "title": {
+      "en": "Manasseh"
+    },
+    "dates": {
+      "en": "709–642 BC (~67)"
+    },
+    "image": "media/images/t/_GoodSalt-stdas0040_8-27-2013 2-57-15 PM.jpg",
+    "layout": {
+      "row": 5,
+      "left": 19932,
+      "width": 1474,
+      "hoverWidth": 1474,
+      "bar": true
+    }
+  },
+  {
+    "id": 1011,
+    "slug": "sun-goes-back-10-degrees-hezekiah-recovers",
+    "period": 7,
+    "start": -702,
+    "end": -702,
+    "type": "minor",
+    "title": {
+      "en": "Sun Goes Back 10 Degrees, Hezekiah Recovers"
+    },
+    "dates": {
+      "en": "702 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 20086,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1012,
+    "slug": "assyria-conquers-world-sennacherib-invades-judah",
+    "period": 7,
+    "start": -701,
+    "end": -701,
+    "type": "minor",
+    "title": {
+      "en": "Assyria Conquers World, Sennacherib Invades Judah"
+    },
+    "dates": {
+      "en": "701 BC"
+    },
+    "layout": {
+      "row": 9,
+      "left": 20108,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 1010,
+    "slug": "isaiah-prophecy-concerning-cyrus-ii",
+    "period": 7,
+    "start": -697,
+    "end": -697,
+    "type": "minor",
+    "title": {
+      "en": "Isaiah Prophecy Concerning Cyrus II"
+    },
+    "dates": {
+      "en": "697 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 20196,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 425,
+    "slug": "er",
+    "period": 7,
+    "start": -695,
+    "end": -607,
+    "type": "minor",
+    "title": {
+      "en": "Er"
+    },
+    "dates": {
+      "en": "695–607 BC"
+    },
+    "layout": {
+      "row": 15,
+      "left": 20240,
+      "width": 0,
+      "hoverWidth": 1793,
+      "bar": false
+    }
+  },
+  {
+    "id": 414,
+    "slug": "ashurbanipal",
+    "period": 7,
+    "start": -690,
+    "end": -633,
+    "type": "minor",
+    "title": {
+      "en": "Ashurbanipal"
+    },
+    "dates": {
+      "en": "690–633 BC"
+    },
+    "layout": {
+      "row": 17,
+      "left": 20350,
+      "width": 0,
+      "hoverWidth": 1254,
+      "bar": false
+    }
+  },
+  {
+    "id": 440,
+    "slug": "zephaniah-calls-for-reform",
+    "period": 7,
+    "start": -690,
+    "end": -609,
+    "type": "minor",
+    "title": {
+      "en": "Zephaniah Calls for Reform"
+    },
+    "dates": {
+      "en": "690–609 BC"
+    },
+    "layout": {
+      "row": 16,
+      "left": 20350,
+      "width": 0,
+      "hoverWidth": 1661,
+      "bar": false
+    }
+  },
+  {
+    "id": 415,
+    "slug": "sennacherib-razes-babylon",
+    "period": 7,
+    "start": -689,
+    "end": -689,
+    "type": "minor",
+    "title": {
+      "en": "Sennacherib Razes Babylon"
+    },
+    "dates": {
+      "en": "689 BC"
+    },
+    "layout": {
+      "row": 18,
+      "left": 20372,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 416,
+    "slug": "sennacheribs-2nd-invasion-of-jerusalem",
+    "period": 7,
+    "start": -689,
+    "end": -689,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Sennacherib's 2nd Invasion of Jerusalem"
+    },
+    "dates": {
+      "en": "689 BC"
+    },
+    "image": "media/images/t/Sennacherib_4-2-2013 3-52-27 PM.jpg",
+    "layout": {
+      "row": 19,
+      "left": 20372,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 417,
+    "slug": "nahum",
+    "period": 7,
+    "start": -683,
+    "end": -610,
+    "type": "major",
+    "title": {
+      "en": "Nahum"
+    },
+    "dates": {
+      "en": "683–610 BC (~73)"
+    },
+    "image": "media/images/t/Nahum-prophet.jpg",
+    "layout": {
+      "row": 11,
+      "left": 20504,
+      "width": 1496,
+      "hoverWidth": 1496,
+      "bar": true
+    }
+  },
+  {
+    "id": 420,
+    "slug": "babylon-rebuilding",
+    "period": 7,
+    "start": -681,
+    "end": -676,
+    "type": "major",
+    "title": {
+      "en": "Babylon Rebuilding"
+    },
+    "dates": {
+      "en": "681–676 BC"
+    },
+    "image": "media/images/t/BabylonRebuilding_7-31-2013 4-39-19 PM.jpg",
+    "layout": {
+      "row": 8,
+      "left": 20548,
+      "width": 0,
+      "hoverWidth": 110,
+      "bar": false
+    }
+  },
+  {
+    "id": 437,
+    "slug": "elmodam-or-elmadam",
+    "period": 7,
+    "start": -679,
+    "end": -587,
+    "type": "minor",
+    "title": {
+      "en": "Elmodam (or Elmadam)"
+    },
+    "dates": {
+      "en": "679–587 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 20592,
+      "width": 0,
+      "hoverWidth": 1661,
+      "bar": false
+    }
+  },
+  {
+    "id": 421,
+    "slug": "esarhaddon-assyria-invades-egypt",
+    "period": 7,
+    "start": -675,
+    "end": -675,
+    "type": "minor",
+    "title": {
+      "en": "Esarhaddon Assyria Invades Egypt"
+    },
+    "dates": {
+      "en": "675 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 20680,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 424,
+    "slug": "amon",
+    "period": 7,
+    "start": -665,
+    "end": -641,
+    "type": "minor",
+    "title": {
+      "en": "Amon"
+    },
+    "dates": {
+      "en": "665–641 BC"
+    },
+    "layout": {
+      "row": 17,
+      "left": 20900,
+      "width": 0,
+      "hoverWidth": 528,
+      "bar": false
+    }
+  },
+  {
+    "id": 426,
+    "slug": "nahum-refers-to-fall-of-thebes",
+    "period": 7,
+    "start": -663,
+    "end": -663,
+    "type": "minor",
+    "title": {
+      "en": "Nahum Refers to Fall of Thebes"
+    },
+    "dates": {
+      "en": "663 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 20944,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 457,
+    "slug": "cosam",
+    "period": 7,
+    "start": -663,
+    "end": -567,
+    "type": "minor",
+    "title": {
+      "en": "Cosam"
+    },
+    "dates": {
+      "en": "663–567 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 20944,
+      "width": 0,
+      "hoverWidth": 1529,
+      "bar": false
+    }
+  },
+  {
+    "id": 436,
+    "slug": "nahum-predicts-fall-of-ninevah",
+    "period": 7,
+    "start": -662,
+    "end": -662,
+    "type": "minor",
+    "title": {
+      "en": "Nahum Predicts Fall of Ninevah"
+    },
+    "dates": {
+      "en": "662 BC"
+    },
+    "layout": {
+      "row": 9,
+      "left": 20966,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 433,
+    "slug": "josiah",
+    "period": 7,
+    "start": -649,
+    "end": -609,
+    "type": "major",
+    "title": {
+      "en": "Josiah"
+    },
+    "dates": {
+      "en": "649–609 BC (~40)"
+    },
+    "image": "media/images/t/Josiah_7-31-2013 4-38-17 PM.jpg",
+    "layout": {
+      "row": 9,
+      "left": 21252,
+      "width": 759,
+      "hoverWidth": 759,
+      "bar": true
+    }
+  },
+  {
+    "id": 474,
+    "slug": "addi",
+    "period": 7,
+    "start": -647,
+    "end": -547,
+    "type": "minor",
+    "title": {
+      "en": "Addi"
+    },
+    "dates": {
+      "en": "647–547 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 21296,
+      "width": 0,
+      "hoverWidth": 1397,
+      "bar": false
+    }
+  },
+  {
+    "id": 439,
+    "slug": "ashurbanipal-defeats-elam",
+    "period": 7,
+    "start": -645,
+    "end": -645,
+    "type": "minor",
+    "title": {
+      "en": "Ashurbanipal Defeats Elam"
+    },
+    "dates": {
+      "en": "645 BC"
+    },
+    "layout": {
+      "row": 19,
+      "left": 21340,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 435,
+    "slug": "jeremiah",
+    "period": 7,
+    "start": -643,
+    "end": -570,
+    "type": "major",
+    "title": {
+      "en": "Jeremiah"
+    },
+    "dates": {
+      "en": "643–570 BC (~73)"
+    },
+    "image": "media/images/t/Jeremiah_4-2-2013 2-17-43 PM.jpg",
+    "layout": {
+      "row": 15,
+      "left": 21384,
+      "width": 1056,
+      "hoverWidth": 1056,
+      "bar": true
+    }
+  },
+  {
+    "id": 489,
+    "slug": "melchi",
+    "period": 7,
+    "start": -635,
+    "end": -537,
+    "type": "minor",
+    "title": {
+      "en": "Melchi"
+    },
+    "dates": {
+      "en": "635–537 BC"
+    },
+    "layout": {
+      "row": 18,
+      "left": 21560,
+      "width": 0,
+      "hoverWidth": 1243,
+      "bar": false
+    }
+  },
+  {
+    "id": 443,
+    "slug": "jehoiakim",
+    "period": 7,
+    "start": -634,
+    "end": -598,
+    "type": "minor",
+    "title": {
+      "en": "Jehoiakim"
+    },
+    "dates": {
+      "en": "634–598 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 21582,
+      "width": 0,
+      "hoverWidth": 550,
+      "bar": false
+    }
+  },
+  {
+    "id": 447,
+    "slug": "josiah-consecrates-himself-to-god",
+    "period": 7,
+    "start": -633,
+    "end": -633,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Josiah Consecrates Himself to God"
+    },
+    "dates": {
+      "en": "633 BC"
+    },
+    "image": "media/images/t/_GoodSalt-prcas3303_8-27-2013 3-56-08 PM.jpg",
+    "layout": {
+      "row": 7,
+      "left": 21604,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 445,
+    "slug": "nebuchadnezzar-ii",
+    "period": 7,
+    "start": -632,
+    "end": -562,
+    "type": "major",
+    "title": {
+      "en": "Nebuchadnezzar II"
+    },
+    "dates": {
+      "en": "632–562 BC (~70)"
+    },
+    "image": "media/images/t/GoodSalt-nebuchadnezzar_8-6-2013 11-02-33 AM.jpg",
+    "layout": {
+      "row": 21,
+      "left": 21626,
+      "width": 902,
+      "hoverWidth": 902,
+      "bar": true
+    }
+  },
+  {
+    "id": 446,
+    "slug": "jehoahaz-son-of-josiah",
+    "period": 7,
+    "start": -632,
+    "end": -609,
+    "type": "major",
+    "title": {
+      "en": "Jehoahaz"
+    },
+    "dates": {
+      "en": "632–609 BC (~23)"
+    },
+    "image": "media/images/t/GoodSalt-Jehoahaz_8-6-2013 11-06-04 AM.jpg",
+    "layout": {
+      "row": 19,
+      "left": 21626,
+      "width": 385,
+      "hoverWidth": 385,
+      "bar": true
+    }
+  },
+  {
+    "id": 451,
+    "slug": "ezekiel",
+    "period": 7,
+    "start": -622,
+    "end": -571,
+    "type": "major",
+    "title": {
+      "en": "Ezekiel"
+    },
+    "dates": {
+      "en": "622–571 BC (~51)"
+    },
+    "image": "media/images/t/GoodSalt-ValleyOfDryBones_8-5-2013 4-24-11 PM.jpg",
+    "layout": {
+      "row": 5,
+      "left": 21846,
+      "width": 583,
+      "hoverWidth": 583,
+      "bar": true
+    }
+  },
+  {
+    "id": 452,
+    "slug": "josiah-finds-law-keeps-passover",
+    "period": 7,
+    "start": -622,
+    "end": -622,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Josiah Finds Law, Keeps Passover"
+    },
+    "dates": {
+      "en": "622 BC (~0)"
+    },
+    "image": "media/images/t/_GoodSalt-prcas1523_8-27-2013 4-22-30 PM.jpg",
+    "layout": {
+      "row": 11,
+      "left": 21846,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": true
+    }
+  },
+  {
+    "id": 455,
+    "slug": "daniel",
+    "period": 7,
+    "start": -622,
+    "end": -530,
+    "type": "major",
+    "title": {
+      "en": "Daniel"
+    },
+    "dates": {
+      "en": "622–530 BC (~92)"
+    },
+    "image": "media/images/t/Daniellion_7-31-2013 4-10-48 PM.jpg",
+    "layout": {
+      "row": 17,
+      "left": 21846,
+      "width": 1034,
+      "hoverWidth": 1034,
+      "bar": true
+    }
+  }
+]

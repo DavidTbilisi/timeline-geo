@@ -1,10 +1,12 @@
 <script setup lang="ts">
-import { watch } from 'vue'
+import { watchEffect } from 'vue'
 import { RouterView } from 'vue-router'
-import { useI18n } from 'vue-i18n'
+import { useTimelineConfig } from '@lib/config'
+import { useLocalized } from '@lib/i18n'
 
-const { t, locale } = useI18n()
-watch(locale, () => { document.title = t('nav.title') }, { immediate: true })
+const config = useTimelineConfig()
+const { l } = useLocalized()
+watchEffect(() => { document.title = l(config.title) })
 </script>
 
 <template>

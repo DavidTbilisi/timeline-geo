@@ -2,20 +2,24 @@
   "slug": "calvin-sent-away-from-geneva",
   "id": 1361,
   "period": 12,
-  "titleEn": "Calvin Sent Away from Geneva ",
-  "titleKa": null,
-  "datesEn": "1538 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "Calvin was sent away from Geneva in 1538 after protesting a decision to use unleavened bread for the Eucharist.",
-  "descriptionKa": null,
-  "articleEn": "<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Calvin Sent Away from Geneva "
+  },
+  "dates": {
+    "en": "1538 <span>AD</span>"
+  },
+  "description": {
+    "en": "Calvin was sent away from Geneva in 1538 after protesting a decision to use unleavened bread for the Eucharist."
+  },
+  "article": {
+    "en": "<BR />"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

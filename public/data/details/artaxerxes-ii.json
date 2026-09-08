@@ -2,20 +2,21 @@
   "slug": "artaxerxes-ii",
   "id": 543,
   "period": 8,
-  "titleEn": "Artaxerxes II",
-  "titleKa": null,
-  "datesEn": "445&ndash;359 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "The eldest son of Darius II, a king of Persia during a time in which no Bible records are available.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Artaxerxes II"
+  },
+  "dates": {
+    "en": "445&ndash;359 <span>BC</span>"
+  },
+  "description": {
+    "en": "The eldest son of Darius II, a king of Persia during a time in which no Bible records are available."
+  },
   "related": [
     {
       "slug": "darius-ii",
-      "titleEn": "Darius II",
-      "titleKa": null
+      "title": {
+        "en": "Darius II"
+      }
     }
   ],
   "images": [

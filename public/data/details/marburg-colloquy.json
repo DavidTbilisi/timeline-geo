@@ -2,20 +2,24 @@
   "slug": "marburg-colloquy",
   "id": 1353,
   "period": 12,
-  "titleEn": "Marburg Colloquy ",
-  "titleKa": null,
-  "datesEn": "1529 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "A meeting held at Marburg Castle, Germany, to resolve a disagreement between Luther and Zwingli over the presence of Christ in the Lord&#39;s Supper.",
-  "descriptionKa": null,
-  "articleEn": "The Marburg Colloquy (a colloquy is a formal gathering of theologians who assemble to discuss various theological issue) dealt with the issue of the Lord&#39;s Supper. The main question essentially asked if the presence of Christ was literally in the bread and wine or if it was simply symbolic. The debates took place between a Swiss party and the Wittenberg party and met between October 1 and 4, 1529. <BR /><BR />The Swiss group included Ulrich Zwingli, Johannes Oecolamadius, Martin Bucer, Wolfgang Capito, and Kasper Sturm. The Wittenberg group included Martin Luther, Philip Melanchthon, Friedrich Myconius, Justus Jonas, Justus Menius, Caspar Creuziger, and George Roerer.<BR /><BR />Although the two groups did not come to an agreement at Marburg, they all did sign the Marburg Articles. In the Articles, the two groups found agreement on 14 of 15 points. However, the Swiss continued to believe that the real presence of Christ was not in the bread and wine, and the Wittenberg party believed that it was.",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Marburg Colloquy "
+  },
+  "dates": {
+    "en": "1529 <span>AD</span>"
+  },
+  "description": {
+    "en": "A meeting held at Marburg Castle, Germany, to resolve a disagreement between Luther and Zwingli over the presence of Christ in the Lord&#39;s Supper."
+  },
+  "article": {
+    "en": "The Marburg Colloquy (a colloquy is a formal gathering of theologians who assemble to discuss various theological issue) dealt with the issue of the Lord&#39;s Supper. The main question essentially asked if the presence of Christ was literally in the bread and wine or if it was simply symbolic. The debates took place between a Swiss party and the Wittenberg party and met between October 1 and 4, 1529. <BR /><BR />The Swiss group included Ulrich Zwingli, Johannes Oecolamadius, Martin Bucer, Wolfgang Capito, and Kasper Sturm. The Wittenberg group included Martin Luther, Philip Melanchthon, Friedrich Myconius, Justus Jonas, Justus Menius, Caspar Creuziger, and George Roerer.<BR /><BR />Although the two groups did not come to an agreement at Marburg, they all did sign the Marburg Articles. In the Articles, the two groups found agreement on 14 of 15 points. However, the Swiss continued to believe that the real presence of Christ was not in the bread and wine, and the Wittenberg party believed that it was."
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

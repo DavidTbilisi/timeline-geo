@@ -1,7 +1,7 @@
 import { onMounted, onUnmounted } from 'vue'
 import { useRouter } from 'vue-router'
 import { useTimelineStore } from '@/stores/timeline'
-import { PERIODS } from '@/data/periods'
+import { useTimelineConfig } from '@lib/config'
 
 /**
  * Returns true when the keyboard event originated inside a text-input element
@@ -29,6 +29,7 @@ function isTextTarget(e: KeyboardEvent): boolean {
 export function useKeyboard() {
   const tlStore = useTimelineStore()
   const router = useRouter()
+  const config = useTimelineConfig()
 
   function onKeydown(e: KeyboardEvent) {
     if (isTextTarget(e)) return
@@ -49,8 +50,7 @@ export function useKeyboard() {
         if (tlStore.detailOpen) {
           tlStore.closeEvent()
           // Navigate back to the current period so the URL stays consistent
-          const periodId = tlStore.activePeriod
-          const period = PERIODS[periodId - 1]
+          const period = config.byId[tlStore.activePeriod]
           if (period) {
             router.push('/period/' + period.slug)
           }

@@ -2,26 +2,31 @@
 import { ref, computed, watch, onMounted } from 'vue'
 import { useTimelineStore } from '@/stores/timeline'
 import { useEventsStore } from '@/stores/events'
-import { PERIODS, STAGE_WIDTH, STAGE_HEIGHT } from '@/data/periods'
-import type { TimelineEvent } from '@/types/event'
+import { useTimelineConfig } from '@lib/config'
+import type { LaidOutEvent } from '@lib/types'
 import EventItem from './EventItem.vue'
 import TodayMarker from './TodayMarker.vue'
 
-const emit = defineEmits<{ eventClick: [event: TimelineEvent] }>()
+const emit = defineEmits<{ eventClick: [event: LaidOutEvent] }>()
 
 const tlStore = useTimelineStore()
 const eventsStore = useEventsStore()
+const config = useTimelineConfig()
+const PERIODS = config.periods
+const { stageWidth: STAGE_WIDTH, stageHeight: STAGE_HEIGHT } = config.layout
 
 const stageEl = ref<HTMLElement | null>(null)
-const visibleEvents = ref<TimelineEvent[]>([])
+const visibleEvents = ref<LaidOutEvent[]>([])
 
 defineExpose({ stageEl })
 
 async function refreshEvents(period: number) {
+  // Load the active period and its chronological neighbours in parallel.
+  const idx = config.byId[period]?.index ?? 0
   const promises = []
-  if (period > 1) promises.push(eventsStore.loadPeriod(period - 1))
-  promises.push(eventsStore.loadPeriod(period))
-  if (period < 13) promises.push(eventsStore.loadPeriod(period + 1))
+  for (let i = Math.max(0, idx - 1); i <= Math.min(PERIODS.length - 1, idx + 1); i++) {
+    promises.push(eventsStore.loadPeriod(PERIODS[i].id))
+  }
   await Promise.all(promises)
   visibleEvents.value = eventsStore.getVisibleEvents(period)
 }
@@ -50,13 +55,13 @@ watch(() => tlStore.activePeriod, (period) => { refreshEvents(period) })
  */
 const BAND_HEIGHT = 18
 const topOffsets = computed(() => {
-  const byRow = new Map<number, TimelineEvent[]>()
+  const byRow = new Map<number, LaidOutEvent[]>()
   for (const e of visibleEvents.value) {
     if (!byRow.has(e.row)) byRow.set(e.row, [])
     byRow.get(e.row)!.push(e)
   }
 
-  const xRange = (e: TimelineEvent) => ({
+  const xRange = (e: LaidOutEvent) => ({
     start: e.left,
     end: e.left + (e.width > 0 ? e.width : 260),
   })
@@ -107,9 +112,9 @@ function hexToRgba(hex: string, alpha: number) {
 
 const periodBandBg = (() => {
   const stops: string[] = []
-  PERIODS.forEach((p, i) => {
+  PERIODS.forEach((p) => {
     const start = p.startPx
-    const end = i < PERIODS.length - 1 ? PERIODS[i + 1].startPx : STAGE_WIDTH
+    const end = p.endPx
     const c = hexToRgba(p.color, 0.07)
     stops.push(`${c} ${start}px`, `${c} ${end}px`)
   })

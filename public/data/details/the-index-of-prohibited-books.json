@@ -2,20 +2,24 @@
   "slug": "the-index-of-prohibited-books",
   "id": 1374,
   "period": 12,
-  "titleEn": "The Index of Prohibited Books ",
-  "titleKa": null,
-  "datesEn": "1559&ndash;1966 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "An official list of books that the Catholic Church considered heretical. Catholics were forbidden to read any book on the list until 1966.",
-  "descriptionKa": null,
-  "articleEn": "Prior to the Index of Prohibited Books, there were many books that were forbidden and even burned (including Bibles) by the Catholic Church. When Pope Paul IV wrote the first draft of the Index in 1559, it was a direct defense against Protestantism. In 1564 Pope Pius IV published an updated Index. The next pope, Pius V (1566&#8212;1572), established the Congregation of the Index, which continued to review books that were published. As new books hit the market, the Index of Prohibited Books continued to grow.<BR /><BR />When the Index was first published, it included books by the prominent Reformers: Luther, Zwingli, Calvin, Erasmus, etc. The final edition (the 20th) of the Index was published in 1948 under the reign of Pope Pius XII (1939&#8212;1958). Pope Paul VI finally abolished the Index of Prohibited Books in 1966 shortly after Vatican II (1962&#8212;1965).<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "The Index of Prohibited Books "
+  },
+  "dates": {
+    "en": "1559&ndash;1966 <span>AD</span>"
+  },
+  "description": {
+    "en": "An official list of books that the Catholic Church considered heretical. Catholics were forbidden to read any book on the list until 1966."
+  },
+  "article": {
+    "en": "Prior to the Index of Prohibited Books, there were many books that were forbidden and even burned (including Bibles) by the Catholic Church. When Pope Paul IV wrote the first draft of the Index in 1559, it was a direct defense against Protestantism. In 1564 Pope Pius IV published an updated Index. The next pope, Pius V (1566&#8212;1572), established the Congregation of the Index, which continued to review books that were published. As new books hit the market, the Index of Prohibited Books continued to grow.<BR /><BR />When the Index was first published, it included books by the prominent Reformers: Luther, Zwingli, Calvin, Erasmus, etc. The final edition (the 20th) of the Index was published in 1948 under the reign of Pope Pius XII (1939&#8212;1958). Pope Paul VI finally abolished the Index of Prohibited Books in 1966 shortly after Vatican II (1962&#8212;1965).<BR />"
+  },
   "related": [
     {
       "slug": "daniel-11-king-of-the-northsouth",
-      "titleEn": " Daniel 11 - King of the North/South",
-      "titleKa": null
+      "title": {
+        "en": " Daniel 11 - King of the North/South"
+      }
     }
   ],
   "images": [

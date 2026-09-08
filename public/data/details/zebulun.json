@@ -2,34 +2,24 @@
   "slug": "zebulun",
   "id": 703,
   "period": 3,
-  "titleEn": "Zebulun",
-  "titleKa": null,
-  "datesEn": "1696&ndash;1597 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;dwelling&#34; or &#34;exalted.&#34; He is the sixth and youngest son of Jacob and Leah. He has three sons. Jacob blesses and predicts that Zebulun&#39;s descendents will live near the sea in the northern part of Palestine toward Sidon.",
-  "descriptionKa": null,
-  "articleEn": "The 6th son of Jacob by Leah (Gen 30:19, 20). He had 3 sons: Sered, Elon, and Jahleel (ch 46:14). When Jacob blessed his sons he predicted that Zebulun&#39;s descendants would live near the sea in the northern part of Palestine toward Sidon (ch 49:13).",
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Genesis 30:19-20",
-      "verses": [
-        {
-          "number": 19,
-          "line": "And Leah conceived again, and bare Jacob the sixth son."
-        },
-        {
-          "number": 20,
-          "line": "And Leah said, God hath endued me with a good dowry; now will my husband dwell with me, because I have born him six sons: and she called his name Zebulun."
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Zebulun"
+  },
+  "dates": {
+    "en": "1696&ndash;1597 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;dwelling&#34; or &#34;exalted.&#34; He is the sixth and youngest son of Jacob and Leah. He has three sons. Jacob blesses and predicts that Zebulun&#39;s descendents will live near the sea in the northern part of Palestine toward Sidon."
+  },
+  "article": {
+    "en": "The 6th son of Jacob by Leah (Gen 30:19, 20). He had 3 sons: Sered, Elon, and Jahleel (ch 46:14). When Jacob blessed his sons he predicted that Zebulun&#39;s descendants would live near the sea in the northern part of Palestine toward Sidon (ch 49:13)."
+  },
   "related": [
     {
       "slug": "jacob",
-      "titleEn": "Jacob",
-      "titleKa": null
+      "title": {
+        "en": "Jacob"
+      }
     }
   ],
   "images": [
@@ -38,5 +28,22 @@
       "caption": "Symbol for the tribe of Zebulun"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Genesis 30:19-20",
+        "verses": [
+          {
+            "number": 19,
+            "line": "And Leah conceived again, and bare Jacob the sixth son."
+          },
+          {
+            "number": 20,
+            "line": "And Leah said, God hath endued me with a good dowry; now will my husband dwell with me, because I have born him six sons: and she called his name Zebulun."
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,5 @@
 import { test, expect } from './fixtures'
+import { PERIODS } from './content'
 
 /**
  * Issue #58 — period view used to (per the bug report) fetch all 13
@@ -16,7 +17,7 @@ test.describe('Period lazy-load (issue #58)', () => {
     const periodFetches = new Set<number>()
     page.on('request', (req) => {
       const url = req.url()
-      // Match Vite's served path for src/data/events/period-N.json (dev) and
+      // Match Vite's served path for content/events/period-N.json (dev) and
       // the asset path that vite-built code uses (prod): both end in
       // `period-N.json` (possibly with a hash suffix in prod, e.g.
       // `period-3-abc123.json`).
@@ -38,8 +39,8 @@ test.describe('Period lazy-load (issue #58)', () => {
     expect(fetched).toContain(10)
 
     // We MUST NOT have loaded distant periods.
-    expect(fetched).not.toContain(1)
-    expect(fetched).not.toContain(13)
+    expect(fetched).not.toContain(PERIODS[0].id)
+    expect(fetched).not.toContain(PERIODS[PERIODS.length - 1].id)
 
     // Total fetched should be small: active + neighbors only.
     expect(fetched.length).toBeLessThanOrEqual(4)

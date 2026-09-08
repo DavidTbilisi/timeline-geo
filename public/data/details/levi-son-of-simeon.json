@@ -2,35 +2,27 @@
   "slug": "levi-son-of-simeon",
   "id": 964,
   "period": 7,
-  "titleEn": "Levi",
-  "titleKa": null,
-  "datesEn": "787&ndash;707 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;joined&#34; or &#34;attached.&#34; Son of Simeon, a Judahite who appears in Luke&#39;s genealogy of Christ.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:29",
-      "verses": [
-        {
-          "number": 29,
-          "line": "Which was the son of Jose, which was the son of Eliezer, which was the son of Jorim, which was the son of Matthat, which was the son of Levi,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Levi"
+  },
+  "dates": {
+    "en": "787&ndash;707 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;joined&#34; or &#34;attached.&#34; Son of Simeon, a Judahite who appears in Luke&#39;s genealogy of Christ."
+  },
   "related": [
     {
       "slug": "simeon-son-of-juda",
-      "titleEn": "Simeon",
-      "titleKa": null
+      "title": {
+        "en": "Simeon"
+      }
     },
     {
       "slug": "matthat-father-of-jorum",
-      "titleEn": "Matthat",
-      "titleKa": null
+      "title": {
+        "en": "Matthat"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "The tribe of Levi"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:29",
+        "verses": [
+          {
+            "number": 29,
+            "line": "Which was the son of Jose, which was the son of Eliezer, which was the son of Jorim, which was the son of Matthat, which was the son of Levi,"
+          }
+        ]
+      }
+    ]
+  }
 }

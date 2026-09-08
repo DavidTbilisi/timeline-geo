@@ -2,35 +2,27 @@
   "slug": "neri",
   "id": 502,
   "period": 8,
-  "titleEn": "Neri",
-  "titleKa": null,
-  "datesEn": "620&ndash;530 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name means &#34;my lamp.&#34; He is the son of Melchi or Melki and the father of Shealtiel. He is a Judahite listed in Luke&#39;s genealogy of Jesus Christ.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:27",
-      "verses": [
-        {
-          "number": 27,
-          "line": "Which was the son of Joanna, which was the son of Rhesa, which was the son of Zorobabel, which was the son of Salathiel, which was the son of Neri,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Neri"
+  },
+  "dates": {
+    "en": "620&ndash;530 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name means &#34;my lamp.&#34; He is the son of Melchi or Melki and the father of Shealtiel. He is a Judahite listed in Luke&#39;s genealogy of Jesus Christ."
+  },
   "related": [
     {
       "slug": "melchi",
-      "titleEn": "Melchi",
-      "titleKa": null
+      "title": {
+        "en": "Melchi"
+      }
     },
     {
       "slug": "salathiel-or-shealtiel",
-      "titleEn": "Salathiel (or Shealtiel)",
-      "titleKa": null
+      "title": {
+        "en": "Salathiel (or Shealtiel)"
+      }
     }
   ],
   "images": [
@@ -43,5 +35,18 @@
       "caption": "Neri, whose name means &#34;my lamp.&#34; "
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:27",
+        "verses": [
+          {
+            "number": 27,
+            "line": "Which was the son of Joanna, which was the son of Rhesa, which was the son of Zorobabel, which was the son of Salathiel, which was the son of Neri,"
+          }
+        ]
+      }
+    ]
+  }
 }

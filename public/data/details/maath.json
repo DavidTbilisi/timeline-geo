@@ -2,35 +2,27 @@
   "slug": "maath",
   "id": 560,
   "period": 8,
-  "titleEn": "Maath",
-  "titleKa": null,
-  "datesEn": "340&ndash;280 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "Name possibly means &#34;small.&#34; Son of Mattathias and father of Naggai (or Nagge) listed in Luke&#39;s genealogy of Jesus Christ.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:26",
-      "verses": [
-        {
-          "number": 26,
-          "line": "Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of Juda,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Maath"
+  },
+  "dates": {
+    "en": "340&ndash;280 <span>BC</span>"
+  },
+  "description": {
+    "en": "Name possibly means &#34;small.&#34; Son of Mattathias and father of Naggai (or Nagge) listed in Luke&#39;s genealogy of Jesus Christ."
+  },
   "related": [
     {
       "slug": "mattathias-son-of-semei",
-      "titleEn": "Mattathias",
-      "titleKa": null
+      "title": {
+        "en": "Mattathias"
+      }
     },
     {
       "slug": "nagge-or-naggai",
-      "titleEn": "Nagge (or Naggai)",
-      "titleKa": null
+      "title": {
+        "en": "Nagge (or Naggai)"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "Which was the son of <b>Maath</b>, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of Juda, (Luke 3:26)"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:26",
+        "verses": [
+          {
+            "number": 26,
+            "line": "Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of Juda,"
+          }
+        ]
+      }
+    ]
+  }
 }

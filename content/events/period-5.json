@@ -1,0 +1,554 @@
+[
+  {
+    "id": 738,
+    "slug": "12-spies-enter-canaan",
+    "period": 5,
+    "start": -1444,
+    "end": -1444,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "12 Spies Enter Canaan"
+    },
+    "dates": {
+      "en": "1444 BC"
+    },
+    "image": "media/images/t/GoodSalt-stdas0100_8-7-2013 2-09-00 PM.jpg",
+    "layout": {
+      "row": 9,
+      "left": 9816,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 739,
+    "slug": "korahs-rebellion",
+    "period": 5,
+    "start": -1444,
+    "end": -1444,
+    "type": "minor",
+    "title": {
+      "en": "Korah's Rebellion"
+    },
+    "dates": {
+      "en": "1444 BC"
+    },
+    "layout": {
+      "row": 13,
+      "left": 9816,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 744,
+    "slug": "salmon",
+    "period": 5,
+    "start": -1333,
+    "end": -1233,
+    "type": "minor",
+    "title": {
+      "en": "Salmon"
+    },
+    "dates": {
+      "en": "1333–1233 BC"
+    },
+    "layout": {
+      "row": 3,
+      "left": 10305,
+      "width": 0,
+      "hoverWidth": 440,
+      "bar": false
+    }
+  },
+  {
+    "id": 743,
+    "slug": "balak-summons-balaam",
+    "period": 5,
+    "start": -1408,
+    "end": -1408,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Balak Summons Balaam"
+    },
+    "dates": {
+      "en": "1408 BC"
+    },
+    "image": "media/images/t/Balaam_5-7-2013 10-03-25 AM.jpg",
+    "layout": {
+      "row": 20,
+      "left": 9975,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 745,
+    "slug": "balaam-curses-israel",
+    "period": 5,
+    "start": -1408,
+    "end": -1408,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Balaam Curses Israel"
+    },
+    "dates": {
+      "en": "1408 BC"
+    },
+    "image": "media/images/t/GoodSalt-pppas0292_8-6-2013 2-12-02 PM.jpg",
+    "layout": {
+      "row": 22,
+      "left": 9975,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 747,
+    "slug": "israel-enters-canaan",
+    "period": 5,
+    "start": -1406,
+    "end": -1406,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Israel Enters Canaan"
+    },
+    "dates": {
+      "en": "1406 BC"
+    },
+    "image": "media/images/t/GoodSalt-CrossingJordan_8-5-2013 4-04-01 PM.jpg",
+    "layout": {
+      "row": 7,
+      "left": 9984,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 748,
+    "slug": "israelite-invasion",
+    "period": 5,
+    "start": -1406,
+    "end": -1400,
+    "type": "minor",
+    "title": {
+      "en": "Israelite Invasion"
+    },
+    "dates": {
+      "en": "1406–1400 BC"
+    },
+    "layout": {
+      "row": 15,
+      "left": 9984,
+      "width": 0,
+      "hoverWidth": 26.4,
+      "bar": false
+    }
+  },
+  {
+    "id": 746,
+    "slug": "joshua-called-sun-moon-stand-still",
+    "period": 5,
+    "start": -1405,
+    "end": -1405,
+    "type": "minor",
+    "title": {
+      "en": "Joshua Called, Sun & Moon Stand Still"
+    },
+    "dates": {
+      "en": "1405 BC"
+    },
+    "layout": {
+      "row": 4,
+      "left": 9988,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 754,
+    "slug": "boaz",
+    "period": 5,
+    "start": -1273,
+    "end": -1193,
+    "type": "major",
+    "title": {
+      "en": "Boaz"
+    },
+    "dates": {
+      "en": "1273–1193 BC"
+    },
+    "image": "media/images/t/GoodSalt-prcas0067_8-13-2013 3-13-51 PM.jpg",
+    "layout": {
+      "row": 18,
+      "left": 10569,
+      "width": 0,
+      "hoverWidth": 352,
+      "bar": false
+    }
+  },
+  {
+    "id": 749,
+    "slug": "division-of-canaan",
+    "period": 5,
+    "start": -1400,
+    "end": -1400,
+    "type": "minor",
+    "title": {
+      "en": "Division of Canaan"
+    },
+    "dates": {
+      "en": "1400 BC"
+    },
+    "layout": {
+      "row": 13,
+      "left": 10010,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 751,
+    "slug": "joshua-claims-territory",
+    "period": 5,
+    "start": -1399,
+    "end": -1399,
+    "type": "minor",
+    "title": {
+      "en": "Joshua Claims Territory"
+    },
+    "dates": {
+      "en": "1399 BC"
+    },
+    "layout": {
+      "row": 3,
+      "left": 10014,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 764,
+    "slug": "ruth-and-naomi-come-to-bethlehem",
+    "period": 5,
+    "start": -1230,
+    "end": -1230,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Ruth and Naomi Come to Bethlehem"
+    },
+    "dates": {
+      "en": "1230 BC"
+    },
+    "image": "media/images/t/GoodSalt-stdas0718_8-6-2013 3-00-22 PM.jpg",
+    "layout": {
+      "row": 11,
+      "left": 10758,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 755,
+    "slug": "ehud",
+    "period": 5,
+    "start": -1318,
+    "end": -1217,
+    "type": "major",
+    "title": {
+      "en": "Ehud"
+    },
+    "dates": {
+      "en": "1318–1217 BC (~101)"
+    },
+    "image": "media/images/t/Ehud_5-6-2013 5-07-09 PM.jpg",
+    "layout": {
+      "row": 14,
+      "left": 10371,
+      "width": 444.4,
+      "hoverWidth": 444.4,
+      "bar": true
+    }
+  },
+  {
+    "id": 765,
+    "slug": "obed",
+    "period": 5,
+    "start": -1203,
+    "end": -1123,
+    "type": "minor",
+    "title": {
+      "en": "Obed"
+    },
+    "dates": {
+      "en": "1203–1123 BC"
+    },
+    "layout": {
+      "row": 16,
+      "left": 10877,
+      "width": 0,
+      "hoverWidth": 352,
+      "bar": false
+    }
+  },
+  {
+    "id": 756,
+    "slug": "40-years-peace-ends-moabite-oppression-begins",
+    "period": 5,
+    "start": -1297,
+    "end": -1297,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Ehud Slays King Eglon"
+    },
+    "dates": {
+      "en": "1297 BC"
+    },
+    "image": "media/images/t/Speculum_Darmstadt_2505_55r_cropped_8-6-2013 3-28-49 PM.jpg",
+    "layout": {
+      "row": 16,
+      "left": 10463,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 762,
+    "slug": "gideon",
+    "period": 5,
+    "start": -1252,
+    "end": -1152,
+    "type": "major",
+    "title": {
+      "en": "Gideon"
+    },
+    "dates": {
+      "en": "1252–1152 BC (~100)"
+    },
+    "image": "media/images/t/507px-Gideon_Squeezed_the_Fleece_001_8-6-2013 3-34-47 PM.jpg",
+    "layout": {
+      "row": 9,
+      "left": 10661,
+      "width": 440,
+      "hoverWidth": 440,
+      "bar": true
+    }
+  },
+  {
+    "id": 768,
+    "slug": "eli",
+    "period": 5,
+    "start": -1197,
+    "end": -1099,
+    "type": "major",
+    "title": {
+      "en": "Eli"
+    },
+    "dates": {
+      "en": "1197–1099 BC (~98)"
+    },
+    "image": "media/images/t/GoodSalt-prcas5083_8-13-2013 3-28-45 PM.jpg",
+    "layout": {
+      "row": 14,
+      "left": 10903,
+      "width": 448.8,
+      "hoverWidth": 448.8,
+      "bar": true
+    }
+  },
+  {
+    "id": 770,
+    "slug": "shechem-destroyed",
+    "period": 5,
+    "start": -1171,
+    "end": -1171,
+    "type": "major",
+    "title": {
+      "en": "Shechem Destroyed"
+    },
+    "dates": {
+      "en": "1171 BC"
+    },
+    "image": "media/images/t/GoodSalt-pppas0498_8-6-2013 4-29-31 PM.jpg",
+    "layout": {
+      "row": 3,
+      "left": 11018,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 772,
+    "slug": "samuel",
+    "period": 5,
+    "start": -1129,
+    "end": -1017,
+    "type": "major",
+    "title": {
+      "en": "Samuel"
+    },
+    "dates": {
+      "en": "1129–1017 BC (~112)"
+    },
+    "image": "media/images/t/GoodSalt-Samuel_8-5-2013 4-06-07 PM.jpg",
+    "layout": {
+      "row": 16,
+      "left": 11202,
+      "width": 1953.6,
+      "hoverWidth": 1953.6,
+      "bar": true
+    }
+  },
+  {
+    "id": 775,
+    "slug": "prophetic-call-of-samuel",
+    "period": 5,
+    "start": -1143,
+    "end": -1143,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Prophetic Call of Samuel"
+    },
+    "dates": {
+      "en": "1143 BC"
+    },
+    "image": "media/images/t/GoodSalt-pppas0257_8-13-2013 3-55-25 PM.jpg",
+    "layout": {
+      "row": 9,
+      "left": 11141,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 780,
+    "slug": "samuel-judges-israel",
+    "period": 5,
+    "start": -1143,
+    "end": -1055,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Samuel Judges Israel"
+    },
+    "dates": {
+      "en": "1143–1055 BC"
+    },
+    "image": "media/images/t/GoodSalt-prcas1474_8-6-2013 3-59-48 PM.jpg",
+    "layout": {
+      "row": 7,
+      "left": 11141,
+      "width": 0,
+      "hoverWidth": 1179.2,
+      "bar": false
+    }
+  },
+  {
+    "id": 777,
+    "slug": "philistines-capture-ark",
+    "period": 5,
+    "start": -1142,
+    "end": -1142,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Philistines Capture Ark"
+    },
+    "dates": {
+      "en": "1142 BC"
+    },
+    "image": "media/images/t/GoodSalt-pcmas0005_8-6-2013 4-06-34 PM.jpg",
+    "layout": {
+      "row": 5,
+      "left": 11145,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 771,
+    "slug": "jesse",
+    "period": 5,
+    "start": -1140,
+    "end": -1020,
+    "type": "minor",
+    "title": {
+      "en": "Jesse"
+    },
+    "dates": {
+      "en": "1140–1020 BC"
+    },
+    "layout": {
+      "row": 20,
+      "left": 11154,
+      "width": 0,
+      "hoverWidth": 1936,
+      "bar": false
+    }
+  },
+  {
+    "id": 774,
+    "slug": "samson",
+    "period": 5,
+    "start": -1119,
+    "end": -1079,
+    "type": "major",
+    "title": {
+      "en": "Samson"
+    },
+    "dates": {
+      "en": "1119–1079 BC (~40)"
+    },
+    "image": "media/images/t/Tissot_Samson_Slays_a_Thousand_Men_8-8-2013 11-59-12 AM.jpg",
+    "layout": {
+      "row": 11,
+      "left": 11246,
+      "width": 545.6,
+      "hoverWidth": 545.6,
+      "bar": true
+    }
+  },
+  {
+    "id": 773,
+    "slug": "philistine-oppression-begins",
+    "period": 5,
+    "start": -1115,
+    "end": -1075,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Philistine Oppression"
+    },
+    "dates": {
+      "en": "1115–1075 BC (40)"
+    },
+    "image": "media/images/t/GoodSalt-prcas3460_8-6-2013 4-51-17 PM.jpg",
+    "layout": {
+      "row": 18,
+      "left": 11264,
+      "width": 616,
+      "hoverWidth": 616,
+      "bar": true
+    }
+  }
+]

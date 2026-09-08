@@ -2,15 +2,18 @@
   "slug": "luther-nails-the-ninetyfive-theses",
   "id": 1339,
   "period": 11,
-  "titleEn": "Luther Nails the Ninety-Five Theses ",
-  "titleKa": null,
-  "datesEn": "1517 <span>AD</span>",
-  "datesKa": null,
-  "descriptionEn": "The Ninety&#8212;five Theses were posted by Luther on the door of Castle Church in Wittenburg. Known as the impetus for the Protestant Reformation.",
-  "descriptionKa": null,
-  "articleEn": "On October 31, 1517 (All Saints Day), Martin Luther nailed a copy of his Ninety&#8212;five Theses to the door of the Wittenberg church. The Ninety&#8212;five Theses dealt primarily with the sale of indulgences, which were documents people could buy to escape purgatory. On the same day, he wrote a letter to the archbishop of Mainz expressing his concerns for the church. He included with the letter a copy of his Ninety&#8212;five Theses.<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Luther Nails the Ninety-Five Theses "
+  },
+  "dates": {
+    "en": "1517 <span>AD</span>"
+  },
+  "description": {
+    "en": "The Ninety&#8212;five Theses were posted by Luther on the door of Castle Church in Wittenburg. Known as the impetus for the Protestant Reformation."
+  },
+  "article": {
+    "en": "On October 31, 1517 (All Saints Day), Martin Luther nailed a copy of his Ninety&#8212;five Theses to the door of the Wittenberg church. The Ninety&#8212;five Theses dealt primarily with the sale of indulgences, which were documents people could buy to escape purgatory. On the same day, he wrote a letter to the archbishop of Mainz expressing his concerns for the church. He included with the letter a copy of his Ninety&#8212;five Theses.<BR />"
+  },
   "related": [],
   "images": [
     {

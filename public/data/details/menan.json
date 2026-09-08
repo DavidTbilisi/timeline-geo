@@ -2,35 +2,27 @@
   "slug": "menan",
   "id": 860,
   "period": 6,
-  "titleEn": "Menan",
-  "titleKa": null,
-  "datesEn": "937&ndash;857 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "He is the son of Mattathah, or Mattatha, and father of Melea in Luke&#39;s genealogy of Jesus Christ.",
-  "descriptionKa": null,
-  "articleEn": null,
-  "articleKa": null,
-  "scriptures": [
-    {
-      "reference": "Luke 3:31",
-      "verses": [
-        {
-          "number": 31,
-          "line": "Which was the son of Melea, which was the son of Menan, which was the son of Mattatha, which was the son of Nathan, which was the son of David,"
-        }
-      ]
-    }
-  ],
+  "title": {
+    "en": "Menan"
+  },
+  "dates": {
+    "en": "937&ndash;857 <span>BC</span>"
+  },
+  "description": {
+    "en": "He is the son of Mattathah, or Mattatha, and father of Melea in Luke&#39;s genealogy of Jesus Christ."
+  },
   "related": [
     {
       "slug": "mattatha",
-      "titleEn": "Mattatha",
-      "titleKa": null
+      "title": {
+        "en": "Mattatha"
+      }
     },
     {
       "slug": "melea",
-      "titleEn": "Melea",
-      "titleKa": null
+      "title": {
+        "en": "Melea"
+      }
     }
   ],
   "images": [
@@ -39,5 +31,18 @@
       "caption": "Ancestor of Jesus"
     }
   ],
-  "videos": []
+  "videos": [],
+  "extensions": {
+    "scriptures": [
+      {
+        "reference": "Luke 3:31",
+        "verses": [
+          {
+            "number": 31,
+            "line": "Which was the son of Melea, which was the son of Menan, which was the son of Mattatha, which was the son of Nathan, which was the son of David,"
+          }
+        ]
+      }
+    ]
+  }
 }

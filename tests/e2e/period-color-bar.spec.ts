@@ -1,9 +1,10 @@
 import { test, expect } from './fixtures'
+import { PERIODS, hexToRgb } from './content'
 
 /**
  * Specs for PeriodColorBar component.
  *
- * The color bar renders 13 colored segments that let the user jump to any
+ * The color bar renders one colored segment per period so the user can jump to any
  * period. It appears both on the timeline page (inside TimelineFooter) and
  * on the landing page (inside LandingView footer).
  */
@@ -13,19 +14,17 @@ test.describe('PeriodColorBar', () => {
     await page.waitForSelector('.period-color-bar', { timeout: 10000 })
   })
 
-  test('renders exactly 13 segments', async ({ page }) => {
+  test('renders exactly one segment per period', async ({ page }) => {
     const segments = page.locator('.period-color-segment')
-    await expect(segments).toHaveCount(13)
+    await expect(segments).toHaveCount(PERIODS.length)
   })
 
-  test('segments have the correct background colors from PERIODS data', async ({ page }) => {
-    // Spot-check the first 3 period colors defined in src/data/periods.ts.
+  test('segments have the correct background colors from the period content', async ({ page }) => {
+    // Spot-check the first 3 period colors from content/periods.json.
     // Browsers normalize inline color values to rgb() form, so compare in rgb space.
-    const expectedRgb: Record<number, string> = {
-      0: 'rgb(173, 31, 38)',  // #ad1f26 — First Generation
-      1: 'rgb(219, 47, 44)',  // #db2f2c — Noah & the Flood
-      2: 'rgb(187, 51, 128)', // #bb3380 — The Patriarchs
-    }
+    const expectedRgb: Record<number, string> = Object.fromEntries(
+      PERIODS.slice(0, 3).map((p, i) => [i, hexToRgb(p.color)]),
+    )
 
     const segments = page.locator('.period-color-segment')
     for (const [indexStr, rgb] of Object.entries(expectedRgb)) {

@@ -1,0 +1,1293 @@
+[
+  {
+    "id": 781,
+    "slug": "saul",
+    "period": 6,
+    "start": -1082,
+    "end": -1010,
+    "type": "major",
+    "title": {
+      "en": "Saul"
+    },
+    "dates": {
+      "en": "1082–1010 BC (~72)"
+    },
+    "image": "media/images/t/james-tissot-saul-meets-with-samuel-1900_7-30-2013 3-57-41 PM.jpg",
+    "layout": {
+      "row": 14,
+      "left": 11726,
+      "width": 1584,
+      "hoverWidth": 1584,
+      "bar": true
+    }
+  },
+  {
+    "id": 783,
+    "slug": "jonathan",
+    "period": 6,
+    "start": -1062,
+    "end": -1010,
+    "type": "major",
+    "title": {
+      "en": "Jonathan"
+    },
+    "dates": {
+      "en": "1062–1010 BC (~52)"
+    },
+    "image": "media/images/t/GoodSalt-prcas0406_8-6-2013 4-56-49 PM.jpg",
+    "layout": {
+      "row": 1,
+      "left": 12166,
+      "width": 1144,
+      "hoverWidth": 1144,
+      "bar": true
+    }
+  },
+  {
+    "id": 784,
+    "slug": "ishbosheth",
+    "period": 6,
+    "start": -1050,
+    "end": -1010,
+    "type": "major",
+    "title": {
+      "en": "Ishbosheth"
+    },
+    "dates": {
+      "en": "1050–1010 BC"
+    },
+    "image": "media/images/t/ishbosheth_8-6-2013 5-16-18 PM.jpg",
+    "layout": {
+      "row": 9,
+      "left": 12430,
+      "width": 0,
+      "hoverWidth": 880,
+      "bar": false
+    }
+  },
+  {
+    "id": 787,
+    "slug": "jonathan-and-his-armorbearer-attack-philistines",
+    "period": 6,
+    "start": -1042,
+    "end": -1042,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Jonathan and Armorbearer Attack"
+    },
+    "dates": {
+      "en": "1042 BC"
+    },
+    "image": "media/images/t/429px-Jonathan-defying-the-outposts-of-the-Philistines-001_8-6-2013 5-28-28 PM.jpg",
+    "layout": {
+      "row": 3,
+      "left": 12606,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 788,
+    "slug": "david",
+    "period": 6,
+    "start": -1040,
+    "end": -970,
+    "type": "major",
+    "title": {
+      "en": "David"
+    },
+    "dates": {
+      "en": "1040–970 BC (70)"
+    },
+    "image": "media/images/t/DavidStones 1141-10_7-24-2013 12-08-23 PM.jpg",
+    "layout": {
+      "row": 11,
+      "left": 12650,
+      "width": 1540,
+      "hoverWidth": 1540,
+      "bar": true
+    }
+  },
+  {
+    "id": 789,
+    "slug": "david-a-shepherd-boy",
+    "period": 6,
+    "start": -1029,
+    "end": -1029,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "David a Shepherd Boy"
+    },
+    "dates": {
+      "en": "1029 BC"
+    },
+    "image": "media/images/t/GoodSalt-stdas0448_8-6-2013 5-24-40 PM.jpg",
+    "layout": {
+      "row": 7,
+      "left": 12892,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 790,
+    "slug": "rejection-of-saul",
+    "period": 6,
+    "start": -1029,
+    "end": -1029,
+    "type": "minor",
+    "title": {
+      "en": "Rejection of Saul"
+    },
+    "dates": {
+      "en": "1029 BC"
+    },
+    "layout": {
+      "row": 6,
+      "left": 12892,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 791,
+    "slug": "david-anointed-by-samuel",
+    "period": 6,
+    "start": -1029,
+    "end": -1029,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "David Anointed by Samuel"
+    },
+    "dates": {
+      "en": "1029 BC"
+    },
+    "image": "media/images/t/GoodSalt-prcas0756_8-13-2013 4-08-56 PM.jpg",
+    "layout": {
+      "row": 4,
+      "left": 12892,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 792,
+    "slug": "david-slays-his-lions",
+    "period": 6,
+    "start": -1027,
+    "end": -1027,
+    "type": "minor",
+    "title": {
+      "en": "David Slays His Lions"
+    },
+    "dates": {
+      "en": "1027 BC"
+    },
+    "layout": {
+      "row": 3,
+      "left": 12936,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 793,
+    "slug": "david-plays-for-saul",
+    "period": 6,
+    "start": -1026,
+    "end": -1026,
+    "type": "minor",
+    "title": {
+      "en": "David Plays for Saul"
+    },
+    "dates": {
+      "en": "1026 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 12958,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 795,
+    "slug": "david-and-goliath",
+    "period": 6,
+    "start": -1025,
+    "end": -1025,
+    "type": "minor",
+    "title": {
+      "en": "David and Goliath"
+    },
+    "dates": {
+      "en": "1025 BC"
+    },
+    "layout": {
+      "row": 9,
+      "left": 12980,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 797,
+    "slug": "sauls-hatred-against-david-begins",
+    "period": 6,
+    "start": -1024,
+    "end": -1024,
+    "type": "minor",
+    "title": {
+      "en": "Saul's Hatred Against David Begins"
+    },
+    "dates": {
+      "en": "1024 BC"
+    },
+    "layout": {
+      "row": 18,
+      "left": 13002,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 800,
+    "slug": "david-escapes-to-samuel",
+    "period": 6,
+    "start": -1021,
+    "end": -1021,
+    "type": "minor",
+    "title": {
+      "en": "David Escapes to Samuel"
+    },
+    "dates": {
+      "en": "1021 BC"
+    },
+    "layout": {
+      "row": 19,
+      "left": 13068,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 804,
+    "slug": "david-goes-to-ahimelech-priest-at-nob",
+    "period": 6,
+    "start": -1020,
+    "end": -1020,
+    "type": "minor",
+    "title": {
+      "en": "David Goes to Ahimelech, Priest at Nob"
+    },
+    "dates": {
+      "en": "1020 BC"
+    },
+    "layout": {
+      "row": 20,
+      "left": 13090,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 805,
+    "slug": "david-flees-to-gath-feigns-insanity",
+    "period": 6,
+    "start": -1019,
+    "end": -1019,
+    "type": "minor",
+    "title": {
+      "en": "David Flees to Gath, Feigns Insanity"
+    },
+    "dates": {
+      "en": "1019 BC"
+    },
+    "layout": {
+      "row": 21,
+      "left": 13112,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 806,
+    "slug": "david-in-cave-at-adullam",
+    "period": 6,
+    "start": -1018,
+    "end": -1018,
+    "type": "minor",
+    "title": {
+      "en": "David in Cave at Adullam"
+    },
+    "dates": {
+      "en": "1018 BC"
+    },
+    "layout": {
+      "row": 22,
+      "left": 13134,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 808,
+    "slug": "david-consults-ephod-flees-to-wilderness-of-ziph",
+    "period": 6,
+    "start": -1017,
+    "end": -1017,
+    "type": "minor",
+    "title": {
+      "en": "David Consults Ephod, Flees to Wilderness of Ziph"
+    },
+    "dates": {
+      "en": "1017 BC"
+    },
+    "layout": {
+      "row": 10,
+      "left": 13156,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 812,
+    "slug": "philistine-invasion-while-saul-seeks-david",
+    "period": 6,
+    "start": -1017,
+    "end": -1017,
+    "type": "minor",
+    "title": {
+      "en": "Philistine Invasion While Saul Seeks David"
+    },
+    "dates": {
+      "en": "1017 BC"
+    },
+    "layout": {
+      "row": 6,
+      "left": 13156,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 811,
+    "slug": "david-flees-to-en-gedi-clips-sauls-garment",
+    "period": 6,
+    "start": -1016,
+    "end": -1016,
+    "type": "minor",
+    "title": {
+      "en": "David Flees to En Gedi, Clips Saul's garment"
+    },
+    "dates": {
+      "en": "1016 BC"
+    },
+    "layout": {
+      "row": 24,
+      "left": 13178,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 813,
+    "slug": "mephibosheth",
+    "period": 6,
+    "start": -1015,
+    "end": -969,
+    "type": "minor",
+    "title": {
+      "en": "Mephibosheth"
+    },
+    "dates": {
+      "en": "1015–969 BC"
+    },
+    "layout": {
+      "row": 9,
+      "left": 13200,
+      "width": 0,
+      "hoverWidth": 1012,
+      "bar": false
+    }
+  },
+  {
+    "id": 814,
+    "slug": "david-flees-to-wilderness-of-paran",
+    "period": 6,
+    "start": -1015,
+    "end": -1015,
+    "type": "minor",
+    "title": {
+      "en": "David Flees to Wilderness of Paran"
+    },
+    "dates": {
+      "en": "1015 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 13200,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 815,
+    "slug": "david-marries-abigail",
+    "period": 6,
+    "start": -1015,
+    "end": -1015,
+    "type": "minor",
+    "title": {
+      "en": "David Marries Abigail"
+    },
+    "dates": {
+      "en": "1015 BC"
+    },
+    "layout": {
+      "row": 7,
+      "left": 13200,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 816,
+    "slug": "david-spares-sauls-life-a-2nd-time",
+    "period": 6,
+    "start": -1014,
+    "end": -1014,
+    "type": "minor",
+    "title": {
+      "en": "David Spares Saul's Life a 2nd Time"
+    },
+    "dates": {
+      "en": "1014 BC"
+    },
+    "layout": {
+      "row": 23,
+      "left": 13222,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 817,
+    "slug": "david-received-ziklag-from-king-achish",
+    "period": 6,
+    "start": -1014,
+    "end": -1014,
+    "type": "minor",
+    "title": {
+      "en": "David Received Ziklag from King Achish"
+    },
+    "dates": {
+      "en": "1014 BC"
+    },
+    "layout": {
+      "row": 5,
+      "left": 13222,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 786,
+    "slug": "deliverance-of-jabesh-israel-unified",
+    "period": 6,
+    "start": -1010,
+    "end": -1010,
+    "type": "minor",
+    "title": {
+      "en": "Deliverance of Jabesh, Israel Unified"
+    },
+    "dates": {
+      "en": "1010 BC"
+    },
+    "layout": {
+      "row": 4,
+      "left": 13310,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 818,
+    "slug": "philistine-raid-at-gilboa-saul-consults-witch",
+    "period": 6,
+    "start": -1010,
+    "end": -1010,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Philistine Raid at Gilboa, Saul Consults Witch"
+    },
+    "dates": {
+      "en": "1010 BC"
+    },
+    "image": "media/images/t/saul-and-the-witch-of-endor-1777_7-30-2013 3-19-19 PM.jpg",
+    "layout": {
+      "row": 2,
+      "left": 13310,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 820,
+    "slug": "amnon",
+    "period": 6,
+    "start": -1010,
+    "end": -987,
+    "type": "minor",
+    "title": {
+      "en": "Amnon"
+    },
+    "dates": {
+      "en": "1010–987 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 13310,
+      "width": 0,
+      "hoverWidth": 506,
+      "bar": false
+    }
+  },
+  {
+    "id": 802,
+    "slug": "bathsheba",
+    "period": 6,
+    "start": -1009,
+    "end": -937,
+    "type": "major",
+    "title": {
+      "en": "Bathsheba"
+    },
+    "dates": {
+      "en": "1009–937 BC"
+    },
+    "image": "media/images/t/bathsheba-receiving-david-s-letter_8-5-2013 3-48-46 PM.jpg",
+    "layout": {
+      "row": 15,
+      "left": 13332,
+      "width": 0,
+      "hoverWidth": 1584,
+      "bar": false
+    }
+  },
+  {
+    "id": 821,
+    "slug": "absalom",
+    "period": 6,
+    "start": -1009,
+    "end": -978,
+    "type": "major",
+    "title": {
+      "en": "Absalom"
+    },
+    "dates": {
+      "en": "1009–978 BC (~31)"
+    },
+    "image": "media/images/t/GoodSalt-Absalom_8-5-2013 4-42-42 PM.jpg",
+    "layout": {
+      "row": 17,
+      "left": 13332,
+      "width": 682,
+      "hoverWidth": 682,
+      "bar": true
+    }
+  },
+  {
+    "id": 822,
+    "slug": "david-king-over-united-israel",
+    "period": 6,
+    "start": -1003,
+    "end": -970,
+    "type": "minor",
+    "title": {
+      "en": "David King over United Israel"
+    },
+    "dates": {
+      "en": "1003–970 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 13464,
+      "width": 0,
+      "hoverWidth": 726,
+      "bar": false
+    }
+  },
+  {
+    "id": 823,
+    "slug": "david-conquers-jerusalem-from-jebusites",
+    "period": 6,
+    "start": -1003,
+    "end": -1003,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "David Conquers Jerusalem from Jebusites"
+    },
+    "dates": {
+      "en": "1003 BC"
+    },
+    "image": "media/images/t/GoodSalt-prcas2122_8-5-2013 4-49-03 PM.jpg",
+    "layout": {
+      "row": 19,
+      "left": 13464,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 824,
+    "slug": "david-defeats-enemies-extends-territory",
+    "period": 6,
+    "start": -1003,
+    "end": -997,
+    "type": "minor",
+    "title": {
+      "en": "David Defeats Enemies, Extends Territory"
+    },
+    "dates": {
+      "en": "1003–997 BC"
+    },
+    "layout": {
+      "row": 21,
+      "left": 13464,
+      "width": 0,
+      "hoverWidth": 132,
+      "bar": false
+    }
+  },
+  {
+    "id": 827,
+    "slug": "david-lays-plans-for-the-temple",
+    "period": 6,
+    "start": -997,
+    "end": -997,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "David Lays Plans for the Temple"
+    },
+    "dates": {
+      "en": "997 BC"
+    },
+    "image": "media/images/t/David and Ark of the Covenant_5-1-2013 12-17-06 PM.jpg",
+    "layout": {
+      "row": 22,
+      "left": 13596,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 828,
+    "slug": "david-shows-kindness-to-mephibosheth",
+    "period": 6,
+    "start": -997,
+    "end": -997,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "David Shows Kindness to Mephibosheth"
+    },
+    "dates": {
+      "en": "997 BC"
+    },
+    "image": "media/images/t/GoodSalt-DavidMephibosheth_8-5-2013 5-34-41 PM.jpg",
+    "layout": {
+      "row": 15,
+      "left": 13596,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 833,
+    "slug": "davids-adultery-with-bathsheba",
+    "period": 6,
+    "start": -992,
+    "end": -992,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "David's Adultery with Bathsheba"
+    },
+    "dates": {
+      "en": "992 BC"
+    },
+    "image": "media/images/t/GoodSalt-jcgas0037_8-5-2013 5-49-36 PM.jpg",
+    "layout": {
+      "row": 5,
+      "left": 13706,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 835,
+    "slug": "david-rebuked-by-nathan",
+    "period": 6,
+    "start": -991,
+    "end": -991,
+    "type": "minor",
+    "title": {
+      "en": "David Rebuked by Nathan"
+    },
+    "dates": {
+      "en": "991 BC"
+    },
+    "layout": {
+      "row": 4,
+      "left": 13728,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 836,
+    "slug": "davids-child-from-adultery-dies-1st-judgment",
+    "period": 6,
+    "start": -991,
+    "end": -991,
+    "type": "minor",
+    "title": {
+      "en": "David's Child from Adultery Dies, 1st Judgment"
+    },
+    "dates": {
+      "en": "991 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 13728,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 839,
+    "slug": "david-wrote-psalm-32",
+    "period": 6,
+    "start": -991,
+    "end": -991,
+    "type": "minor",
+    "title": {
+      "en": "David Wrote Psalm 32"
+    },
+    "dates": {
+      "en": "991 BC"
+    },
+    "layout": {
+      "row": 7,
+      "left": 13728,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 838,
+    "slug": "solomon",
+    "period": 6,
+    "start": -989,
+    "end": -931,
+    "type": "major",
+    "title": {
+      "en": "Solomon"
+    },
+    "dates": {
+      "en": "989–931 BC (~58)"
+    },
+    "image": "media/images/t/GoodSalt-lwjas0181_8-8-2013 12-16-00 PM.jpg",
+    "layout": {
+      "row": 9,
+      "left": 13772,
+      "width": 1276,
+      "hoverWidth": 1276,
+      "bar": true
+    }
+  },
+  {
+    "id": 840,
+    "slug": "amnon-rapes-his-sister",
+    "period": 6,
+    "start": -989,
+    "end": -989,
+    "type": "minor",
+    "title": {
+      "en": "Amnon Rapes His Sister"
+    },
+    "dates": {
+      "en": "989 BC"
+    },
+    "layout": {
+      "row": 3,
+      "left": 13772,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 842,
+    "slug": "absalom-murders-amnon-2nd-judgment",
+    "period": 6,
+    "start": -987,
+    "end": -987,
+    "type": "minor",
+    "title": {
+      "en": "Absalom Murders Amnon, 2nd Judgment"
+    },
+    "dates": {
+      "en": "987 BC"
+    },
+    "layout": {
+      "row": 2,
+      "left": 13816,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 843,
+    "slug": "absalom-returns-to-jerusalem-from-geshur",
+    "period": 6,
+    "start": -984,
+    "end": -984,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Absalom Returns to Jerusalem from Geshur"
+    },
+    "dates": {
+      "en": "984 BC"
+    },
+    "image": "media/images/t/GoodSalt-prcas0690_8-22-2013 2-40-45 PM.jpg",
+    "layout": {
+      "row": 14,
+      "left": 13882,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 844,
+    "slug": "absalom-reconciled-to-david",
+    "period": 6,
+    "start": -982,
+    "end": -982,
+    "type": "minor",
+    "title": {
+      "en": "Absalom Reconciled to David"
+    },
+    "dates": {
+      "en": "982 BC"
+    },
+    "layout": {
+      "row": 7,
+      "left": 13926,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 846,
+    "slug": "david-flees-jerusalem",
+    "period": 6,
+    "start": -978,
+    "end": -978,
+    "type": "minor",
+    "title": {
+      "en": "David Flees Jerusalem"
+    },
+    "dates": {
+      "en": "978 BC"
+    },
+    "layout": {
+      "row": 18,
+      "left": 14014,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 848,
+    "slug": "david-numbers-israel",
+    "period": 6,
+    "start": -974,
+    "end": -974,
+    "type": "minor",
+    "title": {
+      "en": "David Numbers Israel"
+    },
+    "dates": {
+      "en": "974 BC"
+    },
+    "layout": {
+      "row": 16,
+      "left": 14102,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 850,
+    "slug": "rehoboam",
+    "period": 6,
+    "start": -972,
+    "end": -913,
+    "type": "major",
+    "title": {
+      "en": "Rehoboam"
+    },
+    "dates": {
+      "en": "972–913 BC (~59)"
+    },
+    "image": "media/images/t/GoodSalt-stdas0014_8-22-2013 2-52-06 PM.jpg",
+    "layout": {
+      "row": 20,
+      "left": 14146,
+      "width": 1298,
+      "hoverWidth": 1298,
+      "bar": true
+    }
+  },
+  {
+    "id": 851,
+    "slug": "rebellion-of-adonijah-4th-judgment",
+    "period": 6,
+    "start": -971,
+    "end": -971,
+    "type": "minor",
+    "title": {
+      "en": "Rebellion of Adonijah, 4th Judgment"
+    },
+    "dates": {
+      "en": "971 BC"
+    },
+    "layout": {
+      "row": 17,
+      "left": 14168,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 852,
+    "slug": "hiram-offers-skill-and-resources-to-solomon",
+    "period": 6,
+    "start": -969,
+    "end": -969,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Hiram Offers Skill and Resources to Solomon"
+    },
+    "dates": {
+      "en": "969 BC"
+    },
+    "image": "media/images/t/GoodSalt-prcas1633_8-6-2013 9-15-29 AM.jpg",
+    "layout": {
+      "row": 18,
+      "left": 14212,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 855,
+    "slug": "solomon-marries-daughter-of-pharaoh",
+    "period": 6,
+    "start": -967,
+    "end": -967,
+    "type": "minor",
+    "title": {
+      "en": "Solomon Marries Daughter of Pharaoh"
+    },
+    "dates": {
+      "en": "967 BC"
+    },
+    "layout": {
+      "row": 7,
+      "left": 14256,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 856,
+    "slug": "pharaoh-conquers-gezer-gives-as-present-to-daughter",
+    "period": 6,
+    "start": -967,
+    "end": -967,
+    "type": "minor",
+    "title": {
+      "en": "Pharaoh Conquers Gezer, Dowry for Daughter"
+    },
+    "dates": {
+      "en": "967 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 14256,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 857,
+    "slug": "solomon-receives-wisdom",
+    "period": 6,
+    "start": -967,
+    "end": -967,
+    "type": "minor",
+    "title": {
+      "en": "Solomon Receives Wisdom"
+    },
+    "dates": {
+      "en": "967 BC"
+    },
+    "layout": {
+      "row": 8,
+      "left": 14256,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 862,
+    "slug": "lord-speaks-to-solomon-2nd-time",
+    "period": 6,
+    "start": -959,
+    "end": -959,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Lord Speaks to Solomon 2nd Time"
+    },
+    "dates": {
+      "en": "959 BC"
+    },
+    "image": "media/images/t/GoodSalt-lwjas0332_8-6-2013 9-42-23 AM.jpg",
+    "layout": {
+      "row": 5,
+      "left": 14432,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 861,
+    "slug": "solomon-completes-his-palace",
+    "period": 6,
+    "start": -946,
+    "end": -946,
+    "type": "minor",
+    "title": {
+      "en": "Solomon Completes His Palace"
+    },
+    "dates": {
+      "en": "946 BC"
+    },
+    "layout": {
+      "row": 12,
+      "left": 14718,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 863,
+    "slug": "hiram-inspects-his-payment-in-cities",
+    "period": 6,
+    "start": -946,
+    "end": -946,
+    "type": "minor",
+    "title": {
+      "en": "Hiram Inspects His Payment in Cities"
+    },
+    "dates": {
+      "en": "946 BC"
+    },
+    "layout": {
+      "row": 11,
+      "left": 14718,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 865,
+    "slug": "solomon-works-on-millo-and-building-up-cities",
+    "period": 6,
+    "start": -945,
+    "end": -931,
+    "type": "minor",
+    "title": {
+      "en": "Solomon Fortifies Cities"
+    },
+    "dates": {
+      "en": "945–931 BC"
+    },
+    "layout": {
+      "row": 15,
+      "left": 14740,
+      "width": 0,
+      "hoverWidth": 308,
+      "bar": false
+    }
+  },
+  {
+    "id": 866,
+    "slug": "arrival-of-queen-of-sheba",
+    "period": 6,
+    "start": -945,
+    "end": -945,
+    "type": "minor",
+    "title": {
+      "en": "Arrival of Queen of Sheba"
+    },
+    "dates": {
+      "en": "945 BC"
+    },
+    "layout": {
+      "row": 14,
+      "left": 14740,
+      "width": 0,
+      "hoverWidth": 0,
+      "bar": false
+    }
+  },
+  {
+    "id": 860,
+    "slug": "menan",
+    "period": 6,
+    "start": -937,
+    "end": -857,
+    "type": "minor",
+    "title": {
+      "en": "Menan"
+    },
+    "dates": {
+      "en": "937–857 BC"
+    },
+    "layout": {
+      "row": 16,
+      "left": 14916,
+      "width": 0,
+      "hoverWidth": 1760,
+      "bar": false
+    }
+  },
+  {
+    "id": 869,
+    "slug": "asa",
+    "period": 6,
+    "start": -936,
+    "end": -870,
+    "type": "minor",
+    "title": {
+      "en": "Asa"
+    },
+    "dates": {
+      "en": "936–870 BC"
+    },
+    "layout": {
+      "row": 17,
+      "left": 14938,
+      "width": 0,
+      "hoverWidth": 1452,
+      "bar": false
+    }
+  },
+  {
+    "id": 872,
+    "slug": "nadab",
+    "period": 6,
+    "start": -933,
+    "end": -909,
+    "type": "major",
+    "title": {
+      "en": "Nadab"
+    },
+    "dates": {
+      "en": "933–909 BC (~24)"
+    },
+    "image": "media/images/t/Nadab_of_Israel.jpg",
+    "layout": {
+      "row": 18,
+      "left": 15004,
+      "width": 528,
+      "hoverWidth": 528,
+      "bar": true
+    }
+  },
+  {
+    "id": 873,
+    "slug": "baasha",
+    "period": 6,
+    "start": -933,
+    "end": -886,
+    "type": "minor",
+    "title": {
+      "en": "Baasha"
+    },
+    "dates": {
+      "en": "933–886 BC"
+    },
+    "layout": {
+      "row": 22,
+      "left": 15004,
+      "width": 0,
+      "hoverWidth": 1034,
+      "bar": false
+    }
+  }
+]

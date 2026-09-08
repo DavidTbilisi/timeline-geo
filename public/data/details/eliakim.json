@@ -2,25 +2,30 @@
   "slug": "eliakim",
   "id": 610,
   "period": 8,
-  "titleEn": "Eliakim",
-  "titleKa": null,
-  "datesEn": "455&ndash;392 <span>BC</span>",
-  "datesKa": null,
-  "descriptionEn": "A descendant of Zerubbabel (KJV &#34;Zorobabel&#34;) who appears in Matthew&#39;s genealogy of Jesus Christ (Mt 1:13).",
-  "descriptionKa": null,
-  "articleEn": "Eliakim (e?&#8212;li`a&#8212;kim). [Heb. &#39;Elyaq&#238;m, &#34;God establishes.&#34; <BR /> A descendant of Zerubbabel (KJV &#34;Zorobabel&#34;) who appears in Matthew&#39;s genealogy of Jesus Christ (Mt 1:13).<BR />",
-  "articleKa": null,
-  "scriptures": [],
+  "title": {
+    "en": "Eliakim"
+  },
+  "dates": {
+    "en": "455&ndash;392 <span>BC</span>"
+  },
+  "description": {
+    "en": "A descendant of Zerubbabel (KJV &#34;Zorobabel&#34;) who appears in Matthew&#39;s genealogy of Jesus Christ (Mt 1:13)."
+  },
+  "article": {
+    "en": "Eliakim (e?&#8212;li`a&#8212;kim). [Heb. &#39;Elyaq&#238;m, &#34;God establishes.&#34; <BR /> A descendant of Zerubbabel (KJV &#34;Zorobabel&#34;) who appears in Matthew&#39;s genealogy of Jesus Christ (Mt 1:13).<BR />"
+  },
   "related": [
     {
       "slug": "abiud",
-      "titleEn": "Abiud",
-      "titleKa": null
+      "title": {
+        "en": "Abiud"
+      }
     },
     {
       "slug": "azor",
-      "titleEn": "Azor",
-      "titleKa": null
+      "title": {
+        "en": "Azor"
+      }
     }
   ],
   "images": [
