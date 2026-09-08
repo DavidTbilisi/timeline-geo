@@ -25,7 +25,14 @@ test.describe('visual baselines', () => {
     await page.goto('/')
     await page.waitForSelector('[data-testid^="period-card-"]')
     await settle(page)
-    await expect(page).toHaveScreenshot('landing.png', { animations: 'disabled' })
+    // The welcome paragraph and the footer bar render in Georgia, a system
+    // font whose fallback differs between machines; mask them and allow a
+    // little more slack for the remaining anti-aliasing differences.
+    await expect(page).toHaveScreenshot('landing.png', {
+      animations: 'disabled',
+      mask: [page.locator('.landing-footer .welcome p'), page.locator('.landing-footer .bar')],
+      maxDiffPixelRatio: 0.02,
+    })
   })
 
   test('timeline: first period', async ({ page }) => {
