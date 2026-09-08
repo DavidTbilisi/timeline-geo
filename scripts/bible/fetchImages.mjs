@@ -13,6 +13,13 @@
  *   node scripts/bible/fetchImages.mjs --concurrency 3
  *   node scripts/bible/fetchImages.mjs --delay 100
  *   node scripts/bible/fetchImages.mjs --redo         # re-download even if present
+ *   node scripts/bible/fetchImages.mjs --strict       # exit non-zero if any image fails
+ *
+ * The images are decoration: the app hides a thumbnail whose request fails, so
+ * a partial mirror is not an error. The script therefore exits 0 by default
+ * (use --strict to change that), and gives up early when the first `--probe`
+ * downloads all fail, which means the origin is unreachable from here rather
+ * than that individual files are missing.
  */
 import { writeFileSync, mkdirSync, existsSync, statSync } from 'node:fs'
 import { resolve, dirname } from 'node:path'
@@ -25,14 +32,19 @@ import { mkLog } from '../lib/log.mjs'
 const log = mkLog('fetchImages')
 const DETAILS_DIR = resolve(ROOT, 'public/data/details')
 const PUBLIC_DIR = resolve(ROOT, 'public')
-const ORIGIN = 'https://timeline.biblehistory.com'
+const DEFAULT_ORIGIN = 'https://timeline.biblehistory.com'
 const DETAIL_IMAGE_BASE = 'media/images/original/'
 
-const args = parseArgs(process.argv.slice(2), { booleans: ['--redo'] })
+const args = parseArgs(process.argv.slice(2), { booleans: ['--redo', '--strict'] })
 const LIMIT = args.int('--limit', 0)
 const CONCURRENCY = Math.max(1, args.int('--concurrency', 3))
 const DELAY_MS = args.int('--delay', 120)
 const REDO = args.flag('--redo')
+const STRICT = args.flag('--strict')
+/** Give up once this many downloads have failed with none succeeding. */
+const PROBE = args.int('--probe', 10)
+/** Where to mirror from; overridable so the failure path can be exercised. */
+const ORIGIN = args.value('--origin', DEFAULT_ORIGIN)
 
 function collectRefs() {
   const refs = []
@@ -51,7 +63,10 @@ function collectRefs() {
 
 const urlFor = (rel) => `${ORIGIN}/${rel.split('/').map(encodeURIComponent).join('/')}`
 
+let unreachable = false
+
 async function downloadOne(rel) {
+  if (unreachable) return { rel, status: 'skip' }
   const outPath = resolve(PUBLIC_DIR, rel)
   mkdirSync(dirname(outPath), { recursive: true })
   try {
@@ -83,20 +98,35 @@ if (work.length === 0) {
 }
 log.info('downloading', { work: work.length, todo: todo.length, concurrency: CONCURRENCY, delayMs: DELAY_MS })
 
-let okCount = 0, failCount = 0, totalBytes = 0, done = 0
+let okCount = 0, failCount = 0, skipCount = 0, totalBytes = 0, done = 0
 const failures = []
 const start = Date.now()
 await runPool(work, async (rel) => {
   const r = await downloadOne(rel)
   done++
-  if (r.status === 'ok') { okCount++; totalBytes += r.bytes } else { failCount++; failures.push(r); log.error('download failed', { rel: r.rel, error: r.error }) }
-  log.progress(`${done}/${work.length} (${((done / work.length) * 100).toFixed(1)}%)  ok=${okCount} fail=${failCount}  ${(totalBytes / 1024 / 1024).toFixed(1)}MB`)
+  if (r.status === 'ok') { okCount++; totalBytes += r.bytes }
+  else if (r.status === 'skip') { skipCount++ }
+  else {
+    failCount++
+    failures.push(r)
+    log.error('download failed', { rel: r.rel, error: r.error })
+    // Every attempt so far has failed: the origin is unreachable from this
+    // machine (blocked, offline, DNS). Retrying the rest would cost hours.
+    if (okCount === 0 && failCount >= PROBE && !unreachable) {
+      unreachable = true
+      log.progressDone()
+      log.warn('origin unreachable, skipping the rest', { origin: ORIGIN, failedProbes: failCount })
+    }
+  }
+  log.progress(`${done}/${work.length} (${((done / work.length) * 100).toFixed(1)}%)  ok=${okCount} fail=${failCount} skip=${skipCount}  ${(totalBytes / 1024 / 1024).toFixed(1)}MB`)
   return r
 }, { concurrency: CONCURRENCY, delayMs: DELAY_MS })
 log.progressDone()
-log.info('done', { seconds: ((Date.now() - start) / 1000).toFixed(1), ok: okCount, fail: failCount, mb: (totalBytes / 1024 / 1024).toFixed(1) })
+log.info('done', { seconds: ((Date.now() - start) / 1000).toFixed(1), ok: okCount, fail: failCount, skip: skipCount, mb: (totalBytes / 1024 / 1024).toFixed(1) })
 if (failures.length) {
   writeJSON(resolve(ROOT, 'scripts/cache/_image_failures.json'), failures)
-  log.warn('failures recorded', { file: 'scripts/cache/_image_failures.json' })
+  log.warn('failures recorded', { count: failures.length, file: 'scripts/cache/_image_failures.json' })
 }
-if (failCount) process.exitCode = 2
+// Missing images degrade gracefully in the app, so a partial mirror is not a
+// build failure unless the caller asks for that.
+if (STRICT && (failCount || skipCount)) process.exitCode = 2

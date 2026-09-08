@@ -44,8 +44,13 @@ jobs:
           restore-keys: |
             media-${{ runner.os }}-
 
+      # Best-effort mirror: the app hides thumbnails whose request fails, and
+      # the origin blocks GitHub runners, so this must never hang or fail the
+      # deploy. The script gives up early when the origin is unreachable.
       - name: Fetch reference images (if not cached)
         run: npm run fetch:images
+        timeout-minutes: 20
+        continue-on-error: true
 
       - name: Build
         run: npm run build
