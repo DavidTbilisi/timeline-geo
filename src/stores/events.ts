@@ -2,7 +2,7 @@ import { defineStore } from 'pinia'
 import { ref } from 'vue'
 import type { LaidOutEvent, EventDetail } from '@lib/types'
 import { useTimelineConfig } from '@lib/config'
-import { applyLayout } from '@lib/layout/applyOverrides'
+import { layoutEvents } from '@lib/layout'
 import { pickLocalized } from '@lib/i18n/localized'
 import { log } from '@/utils/log'
 
@@ -25,7 +25,7 @@ export const useEventsStore = defineStore('events', () => {
     const t0 = performance.now()
     try {
       const raw = await config.loaders.events(period)
-      const events = applyLayout(raw)
+      const events = layoutEvents(raw, config.periods, config.layout)
       byPeriod.value[period] = events
       log.data('loadPeriod loaded', { period, count: events.length, ms: Math.round(performance.now() - t0) })
       return events

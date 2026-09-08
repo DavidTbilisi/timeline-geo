@@ -7,6 +7,19 @@ export const DEFAULT_LAYOUT: Omit<ResolvedLayoutOptions, 'stageWidth' | 'endYear
   sidebarWidth: 220,
   datebarHeight: 66,
   footerHeight: 75,
+  maxRows: 24,
+  rowPitch: 50,
+  rowOffset: 20,
+  eventOffsetX: 110,
+  cardWidth: 260,
+  majorHeight: 80,
+  smallHeight: 50,
+  minorHeight: 30,
+  bandOffset: 18,
+  barMinPx: 360,
+  packGap: 8,
+  centerFudge: 24,
+  activePeriodOffset: -17,
 }
 
 /**

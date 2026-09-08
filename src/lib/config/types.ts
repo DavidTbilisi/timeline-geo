@@ -16,6 +16,29 @@ export interface LayoutOptions {
   sidebarWidth?: number
   datebarHeight?: number
   footerHeight?: number
+  /** Highest row the packer may use. */
+  maxRows?: number
+  /** Vertical distance between rows (px). */
+  rowPitch?: number
+  /** Top edge of row 1 (px). */
+  rowOffset?: number
+  /** Horizontal offset added to every event's projected start (px). */
+  eventOffsetX?: number
+  /** Rendered width of a card without a duration bar (px). */
+  cardWidth?: number
+  majorHeight?: number
+  smallHeight?: number
+  minorHeight?: number
+  /** Sub-band drop for minors that overlap a same-row event (px). */
+  bandOffset?: number
+  /** Minimum projected span for a major event to render as a bar (px). */
+  barMinPx?: number
+  /** Horizontal gap the packer keeps between events on a row (px). */
+  packGap?: number
+  /** Subtracted from the viewport centre when reading the current year (px). */
+  centerFudge?: number
+  /** Added to the viewport centre when detecting the active period (px). */
+  activePeriodOffset?: number
 }
 export type ResolvedLayoutOptions = Required<LayoutOptions>
 

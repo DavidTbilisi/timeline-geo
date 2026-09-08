@@ -45,5 +45,9 @@ export interface LaidOutEvent extends TimelineEventInput {
   width: number
   hoverWidth: number
   row: number
+  /** Top edge in px, derived from `row`. */
+  top: number
   bar: boolean
+  /** Which values the layout engine computed (false = taken from `layout` overrides). */
+  auto: { left: boolean; width: boolean; hoverWidth: boolean; row: boolean; bar: boolean }
 }

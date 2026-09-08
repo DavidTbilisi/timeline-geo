@@ -3,6 +3,7 @@ import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { getDateTicks } from '@/composables/useDateTicks'
 import { useTimelineConfig } from '@lib/config'
+import { formatYear as formatYearLabel } from '@lib/layout'
 
 // flip = true: ticks at top of bar, label below (used for bottom bar)
 // flip = false (default): ticks at bottom of bar, label above (used for top bar)
@@ -17,9 +18,7 @@ const minorTicks = computed(() => allTicks.filter(t => !t.major))
 const majorTicks = computed(() => allTicks.filter(t => t.major))
 
 function formatYear(year: number): string {
-  if (year < 0) return `${Math.abs(year)} ${t('timeline.bc')}`
-  if (year === 0) return `1 ${t('timeline.ad')}`
-  return `${year} ${t('timeline.ad')}`
+  return formatYearLabel(year, { bc: t('timeline.bc'), ad: t('timeline.ad') })
 }
 
 // Shared styles for ticks and labels based on flip direction
