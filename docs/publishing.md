@@ -34,8 +34,16 @@ EXAMPLE_USE_DIST=1 npm run build:example && npm run test:example
 
 `prepublishOnly` runs the first four.
 
-## Open decisions
+## Before the first publish
 
-- **Name.** `timeline-geo` reads as "Georgian timeline". A scoped name (`@<owner>/timeline-engine`) avoids collisions; the repository name can stay. The example imports `timeline-geo` through an alias, so renaming touches `package.json`, `examples/minimal/vite.config.ts`, `tsconfig.example.json` and the docs.
-- **License.** There is no `LICENSE` file yet; add one and a `license` field before `npm publish`, and drop `private: true`.
-- **Content licensing.** The Bible content (issue #17) never ships; the example dataset is synthetic.
+The package is `@davidtbilisi/timeline-engine` under BSD-3-Clause. One step remains: `package.json` still carries `"private": true`, which makes `npm publish` refuse. Drop it when you are ready, and publish a scoped package as public the first time:
+
+```bash
+npm publish --access public
+```
+
+Scoped names never collide, so the repository can keep its own name (`timeline-geo`); only the import specifier changed.
+
+## Licensing
+
+The BSD-3-Clause license covers the code. The Bible dataset and artwork came from timeline.biblehistory.com and are not the author's to license (issue #17), which is why `files` whitelists `dist`, `bin`, `schema`, the README and the LICENSE, and why the example dataset is synthetic.

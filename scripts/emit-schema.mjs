@@ -15,7 +15,7 @@ const outDir = resolve(ROOT, 'schema')
 mkdirSync(outDir, { recursive: true })
 for (const [name, schema] of Object.entries(schemas)) {
   const json = z.toJSONSchema(schema, { target: 'draft-2020-12' })
-  json.$id = `https://timeline-geo.dev/schema/${name}.schema.json`
+  json.$id = `https://davidtbilisi.github.io/timeline-geo/schema/${name}.schema.json`
   json.title = `Timeline ${name}`
   writeFileSync(resolve(outDir, `${name}.schema.json`), JSON.stringify(json, null, 2) + '\n')
 }

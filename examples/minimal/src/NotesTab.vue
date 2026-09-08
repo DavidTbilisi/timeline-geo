@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import type { EventDetail } from 'timeline-geo'
+import type { EventDetail } from '@davidtbilisi/timeline-engine'
 
 /**
  * A dataset-specific detail tab: renders `extensions.notes` (string[]).

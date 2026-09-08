@@ -7,10 +7,10 @@
     ],
     "baseUrl": ".",
     "paths": {
-      "timeline-geo": [
+      "@davidtbilisi/timeline-engine": [
         "./src/lib/index.ts"
       ],
-      "timeline-geo/style.css": [
+      "@davidtbilisi/timeline-engine/style.css": [
         "./src/lib/styles/lib.css"
       ]
     },

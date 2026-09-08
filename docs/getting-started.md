@@ -5,7 +5,7 @@ The engine renders a horizontally scrolling timeline: a landing page of period c
 ## Install
 
 ```bash
-npm install timeline-geo vue pinia vue-router vue-i18n
+npm install @davidtbilisi/timeline-engine vue pinia vue-router vue-i18n
 ```
 
 `vue`, `pinia`, `vue-router` and `vue-i18n` are peer dependencies: the engine plugs into instances you create, so it never fights your app over them.
@@ -18,8 +18,8 @@ import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import { createRouter, createWebHistory } from 'vue-router'
 import { createI18n } from 'vue-i18n'
-import { createTimeline, defineTimelineConfig, staticJsonLoaders } from 'timeline-geo'
-import 'timeline-geo/style.css'
+import { createTimeline, defineTimelineConfig, staticJsonLoaders } from '@davidtbilisi/timeline-engine'
+import '@davidtbilisi/timeline-engine/style.css'
 import App from './App.vue'
 import periods from './content/periods.json'
 import eras from './content/eras.json'

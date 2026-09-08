@@ -1,6 +1,6 @@
 # Theming
 
-Import `timeline-geo/style.css` once. It contains the engine stylesheet (a small reset, the timeline, the landing page, the overlay) plus the Tailwind utilities the engine's own components use, generated without preflight so your base styles are untouched. It references no images and no dataset values; those arrive as CSS custom properties.
+Import `@davidtbilisi/timeline-engine/style.css` once. It contains the engine stylesheet (a small reset, the timeline, the landing page, the overlay) plus the Tailwind utilities the engine's own components use, generated without preflight so your base styles are untouched. It references no images and no dataset values; those arrive as CSS custom properties.
 
 ## Variables emitted from the config
 
@@ -41,4 +41,4 @@ Period images come from `period.sidebarImage` / `period.cardImage`, era logos fr
 
 ## Overriding
 
-Load your stylesheet after `timeline-geo/style.css`; the engine uses low-specificity class selectors (`.landing-period h3`, `.tl-event.major`, `.landing-footer .welcome h3`), so a single class or a `:lang()` prefix wins. The Bible app's `src/app/styles/bible-theme.css` is a worked example: licensed fonts, an era-name sprite instead of text, footer art, and narrower Georgian headings.
+Load your stylesheet after `@davidtbilisi/timeline-engine/style.css`; the engine uses low-specificity class selectors (`.landing-period h3`, `.tl-event.major`, `.landing-footer .welcome h3`), so a single class or a `:lang()` prefix wins. The Bible app's `src/app/styles/bible-theme.css` is a worked example: licensed fonts, an era-name sprite instead of text, footer art, and narrower Georgian headings.

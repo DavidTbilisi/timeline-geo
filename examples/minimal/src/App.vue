@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { watchEffect } from 'vue'
 import { RouterView } from 'vue-router'
-import { useTimelineConfig, useLocalized } from 'timeline-geo'
+import { useTimelineConfig, useLocalized } from '@davidtbilisi/timeline-engine'
 
 const config = useTimelineConfig()
 const { l } = useLocalized()

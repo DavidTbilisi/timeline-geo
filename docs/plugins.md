@@ -18,7 +18,7 @@ interface DetailTabPlugin {
 Add, drop or reorder:
 
 ```ts
-import { articleTab, relatedTab, imagesTab, type DetailTabPlugin } from 'timeline-geo'
+import { articleTab, relatedTab, imagesTab, type DetailTabPlugin } from '@davidtbilisi/timeline-engine'
 import NotesTab from './NotesTab.vue'
 
 const notesTab: DetailTabPlugin = {
@@ -36,7 +36,7 @@ A tab component:
 
 ```vue
 <script setup lang="ts">
-import type { EventDetail } from 'timeline-geo'
+import type { EventDetail } from '@davidtbilisi/timeline-engine'
 const props = defineProps<{ detail: EventDetail; periodColor: string }>()
 </script>
 ```
@@ -64,7 +64,7 @@ interface LandingPanelPlugin {
 Detail records carry dataset data under `extensions`. Augment the interface once and every `detail.extensions.<key>` is typed:
 
 ```ts
-declare module 'timeline-geo' {
+declare module '@davidtbilisi/timeline-engine' {
   interface DetailExtensions { scriptures: Scripture[] }
 }
 ```
