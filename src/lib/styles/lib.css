@@ -1,0 +1,5 @@
+/* Published stylesheet: the engine styles plus the Tailwind utilities the
+   engine's components use (built with tailwind.lib.config.ts, no preflight). */
+@import './engine.css';
+@tailwind components;
+@tailwind utilities;

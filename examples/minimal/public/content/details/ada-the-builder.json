@@ -1,0 +1,34 @@
+{
+  "slug": "ada-the-builder",
+  "id": 7,
+  "period": 2,
+  "title": {
+    "en": "Ada the Builder",
+    "de": "Ada die Baumeisterin"
+  },
+  "dates": {
+    "en": "95 BC–10 AD (105)"
+  },
+  "description": {
+    "en": "Engineer of the aqueduct and the harbour walls."
+  },
+  "article": {
+    "en": "Ada trained under the bridge-wrights of the Settlement age.<br><br>Her aqueduct still carries water to the upper town."
+  },
+  "related": [
+    {
+      "slug": "aqueduct",
+      "title": {
+        "en": "Aqueduct",
+        "de": "Aquädukt"
+      }
+    }
+  ],
+  "images": [],
+  "videos": [],
+  "extensions": {
+    "notes": [
+      "A lifespan renders as a bar because it projects to more than barMinPx."
+    ]
+  }
+}

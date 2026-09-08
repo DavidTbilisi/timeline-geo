@@ -1,0 +1,21 @@
+{
+  "slug": "observatory",
+  "id": 12,
+  "period": 3,
+  "title": {
+    "en": "Observatory",
+    "de": "Observatorium"
+  },
+  "dates": {
+    "en": "80–140 AD"
+  },
+  "description": {
+    "en": "Sixty years of star charts from the hill above the archive."
+  },
+  "article": {
+    "en": "The observatory was funded by the new charter and staffed by the poets of the Lantern Road, who found the night sky good company."
+  },
+  "related": [],
+  "images": [],
+  "videos": []
+}

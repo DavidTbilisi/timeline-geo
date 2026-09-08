@@ -1,0 +1,62 @@
+[
+  {
+    "id": 11,
+    "slug": "new-charter",
+    "period": 3,
+    "start": 50,
+    "end": 50,
+    "type": "major",
+    "title": {
+      "en": "New Charter",
+      "de": "Neue Charta"
+    }
+  },
+  {
+    "id": 12,
+    "slug": "observatory",
+    "period": 3,
+    "start": 80,
+    "end": 140,
+    "type": "major",
+    "title": {
+      "en": "Observatory",
+      "de": "Observatorium"
+    }
+  },
+  {
+    "id": 13,
+    "slug": "tovan-the-poet",
+    "period": 3,
+    "start": 95,
+    "end": 170,
+    "type": "major",
+    "title": {
+      "en": "Tovan the Poet",
+      "de": "Tovan der Dichter"
+    }
+  },
+  {
+    "id": 14,
+    "slug": "lantern-road",
+    "period": 3,
+    "start": 120,
+    "end": 120,
+    "type": "minor",
+    "title": {
+      "en": "Lantern Road",
+      "de": "Laternenstraße"
+    }
+  },
+  {
+    "id": 15,
+    "slug": "archive-founded",
+    "period": 3,
+    "start": 160,
+    "end": 160,
+    "type": "minor",
+    "title": {
+      "en": "Archive Founded",
+      "de": "Archiv gegründet"
+    }
+  }
+]

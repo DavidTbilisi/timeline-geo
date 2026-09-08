@@ -58,3 +58,6 @@ Thumbs.db
 *.njsproj
 *.sln
 *.sw?
+
+# Example consumer build output
+examples/minimal/dist

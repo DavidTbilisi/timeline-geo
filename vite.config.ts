@@ -95,6 +95,8 @@ export default defineConfig({
     port: 3000,
   },
   build: {
+    // The library build owns dist/; the deployable app goes to dist-app/.
+    outDir: 'dist-app',
     rollupOptions: {
       output: {
         manualChunks(id) {

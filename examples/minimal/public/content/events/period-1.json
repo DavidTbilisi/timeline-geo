@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "slug": "founders-arrive",
+    "period": 1,
+    "start": -300,
+    "end": -300,
+    "type": "major",
+    "title": {
+      "en": "Founders arrive",
+      "de": "Die Gründer kommen an"
+    }
+  },
+  {
+    "id": 2,
+    "slug": "mira-the-mapmaker",
+    "period": 1,
+    "start": -290,
+    "end": -160,
+    "type": "major",
+    "title": {
+      "en": "Mira the Mapmaker",
+      "de": "Mira die Kartenmacherin"
+    }
+  },
+  {
+    "id": 3,
+    "slug": "the-long-winter",
+    "period": 1,
+    "start": -260,
+    "end": -250,
+    "type": "minor",
+    "title": {
+      "en": "The Long Winter",
+      "de": "Der lange Winter"
+    }
+  },
+  {
+    "id": 4,
+    "slug": "first-council",
+    "period": 1,
+    "start": -240,
+    "end": -240,
+    "type": "minor",
+    "title": {
+      "en": "First Council",
+      "de": "Erster Rat"
+    }
+  },
+  {
+    "id": 5,
+    "slug": "bridge-of-stones",
+    "period": 1,
+    "start": -230,
+    "end": -226,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Bridge of Stones",
+      "de": "Steinbrücke"
+    }
+  }
+]

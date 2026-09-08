@@ -1,0 +1,63 @@
+[
+  {
+    "id": 6,
+    "slug": "great-market",
+    "period": 2,
+    "start": -90,
+    "end": -20,
+    "type": "major",
+    "title": {
+      "en": "Great Market",
+      "de": "Großer Markt"
+    }
+  },
+  {
+    "id": 7,
+    "slug": "ada-the-builder",
+    "period": 2,
+    "start": -95,
+    "end": 10,
+    "type": "major",
+    "title": {
+      "en": "Ada the Builder",
+      "de": "Ada die Baumeisterin"
+    }
+  },
+  {
+    "id": 8,
+    "slug": "aqueduct",
+    "period": 2,
+    "start": -60,
+    "end": -60,
+    "type": "minor",
+    "title": {
+      "en": "Aqueduct",
+      "de": "Aquädukt"
+    }
+  },
+  {
+    "id": 9,
+    "slug": "festival-of-lights",
+    "period": 2,
+    "start": -40,
+    "end": -40,
+    "type": "minor",
+    "title": {
+      "en": "Festival of Lights",
+      "de": "Lichterfest"
+    }
+  },
+  {
+    "id": 10,
+    "slug": "harbour-fire",
+    "period": 2,
+    "start": -5,
+    "end": -5,
+    "type": "major",
+    "size": "small",
+    "title": {
+      "en": "Harbour Fire",
+      "de": "Hafenbrand"
+    }
+  }
+]

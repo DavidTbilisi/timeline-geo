@@ -1,0 +1,37 @@
+{
+  "slug": "founders-arrive",
+  "id": 1,
+  "period": 1,
+  "title": {
+    "en": "Founders arrive",
+    "de": "Die Gründer kommen an"
+  },
+  "dates": {
+    "en": "300 BC",
+    "de": "300 v. Chr."
+  },
+  "description": {
+    "en": "Twelve families cross the pass and settle by the river.",
+    "de": "Zwölf Familien überqueren den Pass und siedeln am Fluss."
+  },
+  "article": {
+    "en": "The valley was empty but for deer and larks.<br><br>The founders chose the bend of the river for its shelter from the wind, and within a season had raised the first houses."
+  },
+  "related": [
+    {
+      "slug": "mira-the-mapmaker",
+      "title": {
+        "en": "Mira the Mapmaker",
+        "de": "Mira die Kartenmacherin"
+      }
+    }
+  ],
+  "images": [],
+  "videos": [],
+  "extensions": {
+    "notes": [
+      "This event is entirely fictional.",
+      "Notes come from a dataset plugin: see NotesTab.vue."
+    ]
+  }
+}

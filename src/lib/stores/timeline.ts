@@ -7,6 +7,7 @@ import { log } from '../utils/log'
 export const useTimelineStore = defineStore('timeline', () => {
   const config = useTimelineConfig()
   const { periods, layout } = config
+  const minPeriodWidth = Math.min(...periods.map(p => p.endPx - p.startPx))
 
   const scrollLeft = ref(0)
   const activePeriod = ref(periods[0]?.id ?? 1)
@@ -36,9 +37,13 @@ export const useTimelineStore = defineStore('timeline', () => {
 
   function setScroll(left: number) {
     scrollLeft.value = left
-    // Detect active period from scroll position; off-stage positions
-    // (e.g. during bounce) leave it unchanged.
-    const p = periodForPx(periods, left + (viewportWidth.value / 2) + layout.activePeriodOffset)
+    // Detect the active period from the scroll position. The probe sits at
+    // the viewport centre (plus the configured offset), clamped to the
+    // narrowest period so that a period narrower than half the viewport can
+    // still become active when scrolled to its start. Off-stage positions
+    // (e.g. during bounce) leave the active period unchanged.
+    const probe = Math.min(viewportWidth.value / 2 + layout.activePeriodOffset, Math.max(1, minPeriodWidth - 1))
+    const p = periodForPx(periods, left + probe)
     if (p && activePeriod.value !== p.id) activePeriod.value = p.id
   }
 
