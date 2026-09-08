@@ -1,6 +1,6 @@
 # Content schema
 
-Validate a content directory with `npx timeline-validate <contentDir> [detailsDir]` (see [publishing.md](./publishing.md#validating-content)); the same rules are published as JSON Schema under `timeline-geo/schema/*.schema.json`.
+Validate a content directory with `npx timeline-validate <contentDir> [detailsDir]` (see [publishing.md](./publishing.md#validating-content)); the same rules are published as JSON Schema under `@davidtbilisi/timeline-engine/schema/*.schema.json`.
 
 All text is a `LocalizedString`: an object keyed by locale code, e.g. `{ "en": "Adam", "ka": "ადამი" }`. Missing locales fall back along the configured chain.
 
@@ -81,7 +81,7 @@ Anything in `layout` overrides the engine's computed value for that field ([layo
 `extensions` is the home for dataset-specific data. Give it a type with module augmentation:
 
 ```ts
-declare module 'timeline-geo' {
+declare module '@davidtbilisi/timeline-engine' {
   interface DetailExtensions { notes: string[] }
 }
 ```

@@ -18,11 +18,11 @@ export default defineConfig({
   resolve: {
     alias: [
       {
-        find: 'timeline-geo/style.css',
+        find: '@davidtbilisi/timeline-engine/style.css',
         replacement: useDist ? resolve(repo, 'dist/style.css') : resolve(repo, 'src/lib/styles/lib.css'),
       },
       {
-        find: 'timeline-geo',
+        find: '@davidtbilisi/timeline-engine',
         replacement: useDist ? resolve(repo, 'dist/index.js') : resolve(repo, 'src/lib/index.ts'),
       },
     ],

@@ -1,6 +1,6 @@
-# timeline-geo
+# @davidtbilisi/timeline-engine
 
-A config-driven, horizontally scrolling timeline engine for Vue 3, and the site it was extracted from: a Bible timeline with English and Georgian (ქართული) UI.
+A config-driven, horizontally scrolling timeline engine for Vue 3, and the site it was extracted from: a Bible timeline with English and Georgian (ქართული) UI. Both live in the `timeline-geo` repository.
 
 - **Engine** (`src/lib`, published as the npm package): periods with their own scales laid end to end, events positioned and row-packed from years alone, localized content, pluggable detail tabs and landing panels, a theme driven by CSS variables. See [docs/getting-started.md](docs/getting-started.md).
 - **Bible app** (`src/app`, `content/`, `public/`): the first consumer, deployed to GitHub Pages. Never part of the package.
@@ -9,12 +9,12 @@ A config-driven, horizontally scrolling timeline engine for Vue 3, and the site 
 ## Using the engine
 
 ```bash
-npm install timeline-geo vue pinia vue-router vue-i18n
+npm install @davidtbilisi/timeline-engine vue pinia vue-router vue-i18n
 ```
 
 ```ts
-import { createTimeline, defineTimelineConfig, staticJsonLoaders } from 'timeline-geo'
-import 'timeline-geo/style.css'
+import { createTimeline, defineTimelineConfig, staticJsonLoaders } from '@davidtbilisi/timeline-engine'
+import '@davidtbilisi/timeline-engine/style.css'
 
 const timeline = createTimeline(defineTimelineConfig({
   id: 'my-timeline',
@@ -27,6 +27,12 @@ const timeline = createTimeline(defineTimelineConfig({
 ```
 
 Documentation: [getting started](docs/getting-started.md) · [config](docs/config.md) · [content schema](docs/content-schema.md) · [layout engine](docs/layout.md) · [plugins](docs/plugins.md) · [theming](docs/theming.md) · [routing](docs/routing.md) · [publishing](docs/publishing.md).
+
+## License
+
+The engine and everything else written for this repository are BSD-3-Clause; see [LICENSE](LICENSE).
+
+That covers the **code only**. The Bible dataset under `content/` and `public/data/`, and the artwork under `public/css/img/` and `public/media/`, were taken from timeline.biblehistory.com and are not the author's to license (issue #17). They are not part of the npm package: `files` ships `dist`, `bin`, `schema`, the README and the LICENSE, and nothing else. Anything you build on the engine needs its own content.
 
 ## Working on this repository
 

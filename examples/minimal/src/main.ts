@@ -11,8 +11,8 @@ import {
   type DetailTabPlugin,
   type Period,
   type Era,
-} from 'timeline-geo'
-import 'timeline-geo/style.css'
+} from '@davidtbilisi/timeline-engine'
+import '@davidtbilisi/timeline-engine/style.css'
 import App from './App.vue'
 import NotesTab from './NotesTab.vue'
 import periods from '../content/periods.json'
