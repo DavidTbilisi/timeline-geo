@@ -1,0 +1,11 @@
+[
+  { "id": 1, "slug": "settlement", "name": { "en": "Settlement", "de": "Besiedlung" },
+    "description": { "en": "The founders reach Lumen Valley and raise the first stone bridge.", "de": "Die Gründer erreichen das Lumen-Tal und errichten die erste Steinbrücke." },
+    "color": "#b5543a", "era": 1, "startYear": -300, "pxPerYear": 3 },
+  { "id": 2, "slug": "growth", "name": { "en": "Growth", "de": "Wachstum" },
+    "description": { "en": "Markets, aqueducts and a harbour turn the valley into a town.", "de": "Märkte, Aquädukte und ein Hafen machen aus dem Tal eine Stadt." },
+    "color": "#3a7fb5", "era": 1, "startYear": -100, "pxPerYear": 4 },
+  { "id": 3, "slug": "renewal", "name": { "en": "Renewal", "de": "Erneuerung" },
+    "description": { "en": "A new charter, an observatory and the poets of the Lantern Road.", "de": "Eine neue Charta, ein Observatorium und die Dichter der Laternenstraße." },
+    "color": "#4a9c5c", "era": 2, "startYear": 50, "pxPerYear": 8, "landingYear": 90 }
+]

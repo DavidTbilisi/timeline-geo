@@ -54,13 +54,13 @@ jobs:
       # index.html lets the Vue Router resolve deep links (e.g. /period/foo)
       # on hard reload.
       - name: Add SPA fallback
-        run: cp dist/index.html dist/404.html
+        run: cp dist-app/index.html dist-app/404.html
 
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: dist-app
 
   deploy:
     name: Deploy

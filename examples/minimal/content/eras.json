@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": { "en": "Founding Age", "de": "Gründungszeit" },
+    "description": { "en": "From the first settlers to the busy harbour town.", "de": "Von den ersten Siedlern bis zur geschäftigen Hafenstadt." }, "periods": [1, 2] },
+  { "id": 2, "name": { "en": "Modern Age", "de": "Neuzeit" },
+    "description": { "en": "The valley reinvents itself.", "de": "Das Tal erfindet sich neu." }, "periods": [3] }
+]
